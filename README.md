@@ -9,6 +9,12 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 # Problems by tags (INCOMPLETE!)
 
+## Advanced mathematics
+* [Best position for a service centre](Solutions/B/best-position-for-a-service-centre)
+
+## Array modification with index
+* [Best sightseeing pair](Solutions/B/best-sightseeing-pair)
+
 ## Array scanning into contiguous regions
 * [Arithmetic slices](Solutions/A/arithmetic-slices)
 
@@ -17,6 +23,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## Backtracking
 * [All paths from source to target](Solutions/A/all-paths-from-source-to-target)
+* [Beautiful arrangement](Solutions/B/beautiful-arrangement)
 
 ## Basic mathematics
 * [Angle between hands of a clock](Solutions/A/angle-between-hands-of-a-clock)
@@ -24,26 +31,45 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## Basic number theory
 * [Add digits](Solutions/A/add-digits)
 
+## Binary search
+* [Binary search](Solutions/B/binary-search)
+
 ## Binary search in a C++ set
 * [132 pattern](Solutions/0-9/132-pattern)
 
 ## Binary search tree traversal
 * [All elements in two binary search trees](Solutions/A/all-elements-in-two-binary-search-trees)
+* [Binary search tree iterator](Solutions/B/binary-search-tree-iterator)
 
 ## Binary tree recursion
 * [Add one row to tree](Solutions/A/add-one-row-to-tree)
 * [Average of levels in binary tree](Solutions/A/average-of-levels-in-binary-tree)
 * [Balanced binary tree](Solutions/B/balanced-binary-tree)
+* [Binary tree cameras](Solutions/B/binary-tree-cameras)
+* [Binary tree level order traversal](Solutions/B/binary-tree-level-order-traversal)
+* [Binary tree level order traversal ii](Solutions/B/binary-tree-level-order-traversal-ii)
+* [Binary tree maximum path sum](Solutions/B/binary-tree-maximum-path-sum)
+* [Binary tree pruning](Solutions/B/binary-tree-pruning)
+* [Binary tree right side view](Solutions/B/binary-tree-right-side-view)
+* [Binary tree tilt](Solutions/B/binary-tree-tilt)
+* [Binary tree zigzag level order traversal](Solutions/B/binary-tree-zigzag-level-order-traversal)
 
-## Breadth First Search
-* [01 matrix](Solutions/0-9/01-matrix)
+## Bitwise operation
+* [Binary watch](Solutions/B/binary-watch)
+* [Bitwise and of numbers range](Solutions/B/bitwise-and-of-numbers-range)
 
 ## Breadth first search
+* [01 matrix](Solutions/0-9/01-matrix)
 * [Amount of time for binary tree to be infected](Solutions/A/amount-of-time-for-binary-tree-to-be-infected)
 
 ## Combinatorics
 * [3sum with multiplicity](Solutions/0-9/3sum-with-multiplicity)
 * [Arithmetic slices ii subsequence](Solutions/A/arithmetic-slices-ii-subsequence)
+* [Binary trees with factors](Solutions/B/binary-trees-with-factors)
+
+## Construction
+* [Beautiful arrangement ii](Solutions/B/beautiful-arrangement-ii)
+* [Beautiful array](Solutions/B/beautiful-array)
 
 ## Counting elements in array
 * [3sum with multiplicity](Solutions/0-9/3sum-with-multiplicity)
@@ -63,16 +89,32 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## Dynamic programming
 * [Arithmetic slices ii subsequence](Solutions/A/arithmetic-slices-ii-subsequence)
+* [Best time to buy and sell stock iii](Solutions/B/best-time-to-buy-and-sell-stock-iii)
+* [Best time to buy and sell stock with cooldown](Solutions/B/best-time-to-buy-and-sell-stock-with-cooldown)
+* [Binary trees with factors](Solutions/B/binary-trees-with-factors)
+
+## Dynamic programming with auxiliary array
+* [Best time to buy and sell stock iv](Solutions/B/best-time-to-buy-and-sell-stock-iv)
+* [Best time to buy and sell stock with transaction fee](Solutions/B/best-time-to-buy-and-sell-stock-with-transaction-fee)
+
+## Formatted output
+* [Binary watch](Solutions/B/binary-watch)
 
 ## Fraud
 * [Add strings](Solutions/A/add-strings)
 
+## Geometric median
+* [Best position for a service centre](Solutions/B/best-position-for-a-service-centre)
+
 ## Greedy
 * [Advantage shuffle](Solutions/A/advantage-shuffle)
 * [Bag of tokens](Solutions/B/bag-of-tokens)
+* [Best time to buy and sell stock ii](Solutions/B/best-time-to-buy-and-sell-stock-ii)
+* [Boats to save people](Solutions/B/boats-to-save-people)
 
 ## Hashmap
 * [Array of doubled pairs](Solutions/A/array-of-doubled-pairs)
+* [Brick wall](Solutions/B/brick-wall)
 
 ## Integer operations on strings
 * [Add binary](Solutions/A/add-binary)
@@ -87,24 +129,47 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [4sum](Solutions/0-9/4sum)
 * [4sum ii](Solutions/0-9/4sum-ii)
 
+## Palindrome
+* [Break a palindrome](Solutions/B/break-a-palindrome)
+
 ## Permutation cycle
 * [Array nesting](Solutions/A/array-nesting)
 
-## Prefix Extremum
+## Prefix extremum
 * [132 pattern](Solutions/0-9/132-pattern)
+* [Best sightseeing pair](Solutions/B/best-sightseeing-pair)
+* [Best time to buy and sell stock](Solutions/B/best-time-to-buy-and-sell-stock)
+* [Best time to buy and sell stock iii](Solutions/B/best-time-to-buy-and-sell-stock-iii)
 
 ## Processing in reverse
 * [Backspace string compare](Solutions/B/backspace-string-compare)
 
+## Scanning from both ends of array
+* [Best time to buy and sell stock iii](Solutions/B/best-time-to-buy-and-sell-stock-iii)
+
 ## Simple implementation
 * [Arranging coins](Solutions/A/arranging-coins)
+* [Best poker hand](Solutions/B/best-poker-hand)
 
 ## Sliding window
 * [3sum](Solutions/0-9/3sum)
 * [3sum closest](Solutions/0-9/3sum-closest)
+* [Binary trees with factors](Solutions/B/binary-trees-with-factors)
+
+## Stack
+* [Binary search tree iterator](Solutions/B/binary-search-tree-iterator)
+
+## Stack for numerical operations
+* [Baseball game](Solutions/B/baseball-game)
+* [Basic calculator](Solutions/B/basic-calculator)
+* [Basic calculator ii](Solutions/B/basic-calculator-ii)
 
 ## Stack from array elements
 * [Asteroid collision](Solutions/A/asteroid-collision)
+
+## String parsing
+* [Basic calculator](Solutions/B/basic-calculator)
+* [Basic calculator ii](Solutions/B/basic-calculator-ii)
 
 ## String validation
 * [Ambiguous coordinates](Solutions/A/ambiguous-coordinates)
@@ -113,37 +178,6 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Amount of time for binary tree to be infected](Solutions/A/amount-of-time-for-binary-tree-to-be-infected)
 
 ## Untagged
-* [Baseball game](Solutions/B/baseball-game)
-* [Basic calculator](Solutions/B/basic-calculator)
-* [Basic calculator ii](Solutions/B/basic-calculator-ii)
-* [Beautiful arrangement](Solutions/B/beautiful-arrangement)
-* [Beautiful arrangement ii](Solutions/B/beautiful-arrangement-ii)
-* [Beautiful array](Solutions/B/beautiful-array)
-* [Best poker hand](Solutions/B/best-poker-hand)
-* [Best position for a service centre](Solutions/B/best-position-for-a-service-centre)
-* [Best sightseeing pair](Solutions/B/best-sightseeing-pair)
-* [Best time to buy and sell stock](Solutions/B/best-time-to-buy-and-sell-stock)
-* [Best time to buy and sell stock ii](Solutions/B/best-time-to-buy-and-sell-stock-ii)
-* [Best time to buy and sell stock iii](Solutions/B/best-time-to-buy-and-sell-stock-iii)
-* [Best time to buy and sell stock iv](Solutions/B/best-time-to-buy-and-sell-stock-iv)
-* [Best time to buy and sell stock with cooldown](Solutions/B/best-time-to-buy-and-sell-stock-with-cooldown)
-* [Best time to buy and sell stock with transaction fee](Solutions/B/best-time-to-buy-and-sell-stock-with-transaction-fee)
-* [Binary search](Solutions/B/binary-search)
-* [Binary search tree iterator](Solutions/B/binary-search-tree-iterator)
-* [Binary tree cameras](Solutions/B/binary-tree-cameras)
-* [Binary tree level order traversal](Solutions/B/binary-tree-level-order-traversal)
-* [Binary tree level order traversal ii](Solutions/B/binary-tree-level-order-traversal-ii)
-* [Binary tree maximum path sum](Solutions/B/binary-tree-maximum-path-sum)
-* [Binary tree pruning](Solutions/B/binary-tree-pruning)
-* [Binary tree right side view](Solutions/B/binary-tree-right-side-view)
-* [Binary tree tilt](Solutions/B/binary-tree-tilt)
-* [Binary tree zigzag level order traversal](Solutions/B/binary-tree-zigzag-level-order-traversal)
-* [Binary trees with factors](Solutions/B/binary-trees-with-factors)
-* [Binary watch](Solutions/B/binary-watch)
-* [Bitwise and of numbers range](Solutions/B/bitwise-and-of-numbers-range)
-* [Boats to save people](Solutions/B/boats-to-save-people)
-* [Break a palindrome](Solutions/B/break-a-palindrome)
-* [Brick wall](Solutions/B/brick-wall)
 * [Broken calculator](Solutions/B/broken-calculator)
 * [Buddy strings](Solutions/B/buddy-strings)
 * [Build array from permutation](Solutions/B/build-array-from-permutation)
