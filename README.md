@@ -7,7 +7,7 @@ My solutions to Leetcode Problems
 
 Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/world177/Leetcode-Downloader-for-Submissions) for bulk download.
 
-# Problems by tags
+# Problems by tags (INCOMPLETE!)
 
 ## Array scanning into contiguous regions
 * [Arithmetic slices](Solutions/A/arithmetic-slices)

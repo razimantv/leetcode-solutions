@@ -32,7 +32,7 @@ int main() {
     }
   }
 
-  std::cout << "\n# Problems by tags\n";
+  std::cout << "\n# Problems by tags (INCOMPLETE!)\n";
   for (auto& [tag, problemlist] : tagmap) {
     if (tag == "Untagged") continue;
     std::cout << "\n## " << tag << "\n";
