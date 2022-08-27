@@ -12,6 +12,7 @@ Binary tree recursion
 Bitwise operation
 Breadth first search
 Combinatorics
+Concurrency
 Construction
 Counting elements in array
 Custom sorting
@@ -19,20 +20,33 @@ Depth fist search
 Directed acyclic graph
 Disjoint set union
 Dynamic programming
+Dynamic programming over digits
+Dynamic programming with array reuse
 Dynamic programming with auxiliary array
+Dynamic programming with memoised recursion
+Dynamic programming with subsets
 Formatted output
 Fraud
 Geometric median
+Geometry
 Greedy
 Hashmap
 Integer operations on strings
+Interval endpoint sorting
+Knapsack
 Linked list iteration
 Meet in the middle
+Modular exponentiation
 Palindrome
 Permutation cycle
+Permutation inversion
+Pointers
 Prefix extremum
+Prefix sum
+Prime sieving
 Processing in reverse
 Scanning from both ends of array
+Segment tree
 Simple implementation
 Sliding window
 Stack
@@ -40,4 +54,7 @@ Stack for numerical operations
 Stack from array elements
 String parsing
 String validation
+Suboptimal solution
+Time reversed simulation
+Tree order traversal
 Tree rerooting

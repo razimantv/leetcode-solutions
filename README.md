@@ -17,6 +17,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## Array scanning into contiguous regions
 * [Arithmetic slices](Solutions/A/arithmetic-slices)
+* [Check if all 1s are at least length k places away](Solutions/C/check-if-all-1s-are-at-least-length-k-places-away)
+* [Consecutive characters](Solutions/C/consecutive-characters)
+* [Count binary substrings](Solutions/C/count-binary-substrings)
 
 ## Averaging from total and count
 * [Average of levels in binary tree](Solutions/A/average-of-levels-in-binary-tree)
@@ -24,22 +27,31 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## Backtracking
 * [All paths from source to target](Solutions/A/all-paths-from-source-to-target)
 * [Beautiful arrangement](Solutions/B/beautiful-arrangement)
+* [Combination sum](Solutions/C/combination-sum)
+* [Combination sum iii](Solutions/C/combination-sum-iii)
 
 ## Basic mathematics
 * [Angle between hands of a clock](Solutions/A/angle-between-hands-of-a-clock)
 
 ## Basic number theory
 * [Add digits](Solutions/A/add-digits)
+* [Check if it is a good array](Solutions/C/check-if-it-is-a-good-array)
 
 ## Binary search
 * [Binary search](Solutions/B/binary-search)
+* [Construct binary search tree from preorder traversal](Solutions/C/construct-binary-search-tree-from-preorder-traversal)
 
 ## Binary search in a C++ set
 * [132 pattern](Solutions/0-9/132-pattern)
+* [Closest room](Solutions/C/closest-room)
+* [Contains duplicate iii](Solutions/C/contains-duplicate-iii)
+* [Count of range sum](Solutions/C/count-of-range-sum)
 
 ## Binary search tree traversal
 * [All elements in two binary search trees](Solutions/A/all-elements-in-two-binary-search-trees)
 * [Binary search tree iterator](Solutions/B/binary-search-tree-iterator)
+* [Construct binary search tree from preorder traversal](Solutions/C/construct-binary-search-tree-from-preorder-traversal)
+* [Convert bst to greater tree](Solutions/C/convert-bst-to-greater-tree)
 
 ## Binary tree recursion
 * [Add one row to tree](Solutions/A/add-one-row-to-tree)
@@ -53,19 +65,44 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Binary tree right side view](Solutions/B/binary-tree-right-side-view)
 * [Binary tree tilt](Solutions/B/binary-tree-tilt)
 * [Binary tree zigzag level order traversal](Solutions/B/binary-tree-zigzag-level-order-traversal)
+* [Check if a string is a valid sequence from root to leaves path in a binary tree](Solutions/C/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree)
+* [Construct binary search tree from preorder traversal](Solutions/C/construct-binary-search-tree-from-preorder-traversal)
+* [Construct binary tree from inorder and postorder traversal](Solutions/C/construct-binary-tree-from-inorder-and-postorder-traversal)
+* [Construct binary tree from preorder and inorder traversal](Solutions/C/construct-binary-tree-from-preorder-and-inorder-traversal)
+* [Convert bst to greater tree](Solutions/C/convert-bst-to-greater-tree)
+* [Convert sorted array to binary search tree](Solutions/C/convert-sorted-array-to-binary-search-tree)
+* [Convert sorted list to binary search tree](Solutions/C/convert-sorted-list-to-binary-search-tree)
+* [Count good nodes in binary tree](Solutions/C/count-good-nodes-in-binary-tree)
 
 ## Bitwise operation
 * [Binary watch](Solutions/B/binary-watch)
 * [Bitwise and of numbers range](Solutions/B/bitwise-and-of-numbers-range)
+* [Check if a string contains all binary codes of size k](Solutions/C/check-if-a-string-contains-all-binary-codes-of-size-k)
+* [Cinema seat allocation](Solutions/C/cinema-seat-allocation)
+* [Complement of base 10 integer](Solutions/C/complement-of-base-10-integer)
+* [Concatenation of consecutive binary numbers](Solutions/C/concatenation-of-consecutive-binary-numbers)
+* [Count pairs with xor in a range](Solutions/C/count-pairs-with-xor-in-a-range)
 
 ## Breadth first search
 * [01 matrix](Solutions/0-9/01-matrix)
 * [Amount of time for binary tree to be infected](Solutions/A/amount-of-time-for-binary-tree-to-be-infected)
+* [Bus routes](Solutions/B/bus-routes)
 
 ## Combinatorics
 * [3sum with multiplicity](Solutions/0-9/3sum-with-multiplicity)
 * [Arithmetic slices ii subsequence](Solutions/A/arithmetic-slices-ii-subsequence)
 * [Binary trees with factors](Solutions/B/binary-trees-with-factors)
+* [Count all valid pickup and delivery options](Solutions/C/count-all-valid-pickup-and-delivery-options)
+* [Count good numbers](Solutions/C/count-good-numbers)
+* [Count nice pairs in an array](Solutions/C/count-nice-pairs-in-an-array)
+* [Count number of bad pairs](Solutions/C/count-number-of-bad-pairs)
+* [Count number of ways to place houses](Solutions/C/count-number-of-ways-to-place-houses)
+* [Count pairs of nodes](Solutions/C/count-pairs-of-nodes)
+* [Count sorted vowel strings](Solutions/C/count-sorted-vowel-strings)
+* [Count special integers](Solutions/C/count-special-integers)
+
+## Concurrency
+* [Building h2o](Solutions/B/building-h2o)
 
 ## Construction
 * [Beautiful arrangement ii](Solutions/B/beautiful-arrangement-ii)
@@ -77,6 +114,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## Custom sorting
 * [Advantage shuffle](Solutions/A/advantage-shuffle)
 * [Array of doubled pairs](Solutions/A/array-of-doubled-pairs)
+* [Closest room](Solutions/C/closest-room)
+* [Container with most water](Solutions/C/container-with-most-water)
 
 ## Depth fist search
 * [Amount of time for binary tree to be infected](Solutions/A/amount-of-time-for-binary-tree-to-be-infected)
@@ -92,42 +131,87 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Best time to buy and sell stock iii](Solutions/B/best-time-to-buy-and-sell-stock-iii)
 * [Best time to buy and sell stock with cooldown](Solutions/B/best-time-to-buy-and-sell-stock-with-cooldown)
 * [Binary trees with factors](Solutions/B/binary-trees-with-factors)
+* [Burst balloons](Solutions/B/burst-balloons)
+* [Cheapest flights within k stops](Solutions/C/cheapest-flights-within-k-stops)
+* [Check if there is a valid partition for the array](Solutions/C/check-if-there-is-a-valid-partition-for-the-array)
+* [Climbing stairs](Solutions/C/climbing-stairs)
+* [Count number of ways to place houses](Solutions/C/count-number-of-ways-to-place-houses)
+* [Count square submatrices with all ones](Solutions/C/count-square-submatrices-with-all-ones)
+
+## Dynamic programming over digits
+* [Count special integers](Solutions/C/count-special-integers)
+
+## Dynamic programming with array reuse
+* [Champagne tower](Solutions/C/champagne-tower)
+* [Cherry pickup ii](Solutions/C/cherry-pickup-ii)
+* [Coin change](Solutions/C/coin-change)
+* [Coin change 2](Solutions/C/coin-change-2)
 
 ## Dynamic programming with auxiliary array
 * [Best time to buy and sell stock iv](Solutions/B/best-time-to-buy-and-sell-stock-iv)
 * [Best time to buy and sell stock with transaction fee](Solutions/B/best-time-to-buy-and-sell-stock-with-transaction-fee)
+
+## Dynamic programming with memoised recursion
+* [Combination sum iv](Solutions/C/combination-sum-iv)
+
+## Dynamic programming with subsets
+* [Construct smallest number from di string](Solutions/C/construct-smallest-number-from-di-string)
 
 ## Formatted output
 * [Binary watch](Solutions/B/binary-watch)
 
 ## Fraud
 * [Add strings](Solutions/A/add-strings)
+* [Count complete tree nodes](Solutions/C/count-complete-tree-nodes)
 
 ## Geometric median
 * [Best position for a service centre](Solutions/B/best-position-for-a-service-centre)
+
+## Geometry
+* [Check if it is a straight line](Solutions/C/check-if-it-is-a-straight-line)
 
 ## Greedy
 * [Advantage shuffle](Solutions/A/advantage-shuffle)
 * [Bag of tokens](Solutions/B/bag-of-tokens)
 * [Best time to buy and sell stock ii](Solutions/B/best-time-to-buy-and-sell-stock-ii)
 * [Boats to save people](Solutions/B/boats-to-save-people)
+* [Candy](Solutions/C/candy)
 
 ## Hashmap
 * [Array of doubled pairs](Solutions/A/array-of-doubled-pairs)
 * [Brick wall](Solutions/B/brick-wall)
+* [Check array formation through concatenation](Solutions/C/check-array-formation-through-concatenation)
+* [Cinema seat allocation](Solutions/C/cinema-seat-allocation)
+* [Clone graph](Solutions/C/clone-graph)
+* [Contiguous array](Solutions/C/contiguous-array)
+* [Count number of bad pairs](Solutions/C/count-number-of-bad-pairs)
 
 ## Integer operations on strings
 * [Add binary](Solutions/A/add-binary)
 * [Add two numbers](Solutions/A/add-two-numbers)
 * [Add two numbers ii](Solutions/A/add-two-numbers-ii)
+* [Complex number multiplication](Solutions/C/complex-number-multiplication)
+
+## Interval endpoint sorting
+* [Car pooling](Solutions/C/car-pooling)
+
+## Knapsack
+* [Coin change](Solutions/C/coin-change)
+* [Coin change 2](Solutions/C/coin-change-2)
 
 ## Linked list iteration
 * [Add two numbers](Solutions/A/add-two-numbers)
 * [Add two numbers ii](Solutions/A/add-two-numbers-ii)
+* [Convert binary number in a linked list to integer](Solutions/C/convert-binary-number-in-a-linked-list-to-integer)
+* [Convert sorted list to binary search tree](Solutions/C/convert-sorted-list-to-binary-search-tree)
+* [Copy list with random pointer](Solutions/C/copy-list-with-random-pointer)
 
 ## Meet in the middle
 * [4sum](Solutions/0-9/4sum)
 * [4sum ii](Solutions/0-9/4sum-ii)
+
+## Modular exponentiation
+* [Count good numbers](Solutions/C/count-good-numbers)
 
 ## Palindrome
 * [Break a palindrome](Solutions/B/break-a-palindrome)
@@ -135,26 +219,58 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## Permutation cycle
 * [Array nesting](Solutions/A/array-nesting)
 
+## Permutation inversion
+* [Build array from permutation](Solutions/B/build-array-from-permutation)
+
+## Pointers
+* [Clone graph](Solutions/C/clone-graph)
+* [Copy list with random pointer](Solutions/C/copy-list-with-random-pointer)
+
 ## Prefix extremum
 * [132 pattern](Solutions/0-9/132-pattern)
 * [Best sightseeing pair](Solutions/B/best-sightseeing-pair)
 * [Best time to buy and sell stock](Solutions/B/best-time-to-buy-and-sell-stock)
 * [Best time to buy and sell stock iii](Solutions/B/best-time-to-buy-and-sell-stock-iii)
 
+## Prefix sum
+* [Contiguous array](Solutions/C/contiguous-array)
+
+## Prime sieving
+* [Count primes](Solutions/C/count-primes)
+
 ## Processing in reverse
 * [Backspace string compare](Solutions/B/backspace-string-compare)
 
 ## Scanning from both ends of array
 * [Best time to buy and sell stock iii](Solutions/B/best-time-to-buy-and-sell-stock-iii)
+* [Candy](Solutions/C/candy)
+
+## Segment tree
+* [Count of range sum](Solutions/C/count-of-range-sum)
+* [Count of smaller numbers after self](Solutions/C/count-of-smaller-numbers-after-self)
+* [Count pairs with xor in a range](Solutions/C/count-pairs-with-xor-in-a-range)
 
 ## Simple implementation
 * [Arranging coins](Solutions/A/arranging-coins)
 * [Best poker hand](Solutions/B/best-poker-hand)
+* [Bulls and cows](Solutions/B/bulls-and-cows)
+* [Calculate amount paid in taxes](Solutions/C/calculate-amount-paid-in-taxes)
+* [Can place flowers](Solutions/C/can-place-flowers)
+* [Check if a string contains all binary codes of size k](Solutions/C/check-if-a-string-contains-all-binary-codes-of-size-k)
+* [Check if all the integers in a range are covered](Solutions/C/check-if-all-the-integers-in-a-range-are-covered)
+* [Check if matrix is x matrix](Solutions/C/check-if-matrix-is-x-matrix)
+* [Check if number is a sum of powers of three](Solutions/C/check-if-number-is-a-sum-of-powers-of-three)
+* [Check if the sentence is pangram](Solutions/C/check-if-the-sentence-is-pangram)
+* [Check if two string arrays are equivalent](Solutions/C/check-if-two-string-arrays-are-equivalent)
+* [Check if word equals summation of two words](Solutions/C/check-if-word-equals-summation-of-two-words)
+* [Count and say](Solutions/C/count-and-say)
+* [Count asterisks](Solutions/C/count-asterisks)
 
 ## Sliding window
 * [3sum](Solutions/0-9/3sum)
 * [3sum closest](Solutions/0-9/3sum-closest)
 * [Binary trees with factors](Solutions/B/binary-trees-with-factors)
+* [Count pairs of nodes](Solutions/C/count-pairs-of-nodes)
 
 ## Stack
 * [Binary search tree iterator](Solutions/B/binary-search-tree-iterator)
@@ -170,9 +286,22 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## String parsing
 * [Basic calculator](Solutions/B/basic-calculator)
 * [Basic calculator ii](Solutions/B/basic-calculator-ii)
+* [Compare version numbers](Solutions/C/compare-version-numbers)
+* [Complex number multiplication](Solutions/C/complex-number-multiplication)
 
 ## String validation
 * [Ambiguous coordinates](Solutions/A/ambiguous-coordinates)
+
+## Suboptimal solution
+* [Check if all the integers in a range are covered](Solutions/C/check-if-all-the-integers-in-a-range-are-covered)
+* [Check if two string arrays are equivalent](Solutions/C/check-if-two-string-arrays-are-equivalent)
+
+## Time reversed simulation
+* [Construct target array with multiple sums](Solutions/C/construct-target-array-with-multiple-sums)
+
+## Tree order traversal
+* [Construct binary tree from inorder and postorder traversal](Solutions/C/construct-binary-tree-from-inorder-and-postorder-traversal)
+* [Construct binary tree from preorder and inorder traversal](Solutions/C/construct-binary-tree-from-preorder-and-inorder-traversal)
 
 ## Tree rerooting
 * [Amount of time for binary tree to be infected](Solutions/A/amount-of-time-for-binary-tree-to-be-infected)
@@ -180,76 +309,6 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## Untagged
 * [Broken calculator](Solutions/B/broken-calculator)
 * [Buddy strings](Solutions/B/buddy-strings)
-* [Build array from permutation](Solutions/B/build-array-from-permutation)
-* [Building h2o](Solutions/B/building-h2o)
-* [Bulls and cows](Solutions/B/bulls-and-cows)
-* [Burst balloons](Solutions/B/burst-balloons)
-* [Bus routes](Solutions/B/bus-routes)
-* [Calculate amount paid in taxes](Solutions/C/calculate-amount-paid-in-taxes)
-* [Can place flowers](Solutions/C/can-place-flowers)
-* [Candy](Solutions/C/candy)
-* [Car pooling](Solutions/C/car-pooling)
-* [Champagne tower](Solutions/C/champagne-tower)
-* [Cheapest flights within k stops](Solutions/C/cheapest-flights-within-k-stops)
-* [Check array formation through concatenation](Solutions/C/check-array-formation-through-concatenation)
-* [Check if a string contains all binary codes of size k](Solutions/C/check-if-a-string-contains-all-binary-codes-of-size-k)
-* [Check if a string is a valid sequence from root to leaves path in a binary tree](Solutions/C/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree)
-* [Check if all 1s are at least length k places away](Solutions/C/check-if-all-1s-are-at-least-length-k-places-away)
-* [Check if all the integers in a range are covered](Solutions/C/check-if-all-the-integers-in-a-range-are-covered)
-* [Check if it is a good array](Solutions/C/check-if-it-is-a-good-array)
-* [Check if it is a straight line](Solutions/C/check-if-it-is-a-straight-line)
-* [Check if matrix is x matrix](Solutions/C/check-if-matrix-is-x-matrix)
-* [Check if number is a sum of powers of three](Solutions/C/check-if-number-is-a-sum-of-powers-of-three)
-* [Check if the sentence is pangram](Solutions/C/check-if-the-sentence-is-pangram)
-* [Check if there is a valid partition for the array](Solutions/C/check-if-there-is-a-valid-partition-for-the-array)
-* [Check if two string arrays are equivalent](Solutions/C/check-if-two-string-arrays-are-equivalent)
-* [Check if word equals summation of two words](Solutions/C/check-if-word-equals-summation-of-two-words)
-* [Cherry pickup ii](Solutions/C/cherry-pickup-ii)
-* [Cinema seat allocation](Solutions/C/cinema-seat-allocation)
-* [Climbing stairs](Solutions/C/climbing-stairs)
-* [Clone graph](Solutions/C/clone-graph)
-* [Closest room](Solutions/C/closest-room)
-* [Coin change](Solutions/C/coin-change)
-* [Coin change 2](Solutions/C/coin-change-2)
-* [Combination sum](Solutions/C/combination-sum)
-* [Combination sum iii](Solutions/C/combination-sum-iii)
-* [Combination sum iv](Solutions/C/combination-sum-iv)
-* [Compare version numbers](Solutions/C/compare-version-numbers)
-* [Complement of base 10 integer](Solutions/C/complement-of-base-10-integer)
-* [Complex number multiplication](Solutions/C/complex-number-multiplication)
-* [Concatenation of consecutive binary numbers](Solutions/C/concatenation-of-consecutive-binary-numbers)
-* [Consecutive characters](Solutions/C/consecutive-characters)
-* [Construct binary search tree from preorder traversal](Solutions/C/construct-binary-search-tree-from-preorder-traversal)
-* [Construct binary tree from inorder and postorder traversal](Solutions/C/construct-binary-tree-from-inorder-and-postorder-traversal)
-* [Construct binary tree from preorder and inorder traversal](Solutions/C/construct-binary-tree-from-preorder-and-inorder-traversal)
-* [Construct smallest number from di string](Solutions/C/construct-smallest-number-from-di-string)
-* [Construct target array with multiple sums](Solutions/C/construct-target-array-with-multiple-sums)
-* [Container with most water](Solutions/C/container-with-most-water)
-* [Contains duplicate iii](Solutions/C/contains-duplicate-iii)
-* [Contiguous array](Solutions/C/contiguous-array)
-* [Convert binary number in a linked list to integer](Solutions/C/convert-binary-number-in-a-linked-list-to-integer)
-* [Convert bst to greater tree](Solutions/C/convert-bst-to-greater-tree)
-* [Convert sorted array to binary search tree](Solutions/C/convert-sorted-array-to-binary-search-tree)
-* [Convert sorted list to binary search tree](Solutions/C/convert-sorted-list-to-binary-search-tree)
-* [Copy list with random pointer](Solutions/C/copy-list-with-random-pointer)
-* [Count all valid pickup and delivery options](Solutions/C/count-all-valid-pickup-and-delivery-options)
-* [Count and say](Solutions/C/count-and-say)
-* [Count asterisks](Solutions/C/count-asterisks)
-* [Count binary substrings](Solutions/C/count-binary-substrings)
-* [Count complete tree nodes](Solutions/C/count-complete-tree-nodes)
-* [Count good nodes in binary tree](Solutions/C/count-good-nodes-in-binary-tree)
-* [Count good numbers](Solutions/C/count-good-numbers)
-* [Count nice pairs in an array](Solutions/C/count-nice-pairs-in-an-array)
-* [Count number of bad pairs](Solutions/C/count-number-of-bad-pairs)
-* [Count number of ways to place houses](Solutions/C/count-number-of-ways-to-place-houses)
-* [Count of range sum](Solutions/C/count-of-range-sum)
-* [Count of smaller numbers after self](Solutions/C/count-of-smaller-numbers-after-self)
-* [Count pairs of nodes](Solutions/C/count-pairs-of-nodes)
-* [Count pairs with xor in a range](Solutions/C/count-pairs-with-xor-in-a-range)
-* [Count primes](Solutions/C/count-primes)
-* [Count sorted vowel strings](Solutions/C/count-sorted-vowel-strings)
-* [Count special integers](Solutions/C/count-special-integers)
-* [Count square submatrices with all ones](Solutions/C/count-square-submatrices-with-all-ones)
 * [Count sub islands](Solutions/C/count-sub-islands)
 * [Count subarrays with score less than k](Solutions/C/count-subarrays-with-score-less-than-k)
 * [Count the number of ideal arrays](Solutions/C/count-the-number-of-ideal-arrays)
