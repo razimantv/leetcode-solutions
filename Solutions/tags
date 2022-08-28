@@ -10,12 +10,14 @@ Binary search
 Binary search>C++ set
 Binary search>Prefix sum
 Bitwise operation
+Brute force enumeration with combinatorics
 Concurrency
 Construction
 Counting elements in array
 Custom sorting
 Design data structure
 Disjoint set union
+Duplicate finding with bizarro algorithms
 Dynamic programming
 Dynamic programming>Array reuse
 Dynamic programming>Auxiliary array
@@ -41,11 +43,13 @@ Greedy
 Hashmap
 Hashmap>Coordinate compression
 Integer operations on strings
-Interval endpoint sorting
+Intervals>Endpoint sorting
+Intervals>Non-overlapping decomposition
 Linked list iteration
 Mathematics>Advanced
 Mathematics>Basic
 Mathematics>Combinatorics
+Mathematics>Composition of operations
 Mathematics>Geometry
 Mathematics>Geometry>Convex hull
 Mathematics>Geometry>Geometric median
