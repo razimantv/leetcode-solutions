@@ -40,6 +40,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## Binary search
 * [Binary search](Solutions/B/binary-search)
 * [Construct binary search tree from preorder traversal](Solutions/C/construct-binary-search-tree-from-preorder-traversal)
+* [Longest subsequence with limited sum](Solutions/L/longest-subsequence-with-limited-sum)
 
 ## Binary search in a C++ set
 * [132 pattern](Solutions/0-9/132-pattern)
@@ -176,6 +177,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Best time to buy and sell stock ii](Solutions/B/best-time-to-buy-and-sell-stock-ii)
 * [Boats to save people](Solutions/B/boats-to-save-people)
 * [Candy](Solutions/C/candy)
+* [Longest subsequence with limited sum](Solutions/L/longest-subsequence-with-limited-sum)
 
 ## Hashmap
 * [Array of doubled pairs](Solutions/A/array-of-doubled-pairs)
@@ -185,6 +187,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Clone graph](Solutions/C/clone-graph)
 * [Contiguous array](Solutions/C/contiguous-array)
 * [Count number of bad pairs](Solutions/C/count-number-of-bad-pairs)
+* [Minimum amount of time to collect garbage](Solutions/M/minimum-amount-of-time-to-collect-garbage)
 
 ## Integer operations on strings
 * [Add binary](Solutions/A/add-binary)
@@ -220,6 +223,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Array nesting](Solutions/A/array-nesting)
 
 ## Permutation inversion
+* [Build a matrix with conditions](Solutions/B/build-a-matrix-with-conditions)
 * [Build array from permutation](Solutions/B/build-array-from-permutation)
 
 ## Pointers
@@ -234,6 +238,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## Prefix sum
 * [Contiguous array](Solutions/C/contiguous-array)
+* [Longest subsequence with limited sum](Solutions/L/longest-subsequence-with-limited-sum)
+* [Minimum amount of time to collect garbage](Solutions/M/minimum-amount-of-time-to-collect-garbage)
 
 ## Prime sieving
 * [Count primes](Solutions/C/count-primes)
@@ -274,6 +280,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## Stack
 * [Binary search tree iterator](Solutions/B/binary-search-tree-iterator)
+* [Removing stars from a string](Solutions/R/removing-stars-from-a-string)
 
 ## Stack for numerical operations
 * [Baseball game](Solutions/B/baseball-game)
@@ -298,6 +305,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## Time reversed simulation
 * [Construct target array with multiple sums](Solutions/C/construct-target-array-with-multiple-sums)
+
+## Topological sort
+* [Build a matrix with conditions](Solutions/B/build-a-matrix-with-conditions)
 
 ## Tree order traversal
 * [Construct binary tree from inorder and postorder traversal](Solutions/C/construct-binary-tree-from-inorder-and-postorder-traversal)
