@@ -1,6 +1,7 @@
 Array modification with index
 Array scanning>Contiguous regions
 Array scanning>From both ends of array
+Array scanning>Location of previous element with same value
 Averaging from total and count
 Backtracking
 Binary search
@@ -17,11 +18,15 @@ Dynamic programming>Auxiliary array
 Dynamic programming>Digits
 Dynamic programming>Knapsack
 Dynamic programming>Memoised recursion
+Dynamic programming>Number theory
 Dynamic programming>Subsets
 Formatted output
 Fraud
 Graph theory>Breadth first search
+Graph theory>Bridges/Articulation points
 Graph theory>Depth first search
+Graph theory>Depth first search>Component decomposition
+Graph theory>Depth first search>Flood fill
 Graph theory>Directed acyclic graph
 Graph theory>Topological sort
 Greedy
@@ -35,7 +40,7 @@ Mathematics>Combinatorics
 Mathematics>Geometry
 Mathematics>Geometry>Geometric median
 Mathematics>Number theory>Basic
-Mathematics>Number theory>Modular exponentiation
+Mathematics>Number theory>Modular exponentiation/inverse
 Mathematics>Number theory>Prime sieving
 Meet in the middle
 Palindrome
@@ -58,3 +63,4 @@ Tree>Binary search tree>Traversal
 Tree>Binary tree>Recursion
 Tree>Order traversal
 Tree>Rerooting
+Unique elements in subarray

@@ -7,9 +7,9 @@ do
     echo "$line1 -> $line2"
     if [ -z ${subst+x} ]
     then
-      subst="s/^$line1\$/$line2/g"
+      subst="s!^$line1\$!$line2!g"
     else
-      subst=$subst";s/^$line1\$/$line2/g"
+      subst=$subst";s!^$line1\$!$line2!g"
     fi
   fi
 done < tags.before 3< tags.after

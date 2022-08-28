@@ -24,6 +24,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Best time to buy and sell stock iii](Solutions/B/best-time-to-buy-and-sell-stock-iii)
 * [Candy](Solutions/C/candy)
 
+### Location of previous element with same value
+* [Count unique characters of all substrings of a given string](Solutions/C/count-unique-characters-of-all-substrings-of-a-given-string)
+
 ## Averaging from total and count
 * [Average of levels in binary tree](Solutions/A/average-of-levels-in-binary-tree)
 
@@ -36,6 +39,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## Binary search
 * [Binary search](Solutions/B/binary-search)
 * [Construct binary search tree from preorder traversal](Solutions/C/construct-binary-search-tree-from-preorder-traversal)
+* [Count subarrays with score less than k](Solutions/C/count-subarrays-with-score-less-than-k)
 * [Longest subsequence with limited sum](Solutions/L/longest-subsequence-with-limited-sum)
 
 ### C++ set
@@ -52,6 +56,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Complement of base 10 integer](Solutions/C/complement-of-base-10-integer)
 * [Concatenation of consecutive binary numbers](Solutions/C/concatenation-of-consecutive-binary-numbers)
 * [Count pairs with xor in a range](Solutions/C/count-pairs-with-xor-in-a-range)
+* [Counting bits](Solutions/C/counting-bits)
 
 ## Concurrency
 * [Building h2o](Solutions/B/building-h2o)
@@ -68,6 +73,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Array of doubled pairs](Solutions/A/array-of-doubled-pairs)
 * [Closest room](Solutions/C/closest-room)
 * [Container with most water](Solutions/C/container-with-most-water)
+* [Course schedule iii](Solutions/C/course-schedule-iii)
+* [Custom sort string](Solutions/C/custom-sort-string)
 
 ## Disjoint set union
 * [Accounts merge](Solutions/A/accounts-merge)
@@ -83,6 +90,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Climbing stairs](Solutions/C/climbing-stairs)
 * [Count number of ways to place houses](Solutions/C/count-number-of-ways-to-place-houses)
 * [Count square submatrices with all ones](Solutions/C/count-square-submatrices-with-all-ones)
+* [Count unique characters of all substrings of a given string](Solutions/C/count-unique-characters-of-all-substrings-of-a-given-string)
+* [Count vowels permutation](Solutions/C/count-vowels-permutation)
 
 ### Array reuse
 * [Champagne tower](Solutions/C/champagne-tower)
@@ -104,6 +113,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### Memoised recursion
 * [Combination sum iv](Solutions/C/combination-sum-iv)
 
+### Number theory
+* [Count the number of ideal arrays](Solutions/C/count-the-number-of-ideal-arrays)
+
 ### Subsets
 * [Construct smallest number from di string](Solutions/C/construct-smallest-number-from-di-string)
 
@@ -121,14 +133,26 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Amount of time for binary tree to be infected](Solutions/A/amount-of-time-for-binary-tree-to-be-infected)
 * [Bus routes](Solutions/B/bus-routes)
 
+### Bridges/Articulation points
+* [Critical connections in a network](Solutions/C/critical-connections-in-a-network)
+
 ### Depth first search
 * [Amount of time for binary tree to be infected](Solutions/A/amount-of-time-for-binary-tree-to-be-infected)
+* [Critical connections in a network](Solutions/C/critical-connections-in-a-network)
+
+#### Component decomposition
+* [Count unreachable pairs of nodes in an undirected graph](Solutions/C/count-unreachable-pairs-of-nodes-in-an-undirected-graph)
+
+#### Flood fill
+* [Count sub islands](Solutions/C/count-sub-islands)
 
 ### Directed acyclic graph
 * [All paths from source to target](Solutions/A/all-paths-from-source-to-target)
 
 ### Topological sort
 * [Build a matrix with conditions](Solutions/B/build-a-matrix-with-conditions)
+* [Course schedule](Solutions/C/course-schedule)
+* [Course schedule ii](Solutions/C/course-schedule-ii)
 
 ## Greedy
 * [Advantage shuffle](Solutions/A/advantage-shuffle)
@@ -136,6 +160,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Best time to buy and sell stock ii](Solutions/B/best-time-to-buy-and-sell-stock-ii)
 * [Boats to save people](Solutions/B/boats-to-save-people)
 * [Candy](Solutions/C/candy)
+* [Course schedule iii](Solutions/C/course-schedule-iii)
 * [Longest subsequence with limited sum](Solutions/L/longest-subsequence-with-limited-sum)
 
 ## Hashmap
@@ -184,6 +209,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count pairs of nodes](Solutions/C/count-pairs-of-nodes)
 * [Count sorted vowel strings](Solutions/C/count-sorted-vowel-strings)
 * [Count special integers](Solutions/C/count-special-integers)
+* [Count the number of ideal arrays](Solutions/C/count-the-number-of-ideal-arrays)
+* [Count unreachable pairs of nodes in an undirected graph](Solutions/C/count-unreachable-pairs-of-nodes-in-an-undirected-graph)
 
 ### Geometry
 * [Check if it is a straight line](Solutions/C/check-if-it-is-a-straight-line)
@@ -197,11 +224,13 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Add digits](Solutions/A/add-digits)
 * [Check if it is a good array](Solutions/C/check-if-it-is-a-good-array)
 
-#### Modular exponentiation
+#### Modular exponentiation/inverse
 * [Count good numbers](Solutions/C/count-good-numbers)
+* [Count the number of ideal arrays](Solutions/C/count-the-number-of-ideal-arrays)
 
 #### Prime sieving
 * [Count primes](Solutions/C/count-primes)
+* [Count the number of ideal arrays](Solutions/C/count-the-number-of-ideal-arrays)
 
 ## Meet in the middle
 * [4sum](Solutions/0-9/4sum)
@@ -233,6 +262,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### Sum
 * [Contiguous array](Solutions/C/contiguous-array)
+* [Count subarrays with score less than k](Solutions/C/count-subarrays-with-score-less-than-k)
 * [Longest subsequence with limited sum](Solutions/L/longest-subsequence-with-limited-sum)
 * [Minimum amount of time to collect garbage](Solutions/M/minimum-amount-of-time-to-collect-garbage)
 
@@ -240,6 +270,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count of range sum](Solutions/C/count-of-range-sum)
 * [Count of smaller numbers after self](Solutions/C/count-of-smaller-numbers-after-self)
 * [Count pairs with xor in a range](Solutions/C/count-pairs-with-xor-in-a-range)
+* [Create sorted array through instructions](Solutions/C/create-sorted-array-through-instructions)
 
 ## Simple implementation
 * [Arranging coins](Solutions/A/arranging-coins)
@@ -289,6 +320,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## Suboptimal solution
 * [Check if all the integers in a range are covered](Solutions/C/check-if-all-the-integers-in-a-range-are-covered)
 * [Check if two string arrays are equivalent](Solutions/C/check-if-two-string-arrays-are-equivalent)
+* [Counting bits](Solutions/C/counting-bits)
 
 ## Time reversed simulation
 * [Backspace string compare](Solutions/B/backspace-string-compare)
@@ -326,6 +358,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Convert sorted array to binary search tree](Solutions/C/convert-sorted-array-to-binary-search-tree)
 * [Convert sorted list to binary search tree](Solutions/C/convert-sorted-list-to-binary-search-tree)
 * [Count good nodes in binary tree](Solutions/C/count-good-nodes-in-binary-tree)
+* [Cousins in binary tree](Solutions/C/cousins-in-binary-tree)
 
 ### Order traversal
 * [Construct binary tree from inorder and postorder traversal](Solutions/C/construct-binary-tree-from-inorder-and-postorder-traversal)
@@ -334,24 +367,13 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### Rerooting
 * [Amount of time for binary tree to be infected](Solutions/A/amount-of-time-for-binary-tree-to-be-infected)
 
+## Unique elements in subarray
+* [Count unique characters of all substrings of a given string](Solutions/C/count-unique-characters-of-all-substrings-of-a-given-string)
+
 ## Untagged
 * [Broken calculator](Solutions/B/broken-calculator)
 * [Buddy strings](Solutions/B/buddy-strings)
-* [Count sub islands](Solutions/C/count-sub-islands)
-* [Count subarrays with score less than k](Solutions/C/count-subarrays-with-score-less-than-k)
-* [Count the number of ideal arrays](Solutions/C/count-the-number-of-ideal-arrays)
-* [Count unique characters of all substrings of a given string](Solutions/C/count-unique-characters-of-all-substrings-of-a-given-string)
-* [Count unreachable pairs of nodes in an undirected graph](Solutions/C/count-unreachable-pairs-of-nodes-in-an-undirected-graph)
-* [Count vowels permutation](Solutions/C/count-vowels-permutation)
-* [Counting bits](Solutions/C/counting-bits)
 * [Counting elements](Solutions/C/counting-elements)
-* [Course schedule](Solutions/C/course-schedule)
-* [Course schedule ii](Solutions/C/course-schedule-ii)
-* [Course schedule iii](Solutions/C/course-schedule-iii)
-* [Cousins in binary tree](Solutions/C/cousins-in-binary-tree)
-* [Create sorted array through instructions](Solutions/C/create-sorted-array-through-instructions)
-* [Critical connections in a network](Solutions/C/critical-connections-in-a-network)
-* [Custom sort string](Solutions/C/custom-sort-string)
 * [Daily temperatures](Solutions/D/daily-temperatures)
 * [Decode string](Solutions/D/decode-string)
 * [Decode ways](Solutions/D/decode-ways)
