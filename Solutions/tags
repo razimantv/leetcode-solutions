@@ -1,7 +1,9 @@
-Array modification with index
 Array scanning>Contiguous regions
 Array scanning>From both ends of array
+Array scanning>In-place modification
 Array scanning>Location of previous element with same value
+Array scanning>Modify element with index
+Array scanning>Right to left
 Averaging from total and count
 Backtracking
 Binary search
@@ -12,7 +14,6 @@ Concurrency
 Construction
 Counting elements in array
 Custom sorting
-Data structure design
 Design data structure
 Disjoint set union
 Dynamic programming
@@ -26,6 +27,7 @@ Dynamic programming>Number theory
 Dynamic programming>Segment tree
 Dynamic programming>Subsets
 Dynamic programming>Trees
+Encoding and decoding
 Formatted output
 Fraud
 Graph theory>Breadth first search
@@ -45,11 +47,13 @@ Mathematics>Advanced
 Mathematics>Basic
 Mathematics>Combinatorics
 Mathematics>Geometry
+Mathematics>Geometry>Convex hull
 Mathematics>Geometry>Geometric median
 Mathematics>Number theory>Basic
 Mathematics>Number theory>Modular exponentiation/inverse
 Mathematics>Number theory>Prime sieving
 Matrix>Geometric transformation
+Matrix>Path
 Matrix>Traversal
 Meet in the middle
 Palindrome
@@ -57,7 +61,6 @@ Permutation>Cycle
 Permutation>Inverse
 Pointers
 Prefix>Extremum
-Prefix sum
 Prefix>Sum
 Priority queue using insert and remove on C++ set
 Segment tree
