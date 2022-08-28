@@ -6,20 +6,26 @@ Averaging from total and count
 Backtracking
 Binary search
 Binary search>C++ set
+Binary search>Prefix sum
 Bitwise operation
 Concurrency
 Construction
 Counting elements in array
 Custom sorting
+Data structure design
+Design data structure
 Disjoint set union
 Dynamic programming
 Dynamic programming>Array reuse
 Dynamic programming>Auxiliary array
 Dynamic programming>Digits
 Dynamic programming>Knapsack
+Dynamic programming>Longest common subsequence
 Dynamic programming>Memoised recursion
 Dynamic programming>Number theory
+Dynamic programming>Segment tree
 Dynamic programming>Subsets
+Dynamic programming>Trees
 Formatted output
 Fraud
 Graph theory>Breadth first search
@@ -31,6 +37,7 @@ Graph theory>Directed acyclic graph
 Graph theory>Topological sort
 Greedy
 Hashmap
+Hashmap>Coordinate compression
 Integer operations on strings
 Interval endpoint sorting
 Linked list iteration
@@ -42,20 +49,26 @@ Mathematics>Geometry>Geometric median
 Mathematics>Number theory>Basic
 Mathematics>Number theory>Modular exponentiation/inverse
 Mathematics>Number theory>Prime sieving
+Matrix>Geometric transformation
+Matrix>Traversal
 Meet in the middle
 Palindrome
 Permutation>Cycle
 Permutation>Inverse
 Pointers
 Prefix>Extremum
+Prefix sum
 Prefix>Sum
+Priority queue using insert and remove on C++ set
 Segment tree
 Simple implementation
 Sliding window
 Stack
 Stack>From array elements
+Stack>Monotonic stack
 Stack>Numerical operations
 String>Parsing
+String>Parsing>Recursive
 String>Validation
 Suboptimal solution
 Time reversed simulation
@@ -63,4 +76,5 @@ Tree>Binary search tree>Traversal
 Tree>Binary tree>Recursion
 Tree>Order traversal
 Tree>Rerooting
+Trie
 Unique elements in subarray

@@ -19,6 +19,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Check if all 1s are at least length k places away](Solutions/C/check-if-all-1s-are-at-least-length-k-places-away)
 * [Consecutive characters](Solutions/C/consecutive-characters)
 * [Count binary substrings](Solutions/C/count-binary-substrings)
+* [Distribute candies](Solutions/D/distribute-candies)
 
 ### From both ends of array
 * [Best time to buy and sell stock iii](Solutions/B/best-time-to-buy-and-sell-stock-iii)
@@ -29,6 +30,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## Averaging from total and count
 * [Average of levels in binary tree](Solutions/A/average-of-levels-in-binary-tree)
+* [Design underground system](Solutions/D/design-underground-system)
 
 ## Backtracking
 * [All paths from source to target](Solutions/A/all-paths-from-source-to-target)
@@ -40,6 +42,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Binary search](Solutions/B/binary-search)
 * [Construct binary search tree from preorder traversal](Solutions/C/construct-binary-search-tree-from-preorder-traversal)
 * [Count subarrays with score less than k](Solutions/C/count-subarrays-with-score-less-than-k)
+* [Design movie rental system](Solutions/D/design-movie-rental-system)
 * [Longest subsequence with limited sum](Solutions/L/longest-subsequence-with-limited-sum)
 
 ### C++ set
@@ -47,6 +50,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Closest room](Solutions/C/closest-room)
 * [Contains duplicate iii](Solutions/C/contains-duplicate-iii)
 * [Count of range sum](Solutions/C/count-of-range-sum)
+
+### Prefix sum
+* [Delivering boxes from storage to ports](Solutions/D/delivering-boxes-from-storage-to-ports)
 
 ## Bitwise operation
 * [Binary watch](Solutions/B/binary-watch)
@@ -57,6 +63,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Concatenation of consecutive binary numbers](Solutions/C/concatenation-of-consecutive-binary-numbers)
 * [Count pairs with xor in a range](Solutions/C/count-pairs-with-xor-in-a-range)
 * [Counting bits](Solutions/C/counting-bits)
+* [Determine if string halves are alike](Solutions/D/determine-if-string-halves-are-alike)
 
 ## Concurrency
 * [Building h2o](Solutions/B/building-h2o)
@@ -67,6 +74,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## Counting elements in array
 * [3sum with multiplicity](Solutions/0-9/3sum-with-multiplicity)
+* [Determine if two strings are close](Solutions/D/determine-if-two-strings-are-close)
 
 ## Custom sorting
 * [Advantage shuffle](Solutions/A/advantage-shuffle)
@@ -75,6 +83,20 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Container with most water](Solutions/C/container-with-most-water)
 * [Course schedule iii](Solutions/C/course-schedule-iii)
 * [Custom sort string](Solutions/C/custom-sort-string)
+* [Design a food rating system](Solutions/D/design-a-food-rating-system)
+
+## Data structure design
+* [Design a food rating system](Solutions/D/design-a-food-rating-system)
+* [Design a number container system](Solutions/D/design-a-number-container-system)
+* [Design add and search words data structure](Solutions/D/design-add-and-search-words-data-structure)
+* [Design authentication manager](Solutions/D/design-authentication-manager)
+* [Design circular queue](Solutions/D/design-circular-queue)
+* [Design hashmap](Solutions/D/design-hashmap)
+* [Design hashset](Solutions/D/design-hashset)
+* [Design movie rental system](Solutions/D/design-movie-rental-system)
+
+## Design data structure
+* [Design underground system](Solutions/D/design-underground-system)
 
 ## Disjoint set union
 * [Accounts merge](Solutions/A/accounts-merge)
@@ -92,12 +114,17 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count square submatrices with all ones](Solutions/C/count-square-submatrices-with-all-ones)
 * [Count unique characters of all substrings of a given string](Solutions/C/count-unique-characters-of-all-substrings-of-a-given-string)
 * [Count vowels permutation](Solutions/C/count-vowels-permutation)
+* [Decode ways](Solutions/D/decode-ways)
+* [Decode ways ii](Solutions/D/decode-ways-ii)
+* [Delete and earn](Solutions/D/delete-and-earn)
 
 ### Array reuse
 * [Champagne tower](Solutions/C/champagne-tower)
 * [Cherry pickup ii](Solutions/C/cherry-pickup-ii)
 * [Coin change](Solutions/C/coin-change)
 * [Coin change 2](Solutions/C/coin-change-2)
+* [Delete operation for two strings](Solutions/D/delete-operation-for-two-strings)
+* [Distinct subsequences](Solutions/D/distinct-subsequences)
 
 ### Auxiliary array
 * [Best time to buy and sell stock iv](Solutions/B/best-time-to-buy-and-sell-stock-iv)
@@ -110,14 +137,23 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Coin change](Solutions/C/coin-change)
 * [Coin change 2](Solutions/C/coin-change-2)
 
+### Longest common subsequence
+* [Delete operation for two strings](Solutions/D/delete-operation-for-two-strings)
+
 ### Memoised recursion
 * [Combination sum iv](Solutions/C/combination-sum-iv)
 
 ### Number theory
 * [Count the number of ideal arrays](Solutions/C/count-the-number-of-ideal-arrays)
 
+### Segment tree
+* [Delivering boxes from storage to ports](Solutions/D/delivering-boxes-from-storage-to-ports)
+
 ### Subsets
 * [Construct smallest number from di string](Solutions/C/construct-smallest-number-from-di-string)
+
+### Trees
+* [Diameter of binary tree](Solutions/D/diameter-of-binary-tree)
 
 ## Formatted output
 * [Binary watch](Solutions/B/binary-watch)
@@ -139,6 +175,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### Depth first search
 * [Amount of time for binary tree to be infected](Solutions/A/amount-of-time-for-binary-tree-to-be-infected)
 * [Critical connections in a network](Solutions/C/critical-connections-in-a-network)
+* [Delete nodes and return forest](Solutions/D/delete-nodes-and-return-forest)
+* [Detect cycles in 2d grid](Solutions/D/detect-cycles-in-2d-grid)
 
 #### Component decomposition
 * [Count unreachable pairs of nodes in an undirected graph](Solutions/C/count-unreachable-pairs-of-nodes-in-an-undirected-graph)
@@ -171,7 +209,13 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Clone graph](Solutions/C/clone-graph)
 * [Contiguous array](Solutions/C/contiguous-array)
 * [Count number of bad pairs](Solutions/C/count-number-of-bad-pairs)
+* [Delete and earn](Solutions/D/delete-and-earn)
+* [Design hashmap](Solutions/D/design-hashmap)
+* [Determine if two strings are close](Solutions/D/determine-if-two-strings-are-close)
 * [Minimum amount of time to collect garbage](Solutions/M/minimum-amount-of-time-to-collect-garbage)
+
+### Coordinate compression
+* [Design underground system](Solutions/D/design-underground-system)
 
 ## Integer operations on strings
 * [Add binary](Solutions/A/add-binary)
@@ -188,6 +232,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Convert binary number in a linked list to integer](Solutions/C/convert-binary-number-in-a-linked-list-to-integer)
 * [Convert sorted list to binary search tree](Solutions/C/convert-sorted-list-to-binary-search-tree)
 * [Copy list with random pointer](Solutions/C/copy-list-with-random-pointer)
+* [Delete node in a linked list](Solutions/D/delete-node-in-a-linked-list)
 
 ## Mathematics
 
@@ -232,6 +277,14 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count primes](Solutions/C/count-primes)
 * [Count the number of ideal arrays](Solutions/C/count-the-number-of-ideal-arrays)
 
+## Matrix
+
+### Geometric transformation
+* [Determine whether matrix can be obtained by rotation](Solutions/D/determine-whether-matrix-can-be-obtained-by-rotation)
+
+### Traversal
+* [Diagonal traverse](Solutions/D/diagonal-traverse)
+
 ## Meet in the middle
 * [4sum](Solutions/0-9/4sum)
 * [4sum ii](Solutions/0-9/4sum-ii)
@@ -252,6 +305,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Clone graph](Solutions/C/clone-graph)
 * [Copy list with random pointer](Solutions/C/copy-list-with-random-pointer)
 
+## Prefix sum
+* [Delivering boxes from storage to ports](Solutions/D/delivering-boxes-from-storage-to-ports)
+
 ## Prefix
 
 ### Extremum
@@ -266,11 +322,17 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest subsequence with limited sum](Solutions/L/longest-subsequence-with-limited-sum)
 * [Minimum amount of time to collect garbage](Solutions/M/minimum-amount-of-time-to-collect-garbage)
 
+## Priority queue using insert and remove on C++ set
+* [Design a food rating system](Solutions/D/design-a-food-rating-system)
+* [Design a number container system](Solutions/D/design-a-number-container-system)
+* [Design authentication manager](Solutions/D/design-authentication-manager)
+
 ## Segment tree
 * [Count of range sum](Solutions/C/count-of-range-sum)
 * [Count of smaller numbers after self](Solutions/C/count-of-smaller-numbers-after-self)
 * [Count pairs with xor in a range](Solutions/C/count-pairs-with-xor-in-a-range)
 * [Create sorted array through instructions](Solutions/C/create-sorted-array-through-instructions)
+* [Delivering boxes from storage to ports](Solutions/D/delivering-boxes-from-storage-to-ports)
 
 ## Simple implementation
 * [Arranging coins](Solutions/A/arranging-coins)
@@ -287,6 +349,10 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Check if word equals summation of two words](Solutions/C/check-if-word-equals-summation-of-two-words)
 * [Count and say](Solutions/C/count-and-say)
 * [Count asterisks](Solutions/C/count-asterisks)
+* [Determine color of a chessboard square](Solutions/D/determine-color-of-a-chessboard-square)
+* [Determine if string halves are alike](Solutions/D/determine-if-string-halves-are-alike)
+* [Distribute candies](Solutions/D/distribute-candies)
+* [Distribute candies to people](Solutions/D/distribute-candies-to-people)
 
 ## Sliding window
 * [3sum](Solutions/0-9/3sum)
@@ -301,6 +367,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### From array elements
 * [Asteroid collision](Solutions/A/asteroid-collision)
 
+### Monotonic stack
+* [Daily temperatures](Solutions/D/daily-temperatures)
+
 ### Numerical operations
 * [Baseball game](Solutions/B/baseball-game)
 * [Basic calculator](Solutions/B/basic-calculator)
@@ -313,6 +382,10 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Basic calculator ii](Solutions/B/basic-calculator-ii)
 * [Compare version numbers](Solutions/C/compare-version-numbers)
 * [Complex number multiplication](Solutions/C/complex-number-multiplication)
+* [Detect capital](Solutions/D/detect-capital)
+
+#### Recursive
+* [Decode string](Solutions/D/decode-string)
 
 ### Validation
 * [Ambiguous coordinates](Solutions/A/ambiguous-coordinates)
@@ -335,6 +408,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Binary search tree iterator](Solutions/B/binary-search-tree-iterator)
 * [Construct binary search tree from preorder traversal](Solutions/C/construct-binary-search-tree-from-preorder-traversal)
 * [Convert bst to greater tree](Solutions/C/convert-bst-to-greater-tree)
+* [Delete node in a bst](Solutions/D/delete-node-in-a-bst)
 
 ### Binary tree
 
@@ -359,6 +433,11 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Convert sorted list to binary search tree](Solutions/C/convert-sorted-list-to-binary-search-tree)
 * [Count good nodes in binary tree](Solutions/C/count-good-nodes-in-binary-tree)
 * [Cousins in binary tree](Solutions/C/cousins-in-binary-tree)
+* [Deepest leaves sum](Solutions/D/deepest-leaves-sum)
+* [Delete node in a bst](Solutions/D/delete-node-in-a-bst)
+* [Delete nodes and return forest](Solutions/D/delete-nodes-and-return-forest)
+* [Diameter of binary tree](Solutions/D/diameter-of-binary-tree)
+* [Distribute coins in binary tree](Solutions/D/distribute-coins-in-binary-tree)
 
 ### Order traversal
 * [Construct binary tree from inorder and postorder traversal](Solutions/C/construct-binary-tree-from-inorder-and-postorder-traversal)
@@ -367,6 +446,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### Rerooting
 * [Amount of time for binary tree to be infected](Solutions/A/amount-of-time-for-binary-tree-to-be-infected)
 
+## Trie
+* [Design add and search words data structure](Solutions/D/design-add-and-search-words-data-structure)
+
 ## Unique elements in subarray
 * [Count unique characters of all substrings of a given string](Solutions/C/count-unique-characters-of-all-substrings-of-a-given-string)
 
@@ -374,39 +456,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Broken calculator](Solutions/B/broken-calculator)
 * [Buddy strings](Solutions/B/buddy-strings)
 * [Counting elements](Solutions/C/counting-elements)
-* [Daily temperatures](Solutions/D/daily-temperatures)
-* [Decode string](Solutions/D/decode-string)
-* [Decode ways](Solutions/D/decode-ways)
-* [Decode ways ii](Solutions/D/decode-ways-ii)
 * [Decoded string at index](Solutions/D/decoded-string-at-index)
-* [Deepest leaves sum](Solutions/D/deepest-leaves-sum)
-* [Delete and earn](Solutions/D/delete-and-earn)
-* [Delete node in a bst](Solutions/D/delete-node-in-a-bst)
-* [Delete node in a linked list](Solutions/D/delete-node-in-a-linked-list)
-* [Delete nodes and return forest](Solutions/D/delete-nodes-and-return-forest)
-* [Delete operation for two strings](Solutions/D/delete-operation-for-two-strings)
-* [Delivering boxes from storage to ports](Solutions/D/delivering-boxes-from-storage-to-ports)
-* [Design a food rating system](Solutions/D/design-a-food-rating-system)
-* [Design a number container system](Solutions/D/design-a-number-container-system)
-* [Design add and search words data structure](Solutions/D/design-add-and-search-words-data-structure)
-* [Design authentication manager](Solutions/D/design-authentication-manager)
-* [Design circular queue](Solutions/D/design-circular-queue)
-* [Design hashmap](Solutions/D/design-hashmap)
-* [Design hashset](Solutions/D/design-hashset)
-* [Design movie rental system](Solutions/D/design-movie-rental-system)
-* [Design underground system](Solutions/D/design-underground-system)
-* [Detect capital](Solutions/D/detect-capital)
-* [Detect cycles in 2d grid](Solutions/D/detect-cycles-in-2d-grid)
-* [Determine color of a chessboard square](Solutions/D/determine-color-of-a-chessboard-square)
-* [Determine if string halves are alike](Solutions/D/determine-if-string-halves-are-alike)
-* [Determine if two strings are close](Solutions/D/determine-if-two-strings-are-close)
-* [Determine whether matrix can be obtained by rotation](Solutions/D/determine-whether-matrix-can-be-obtained-by-rotation)
-* [Diagonal traverse](Solutions/D/diagonal-traverse)
-* [Diameter of binary tree](Solutions/D/diameter-of-binary-tree)
-* [Distinct subsequences](Solutions/D/distinct-subsequences)
-* [Distribute candies](Solutions/D/distribute-candies)
-* [Distribute candies to people](Solutions/D/distribute-candies-to-people)
-* [Distribute coins in binary tree](Solutions/D/distribute-coins-in-binary-tree)
 * [Divide two integers](Solutions/D/divide-two-integers)
 * [Domino and tromino tiling](Solutions/D/domino-and-tromino-tiling)
 * [Dungeon game](Solutions/D/dungeon-game)
