@@ -1,60 +1,60 @@
-Advanced mathematics
 Array modification with index
-Array scanning into contiguous regions
+Array scanning>Contiguous regions
+Array scanning>From both ends of array
 Averaging from total and count
 Backtracking
-Basic mathematics
-Basic number theory
 Binary search
-Binary search in a C++ set
-Binary search tree traversal
-Binary tree recursion
+Binary search>C++ set
 Bitwise operation
-Breadth first search
-Combinatorics
 Concurrency
 Construction
 Counting elements in array
 Custom sorting
-Depth fist search
-Directed acyclic graph
 Disjoint set union
 Dynamic programming
-Dynamic programming over digits
-Dynamic programming with array reuse
-Dynamic programming with auxiliary array
-Dynamic programming with memoised recursion
-Dynamic programming with subsets
+Dynamic programming>Array reuse
+Dynamic programming>Auxiliary array
+Dynamic programming>Digits
+Dynamic programming>Knapsack
+Dynamic programming>Memoised recursion
+Dynamic programming>Subsets
 Formatted output
 Fraud
-Geometric median
-Geometry
+Graph theory>Breadth first search
+Graph theory>Depth first search
+Graph theory>Directed acyclic graph
+Graph theory>Topological sort
 Greedy
 Hashmap
 Integer operations on strings
 Interval endpoint sorting
-Knapsack
 Linked list iteration
+Mathematics>Advanced
+Mathematics>Basic
+Mathematics>Combinatorics
+Mathematics>Geometry
+Mathematics>Geometry>Geometric median
+Mathematics>Number theory>Basic
+Mathematics>Number theory>Modular exponentiation
+Mathematics>Number theory>Prime sieving
 Meet in the middle
-Modular exponentiation
 Palindrome
-Permutation cycle
-Permutation inversion
+Permutation>Cycle
+Permutation>Inverse
 Pointers
-Prefix extremum
-Prefix sum
-Prime sieving
-Processing in reverse
-Scanning from both ends of array
+Prefix>Extremum
+Prefix>Sum
 Segment tree
 Simple implementation
 Sliding window
 Stack
-Stack for numerical operations
-Stack from array elements
-String parsing
-String validation
+Stack>From array elements
+Stack>Numerical operations
+String>Parsing
+String>Validation
 Suboptimal solution
 Time reversed simulation
-Tree order traversal
-Tree rerooting
+Tree>Binary search tree>Traversal
+Tree>Binary tree>Recursion
+Tree>Order traversal
+Tree>Rerooting

@@ -33,12 +33,31 @@ int main() {
   }
 
   std::cout << "\n# Problems by tags (INCOMPLETE!)\n";
+  std::vector<std::string> prevtaghierarchy;
   for (auto& [tag, problemlist] : tagmap) {
     if (tag == "Untagged") continue;
-    std::cout << "\n## " << tag << "\n";
+    std::istringstream iss(tag);
+    std::vector<std::string> taghierarchy;
+    std::string token;
+    while (std::getline(iss, token, '>')) {
+      taghierarchy.push_back(token);
+    }
+    int level = 0;
+    for(auto& token: prevtaghierarchy) {
+      if (level == taghierarchy.size() or token != taghierarchy[level]) break;
+      ++level;
+    }
+    while(level < taghierarchy.size()) {
+      std::cout << "\n"
+                << std::string(level + 2, '#') << " " << taghierarchy[level]
+                << "\n";
+      ++level;
+    }
+
     for (auto& [name, path] : problemlist) {
       std::cout << "* [" << name << "](Solutions/" << path << ")\n";
     }
+    prevtaghierarchy = taghierarchy;
   }
   std::cout << "\n## Untagged\n";
   for (auto& [name, path] : tagmap["Untagged"]) {

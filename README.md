@@ -9,17 +9,20 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 # Problems by tags (INCOMPLETE!)
 
-## Advanced mathematics
-* [Best position for a service centre](Solutions/B/best-position-for-a-service-centre)
-
 ## Array modification with index
 * [Best sightseeing pair](Solutions/B/best-sightseeing-pair)
 
-## Array scanning into contiguous regions
+## Array scanning
+
+### Contiguous regions
 * [Arithmetic slices](Solutions/A/arithmetic-slices)
 * [Check if all 1s are at least length k places away](Solutions/C/check-if-all-1s-are-at-least-length-k-places-away)
 * [Consecutive characters](Solutions/C/consecutive-characters)
 * [Count binary substrings](Solutions/C/count-binary-substrings)
+
+### From both ends of array
+* [Best time to buy and sell stock iii](Solutions/B/best-time-to-buy-and-sell-stock-iii)
+* [Candy](Solutions/C/candy)
 
 ## Averaging from total and count
 * [Average of levels in binary tree](Solutions/A/average-of-levels-in-binary-tree)
@@ -30,50 +33,16 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Combination sum](Solutions/C/combination-sum)
 * [Combination sum iii](Solutions/C/combination-sum-iii)
 
-## Basic mathematics
-* [Angle between hands of a clock](Solutions/A/angle-between-hands-of-a-clock)
-
-## Basic number theory
-* [Add digits](Solutions/A/add-digits)
-* [Check if it is a good array](Solutions/C/check-if-it-is-a-good-array)
-
 ## Binary search
 * [Binary search](Solutions/B/binary-search)
 * [Construct binary search tree from preorder traversal](Solutions/C/construct-binary-search-tree-from-preorder-traversal)
 * [Longest subsequence with limited sum](Solutions/L/longest-subsequence-with-limited-sum)
 
-## Binary search in a C++ set
+### C++ set
 * [132 pattern](Solutions/0-9/132-pattern)
 * [Closest room](Solutions/C/closest-room)
 * [Contains duplicate iii](Solutions/C/contains-duplicate-iii)
 * [Count of range sum](Solutions/C/count-of-range-sum)
-
-## Binary search tree traversal
-* [All elements in two binary search trees](Solutions/A/all-elements-in-two-binary-search-trees)
-* [Binary search tree iterator](Solutions/B/binary-search-tree-iterator)
-* [Construct binary search tree from preorder traversal](Solutions/C/construct-binary-search-tree-from-preorder-traversal)
-* [Convert bst to greater tree](Solutions/C/convert-bst-to-greater-tree)
-
-## Binary tree recursion
-* [Add one row to tree](Solutions/A/add-one-row-to-tree)
-* [Average of levels in binary tree](Solutions/A/average-of-levels-in-binary-tree)
-* [Balanced binary tree](Solutions/B/balanced-binary-tree)
-* [Binary tree cameras](Solutions/B/binary-tree-cameras)
-* [Binary tree level order traversal](Solutions/B/binary-tree-level-order-traversal)
-* [Binary tree level order traversal ii](Solutions/B/binary-tree-level-order-traversal-ii)
-* [Binary tree maximum path sum](Solutions/B/binary-tree-maximum-path-sum)
-* [Binary tree pruning](Solutions/B/binary-tree-pruning)
-* [Binary tree right side view](Solutions/B/binary-tree-right-side-view)
-* [Binary tree tilt](Solutions/B/binary-tree-tilt)
-* [Binary tree zigzag level order traversal](Solutions/B/binary-tree-zigzag-level-order-traversal)
-* [Check if a string is a valid sequence from root to leaves path in a binary tree](Solutions/C/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree)
-* [Construct binary search tree from preorder traversal](Solutions/C/construct-binary-search-tree-from-preorder-traversal)
-* [Construct binary tree from inorder and postorder traversal](Solutions/C/construct-binary-tree-from-inorder-and-postorder-traversal)
-* [Construct binary tree from preorder and inorder traversal](Solutions/C/construct-binary-tree-from-preorder-and-inorder-traversal)
-* [Convert bst to greater tree](Solutions/C/convert-bst-to-greater-tree)
-* [Convert sorted array to binary search tree](Solutions/C/convert-sorted-array-to-binary-search-tree)
-* [Convert sorted list to binary search tree](Solutions/C/convert-sorted-list-to-binary-search-tree)
-* [Count good nodes in binary tree](Solutions/C/count-good-nodes-in-binary-tree)
 
 ## Bitwise operation
 * [Binary watch](Solutions/B/binary-watch)
@@ -83,24 +52,6 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Complement of base 10 integer](Solutions/C/complement-of-base-10-integer)
 * [Concatenation of consecutive binary numbers](Solutions/C/concatenation-of-consecutive-binary-numbers)
 * [Count pairs with xor in a range](Solutions/C/count-pairs-with-xor-in-a-range)
-
-## Breadth first search
-* [01 matrix](Solutions/0-9/01-matrix)
-* [Amount of time for binary tree to be infected](Solutions/A/amount-of-time-for-binary-tree-to-be-infected)
-* [Bus routes](Solutions/B/bus-routes)
-
-## Combinatorics
-* [3sum with multiplicity](Solutions/0-9/3sum-with-multiplicity)
-* [Arithmetic slices ii subsequence](Solutions/A/arithmetic-slices-ii-subsequence)
-* [Binary trees with factors](Solutions/B/binary-trees-with-factors)
-* [Count all valid pickup and delivery options](Solutions/C/count-all-valid-pickup-and-delivery-options)
-* [Count good numbers](Solutions/C/count-good-numbers)
-* [Count nice pairs in an array](Solutions/C/count-nice-pairs-in-an-array)
-* [Count number of bad pairs](Solutions/C/count-number-of-bad-pairs)
-* [Count number of ways to place houses](Solutions/C/count-number-of-ways-to-place-houses)
-* [Count pairs of nodes](Solutions/C/count-pairs-of-nodes)
-* [Count sorted vowel strings](Solutions/C/count-sorted-vowel-strings)
-* [Count special integers](Solutions/C/count-special-integers)
 
 ## Concurrency
 * [Building h2o](Solutions/B/building-h2o)
@@ -118,12 +69,6 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Closest room](Solutions/C/closest-room)
 * [Container with most water](Solutions/C/container-with-most-water)
 
-## Depth fist search
-* [Amount of time for binary tree to be infected](Solutions/A/amount-of-time-for-binary-tree-to-be-infected)
-
-## Directed acyclic graph
-* [All paths from source to target](Solutions/A/all-paths-from-source-to-target)
-
 ## Disjoint set union
 * [Accounts merge](Solutions/A/accounts-merge)
 
@@ -139,23 +84,27 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count number of ways to place houses](Solutions/C/count-number-of-ways-to-place-houses)
 * [Count square submatrices with all ones](Solutions/C/count-square-submatrices-with-all-ones)
 
-## Dynamic programming over digits
-* [Count special integers](Solutions/C/count-special-integers)
-
-## Dynamic programming with array reuse
+### Array reuse
 * [Champagne tower](Solutions/C/champagne-tower)
 * [Cherry pickup ii](Solutions/C/cherry-pickup-ii)
 * [Coin change](Solutions/C/coin-change)
 * [Coin change 2](Solutions/C/coin-change-2)
 
-## Dynamic programming with auxiliary array
+### Auxiliary array
 * [Best time to buy and sell stock iv](Solutions/B/best-time-to-buy-and-sell-stock-iv)
 * [Best time to buy and sell stock with transaction fee](Solutions/B/best-time-to-buy-and-sell-stock-with-transaction-fee)
 
-## Dynamic programming with memoised recursion
+### Digits
+* [Count special integers](Solutions/C/count-special-integers)
+
+### Knapsack
+* [Coin change](Solutions/C/coin-change)
+* [Coin change 2](Solutions/C/coin-change-2)
+
+### Memoised recursion
 * [Combination sum iv](Solutions/C/combination-sum-iv)
 
-## Dynamic programming with subsets
+### Subsets
 * [Construct smallest number from di string](Solutions/C/construct-smallest-number-from-di-string)
 
 ## Formatted output
@@ -165,11 +114,21 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Add strings](Solutions/A/add-strings)
 * [Count complete tree nodes](Solutions/C/count-complete-tree-nodes)
 
-## Geometric median
-* [Best position for a service centre](Solutions/B/best-position-for-a-service-centre)
+## Graph theory
 
-## Geometry
-* [Check if it is a straight line](Solutions/C/check-if-it-is-a-straight-line)
+### Breadth first search
+* [01 matrix](Solutions/0-9/01-matrix)
+* [Amount of time for binary tree to be infected](Solutions/A/amount-of-time-for-binary-tree-to-be-infected)
+* [Bus routes](Solutions/B/bus-routes)
+
+### Depth first search
+* [Amount of time for binary tree to be infected](Solutions/A/amount-of-time-for-binary-tree-to-be-infected)
+
+### Directed acyclic graph
+* [All paths from source to target](Solutions/A/all-paths-from-source-to-target)
+
+### Topological sort
+* [Build a matrix with conditions](Solutions/B/build-a-matrix-with-conditions)
 
 ## Greedy
 * [Advantage shuffle](Solutions/A/advantage-shuffle)
@@ -198,10 +157,6 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## Interval endpoint sorting
 * [Car pooling](Solutions/C/car-pooling)
 
-## Knapsack
-* [Coin change](Solutions/C/coin-change)
-* [Coin change 2](Solutions/C/coin-change-2)
-
 ## Linked list iteration
 * [Add two numbers](Solutions/A/add-two-numbers)
 * [Add two numbers ii](Solutions/A/add-two-numbers-ii)
@@ -209,20 +164,58 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Convert sorted list to binary search tree](Solutions/C/convert-sorted-list-to-binary-search-tree)
 * [Copy list with random pointer](Solutions/C/copy-list-with-random-pointer)
 
+## Mathematics
+
+### Advanced
+* [Best position for a service centre](Solutions/B/best-position-for-a-service-centre)
+
+### Basic
+* [Angle between hands of a clock](Solutions/A/angle-between-hands-of-a-clock)
+
+### Combinatorics
+* [3sum with multiplicity](Solutions/0-9/3sum-with-multiplicity)
+* [Arithmetic slices ii subsequence](Solutions/A/arithmetic-slices-ii-subsequence)
+* [Binary trees with factors](Solutions/B/binary-trees-with-factors)
+* [Count all valid pickup and delivery options](Solutions/C/count-all-valid-pickup-and-delivery-options)
+* [Count good numbers](Solutions/C/count-good-numbers)
+* [Count nice pairs in an array](Solutions/C/count-nice-pairs-in-an-array)
+* [Count number of bad pairs](Solutions/C/count-number-of-bad-pairs)
+* [Count number of ways to place houses](Solutions/C/count-number-of-ways-to-place-houses)
+* [Count pairs of nodes](Solutions/C/count-pairs-of-nodes)
+* [Count sorted vowel strings](Solutions/C/count-sorted-vowel-strings)
+* [Count special integers](Solutions/C/count-special-integers)
+
+### Geometry
+* [Check if it is a straight line](Solutions/C/check-if-it-is-a-straight-line)
+
+#### Geometric median
+* [Best position for a service centre](Solutions/B/best-position-for-a-service-centre)
+
+### Number theory
+
+#### Basic
+* [Add digits](Solutions/A/add-digits)
+* [Check if it is a good array](Solutions/C/check-if-it-is-a-good-array)
+
+#### Modular exponentiation
+* [Count good numbers](Solutions/C/count-good-numbers)
+
+#### Prime sieving
+* [Count primes](Solutions/C/count-primes)
+
 ## Meet in the middle
 * [4sum](Solutions/0-9/4sum)
 * [4sum ii](Solutions/0-9/4sum-ii)
 
-## Modular exponentiation
-* [Count good numbers](Solutions/C/count-good-numbers)
-
 ## Palindrome
 * [Break a palindrome](Solutions/B/break-a-palindrome)
 
-## Permutation cycle
+## Permutation
+
+### Cycle
 * [Array nesting](Solutions/A/array-nesting)
 
-## Permutation inversion
+### Inverse
 * [Build a matrix with conditions](Solutions/B/build-a-matrix-with-conditions)
 * [Build array from permutation](Solutions/B/build-array-from-permutation)
 
@@ -230,26 +223,18 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Clone graph](Solutions/C/clone-graph)
 * [Copy list with random pointer](Solutions/C/copy-list-with-random-pointer)
 
-## Prefix extremum
+## Prefix
+
+### Extremum
 * [132 pattern](Solutions/0-9/132-pattern)
 * [Best sightseeing pair](Solutions/B/best-sightseeing-pair)
 * [Best time to buy and sell stock](Solutions/B/best-time-to-buy-and-sell-stock)
 * [Best time to buy and sell stock iii](Solutions/B/best-time-to-buy-and-sell-stock-iii)
 
-## Prefix sum
+### Sum
 * [Contiguous array](Solutions/C/contiguous-array)
 * [Longest subsequence with limited sum](Solutions/L/longest-subsequence-with-limited-sum)
 * [Minimum amount of time to collect garbage](Solutions/M/minimum-amount-of-time-to-collect-garbage)
-
-## Prime sieving
-* [Count primes](Solutions/C/count-primes)
-
-## Processing in reverse
-* [Backspace string compare](Solutions/B/backspace-string-compare)
-
-## Scanning from both ends of array
-* [Best time to buy and sell stock iii](Solutions/B/best-time-to-buy-and-sell-stock-iii)
-* [Candy](Solutions/C/candy)
 
 ## Segment tree
 * [Count of range sum](Solutions/C/count-of-range-sum)
@@ -282,21 +267,23 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Binary search tree iterator](Solutions/B/binary-search-tree-iterator)
 * [Removing stars from a string](Solutions/R/removing-stars-from-a-string)
 
-## Stack for numerical operations
+### From array elements
+* [Asteroid collision](Solutions/A/asteroid-collision)
+
+### Numerical operations
 * [Baseball game](Solutions/B/baseball-game)
 * [Basic calculator](Solutions/B/basic-calculator)
 * [Basic calculator ii](Solutions/B/basic-calculator-ii)
 
-## Stack from array elements
-* [Asteroid collision](Solutions/A/asteroid-collision)
+## String
 
-## String parsing
+### Parsing
 * [Basic calculator](Solutions/B/basic-calculator)
 * [Basic calculator ii](Solutions/B/basic-calculator-ii)
 * [Compare version numbers](Solutions/C/compare-version-numbers)
 * [Complex number multiplication](Solutions/C/complex-number-multiplication)
 
-## String validation
+### Validation
 * [Ambiguous coordinates](Solutions/A/ambiguous-coordinates)
 
 ## Suboptimal solution
@@ -304,16 +291,47 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Check if two string arrays are equivalent](Solutions/C/check-if-two-string-arrays-are-equivalent)
 
 ## Time reversed simulation
+* [Backspace string compare](Solutions/B/backspace-string-compare)
 * [Construct target array with multiple sums](Solutions/C/construct-target-array-with-multiple-sums)
 
-## Topological sort
-* [Build a matrix with conditions](Solutions/B/build-a-matrix-with-conditions)
+## Tree
 
-## Tree order traversal
+### Binary search tree
+
+#### Traversal
+* [All elements in two binary search trees](Solutions/A/all-elements-in-two-binary-search-trees)
+* [Binary search tree iterator](Solutions/B/binary-search-tree-iterator)
+* [Construct binary search tree from preorder traversal](Solutions/C/construct-binary-search-tree-from-preorder-traversal)
+* [Convert bst to greater tree](Solutions/C/convert-bst-to-greater-tree)
+
+### Binary tree
+
+#### Recursion
+* [Add one row to tree](Solutions/A/add-one-row-to-tree)
+* [Average of levels in binary tree](Solutions/A/average-of-levels-in-binary-tree)
+* [Balanced binary tree](Solutions/B/balanced-binary-tree)
+* [Binary tree cameras](Solutions/B/binary-tree-cameras)
+* [Binary tree level order traversal](Solutions/B/binary-tree-level-order-traversal)
+* [Binary tree level order traversal ii](Solutions/B/binary-tree-level-order-traversal-ii)
+* [Binary tree maximum path sum](Solutions/B/binary-tree-maximum-path-sum)
+* [Binary tree pruning](Solutions/B/binary-tree-pruning)
+* [Binary tree right side view](Solutions/B/binary-tree-right-side-view)
+* [Binary tree tilt](Solutions/B/binary-tree-tilt)
+* [Binary tree zigzag level order traversal](Solutions/B/binary-tree-zigzag-level-order-traversal)
+* [Check if a string is a valid sequence from root to leaves path in a binary tree](Solutions/C/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree)
+* [Construct binary search tree from preorder traversal](Solutions/C/construct-binary-search-tree-from-preorder-traversal)
+* [Construct binary tree from inorder and postorder traversal](Solutions/C/construct-binary-tree-from-inorder-and-postorder-traversal)
+* [Construct binary tree from preorder and inorder traversal](Solutions/C/construct-binary-tree-from-preorder-and-inorder-traversal)
+* [Convert bst to greater tree](Solutions/C/convert-bst-to-greater-tree)
+* [Convert sorted array to binary search tree](Solutions/C/convert-sorted-array-to-binary-search-tree)
+* [Convert sorted list to binary search tree](Solutions/C/convert-sorted-list-to-binary-search-tree)
+* [Count good nodes in binary tree](Solutions/C/count-good-nodes-in-binary-tree)
+
+### Order traversal
 * [Construct binary tree from inorder and postorder traversal](Solutions/C/construct-binary-tree-from-inorder-and-postorder-traversal)
 * [Construct binary tree from preorder and inorder traversal](Solutions/C/construct-binary-tree-from-preorder-and-inorder-traversal)
 
-## Tree rerooting
+### Rerooting
 * [Amount of time for binary tree to be infected](Solutions/A/amount-of-time-for-binary-tree-to-be-infected)
 
 ## Untagged
