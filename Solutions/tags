@@ -14,10 +14,8 @@ Brute force enumeration with combinatorics
 Concurrency
 Construction
 Counting elements in array
-Custom sorting
 Design data structure
 Disjoint set union
-Duplicate finding with bizarro algorithms
 Dynamic programming
 Dynamic programming>Array reuse
 Dynamic programming>Auxiliary array
@@ -30,22 +28,29 @@ Dynamic programming>Segment tree
 Dynamic programming>Subsets
 Dynamic programming>Trees
 Encoding and decoding
+Flattening
 Formatted output
 Fraud
 Graph theory>Breadth first search
 Graph theory>Bridges/Articulation points
+Graph theory>Cycle detection
+Graph theory>Degree counting
 Graph theory>Depth first search
 Graph theory>Depth first search>Component decomposition
 Graph theory>Depth first search>Flood fill
 Graph theory>Directed acyclic graph
+Graph theory>Single outdegree graphs
 Graph theory>Topological sort
 Greedy
 Hashmap
 Hashmap>Coordinate compression
+Hashmap>Forward and backward
+Hashmap>Update using insert and delete
 Integer operations on strings
 Intervals>Endpoint sorting
 Intervals>Non-overlapping decomposition
-Linked list iteration
+Linked list>Iteration
+Linked list>Recursion
 Mathematics>Advanced
 Mathematics>Basic
 Mathematics>Combinatorics
@@ -66,10 +71,17 @@ Permutation>Inverse
 Pointers
 Prefix>Extremum
 Prefix>Sum
-Priority queue using insert and remove on C++ set
+Priority queue
+Priority queue>Dijkstra-like processing of subarrays
+Priority queue>Key update using insert and remove on C++ set
+Priority queue>K smallest/largest elements
+Priority queue>K smallest/largest elements>Transfer between the two
 Segment tree
 Simple implementation
 Sliding window
+Sorting>Custom
+Sorting>Partial
+Sorting>Remembering index
 Stack
 Stack>From array elements
 Stack>Monotonic stack
@@ -84,4 +96,5 @@ Tree>Binary tree>Recursion
 Tree>Order traversal
 Tree>Rerooting
 Trie
+Unique/duplicate element finding with bizarro algorithms
 Unique elements in subarray
