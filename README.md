@@ -47,6 +47,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Combination sum](Solutions/C/combination-sum)
 * [Combination sum iii](Solutions/C/combination-sum-iii)
 * [Expression add operators](Solutions/E/expression-add-operators)
+* [Generate parentheses](Solutions/G/generate-parentheses)
 
 ## Binary search
 * [Binary search](Solutions/B/binary-search)
@@ -59,6 +60,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find the duplicate number](Solutions/F/find-the-duplicate-number)
 * [Find the smallest divisor given a threshold](Solutions/F/find-the-smallest-divisor-given-a-threshold)
 * [First bad version](Solutions/F/first-bad-version)
+* [Guess number higher or lower](Solutions/G/guess-number-higher-or-lower)
+* [H index](Solutions/H/h-index)
+* [H index ii](Solutions/H/h-index-ii)
 * [Longest subsequence with limited sum](Solutions/L/longest-subsequence-with-limited-sum)
 
 ### C++ set
@@ -83,6 +87,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Divide two integers](Solutions/D/divide-two-integers)
 * [Find a value of a mysterious function closest to target](Solutions/F/find-a-value-of-a-mysterious-function-closest-to-target)
 * [Find xor sum of all pairs bitwise and](Solutions/F/find-xor-sum-of-all-pairs-bitwise-and)
+* [Gray code](Solutions/G/gray-code)
+* [Hamming distance](Solutions/H/hamming-distance)
 
 ## Brute force enumeration with combinatorics
 * [Fair distribution of cookies](Solutions/F/fair-distribution-of-cookies)
@@ -111,6 +117,10 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Design movie rental system](Solutions/D/design-movie-rental-system)
 * [Design underground system](Solutions/D/design-underground-system)
 * [Encode and decode tinyurl](Solutions/E/encode-and-decode-tinyurl)
+* [Implement trie prefix tree](Solutions/I/implement-trie-prefix-tree)
+
+### Interconversion
+* [Implement stack using queues](Solutions/I/implement-stack-using-queues)
 
 ## Disjoint set union
 * [Accounts merge](Solutions/A/accounts-merge)
@@ -134,6 +144,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Domino and tromino tiling](Solutions/D/domino-and-tromino-tiling)
 * [Edit distance](Solutions/E/edit-distance)
 * [Fibonacci number](Solutions/F/fibonacci-number)
+* [House robber](Solutions/H/house-robber)
 
 ### Array reuse
 * [Champagne tower](Solutions/C/champagne-tower)
@@ -146,6 +157,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### Auxiliary array
 * [Best time to buy and sell stock iv](Solutions/B/best-time-to-buy-and-sell-stock-iv)
 * [Best time to buy and sell stock with transaction fee](Solutions/B/best-time-to-buy-and-sell-stock-with-transaction-fee)
+
+### Cyclic array
+* [House robber ii](Solutions/H/house-robber-ii)
 
 ### Digits
 * [Count special integers](Solutions/C/count-special-integers)
@@ -173,6 +187,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### Trees
 * [Diameter of binary tree](Solutions/D/diameter-of-binary-tree)
 * [Employee importance](Solutions/E/employee-importance)
+* [House robber iii](Solutions/H/house-robber-iii)
 
 ## Encoding and decoding
 * [Encode and decode tinyurl](Solutions/E/encode-and-decode-tinyurl)
@@ -204,6 +219,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### Cycle detection
 * [Find closest node to given two nodes](Solutions/F/find-closest-node-to-given-two-nodes)
+* [Happy number](Solutions/H/happy-number)
 
 ### Degree counting
 * [Find the town judge](Solutions/F/find-the-town-judge)
@@ -264,6 +280,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Finding the users active minutes](Solutions/F/finding-the-users-active-minutes)
 * [First letter to appear twice](Solutions/F/first-letter-to-appear-twice)
 * [First unique character in a string](Solutions/F/first-unique-character-in-a-string)
+* [Greatest english letter in upper and lower case](Solutions/G/greatest-english-letter-in-upper-and-lower-case)
+* [Group anagrams](Solutions/G/group-anagrams)
 * [Minimum amount of time to collect garbage](Solutions/M/minimum-amount-of-time-to-collect-garbage)
 
 ### Coordinate compression
@@ -360,17 +378,23 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count primes](Solutions/C/count-primes)
 * [Count the number of ideal arrays](Solutions/C/count-the-number-of-ideal-arrays)
 
+### Probability
+* [Generate random point in a circle](Solutions/G/generate-random-point-in-a-circle)
+* [Implement rand10 using rand7](Solutions/I/implement-rand10-using-rand7)
+
 ## Matrix
 
 ### Geometric transformation
 * [Determine whether matrix can be obtained by rotation](Solutions/D/determine-whether-matrix-can-be-obtained-by-rotation)
 * [Equal row and column pairs](Solutions/E/equal-row-and-column-pairs)
+* [Image overlap](Solutions/I/image-overlap)
 
 ### Path
 * [Dungeon game](Solutions/D/dungeon-game)
 
 ### Traversal
 * [Diagonal traverse](Solutions/D/diagonal-traverse)
+* [Get biggest three rhombus sums in a grid](Solutions/G/get-biggest-three-rhombus-sums-in-a-grid)
 
 ## Meet in the middle
 * [4sum](Solutions/0-9/4sum)
@@ -388,6 +412,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Build a matrix with conditions](Solutions/B/build-a-matrix-with-conditions)
 * [Build array from permutation](Solutions/B/build-array-from-permutation)
 
+### Inversions
+* [Global and local inversions](Solutions/G/global-and-local-inversions)
+
 ## Pointers
 * [Clone graph](Solutions/C/clone-graph)
 * [Copy list with random pointer](Solutions/C/copy-list-with-random-pointer)
@@ -399,6 +426,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Best sightseeing pair](Solutions/B/best-sightseeing-pair)
 * [Best time to buy and sell stock](Solutions/B/best-time-to-buy-and-sell-stock)
 * [Best time to buy and sell stock iii](Solutions/B/best-time-to-buy-and-sell-stock-iii)
+* [Global and local inversions](Solutions/G/global-and-local-inversions)
 
 ### Sum
 * [Contiguous array](Solutions/C/contiguous-array)
@@ -418,6 +446,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### K smallest/largest elements
 * [Find the most competitive subsequence](Solutions/F/find-the-most-competitive-subsequence)
+* [Get biggest three rhombus sums in a grid](Solutions/G/get-biggest-three-rhombus-sums-in-a-grid)
 
 #### Transfer between the two
 * [Find median from data stream](Solutions/F/find-median-from-data-stream)
@@ -466,6 +495,12 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Fizz buzz](Solutions/F/fizz-buzz)
 * [Flipping an image](Solutions/F/flipping-an-image)
 * [Game of life](Solutions/G/game-of-life)
+* [Get biggest three rhombus sums in a grid](Solutions/G/get-biggest-three-rhombus-sums-in-a-grid)
+* [Get maximum in generated array](Solutions/G/get-maximum-in-generated-array)
+* [Greatest common divisor of strings](Solutions/G/greatest-common-divisor-of-strings)
+* [Greatest english letter in upper and lower case](Solutions/G/greatest-english-letter-in-upper-and-lower-case)
+* [How many numbers are smaller than the current number](Solutions/H/how-many-numbers-are-smaller-than-the-current-number)
+* [Image overlap](Solutions/I/image-overlap)
 
 ## Sliding window
 * [3sum](Solutions/0-9/3sum)
@@ -476,6 +511,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find all anagrams in a string](Solutions/F/find-all-anagrams-in-a-string)
 * [Frequency of the most frequent element](Solutions/F/frequency-of-the-most-frequent-element)
 * [Fruit into baskets](Solutions/F/fruit-into-baskets)
+
+### String hashing
+* [Implement strstr](Solutions/I/implement-strstr)
 
 ## Sorting
 
@@ -514,6 +552,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## String
 
+### Anagrams
+* [Group anagrams](Solutions/G/group-anagrams)
+
 ### Parsing
 * [Basic calculator](Solutions/B/basic-calculator)
 * [Basic calculator ii](Solutions/B/basic-calculator-ii)
@@ -522,9 +563,15 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Detect capital](Solutions/D/detect-capital)
 * [Evaluate the bracket pairs of a string](Solutions/E/evaluate-the-bracket-pairs-of-a-string)
 * [Find duplicate file in system](Solutions/F/find-duplicate-file-in-system)
+* [Goat latin](Solutions/G/goat-latin)
 
 #### Recursive
 * [Decode string](Solutions/D/decode-string)
+
+### Search
+
+#### Hashing
+* [Implement strstr](Solutions/I/implement-strstr)
 
 ### Validation
 * [Ambiguous coordinates](Solutions/A/ambiguous-coordinates)
@@ -536,6 +583,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find all numbers disappeared in an array](Solutions/F/find-all-numbers-disappeared-in-an-array)
 * [Find the duplicate number](Solutions/F/find-the-duplicate-number)
 * [Flatten nested list iterator](Solutions/F/flatten-nested-list-iterator)
+* [How many numbers are smaller than the current number](Solutions/H/how-many-numbers-are-smaller-than-the-current-number)
 
 ## Time reversed simulation
 * [Backspace string compare](Solutions/B/backspace-string-compare)
@@ -584,6 +632,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find a corresponding node of a binary tree in a clone of that tree](Solutions/F/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree)
 * [Flatten binary tree to linked list](Solutions/F/flatten-binary-tree-to-linked-list)
 * [Flip binary tree to match preorder traversal](Solutions/F/flip-binary-tree-to-match-preorder-traversal)
+* [House robber iii](Solutions/H/house-robber-iii)
 
 ### Order traversal
 * [Construct binary tree from inorder and postorder traversal](Solutions/C/construct-binary-tree-from-inorder-and-postorder-traversal)
@@ -595,6 +644,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## Trie
 * [Design add and search words data structure](Solutions/D/design-add-and-search-words-data-structure)
+* [Implement trie prefix tree](Solutions/I/implement-trie-prefix-tree)
 
 ## Unique elements in subarray
 * [Count unique characters of all substrings of a given string](Solutions/C/count-unique-characters-of-all-substrings-of-a-given-string)
@@ -611,30 +661,6 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Counting elements](Solutions/C/counting-elements)
 * [Decoded string at index](Solutions/D/decoded-string-at-index)
 * [Flip string to monotone increasing](Solutions/F/flip-string-to-monotone-increasing)
-* [Generate parentheses](Solutions/G/generate-parentheses)
-* [Generate random point in a circle](Solutions/G/generate-random-point-in-a-circle)
-* [Get biggest three rhombus sums in a grid](Solutions/G/get-biggest-three-rhombus-sums-in-a-grid)
-* [Get maximum in generated array](Solutions/G/get-maximum-in-generated-array)
-* [Global and local inversions](Solutions/G/global-and-local-inversions)
-* [Goat latin](Solutions/G/goat-latin)
-* [Gray code](Solutions/G/gray-code)
-* [Greatest common divisor of strings](Solutions/G/greatest-common-divisor-of-strings)
-* [Greatest english letter in upper and lower case](Solutions/G/greatest-english-letter-in-upper-and-lower-case)
-* [Group anagrams](Solutions/G/group-anagrams)
-* [Guess number higher or lower](Solutions/G/guess-number-higher-or-lower)
-* [H index](Solutions/H/h-index)
-* [H index ii](Solutions/H/h-index-ii)
-* [Hamming distance](Solutions/H/hamming-distance)
-* [Happy number](Solutions/H/happy-number)
-* [House robber](Solutions/H/house-robber)
-* [House robber ii](Solutions/H/house-robber-ii)
-* [House robber iii](Solutions/H/house-robber-iii)
-* [How many numbers are smaller than the current number](Solutions/H/how-many-numbers-are-smaller-than-the-current-number)
-* [Image overlap](Solutions/I/image-overlap)
-* [Implement rand10 using rand7](Solutions/I/implement-rand10-using-rand7)
-* [Implement stack using queues](Solutions/I/implement-stack-using-queues)
-* [Implement strstr](Solutions/I/implement-strstr)
-* [Implement trie prefix tree](Solutions/I/implement-trie-prefix-tree)
 * [Increasing order search tree](Solutions/I/increasing-order-search-tree)
 * [Increasing triplet subsequence](Solutions/I/increasing-triplet-subsequence)
 * [Incremental memory leak](Solutions/I/incremental-memory-leak)

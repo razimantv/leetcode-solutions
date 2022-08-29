@@ -15,10 +15,12 @@ Concurrency
 Construction
 Counting elements in array
 Design data structure
+Design data structure>Interconversion
 Disjoint set union
 Dynamic programming
 Dynamic programming>Array reuse
 Dynamic programming>Auxiliary array
+Dynamic programming>Cyclic array
 Dynamic programming>Digits
 Dynamic programming>Knapsack
 Dynamic programming>Longest common subsequence
@@ -61,6 +63,7 @@ Mathematics>Geometry>Geometric median
 Mathematics>Number theory>Basic
 Mathematics>Number theory>Modular exponentiation/inverse
 Mathematics>Number theory>Prime sieving
+Mathematics>Probability
 Matrix>Geometric transformation
 Matrix>Path
 Matrix>Traversal
@@ -68,6 +71,7 @@ Meet in the middle
 Palindrome
 Permutation>Cycle
 Permutation>Inverse
+Permutation>Inversions
 Pointers
 Prefix>Extremum
 Prefix>Sum
@@ -79,6 +83,7 @@ Priority queue>K smallest/largest elements>Transfer between the two
 Segment tree
 Simple implementation
 Sliding window
+Sliding window>String hashing
 Sorting>Custom
 Sorting>Partial
 Sorting>Remembering index
@@ -86,8 +91,10 @@ Stack
 Stack>From array elements
 Stack>Monotonic stack
 Stack>Numerical operations
+String>Anagrams
 String>Parsing
 String>Parsing>Recursive
+String>Search>Hashing
 String>Validation
 Suboptimal solution
 Time reversed simulation
