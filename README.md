@@ -92,6 +92,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## Brute force enumeration with combinatorics
 * [Fair distribution of cookies](Solutions/F/fair-distribution-of-cookies)
+* [Iterator for combination](Solutions/I/iterator-for-combination)
 
 ## Concurrency
 * [Building h2o](Solutions/B/building-h2o)
@@ -105,6 +106,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [3sum with multiplicity](Solutions/0-9/3sum-with-multiplicity)
 * [Determine if two strings are close](Solutions/D/determine-if-two-strings-are-close)
 * [Find all anagrams in a string](Solutions/F/find-all-anagrams-in-a-string)
+* [Intersection of two arrays ii](Solutions/I/intersection-of-two-arrays-ii)
 
 ## Design data structure
 * [Design a food rating system](Solutions/D/design-a-food-rating-system)
@@ -118,6 +120,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Design underground system](Solutions/D/design-underground-system)
 * [Encode and decode tinyurl](Solutions/E/encode-and-decode-tinyurl)
 * [Implement trie prefix tree](Solutions/I/implement-trie-prefix-tree)
+* [Insert delete getrandom o1](Solutions/I/insert-delete-getrandom-o1)
+* [Iterator for combination](Solutions/I/iterator-for-combination)
 
 ### Interconversion
 * [Implement stack using queues](Solutions/I/implement-stack-using-queues)
@@ -153,6 +157,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Coin change 2](Solutions/C/coin-change-2)
 * [Delete operation for two strings](Solutions/D/delete-operation-for-two-strings)
 * [Distinct subsequences](Solutions/D/distinct-subsequences)
+* [Interleaving string](Solutions/I/interleaving-string)
 
 ### Auxiliary array
 * [Best time to buy and sell stock iv](Solutions/B/best-time-to-buy-and-sell-stock-iv)
@@ -199,6 +204,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## Formatted output
 * [Binary watch](Solutions/B/binary-watch)
+* [Integer to english words](Solutions/I/integer-to-english-words)
+* [Integer to roman](Solutions/I/integer-to-roman)
 
 ## Fraud
 * [Add strings](Solutions/A/add-strings)
@@ -231,6 +238,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Detect cycles in 2d grid](Solutions/D/detect-cycles-in-2d-grid)
 * [Employee importance](Solutions/E/employee-importance)
 
+#### Colouring
+* [Is graph bipartite](Solutions/I/is-graph-bipartite)
+
 #### Component decomposition
 * [Count unreachable pairs of nodes in an undirected graph](Solutions/C/count-unreachable-pairs-of-nodes-in-an-undirected-graph)
 * [Evaluate division](Solutions/E/evaluate-division)
@@ -260,6 +270,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Eliminate maximum number of monsters](Solutions/E/eliminate-maximum-number-of-monsters)
 * [Furthest building you can reach](Solutions/F/furthest-building-you-can-reach)
 * [Gas station](Solutions/G/gas-station)
+* [Is subsequence](Solutions/I/is-subsequence)
 * [Longest subsequence with limited sum](Solutions/L/longest-subsequence-with-limited-sum)
 
 ## Hashmap
@@ -282,6 +293,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [First unique character in a string](Solutions/F/first-unique-character-in-a-string)
 * [Greatest english letter in upper and lower case](Solutions/G/greatest-english-letter-in-upper-and-lower-case)
 * [Group anagrams](Solutions/G/group-anagrams)
+* [Intersection of two arrays ii](Solutions/I/intersection-of-two-arrays-ii)
 * [Minimum amount of time to collect garbage](Solutions/M/minimum-amount-of-time-to-collect-garbage)
 
 ### Coordinate compression
@@ -290,6 +302,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### Forward and backward
 * [Find and replace pattern](Solutions/F/find-and-replace-pattern)
 * [First unique number](Solutions/F/first-unique-number)
+* [Insert delete getrandom o1](Solutions/I/insert-delete-getrandom-o1)
+* [Isomorphic strings](Solutions/I/isomorphic-strings)
 
 ### Update using insert and delete
 * [Finding pairs with a certain sum](Solutions/F/finding-pairs-with-a-certain-sum)
@@ -302,12 +316,16 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Complex number multiplication](Solutions/C/complex-number-multiplication)
 
 ## Intervals
+* [Insert interval](Solutions/I/insert-interval)
 
 ### Endpoint sorting
 * [Car pooling](Solutions/C/car-pooling)
 
 ### Non-overlapping decomposition
 * [Falling squares](Solutions/F/falling-squares)
+
+### Overlap
+* [Interval list intersections](Solutions/I/interval-list-intersections)
 
 ## Linked list
 
@@ -320,6 +338,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Delete node in a linked list](Solutions/D/delete-node-in-a-linked-list)
 * [Flatten a multilevel doubly linked list](Solutions/F/flatten-a-multilevel-doubly-linked-list)
 * [Flatten binary tree to linked list](Solutions/F/flatten-binary-tree-to-linked-list)
+* [Insertion sort list](Solutions/I/insertion-sort-list)
+* [Intersection of two linked lists](Solutions/I/intersection-of-two-linked-lists)
 
 ### Recursion
 * [Flatten a multilevel doubly linked list](Solutions/F/flatten-a-multilevel-doubly-linked-list)
@@ -348,6 +368,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count the number of ideal arrays](Solutions/C/count-the-number-of-ideal-arrays)
 * [Count unreachable pairs of nodes in an undirected graph](Solutions/C/count-unreachable-pairs-of-nodes-in-an-undirected-graph)
 * [Domino and tromino tiling](Solutions/D/domino-and-tromino-tiling)
+* [Iterator for combination](Solutions/I/iterator-for-combination)
 
 ### Composition of operations
 * [Fancy sequence](Solutions/F/fancy-sequence)
@@ -369,6 +390,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Check if it is a good array](Solutions/C/check-if-it-is-a-good-array)
 * [Factorial trailing zeroes](Solutions/F/factorial-trailing-zeroes)
 * [Find the student that will replace the chalk](Solutions/F/find-the-student-that-will-replace-the-chalk)
+* [Integer break](Solutions/I/integer-break)
 
 #### Modular exponentiation/inverse
 * [Count good numbers](Solutions/C/count-good-numbers)
@@ -381,6 +403,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### Probability
 * [Generate random point in a circle](Solutions/G/generate-random-point-in-a-circle)
 * [Implement rand10 using rand7](Solutions/I/implement-rand10-using-rand7)
+* [Insert delete getrandom o1](Solutions/I/insert-delete-getrandom-o1)
 
 ## Matrix
 
@@ -427,6 +450,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Best time to buy and sell stock](Solutions/B/best-time-to-buy-and-sell-stock)
 * [Best time to buy and sell stock iii](Solutions/B/best-time-to-buy-and-sell-stock-iii)
 * [Global and local inversions](Solutions/G/global-and-local-inversions)
+* [Increasing triplet subsequence](Solutions/I/increasing-triplet-subsequence)
 
 ### Sum
 * [Contiguous array](Solutions/C/contiguous-array)
@@ -501,6 +525,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Greatest english letter in upper and lower case](Solutions/G/greatest-english-letter-in-upper-and-lower-case)
 * [How many numbers are smaller than the current number](Solutions/H/how-many-numbers-are-smaller-than-the-current-number)
 * [Image overlap](Solutions/I/image-overlap)
+* [Incremental memory leak](Solutions/I/incremental-memory-leak)
+* [Integer replacement](Solutions/I/integer-replacement)
+* [Island perimeter](Solutions/I/island-perimeter)
 
 ## Sliding window
 * [3sum](Solutions/0-9/3sum)
@@ -573,6 +600,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 #### Hashing
 * [Implement strstr](Solutions/I/implement-strstr)
 
+### Subsequence
+* [Is subsequence](Solutions/I/is-subsequence)
+
 ### Validation
 * [Ambiguous coordinates](Solutions/A/ambiguous-coordinates)
 
@@ -592,6 +622,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## Tree
 
 ### Binary search tree
+* [Insert into a binary search tree](Solutions/I/insert-into-a-binary-search-tree)
 
 #### Traversal
 * [All elements in two binary search trees](Solutions/A/all-elements-in-two-binary-search-trees)
@@ -599,6 +630,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Construct binary search tree from preorder traversal](Solutions/C/construct-binary-search-tree-from-preorder-traversal)
 * [Convert bst to greater tree](Solutions/C/convert-bst-to-greater-tree)
 * [Delete node in a bst](Solutions/D/delete-node-in-a-bst)
+* [Increasing order search tree](Solutions/I/increasing-order-search-tree)
 
 ### Binary tree
 
@@ -633,6 +665,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Flatten binary tree to linked list](Solutions/F/flatten-binary-tree-to-linked-list)
 * [Flip binary tree to match preorder traversal](Solutions/F/flip-binary-tree-to-match-preorder-traversal)
 * [House robber iii](Solutions/H/house-robber-iii)
+* [Increasing order search tree](Solutions/I/increasing-order-search-tree)
+* [Invert binary tree](Solutions/I/invert-binary-tree)
 
 ### Order traversal
 * [Construct binary tree from inorder and postorder traversal](Solutions/C/construct-binary-tree-from-inorder-and-postorder-traversal)
@@ -661,27 +695,6 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Counting elements](Solutions/C/counting-elements)
 * [Decoded string at index](Solutions/D/decoded-string-at-index)
 * [Flip string to monotone increasing](Solutions/F/flip-string-to-monotone-increasing)
-* [Increasing order search tree](Solutions/I/increasing-order-search-tree)
-* [Increasing triplet subsequence](Solutions/I/increasing-triplet-subsequence)
-* [Incremental memory leak](Solutions/I/incremental-memory-leak)
-* [Insert delete getrandom o1](Solutions/I/insert-delete-getrandom-o1)
-* [Insert interval](Solutions/I/insert-interval)
-* [Insert into a binary search tree](Solutions/I/insert-into-a-binary-search-tree)
-* [Insertion sort list](Solutions/I/insertion-sort-list)
-* [Integer break](Solutions/I/integer-break)
-* [Integer replacement](Solutions/I/integer-replacement)
-* [Integer to english words](Solutions/I/integer-to-english-words)
-* [Integer to roman](Solutions/I/integer-to-roman)
-* [Interleaving string](Solutions/I/interleaving-string)
-* [Intersection of two arrays ii](Solutions/I/intersection-of-two-arrays-ii)
-* [Intersection of two linked lists](Solutions/I/intersection-of-two-linked-lists)
-* [Interval list intersections](Solutions/I/interval-list-intersections)
-* [Invert binary tree](Solutions/I/invert-binary-tree)
-* [Is graph bipartite](Solutions/I/is-graph-bipartite)
-* [Is subsequence](Solutions/I/is-subsequence)
-* [Island perimeter](Solutions/I/island-perimeter)
-* [Isomorphic strings](Solutions/I/isomorphic-strings)
-* [Iterator for combination](Solutions/I/iterator-for-combination)
 * [Jewels and stones](Solutions/J/jewels-and-stones)
 * [Jump game](Solutions/J/jump-game)
 * [Jump game ii](Solutions/J/jump-game-ii)

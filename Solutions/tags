@@ -38,6 +38,7 @@ Graph theory>Bridges/Articulation points
 Graph theory>Cycle detection
 Graph theory>Degree counting
 Graph theory>Depth first search
+Graph theory>Depth first search>Colouring
 Graph theory>Depth first search>Component decomposition
 Graph theory>Depth first search>Flood fill
 Graph theory>Directed acyclic graph
@@ -49,8 +50,10 @@ Hashmap>Coordinate compression
 Hashmap>Forward and backward
 Hashmap>Update using insert and delete
 Integer operations on strings
+Intervals
 Intervals>Endpoint sorting
 Intervals>Non-overlapping decomposition
+Intervals>Overlap
 Linked list>Iteration
 Linked list>Recursion
 Mathematics>Advanced
@@ -95,9 +98,11 @@ String>Anagrams
 String>Parsing
 String>Parsing>Recursive
 String>Search>Hashing
+String>Subsequence
 String>Validation
 Suboptimal solution
 Time reversed simulation
+Tree>Binary search tree
 Tree>Binary search tree>Traversal
 Tree>Binary tree>Recursion
 Tree>Order traversal
