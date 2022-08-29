@@ -35,6 +35,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### Right to left
 * [Execution of all suffix instructions staying in a grid](Solutions/E/execution-of-all-suffix-instructions-staying-in-a-grid)
+* [Jump game ii](Solutions/J/jump-game-ii)
+* [Jump game vi](Solutions/J/jump-game-vi)
 
 ## Averaging from total and count
 * [Average of levels in binary tree](Solutions/A/average-of-levels-in-binary-tree)
@@ -149,6 +151,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Edit distance](Solutions/E/edit-distance)
 * [Fibonacci number](Solutions/F/fibonacci-number)
 * [House robber](Solutions/H/house-robber)
+* [Jump game](Solutions/J/jump-game)
+* [Jump game ii](Solutions/J/jump-game-ii)
 
 ### Array reuse
 * [Champagne tower](Solutions/C/champagne-tower)
@@ -220,6 +224,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [01 matrix](Solutions/0-9/01-matrix)
 * [Amount of time for binary tree to be infected](Solutions/A/amount-of-time-for-binary-tree-to-be-infected)
 * [Bus routes](Solutions/B/bus-routes)
+* [Jump game iv](Solutions/J/jump-game-iv)
 
 ### Bridges/Articulation points
 * [Critical connections in a network](Solutions/C/critical-connections-in-a-network)
@@ -237,6 +242,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Delete nodes and return forest](Solutions/D/delete-nodes-and-return-forest)
 * [Detect cycles in 2d grid](Solutions/D/detect-cycles-in-2d-grid)
 * [Employee importance](Solutions/E/employee-importance)
+* [Jump game iii](Solutions/J/jump-game-iii)
+* [Keys and rooms](Solutions/K/keys-and-rooms)
 
 #### Colouring
 * [Is graph bipartite](Solutions/I/is-graph-bipartite)
@@ -294,6 +301,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Greatest english letter in upper and lower case](Solutions/G/greatest-english-letter-in-upper-and-lower-case)
 * [Group anagrams](Solutions/G/group-anagrams)
 * [Intersection of two arrays ii](Solutions/I/intersection-of-two-arrays-ii)
+* [Jewels and stones](Solutions/J/jewels-and-stones)
+* [K diff pairs in an array](Solutions/K/k-diff-pairs-in-an-array)
 * [Minimum amount of time to collect garbage](Solutions/M/minimum-amount-of-time-to-collect-garbage)
 
 ### Coordinate compression
@@ -304,6 +313,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [First unique number](Solutions/F/first-unique-number)
 * [Insert delete getrandom o1](Solutions/I/insert-delete-getrandom-o1)
 * [Isomorphic strings](Solutions/I/isomorphic-strings)
+
+### Group items
+* [Jump game iv](Solutions/J/jump-game-iv)
 
 ### Update using insert and delete
 * [Finding pairs with a certain sum](Solutions/F/finding-pairs-with-a-certain-sum)
@@ -464,6 +476,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## Priority queue
 * [First unique character in a string](Solutions/F/first-unique-character-in-a-string)
 * [Furthest building you can reach](Solutions/F/furthest-building-you-can-reach)
+* [Jump game vi](Solutions/J/jump-game-vi)
 
 ### Dijkstra-like processing of subarrays
 * [Find the k sum of an array](Solutions/F/find-the-k-sum-of-an-array)
@@ -488,6 +501,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Create sorted array through instructions](Solutions/C/create-sorted-array-through-instructions)
 * [Delivering boxes from storage to ports](Solutions/D/delivering-boxes-from-storage-to-ports)
 * [Fancy sequence](Solutions/F/fancy-sequence)
+* [Jump game vii](Solutions/J/jump-game-vii)
 
 ## Simple implementation
 * [Arranging coins](Solutions/A/arranging-coins)
@@ -554,9 +568,11 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Design a food rating system](Solutions/D/design-a-food-rating-system)
 * [Eliminate maximum number of monsters](Solutions/E/eliminate-maximum-number-of-monsters)
 * [Find k closest elements](Solutions/F/find-k-closest-elements)
+* [K closest points to origin](Solutions/K/k-closest-points-to-origin)
 
 ### Partial
 * [Find k closest elements](Solutions/F/find-k-closest-elements)
+* [K closest points to origin](Solutions/K/k-closest-points-to-origin)
 
 ### Remembering index
 * [Find right interval](Solutions/F/find-right-interval)
@@ -695,17 +711,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Counting elements](Solutions/C/counting-elements)
 * [Decoded string at index](Solutions/D/decoded-string-at-index)
 * [Flip string to monotone increasing](Solutions/F/flip-string-to-monotone-increasing)
-* [Jewels and stones](Solutions/J/jewels-and-stones)
-* [Jump game](Solutions/J/jump-game)
-* [Jump game ii](Solutions/J/jump-game-ii)
-* [Jump game iii](Solutions/J/jump-game-iii)
-* [Jump game iv](Solutions/J/jump-game-iv)
-* [Jump game vi](Solutions/J/jump-game-vi)
-* [Jump game vii](Solutions/J/jump-game-vii)
-* [K closest points to origin](Solutions/K/k-closest-points-to-origin)
-* [K diff pairs in an array](Solutions/K/k-diff-pairs-in-an-array)
 * [K inverse pairs array](Solutions/K/k-inverse-pairs-array)
-* [Keys and rooms](Solutions/K/keys-and-rooms)
 * [Koko eating bananas](Solutions/K/koko-eating-bananas)
 * [Kth largest element in a stream](Solutions/K/kth-largest-element-in-a-stream)
 * [Kth largest element in an array](Solutions/K/kth-largest-element-in-an-array)

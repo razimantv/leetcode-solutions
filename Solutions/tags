@@ -48,6 +48,7 @@ Greedy
 Hashmap
 Hashmap>Coordinate compression
 Hashmap>Forward and backward
+Hashmap>Group items
 Hashmap>Update using insert and delete
 Integer operations on strings
 Intervals
