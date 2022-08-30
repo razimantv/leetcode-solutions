@@ -28,6 +28,7 @@ Dynamic programming>Memoised recursion
 Dynamic programming>Number theory
 Dynamic programming>Segment tree
 Dynamic programming>Subsets
+Dynamic programming>Topological sort
 Dynamic programming>Trees
 Encoding and decoding
 Flattening
@@ -44,6 +45,7 @@ Graph theory>Depth first search>Flood fill
 Graph theory>Directed acyclic graph
 Graph theory>Single outdegree graphs
 Graph theory>Topological sort
+Graph theory>Topological sort>Dynamic Programming
 Greedy
 Hashmap
 Hashmap>Coordinate compression
@@ -65,6 +67,8 @@ Mathematics>Geometry
 Mathematics>Geometry>Convex hull
 Mathematics>Geometry>Geometric median
 Mathematics>Number theory>Basic
+Mathematics>Number theory>Dynamic programming
+Mathematics>Number theory>Factor listing in sqrt(N)
 Mathematics>Number theory>Modular exponentiation/inverse
 Mathematics>Number theory>Prime sieving
 Mathematics>Probability

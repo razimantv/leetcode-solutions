@@ -21,6 +21,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### From both ends of array
 * [Best time to buy and sell stock iii](Solutions/B/best-time-to-buy-and-sell-stock-iii)
 * [Candy](Solutions/C/candy)
+* [Largest plus sign](Solutions/L/largest-plus-sign)
 
 ### In-place modification
 * [Duplicate zeros](Solutions/D/duplicate-zeros)
@@ -37,6 +38,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Execution of all suffix instructions staying in a grid](Solutions/E/execution-of-all-suffix-instructions-staying-in-a-grid)
 * [Jump game ii](Solutions/J/jump-game-ii)
 * [Jump game vi](Solutions/J/jump-game-vi)
+* [Largest odd number in string](Solutions/L/largest-odd-number-in-string)
 
 ## Averaging from total and count
 * [Average of levels in binary tree](Solutions/A/average-of-levels-in-binary-tree)
@@ -112,6 +114,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Determine if two strings are close](Solutions/D/determine-if-two-strings-are-close)
 * [Find all anagrams in a string](Solutions/F/find-all-anagrams-in-a-string)
 * [Intersection of two arrays ii](Solutions/I/intersection-of-two-arrays-ii)
+* [Largest palindromic number](Solutions/L/largest-palindromic-number)
 
 ## Design data structure
 * [Design a food rating system](Solutions/D/design-a-food-rating-system)
@@ -133,6 +136,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## Disjoint set union
 * [Accounts merge](Solutions/A/accounts-merge)
+* [Largest component size by common factor](Solutions/L/largest-component-size-by-common-factor)
 
 ## Dynamic programming
 * [Arithmetic slices ii subsequence](Solutions/A/arithmetic-slices-ii-subsequence)
@@ -189,6 +193,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### Number theory
 * [Count the number of ideal arrays](Solutions/C/count-the-number-of-ideal-arrays)
+* [Largest divisible subset](Solutions/L/largest-divisible-subset)
 
 ### Segment tree
 * [Delivering boxes from storage to ports](Solutions/D/delivering-boxes-from-storage-to-ports)
@@ -196,6 +201,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### Subsets
 * [Construct smallest number from di string](Solutions/C/construct-smallest-number-from-di-string)
 * [Find the shortest superstring](Solutions/F/find-the-shortest-superstring)
+
+### Topological sort
+* [Largest color value in a directed graph](Solutions/L/largest-color-value-in-a-directed-graph)
 
 ### Trees
 * [Diameter of binary tree](Solutions/D/diameter-of-binary-tree)
@@ -271,6 +279,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Course schedule](Solutions/C/course-schedule)
 * [Course schedule ii](Solutions/C/course-schedule-ii)
 
+#### Dynamic Programming
+* [Largest color value in a directed graph](Solutions/L/largest-color-value-in-a-directed-graph)
+
 ## Greedy
 * [Advantage shuffle](Solutions/A/advantage-shuffle)
 * [Bag of tokens](Solutions/B/bag-of-tokens)
@@ -282,6 +293,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Furthest building you can reach](Solutions/F/furthest-building-you-can-reach)
 * [Gas station](Solutions/G/gas-station)
 * [Is subsequence](Solutions/I/is-subsequence)
+* [Largest number](Solutions/L/largest-number)
 * [Longest subsequence with limited sum](Solutions/L/longest-subsequence-with-limited-sum)
 
 ## Hashmap
@@ -409,6 +421,12 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find the student that will replace the chalk](Solutions/F/find-the-student-that-will-replace-the-chalk)
 * [Integer break](Solutions/I/integer-break)
 
+#### Dynamic programming
+* [Largest divisible subset](Solutions/L/largest-divisible-subset)
+
+#### Factor listing in sqrt(N)
+* [Largest divisible subset](Solutions/L/largest-divisible-subset)
+
 #### Modular exponentiation/inverse
 * [Count good numbers](Solutions/C/count-good-numbers)
 * [Count the number of ideal arrays](Solutions/C/count-the-number-of-ideal-arrays)
@@ -416,6 +434,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 #### Prime sieving
 * [Count primes](Solutions/C/count-primes)
 * [Count the number of ideal arrays](Solutions/C/count-the-number-of-ideal-arrays)
+* [Largest component size by common factor](Solutions/L/largest-component-size-by-common-factor)
 
 ### Probability
 * [Generate random point in a circle](Solutions/G/generate-random-point-in-a-circle)
@@ -442,6 +461,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## Palindrome
 * [Break a palindrome](Solutions/B/break-a-palindrome)
+* [Largest palindromic number](Solutions/L/largest-palindromic-number)
 
 ## Permutation
 
@@ -482,6 +502,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [First unique character in a string](Solutions/F/first-unique-character-in-a-string)
 * [Furthest building you can reach](Solutions/F/furthest-building-you-can-reach)
 * [Jump game vi](Solutions/J/jump-game-vi)
+* [Last stone weight](Solutions/L/last-stone-weight)
 
 ### Dijkstra-like processing of subarrays
 * [Find the k sum of an array](Solutions/F/find-the-k-sum-of-an-array)
@@ -551,6 +572,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Incremental memory leak](Solutions/I/incremental-memory-leak)
 * [Integer replacement](Solutions/I/integer-replacement)
 * [Island perimeter](Solutions/I/island-perimeter)
+* [Largest local values in a matrix](Solutions/L/largest-local-values-in-a-matrix)
+* [Largest magic square](Solutions/L/largest-magic-square)
+* [Largest time for given digits](Solutions/L/largest-time-for-given-digits)
 
 ## Sliding window
 * [3sum](Solutions/0-9/3sum)
@@ -578,6 +602,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Eliminate maximum number of monsters](Solutions/E/eliminate-maximum-number-of-monsters)
 * [Find k closest elements](Solutions/F/find-k-closest-elements)
 * [K closest points to origin](Solutions/K/k-closest-points-to-origin)
+* [Largest number](Solutions/L/largest-number)
 
 ### Partial
 * [Find k closest elements](Solutions/F/find-k-closest-elements)
@@ -595,6 +620,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### Monotonic stack
 * [Daily temperatures](Solutions/D/daily-temperatures)
+* [Largest rectangle in histogram](Solutions/L/largest-rectangle-in-histogram)
 
 ### Numerical operations
 * [Baseball game](Solutions/B/baseball-game)
@@ -724,18 +750,6 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Counting elements](Solutions/C/counting-elements)
 * [Decoded string at index](Solutions/D/decoded-string-at-index)
 * [Flip string to monotone increasing](Solutions/F/flip-string-to-monotone-increasing)
-* [Largest color value in a directed graph](Solutions/L/largest-color-value-in-a-directed-graph)
-* [Largest component size by common factor](Solutions/L/largest-component-size-by-common-factor)
-* [Largest divisible subset](Solutions/L/largest-divisible-subset)
-* [Largest local values in a matrix](Solutions/L/largest-local-values-in-a-matrix)
-* [Largest magic square](Solutions/L/largest-magic-square)
-* [Largest number](Solutions/L/largest-number)
-* [Largest odd number in string](Solutions/L/largest-odd-number-in-string)
-* [Largest palindromic number](Solutions/L/largest-palindromic-number)
-* [Largest plus sign](Solutions/L/largest-plus-sign)
-* [Largest rectangle in histogram](Solutions/L/largest-rectangle-in-histogram)
-* [Largest time for given digits](Solutions/L/largest-time-for-given-digits)
-* [Last stone weight](Solutions/L/last-stone-weight)
 * [Leftmost column with at least a one](Solutions/L/leftmost-column-with-at-least-a-one)
 * [Length of last word](Solutions/L/length-of-last-word)
 * [Letter case permutation](Solutions/L/letter-case-permutation)
