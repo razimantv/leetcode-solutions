@@ -304,6 +304,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Jewels and stones](Solutions/J/jewels-and-stones)
 * [K diff pairs in an array](Solutions/K/k-diff-pairs-in-an-array)
 * [Minimum amount of time to collect garbage](Solutions/M/minimum-amount-of-time-to-collect-garbage)
+* [Number of atoms](Solutions/N/number-of-atoms)
 
 ### Coordinate compression
 * [Design underground system](Solutions/D/design-underground-system)
@@ -610,6 +611,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 #### Recursive
 * [Decode string](Solutions/D/decode-string)
+* [Number of atoms](Solutions/N/number-of-atoms)
 
 ### Search
 
