@@ -81,9 +81,10 @@ Prefix>Extremum
 Prefix>Sum
 Priority queue
 Priority queue>Dijkstra-like processing of subarrays
-Priority queue>Key update using insert and remove on C++ set
 Priority queue>K smallest/largest elements
 Priority queue>K smallest/largest elements>Transfer between the two
+Priority queue>Key update using insert and remove on C++ set
+Quick Select
 Segment tree
 Simple implementation
 Sliding window
@@ -109,5 +110,5 @@ Tree>Binary tree>Recursion
 Tree>Order traversal
 Tree>Rerooting
 Trie
-Unique/duplicate element finding with bizarro algorithms
 Unique elements in subarray
+Unique/duplicate element finding with bizarro algorithms

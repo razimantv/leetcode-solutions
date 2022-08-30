@@ -65,6 +65,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Guess number higher or lower](Solutions/G/guess-number-higher-or-lower)
 * [H index](Solutions/H/h-index)
 * [H index ii](Solutions/H/h-index-ii)
+* [Koko eating bananas](Solutions/K/koko-eating-bananas)
+* [Kth smallest element in a sorted matrix](Solutions/K/kth-smallest-element-in-a-sorted-matrix)
+* [Kth smallest number in multiplication table](Solutions/K/kth-smallest-number-in-multiplication-table)
 * [Longest subsequence with limited sum](Solutions/L/longest-subsequence-with-limited-sum)
 
 ### C++ set
@@ -162,6 +165,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Delete operation for two strings](Solutions/D/delete-operation-for-two-strings)
 * [Distinct subsequences](Solutions/D/distinct-subsequences)
 * [Interleaving string](Solutions/I/interleaving-string)
+* [K inverse pairs array](Solutions/K/k-inverse-pairs-array)
 
 ### Auxiliary array
 * [Best time to buy and sell stock iv](Solutions/B/best-time-to-buy-and-sell-stock-iv)
@@ -485,6 +489,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### K smallest/largest elements
 * [Find the most competitive subsequence](Solutions/F/find-the-most-competitive-subsequence)
 * [Get biggest three rhombus sums in a grid](Solutions/G/get-biggest-three-rhombus-sums-in-a-grid)
+* [Kth largest element in a stream](Solutions/K/kth-largest-element-in-a-stream)
 
 #### Transfer between the two
 * [Find median from data stream](Solutions/F/find-median-from-data-stream)
@@ -494,6 +499,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Design a food rating system](Solutions/D/design-a-food-rating-system)
 * [Design a number container system](Solutions/D/design-a-number-container-system)
 * [Design authentication manager](Solutions/D/design-authentication-manager)
+
+## Quick Select
+* [Kth largest element in an array](Solutions/K/kth-largest-element-in-an-array)
 
 ## Segment tree
 * [Count of range sum](Solutions/C/count-of-range-sum)
@@ -632,6 +640,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find the duplicate number](Solutions/F/find-the-duplicate-number)
 * [Flatten nested list iterator](Solutions/F/flatten-nested-list-iterator)
 * [How many numbers are smaller than the current number](Solutions/H/how-many-numbers-are-smaller-than-the-current-number)
+* [Kth missing positive number](Solutions/K/kth-missing-positive-number)
 
 ## Time reversed simulation
 * [Backspace string compare](Solutions/B/backspace-string-compare)
@@ -641,6 +650,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### Binary search tree
 * [Insert into a binary search tree](Solutions/I/insert-into-a-binary-search-tree)
+* [Kth smallest element in a bst](Solutions/K/kth-smallest-element-in-a-bst)
 
 #### Traversal
 * [All elements in two binary search trees](Solutions/A/all-elements-in-two-binary-search-trees)
@@ -685,6 +695,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [House robber iii](Solutions/H/house-robber-iii)
 * [Increasing order search tree](Solutions/I/increasing-order-search-tree)
 * [Invert binary tree](Solutions/I/invert-binary-tree)
+* [Kth smallest element in a bst](Solutions/K/kth-smallest-element-in-a-bst)
 
 ### Order traversal
 * [Construct binary tree from inorder and postorder traversal](Solutions/C/construct-binary-tree-from-inorder-and-postorder-traversal)
@@ -713,14 +724,6 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Counting elements](Solutions/C/counting-elements)
 * [Decoded string at index](Solutions/D/decoded-string-at-index)
 * [Flip string to monotone increasing](Solutions/F/flip-string-to-monotone-increasing)
-* [K inverse pairs array](Solutions/K/k-inverse-pairs-array)
-* [Koko eating bananas](Solutions/K/koko-eating-bananas)
-* [Kth largest element in a stream](Solutions/K/kth-largest-element-in-a-stream)
-* [Kth largest element in an array](Solutions/K/kth-largest-element-in-an-array)
-* [Kth missing positive number](Solutions/K/kth-missing-positive-number)
-* [Kth smallest element in a bst](Solutions/K/kth-smallest-element-in-a-bst)
-* [Kth smallest element in a sorted matrix](Solutions/K/kth-smallest-element-in-a-sorted-matrix)
-* [Kth smallest number in multiplication table](Solutions/K/kth-smallest-number-in-multiplication-table)
 * [Largest color value in a directed graph](Solutions/L/largest-color-value-in-a-directed-graph)
 * [Largest component size by common factor](Solutions/L/largest-component-size-by-common-factor)
 * [Largest divisible subset](Solutions/L/largest-divisible-subset)
