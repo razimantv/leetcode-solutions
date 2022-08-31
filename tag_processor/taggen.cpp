@@ -79,6 +79,7 @@ int main() {
     for (auto& token : prevtag) {
       if (level == tag.size() or token != tag[level]) break;
       if (!taglabel.empty()) taglabel += '-';
+      taglabel += sanitize(tag[level]);
       ++level;
     }
     while (level < tag.size()) {

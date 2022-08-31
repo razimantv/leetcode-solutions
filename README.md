@@ -18,23 +18,23 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count binary substrings](Solutions/C/count-binary-substrings)
 * [Distribute candies](Solutions/D/distribute-candies)
 
-### <a name="From_both_ends_of_array">From both ends of array</a>
+### <a name="Array_scanning-From_both_ends_of_array">From both ends of array</a>
 * [Best time to buy and sell stock iii](Solutions/B/best-time-to-buy-and-sell-stock-iii)
 * [Candy](Solutions/C/candy)
 * [Largest plus sign](Solutions/L/largest-plus-sign)
 
-### <a name="In_place_modification">In-place modification</a>
+### <a name="Array_scanning-In_place_modification">In-place modification</a>
 * [Duplicate zeros](Solutions/D/duplicate-zeros)
 * [Find all duplicates in an array](Solutions/F/find-all-duplicates-in-an-array)
 
-### <a name="Location_of_previous_element_with_same_value">Location of previous element with same value</a>
+### <a name="Array_scanning-Location_of_previous_element_with_same_value">Location of previous element with same value</a>
 * [Count unique characters of all substrings of a given string](Solutions/C/count-unique-characters-of-all-substrings-of-a-given-string)
 * [Execution of all suffix instructions staying in a grid](Solutions/E/execution-of-all-suffix-instructions-staying-in-a-grid)
 
-### <a name="Modify_element_with_index">Modify element with index</a>
+### <a name="Array_scanning-Modify_element_with_index">Modify element with index</a>
 * [Best sightseeing pair](Solutions/B/best-sightseeing-pair)
 
-### <a name="Right_to_left">Right to left</a>
+### <a name="Array_scanning-Right_to_left">Right to left</a>
 * [Execution of all suffix instructions staying in a grid](Solutions/E/execution-of-all-suffix-instructions-staying-in-a-grid)
 * [Jump game ii](Solutions/J/jump-game-ii)
 * [Jump game vi](Solutions/J/jump-game-vi)
@@ -72,13 +72,13 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Kth smallest number in multiplication table](Solutions/K/kth-smallest-number-in-multiplication-table)
 * [Longest subsequence with limited sum](Solutions/L/longest-subsequence-with-limited-sum)
 
-### <a name="C___set">C++ set</a>
+### <a name="Binary_search-C___set">C++ set</a>
 * [132 pattern](Solutions/0-9/132-pattern)
 * [Closest room](Solutions/C/closest-room)
 * [Contains duplicate iii](Solutions/C/contains-duplicate-iii)
 * [Count of range sum](Solutions/C/count-of-range-sum)
 
-### <a name="Prefix_sum">Prefix sum</a>
+### <a name="Binary_search-Prefix_sum">Prefix sum</a>
 * [Delivering boxes from storage to ports](Solutions/D/delivering-boxes-from-storage-to-ports)
 
 ## <a name="Bitwise_operation">Bitwise operation</a>
@@ -131,7 +131,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Insert delete getrandom o1](Solutions/I/insert-delete-getrandom-o1)
 * [Iterator for combination](Solutions/I/iterator-for-combination)
 
-### <a name="Interconversion">Interconversion</a>
+### <a name="Design_data_structure-Interconversion">Interconversion</a>
 * [Implement stack using queues](Solutions/I/implement-stack-using-queues)
 
 ## <a name="Disjoint_set_union">Disjoint set union</a>
@@ -161,7 +161,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Jump game](Solutions/J/jump-game)
 * [Jump game ii](Solutions/J/jump-game-ii)
 
-### <a name="Array_reuse">Array reuse</a>
+### <a name="Dynamic_programming-Array_reuse">Array reuse</a>
 * [Champagne tower](Solutions/C/champagne-tower)
 * [Cherry pickup ii](Solutions/C/cherry-pickup-ii)
 * [Coin change](Solutions/C/coin-change)
@@ -171,41 +171,41 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Interleaving string](Solutions/I/interleaving-string)
 * [K inverse pairs array](Solutions/K/k-inverse-pairs-array)
 
-### <a name="Auxiliary_array">Auxiliary array</a>
+### <a name="Dynamic_programming-Auxiliary_array">Auxiliary array</a>
 * [Best time to buy and sell stock iv](Solutions/B/best-time-to-buy-and-sell-stock-iv)
 * [Best time to buy and sell stock with transaction fee](Solutions/B/best-time-to-buy-and-sell-stock-with-transaction-fee)
 
-### <a name="Cyclic_array">Cyclic array</a>
+### <a name="Dynamic_programming-Cyclic_array">Cyclic array</a>
 * [House robber ii](Solutions/H/house-robber-ii)
 
-### <a name="Digits">Digits</a>
+### <a name="Dynamic_programming-Digits">Digits</a>
 * [Count special integers](Solutions/C/count-special-integers)
 
-### <a name="Knapsack">Knapsack</a>
+### <a name="Dynamic_programming-Knapsack">Knapsack</a>
 * [Coin change](Solutions/C/coin-change)
 * [Coin change 2](Solutions/C/coin-change-2)
 
-### <a name="Longest_common_subsequence">Longest common subsequence</a>
+### <a name="Dynamic_programming-Longest_common_subsequence">Longest common subsequence</a>
 * [Delete operation for two strings](Solutions/D/delete-operation-for-two-strings)
 
-### <a name="Memoised_recursion">Memoised recursion</a>
+### <a name="Dynamic_programming-Memoised_recursion">Memoised recursion</a>
 * [Combination sum iv](Solutions/C/combination-sum-iv)
 
-### <a name="Number_theory">Number theory</a>
+### <a name="Dynamic_programming-Number_theory">Number theory</a>
 * [Count the number of ideal arrays](Solutions/C/count-the-number-of-ideal-arrays)
 * [Largest divisible subset](Solutions/L/largest-divisible-subset)
 
-### <a name="Segment_tree">Segment tree</a>
+### <a name="Dynamic_programming-Segment_tree">Segment tree</a>
 * [Delivering boxes from storage to ports](Solutions/D/delivering-boxes-from-storage-to-ports)
 
-### <a name="Subsets">Subsets</a>
+### <a name="Dynamic_programming-Subsets">Subsets</a>
 * [Construct smallest number from di string](Solutions/C/construct-smallest-number-from-di-string)
 * [Find the shortest superstring](Solutions/F/find-the-shortest-superstring)
 
-### <a name="Topological_sort">Topological sort</a>
+### <a name="Dynamic_programming-Topological_sort">Topological sort</a>
 * [Largest color value in a directed graph](Solutions/L/largest-color-value-in-a-directed-graph)
 
-### <a name="Trees">Trees</a>
+### <a name="Dynamic_programming-Trees">Trees</a>
 * [Diameter of binary tree](Solutions/D/diameter-of-binary-tree)
 * [Employee importance](Solutions/E/employee-importance)
 * [House robber iii](Solutions/H/house-robber-iii)
@@ -238,17 +238,17 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Bus routes](Solutions/B/bus-routes)
 * [Jump game iv](Solutions/J/jump-game-iv)
 
-### <a name="Bridges_Articulation_points">Bridges/Articulation points</a>
+### <a name="Graph_theory-Bridges_Articulation_points">Bridges/Articulation points</a>
 * [Critical connections in a network](Solutions/C/critical-connections-in-a-network)
 
-### <a name="Cycle_detection">Cycle detection</a>
+### <a name="Graph_theory-Cycle_detection">Cycle detection</a>
 * [Find closest node to given two nodes](Solutions/F/find-closest-node-to-given-two-nodes)
 * [Happy number](Solutions/H/happy-number)
 
-### <a name="Degree_counting">Degree counting</a>
+### <a name="Graph_theory-Degree_counting">Degree counting</a>
 * [Find the town judge](Solutions/F/find-the-town-judge)
 
-### <a name="Depth_first_search">Depth first search</a>
+### <a name="Graph_theory-Depth_first_search">Depth first search</a>
 * [Amount of time for binary tree to be infected](Solutions/A/amount-of-time-for-binary-tree-to-be-infected)
 * [Critical connections in a network](Solutions/C/critical-connections-in-a-network)
 * [Delete nodes and return forest](Solutions/D/delete-nodes-and-return-forest)
@@ -257,29 +257,29 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Jump game iii](Solutions/J/jump-game-iii)
 * [Keys and rooms](Solutions/K/keys-and-rooms)
 
-#### <a name="Colouring">Colouring</a>
+#### <a name="Graph_theory-Depth_first_search-Colouring">Colouring</a>
 * [Is graph bipartite](Solutions/I/is-graph-bipartite)
 
-#### <a name="Component_decomposition">Component decomposition</a>
+#### <a name="Graph_theory-Depth_first_search-Component_decomposition">Component decomposition</a>
 * [Count unreachable pairs of nodes in an undirected graph](Solutions/C/count-unreachable-pairs-of-nodes-in-an-undirected-graph)
 * [Evaluate division](Solutions/E/evaluate-division)
 
-#### <a name="Flood_fill">Flood fill</a>
+#### <a name="Graph_theory-Depth_first_search-Flood_fill">Flood fill</a>
 * [Count sub islands](Solutions/C/count-sub-islands)
 * [Flood fill](Solutions/F/flood-fill)
 
-### <a name="Directed_acyclic_graph">Directed acyclic graph</a>
+### <a name="Graph_theory-Directed_acyclic_graph">Directed acyclic graph</a>
 * [All paths from source to target](Solutions/A/all-paths-from-source-to-target)
 
-### <a name="Single_outdegree_graphs">Single outdegree graphs</a>
+### <a name="Graph_theory-Single_outdegree_graphs">Single outdegree graphs</a>
 * [Find closest node to given two nodes](Solutions/F/find-closest-node-to-given-two-nodes)
 
-### <a name="Topological_sort">Topological sort</a>
+### <a name="Graph_theory-Topological_sort">Topological sort</a>
 * [Build a matrix with conditions](Solutions/B/build-a-matrix-with-conditions)
 * [Course schedule](Solutions/C/course-schedule)
 * [Course schedule ii](Solutions/C/course-schedule-ii)
 
-#### <a name="Dynamic_Programming">Dynamic Programming</a>
+#### <a name="Graph_theory-Topological_sort-Dynamic_Programming">Dynamic Programming</a>
 * [Largest color value in a directed graph](Solutions/L/largest-color-value-in-a-directed-graph)
 
 ## <a name="Greedy">Greedy</a>
@@ -322,19 +322,19 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum amount of time to collect garbage](Solutions/M/minimum-amount-of-time-to-collect-garbage)
 * [Number of atoms](Solutions/N/number-of-atoms)
 
-### <a name="Coordinate_compression">Coordinate compression</a>
+### <a name="Hashmap-Coordinate_compression">Coordinate compression</a>
 * [Design underground system](Solutions/D/design-underground-system)
 
-### <a name="Forward_and_backward">Forward and backward</a>
+### <a name="Hashmap-Forward_and_backward">Forward and backward</a>
 * [Find and replace pattern](Solutions/F/find-and-replace-pattern)
 * [First unique number](Solutions/F/first-unique-number)
 * [Insert delete getrandom o1](Solutions/I/insert-delete-getrandom-o1)
 * [Isomorphic strings](Solutions/I/isomorphic-strings)
 
-### <a name="Group_items">Group items</a>
+### <a name="Hashmap-Group_items">Group items</a>
 * [Jump game iv](Solutions/J/jump-game-iv)
 
-### <a name="Update_using_insert_and_delete">Update using insert and delete</a>
+### <a name="Hashmap-Update_using_insert_and_delete">Update using insert and delete</a>
 * [Finding pairs with a certain sum](Solutions/F/finding-pairs-with-a-certain-sum)
 * [Fraction to recurring decimal](Solutions/F/fraction-to-recurring-decimal)
 
@@ -347,13 +347,13 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## <a name="Intervals">Intervals</a>
 * [Insert interval](Solutions/I/insert-interval)
 
-### <a name="Endpoint_sorting">Endpoint sorting</a>
+### <a name="Intervals-Endpoint_sorting">Endpoint sorting</a>
 * [Car pooling](Solutions/C/car-pooling)
 
-### <a name="Non_overlapping_decomposition">Non-overlapping decomposition</a>
+### <a name="Intervals-Non_overlapping_decomposition">Non-overlapping decomposition</a>
 * [Falling squares](Solutions/F/falling-squares)
 
-### <a name="Overlap">Overlap</a>
+### <a name="Intervals-Overlap">Overlap</a>
 * [Interval list intersections](Solutions/I/interval-list-intersections)
 
 ## <a name="Linked_list">Linked list</a>
@@ -370,7 +370,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Insertion sort list](Solutions/I/insertion-sort-list)
 * [Intersection of two linked lists](Solutions/I/intersection-of-two-linked-lists)
 
-### <a name="Recursion">Recursion</a>
+### <a name="Linked_list-Recursion">Recursion</a>
 * [Flatten a multilevel doubly linked list](Solutions/F/flatten-a-multilevel-doubly-linked-list)
 
 ## <a name="Mathematics">Mathematics</a>
@@ -378,11 +378,11 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Mathematics-Advanced">Advanced</a>
 * [Best position for a service centre](Solutions/B/best-position-for-a-service-centre)
 
-### <a name="Basic">Basic</a>
+### <a name="Mathematics-Basic">Basic</a>
 * [Angle between hands of a clock](Solutions/A/angle-between-hands-of-a-clock)
 * [Fraction to recurring decimal](Solutions/F/fraction-to-recurring-decimal)
 
-### <a name="Combinatorics">Combinatorics</a>
+### <a name="Mathematics-Combinatorics">Combinatorics</a>
 * [3sum with multiplicity](Solutions/0-9/3sum-with-multiplicity)
 * [Arithmetic slices ii subsequence](Solutions/A/arithmetic-slices-ii-subsequence)
 * [Binary trees with factors](Solutions/B/binary-trees-with-factors)
@@ -399,44 +399,44 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Domino and tromino tiling](Solutions/D/domino-and-tromino-tiling)
 * [Iterator for combination](Solutions/I/iterator-for-combination)
 
-### <a name="Composition_of_operations">Composition of operations</a>
+### <a name="Mathematics-Composition_of_operations">Composition of operations</a>
 * [Fancy sequence](Solutions/F/fancy-sequence)
 * [Find xor sum of all pairs bitwise and](Solutions/F/find-xor-sum-of-all-pairs-bitwise-and)
 
-### <a name="Geometry">Geometry</a>
+### <a name="Mathematics-Geometry">Geometry</a>
 * [Check if it is a straight line](Solutions/C/check-if-it-is-a-straight-line)
 
-#### <a name="Convex_hull">Convex hull</a>
+#### <a name="Mathematics-Geometry-Convex_hull">Convex hull</a>
 * [Erect the fence](Solutions/E/erect-the-fence)
 
-#### <a name="Geometric_median">Geometric median</a>
+#### <a name="Mathematics-Geometry-Geometric_median">Geometric median</a>
 * [Best position for a service centre](Solutions/B/best-position-for-a-service-centre)
 
-### <a name="Number_theory">Number theory</a>
+### <a name="Mathematics-Number_theory">Number theory</a>
 
-#### <a name="Number_theory-Basic">Basic</a>
+#### <a name="Mathematics-Number_theory-Basic">Basic</a>
 * [Add digits](Solutions/A/add-digits)
 * [Check if it is a good array](Solutions/C/check-if-it-is-a-good-array)
 * [Factorial trailing zeroes](Solutions/F/factorial-trailing-zeroes)
 * [Find the student that will replace the chalk](Solutions/F/find-the-student-that-will-replace-the-chalk)
 * [Integer break](Solutions/I/integer-break)
 
-#### <a name="Dynamic_programming">Dynamic programming</a>
+#### <a name="Mathematics-Number_theory-Dynamic_programming">Dynamic programming</a>
 * [Largest divisible subset](Solutions/L/largest-divisible-subset)
 
-#### <a name="Factor_listing_in_sqrt_N_">Factor listing in sqrt(N)</a>
+#### <a name="Mathematics-Number_theory-Factor_listing_in_sqrt_N_">Factor listing in sqrt(N)</a>
 * [Largest divisible subset](Solutions/L/largest-divisible-subset)
 
-#### <a name="Modular_exponentiation_inverse">Modular exponentiation/inverse</a>
+#### <a name="Mathematics-Number_theory-Modular_exponentiation_inverse">Modular exponentiation/inverse</a>
 * [Count good numbers](Solutions/C/count-good-numbers)
 * [Count the number of ideal arrays](Solutions/C/count-the-number-of-ideal-arrays)
 
-#### <a name="Prime_sieving">Prime sieving</a>
+#### <a name="Mathematics-Number_theory-Prime_sieving">Prime sieving</a>
 * [Count primes](Solutions/C/count-primes)
 * [Count the number of ideal arrays](Solutions/C/count-the-number-of-ideal-arrays)
 * [Largest component size by common factor](Solutions/L/largest-component-size-by-common-factor)
 
-### <a name="Probability">Probability</a>
+### <a name="Mathematics-Probability">Probability</a>
 * [Generate random point in a circle](Solutions/G/generate-random-point-in-a-circle)
 * [Implement rand10 using rand7](Solutions/I/implement-rand10-using-rand7)
 * [Insert delete getrandom o1](Solutions/I/insert-delete-getrandom-o1)
@@ -448,10 +448,10 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Equal row and column pairs](Solutions/E/equal-row-and-column-pairs)
 * [Image overlap](Solutions/I/image-overlap)
 
-### <a name="Path">Path</a>
+### <a name="Matrix-Path">Path</a>
 * [Dungeon game](Solutions/D/dungeon-game)
 
-### <a name="Traversal">Traversal</a>
+### <a name="Matrix-Traversal">Traversal</a>
 * [Diagonal traverse](Solutions/D/diagonal-traverse)
 * [Get biggest three rhombus sums in a grid](Solutions/G/get-biggest-three-rhombus-sums-in-a-grid)
 
@@ -468,11 +468,11 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Permutation-Cycle">Cycle</a>
 * [Array nesting](Solutions/A/array-nesting)
 
-### <a name="Inverse">Inverse</a>
+### <a name="Permutation-Inverse">Inverse</a>
 * [Build a matrix with conditions](Solutions/B/build-a-matrix-with-conditions)
 * [Build array from permutation](Solutions/B/build-array-from-permutation)
 
-### <a name="Inversions">Inversions</a>
+### <a name="Permutation-Inversions">Inversions</a>
 * [Global and local inversions](Solutions/G/global-and-local-inversions)
 
 ## <a name="Pointers">Pointers</a>
@@ -489,7 +489,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Global and local inversions](Solutions/G/global-and-local-inversions)
 * [Increasing triplet subsequence](Solutions/I/increasing-triplet-subsequence)
 
-### <a name="Sum">Sum</a>
+### <a name="Prefix-Sum">Sum</a>
 * [Contiguous array](Solutions/C/contiguous-array)
 * [Count subarrays with score less than k](Solutions/C/count-subarrays-with-score-less-than-k)
 * [Delivering boxes from storage to ports](Solutions/D/delivering-boxes-from-storage-to-ports)
@@ -504,19 +504,19 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Jump game vi](Solutions/J/jump-game-vi)
 * [Last stone weight](Solutions/L/last-stone-weight)
 
-### <a name="Dijkstra_like_processing_of_subarrays">Dijkstra-like processing of subarrays</a>
+### <a name="Priority_queue-Dijkstra_like_processing_of_subarrays">Dijkstra-like processing of subarrays</a>
 * [Find the k sum of an array](Solutions/F/find-the-k-sum-of-an-array)
 
-### <a name="K_smallest_largest_elements">K smallest/largest elements</a>
+### <a name="Priority_queue-K_smallest_largest_elements">K smallest/largest elements</a>
 * [Find the most competitive subsequence](Solutions/F/find-the-most-competitive-subsequence)
 * [Get biggest three rhombus sums in a grid](Solutions/G/get-biggest-three-rhombus-sums-in-a-grid)
 * [Kth largest element in a stream](Solutions/K/kth-largest-element-in-a-stream)
 
-#### <a name="Transfer_between_the_two">Transfer between the two</a>
+#### <a name="Priority_queue-K_smallest_largest_elements-Transfer_between_the_two">Transfer between the two</a>
 * [Find median from data stream](Solutions/F/find-median-from-data-stream)
 * [Finding mk average](Solutions/F/finding-mk-average)
 
-### <a name="Key_update_using_insert_and_remove_on_C___set">Key update using insert and remove on C++ set</a>
+### <a name="Priority_queue-Key_update_using_insert_and_remove_on_C___set">Key update using insert and remove on C++ set</a>
 * [Design a food rating system](Solutions/D/design-a-food-rating-system)
 * [Design a number container system](Solutions/D/design-a-number-container-system)
 * [Design authentication manager](Solutions/D/design-authentication-manager)
@@ -586,7 +586,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Frequency of the most frequent element](Solutions/F/frequency-of-the-most-frequent-element)
 * [Fruit into baskets](Solutions/F/fruit-into-baskets)
 
-### <a name="String_hashing">String hashing</a>
+### <a name="Sliding_window-String_hashing">String hashing</a>
 * [Implement strstr](Solutions/I/implement-strstr)
 
 ## <a name="Sorting">Sorting</a>
@@ -604,25 +604,25 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [K closest points to origin](Solutions/K/k-closest-points-to-origin)
 * [Largest number](Solutions/L/largest-number)
 
-### <a name="Partial">Partial</a>
+### <a name="Sorting-Partial">Partial</a>
 * [Find k closest elements](Solutions/F/find-k-closest-elements)
 * [K closest points to origin](Solutions/K/k-closest-points-to-origin)
 
-### <a name="Remembering_index">Remembering index</a>
+### <a name="Sorting-Remembering_index">Remembering index</a>
 * [Find right interval](Solutions/F/find-right-interval)
 
 ## <a name="Stack">Stack</a>
 * [Binary search tree iterator](Solutions/B/binary-search-tree-iterator)
 * [Removing stars from a string](Solutions/R/removing-stars-from-a-string)
 
-### <a name="From_array_elements">From array elements</a>
+### <a name="Stack-From_array_elements">From array elements</a>
 * [Asteroid collision](Solutions/A/asteroid-collision)
 
-### <a name="Monotonic_stack">Monotonic stack</a>
+### <a name="Stack-Monotonic_stack">Monotonic stack</a>
 * [Daily temperatures](Solutions/D/daily-temperatures)
 * [Largest rectangle in histogram](Solutions/L/largest-rectangle-in-histogram)
 
-### <a name="Numerical_operations">Numerical operations</a>
+### <a name="Stack-Numerical_operations">Numerical operations</a>
 * [Baseball game](Solutions/B/baseball-game)
 * [Basic calculator](Solutions/B/basic-calculator)
 * [Basic calculator ii](Solutions/B/basic-calculator-ii)
@@ -633,7 +633,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="String-Anagrams">Anagrams</a>
 * [Group anagrams](Solutions/G/group-anagrams)
 
-### <a name="Parsing">Parsing</a>
+### <a name="String-Parsing">Parsing</a>
 * [Basic calculator](Solutions/B/basic-calculator)
 * [Basic calculator ii](Solutions/B/basic-calculator-ii)
 * [Compare version numbers](Solutions/C/compare-version-numbers)
@@ -643,19 +643,19 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find duplicate file in system](Solutions/F/find-duplicate-file-in-system)
 * [Goat latin](Solutions/G/goat-latin)
 
-#### <a name="Recursive">Recursive</a>
+#### <a name="String-Parsing-Recursive">Recursive</a>
 * [Decode string](Solutions/D/decode-string)
 * [Number of atoms](Solutions/N/number-of-atoms)
 
-### <a name="Search">Search</a>
+### <a name="String-Search">Search</a>
 
-#### <a name="Search-Hashing">Hashing</a>
+#### <a name="String-Search-Hashing">Hashing</a>
 * [Implement strstr](Solutions/I/implement-strstr)
 
-### <a name="Subsequence">Subsequence</a>
+### <a name="String-Subsequence">Subsequence</a>
 * [Is subsequence](Solutions/I/is-subsequence)
 
-### <a name="Validation">Validation</a>
+### <a name="String-Validation">Validation</a>
 * [Ambiguous coordinates](Solutions/A/ambiguous-coordinates)
 
 ## <a name="Suboptimal_solution">Suboptimal solution</a>
@@ -678,7 +678,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Insert into a binary search tree](Solutions/I/insert-into-a-binary-search-tree)
 * [Kth smallest element in a bst](Solutions/K/kth-smallest-element-in-a-bst)
 
-#### <a name="Traversal">Traversal</a>
+#### <a name="Tree-Binary_search_tree-Traversal">Traversal</a>
 * [All elements in two binary search trees](Solutions/A/all-elements-in-two-binary-search-trees)
 * [Binary search tree iterator](Solutions/B/binary-search-tree-iterator)
 * [Construct binary search tree from preorder traversal](Solutions/C/construct-binary-search-tree-from-preorder-traversal)
@@ -686,9 +686,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Delete node in a bst](Solutions/D/delete-node-in-a-bst)
 * [Increasing order search tree](Solutions/I/increasing-order-search-tree)
 
-### <a name="Binary_tree">Binary tree</a>
+### <a name="Tree-Binary_tree">Binary tree</a>
 
-#### <a name="Binary_tree-Recursion">Recursion</a>
+#### <a name="Tree-Binary_tree-Recursion">Recursion</a>
 * [Add one row to tree](Solutions/A/add-one-row-to-tree)
 * [Average of levels in binary tree](Solutions/A/average-of-levels-in-binary-tree)
 * [Balanced binary tree](Solutions/B/balanced-binary-tree)
@@ -723,12 +723,12 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Invert binary tree](Solutions/I/invert-binary-tree)
 * [Kth smallest element in a bst](Solutions/K/kth-smallest-element-in-a-bst)
 
-### <a name="Order_traversal">Order traversal</a>
+### <a name="Tree-Order_traversal">Order traversal</a>
 * [Construct binary tree from inorder and postorder traversal](Solutions/C/construct-binary-tree-from-inorder-and-postorder-traversal)
 * [Construct binary tree from preorder and inorder traversal](Solutions/C/construct-binary-tree-from-preorder-and-inorder-traversal)
 * [Flip binary tree to match preorder traversal](Solutions/F/flip-binary-tree-to-match-preorder-traversal)
 
-### <a name="Rerooting">Rerooting</a>
+### <a name="Tree-Rerooting">Rerooting</a>
 * [Amount of time for binary tree to be infected](Solutions/A/amount-of-time-for-binary-tree-to-be-infected)
 
 ## <a name="Trie">Trie</a>
