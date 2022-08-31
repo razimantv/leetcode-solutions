@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/number-of-atoms/description/
 class Solution {
  public:
   map<string, int> work(string& formula, int& pos) {
