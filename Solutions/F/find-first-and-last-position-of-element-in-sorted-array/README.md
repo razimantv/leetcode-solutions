@@ -1,0 +1,7 @@
+# Find first and last position of element in sorted array
+
+[Problem link](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)
+
+## Tags
+
+* [Binary search](/README.md#Binary_search)

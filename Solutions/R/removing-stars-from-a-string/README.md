@@ -1,0 +1,7 @@
+# Removing stars from a string
+
+[Problem link](https://leetcode.com/problems/removing-stars-from-a-string/)
+
+## Tags
+
+* [Stack](/README.md#Stack)

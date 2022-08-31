@@ -1,0 +1,7 @@
+# Check array formation through concatenation
+
+[Problem link](https://leetcode.com/problems/check-array-formation-through-concatenation)
+
+## Tags
+
+* [Hashmap](/README.md#Hashmap)

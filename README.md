@@ -9,43 +9,43 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 # Problems by tags (INCOMPLETE!)
 
-## Array scanning
+## <a name="Array_scanning">Array scanning</a>
 
-### Contiguous regions
+### <a name="Array_scanning-Contiguous_regions">Contiguous regions</a>
 * [Arithmetic slices](Solutions/A/arithmetic-slices)
 * [Check if all 1s are at least length k places away](Solutions/C/check-if-all-1s-are-at-least-length-k-places-away)
 * [Consecutive characters](Solutions/C/consecutive-characters)
 * [Count binary substrings](Solutions/C/count-binary-substrings)
 * [Distribute candies](Solutions/D/distribute-candies)
 
-### From both ends of array
+### <a name="From_both_ends_of_array">From both ends of array</a>
 * [Best time to buy and sell stock iii](Solutions/B/best-time-to-buy-and-sell-stock-iii)
 * [Candy](Solutions/C/candy)
 * [Largest plus sign](Solutions/L/largest-plus-sign)
 
-### In-place modification
+### <a name="In_place_modification">In-place modification</a>
 * [Duplicate zeros](Solutions/D/duplicate-zeros)
 * [Find all duplicates in an array](Solutions/F/find-all-duplicates-in-an-array)
 
-### Location of previous element with same value
+### <a name="Location_of_previous_element_with_same_value">Location of previous element with same value</a>
 * [Count unique characters of all substrings of a given string](Solutions/C/count-unique-characters-of-all-substrings-of-a-given-string)
 * [Execution of all suffix instructions staying in a grid](Solutions/E/execution-of-all-suffix-instructions-staying-in-a-grid)
 
-### Modify element with index
+### <a name="Modify_element_with_index">Modify element with index</a>
 * [Best sightseeing pair](Solutions/B/best-sightseeing-pair)
 
-### Right to left
+### <a name="Right_to_left">Right to left</a>
 * [Execution of all suffix instructions staying in a grid](Solutions/E/execution-of-all-suffix-instructions-staying-in-a-grid)
 * [Jump game ii](Solutions/J/jump-game-ii)
 * [Jump game vi](Solutions/J/jump-game-vi)
 * [Largest odd number in string](Solutions/L/largest-odd-number-in-string)
 
-## Averaging from total and count
+## <a name="Averaging_from_total_and_count">Averaging from total and count</a>
 * [Average of levels in binary tree](Solutions/A/average-of-levels-in-binary-tree)
 * [Design underground system](Solutions/D/design-underground-system)
 * [Finding mk average](Solutions/F/finding-mk-average)
 
-## Backtracking
+## <a name="Backtracking">Backtracking</a>
 * [All paths from source to target](Solutions/A/all-paths-from-source-to-target)
 * [Beautiful arrangement](Solutions/B/beautiful-arrangement)
 * [Combination sum](Solutions/C/combination-sum)
@@ -53,7 +53,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Expression add operators](Solutions/E/expression-add-operators)
 * [Generate parentheses](Solutions/G/generate-parentheses)
 
-## Binary search
+## <a name="Binary_search">Binary search</a>
 * [Binary search](Solutions/B/binary-search)
 * [Construct binary search tree from preorder traversal](Solutions/C/construct-binary-search-tree-from-preorder-traversal)
 * [Count subarrays with score less than k](Solutions/C/count-subarrays-with-score-less-than-k)
@@ -72,16 +72,16 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Kth smallest number in multiplication table](Solutions/K/kth-smallest-number-in-multiplication-table)
 * [Longest subsequence with limited sum](Solutions/L/longest-subsequence-with-limited-sum)
 
-### C++ set
+### <a name="C___set">C++ set</a>
 * [132 pattern](Solutions/0-9/132-pattern)
 * [Closest room](Solutions/C/closest-room)
 * [Contains duplicate iii](Solutions/C/contains-duplicate-iii)
 * [Count of range sum](Solutions/C/count-of-range-sum)
 
-### Prefix sum
+### <a name="Prefix_sum">Prefix sum</a>
 * [Delivering boxes from storage to ports](Solutions/D/delivering-boxes-from-storage-to-ports)
 
-## Bitwise operation
+## <a name="Bitwise_operation">Bitwise operation</a>
 * [Binary watch](Solutions/B/binary-watch)
 * [Bitwise and of numbers range](Solutions/B/bitwise-and-of-numbers-range)
 * [Check if a string contains all binary codes of size k](Solutions/C/check-if-a-string-contains-all-binary-codes-of-size-k)
@@ -97,26 +97,26 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Gray code](Solutions/G/gray-code)
 * [Hamming distance](Solutions/H/hamming-distance)
 
-## Brute force enumeration with combinatorics
+## <a name="Brute_force_enumeration_with_combinatorics">Brute force enumeration with combinatorics</a>
 * [Fair distribution of cookies](Solutions/F/fair-distribution-of-cookies)
 * [Iterator for combination](Solutions/I/iterator-for-combination)
 
-## Concurrency
+## <a name="Concurrency">Concurrency</a>
 * [Building h2o](Solutions/B/building-h2o)
 * [Fizz buzz multithreaded](Solutions/F/fizz-buzz-multithreaded)
 
-## Construction
+## <a name="Construction">Construction</a>
 * [Beautiful arrangement ii](Solutions/B/beautiful-arrangement-ii)
 * [Beautiful array](Solutions/B/beautiful-array)
 
-## Counting elements in array
+## <a name="Counting_elements_in_array">Counting elements in array</a>
 * [3sum with multiplicity](Solutions/0-9/3sum-with-multiplicity)
 * [Determine if two strings are close](Solutions/D/determine-if-two-strings-are-close)
 * [Find all anagrams in a string](Solutions/F/find-all-anagrams-in-a-string)
 * [Intersection of two arrays ii](Solutions/I/intersection-of-two-arrays-ii)
 * [Largest palindromic number](Solutions/L/largest-palindromic-number)
 
-## Design data structure
+## <a name="Design_data_structure">Design data structure</a>
 * [Design a food rating system](Solutions/D/design-a-food-rating-system)
 * [Design a number container system](Solutions/D/design-a-number-container-system)
 * [Design add and search words data structure](Solutions/D/design-add-and-search-words-data-structure)
@@ -131,14 +131,14 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Insert delete getrandom o1](Solutions/I/insert-delete-getrandom-o1)
 * [Iterator for combination](Solutions/I/iterator-for-combination)
 
-### Interconversion
+### <a name="Interconversion">Interconversion</a>
 * [Implement stack using queues](Solutions/I/implement-stack-using-queues)
 
-## Disjoint set union
+## <a name="Disjoint_set_union">Disjoint set union</a>
 * [Accounts merge](Solutions/A/accounts-merge)
 * [Largest component size by common factor](Solutions/L/largest-component-size-by-common-factor)
 
-## Dynamic programming
+## <a name="Dynamic_programming">Dynamic programming</a>
 * [Arithmetic slices ii subsequence](Solutions/A/arithmetic-slices-ii-subsequence)
 * [Best time to buy and sell stock iii](Solutions/B/best-time-to-buy-and-sell-stock-iii)
 * [Best time to buy and sell stock with cooldown](Solutions/B/best-time-to-buy-and-sell-stock-with-cooldown)
@@ -161,7 +161,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Jump game](Solutions/J/jump-game)
 * [Jump game ii](Solutions/J/jump-game-ii)
 
-### Array reuse
+### <a name="Array_reuse">Array reuse</a>
 * [Champagne tower](Solutions/C/champagne-tower)
 * [Cherry pickup ii](Solutions/C/cherry-pickup-ii)
 * [Coin change](Solutions/C/coin-change)
@@ -171,84 +171,84 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Interleaving string](Solutions/I/interleaving-string)
 * [K inverse pairs array](Solutions/K/k-inverse-pairs-array)
 
-### Auxiliary array
+### <a name="Auxiliary_array">Auxiliary array</a>
 * [Best time to buy and sell stock iv](Solutions/B/best-time-to-buy-and-sell-stock-iv)
 * [Best time to buy and sell stock with transaction fee](Solutions/B/best-time-to-buy-and-sell-stock-with-transaction-fee)
 
-### Cyclic array
+### <a name="Cyclic_array">Cyclic array</a>
 * [House robber ii](Solutions/H/house-robber-ii)
 
-### Digits
+### <a name="Digits">Digits</a>
 * [Count special integers](Solutions/C/count-special-integers)
 
-### Knapsack
+### <a name="Knapsack">Knapsack</a>
 * [Coin change](Solutions/C/coin-change)
 * [Coin change 2](Solutions/C/coin-change-2)
 
-### Longest common subsequence
+### <a name="Longest_common_subsequence">Longest common subsequence</a>
 * [Delete operation for two strings](Solutions/D/delete-operation-for-two-strings)
 
-### Memoised recursion
+### <a name="Memoised_recursion">Memoised recursion</a>
 * [Combination sum iv](Solutions/C/combination-sum-iv)
 
-### Number theory
+### <a name="Number_theory">Number theory</a>
 * [Count the number of ideal arrays](Solutions/C/count-the-number-of-ideal-arrays)
 * [Largest divisible subset](Solutions/L/largest-divisible-subset)
 
-### Segment tree
+### <a name="Segment_tree">Segment tree</a>
 * [Delivering boxes from storage to ports](Solutions/D/delivering-boxes-from-storage-to-ports)
 
-### Subsets
+### <a name="Subsets">Subsets</a>
 * [Construct smallest number from di string](Solutions/C/construct-smallest-number-from-di-string)
 * [Find the shortest superstring](Solutions/F/find-the-shortest-superstring)
 
-### Topological sort
+### <a name="Topological_sort">Topological sort</a>
 * [Largest color value in a directed graph](Solutions/L/largest-color-value-in-a-directed-graph)
 
-### Trees
+### <a name="Trees">Trees</a>
 * [Diameter of binary tree](Solutions/D/diameter-of-binary-tree)
 * [Employee importance](Solutions/E/employee-importance)
 * [House robber iii](Solutions/H/house-robber-iii)
 
-## Encoding and decoding
+## <a name="Encoding_and_decoding">Encoding and decoding</a>
 * [Encode and decode tinyurl](Solutions/E/encode-and-decode-tinyurl)
 
-## Flattening
+## <a name="Flattening">Flattening</a>
 * [Flatten a multilevel doubly linked list](Solutions/F/flatten-a-multilevel-doubly-linked-list)
 * [Flatten binary tree to linked list](Solutions/F/flatten-binary-tree-to-linked-list)
 * [Flatten nested list iterator](Solutions/F/flatten-nested-list-iterator)
 
-## Formatted output
+## <a name="Formatted_output">Formatted output</a>
 * [Binary watch](Solutions/B/binary-watch)
 * [Integer to english words](Solutions/I/integer-to-english-words)
 * [Integer to roman](Solutions/I/integer-to-roman)
 
-## Fraud
+## <a name="Fraud">Fraud</a>
 * [Add strings](Solutions/A/add-strings)
 * [Count complete tree nodes](Solutions/C/count-complete-tree-nodes)
 * [Find minimum in rotated sorted array](Solutions/F/find-minimum-in-rotated-sorted-array)
 * [Find minimum in rotated sorted array ii](Solutions/F/find-minimum-in-rotated-sorted-array-ii)
 * [Find peak element](Solutions/F/find-peak-element)
 
-## Graph theory
+## <a name="Graph_theory">Graph theory</a>
 
-### Breadth first search
+### <a name="Graph_theory-Breadth_first_search">Breadth first search</a>
 * [01 matrix](Solutions/0-9/01-matrix)
 * [Amount of time for binary tree to be infected](Solutions/A/amount-of-time-for-binary-tree-to-be-infected)
 * [Bus routes](Solutions/B/bus-routes)
 * [Jump game iv](Solutions/J/jump-game-iv)
 
-### Bridges/Articulation points
+### <a name="Bridges_Articulation_points">Bridges/Articulation points</a>
 * [Critical connections in a network](Solutions/C/critical-connections-in-a-network)
 
-### Cycle detection
+### <a name="Cycle_detection">Cycle detection</a>
 * [Find closest node to given two nodes](Solutions/F/find-closest-node-to-given-two-nodes)
 * [Happy number](Solutions/H/happy-number)
 
-### Degree counting
+### <a name="Degree_counting">Degree counting</a>
 * [Find the town judge](Solutions/F/find-the-town-judge)
 
-### Depth first search
+### <a name="Depth_first_search">Depth first search</a>
 * [Amount of time for binary tree to be infected](Solutions/A/amount-of-time-for-binary-tree-to-be-infected)
 * [Critical connections in a network](Solutions/C/critical-connections-in-a-network)
 * [Delete nodes and return forest](Solutions/D/delete-nodes-and-return-forest)
@@ -257,32 +257,32 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Jump game iii](Solutions/J/jump-game-iii)
 * [Keys and rooms](Solutions/K/keys-and-rooms)
 
-#### Colouring
+#### <a name="Colouring">Colouring</a>
 * [Is graph bipartite](Solutions/I/is-graph-bipartite)
 
-#### Component decomposition
+#### <a name="Component_decomposition">Component decomposition</a>
 * [Count unreachable pairs of nodes in an undirected graph](Solutions/C/count-unreachable-pairs-of-nodes-in-an-undirected-graph)
 * [Evaluate division](Solutions/E/evaluate-division)
 
-#### Flood fill
+#### <a name="Flood_fill">Flood fill</a>
 * [Count sub islands](Solutions/C/count-sub-islands)
 * [Flood fill](Solutions/F/flood-fill)
 
-### Directed acyclic graph
+### <a name="Directed_acyclic_graph">Directed acyclic graph</a>
 * [All paths from source to target](Solutions/A/all-paths-from-source-to-target)
 
-### Single outdegree graphs
+### <a name="Single_outdegree_graphs">Single outdegree graphs</a>
 * [Find closest node to given two nodes](Solutions/F/find-closest-node-to-given-two-nodes)
 
-### Topological sort
+### <a name="Topological_sort">Topological sort</a>
 * [Build a matrix with conditions](Solutions/B/build-a-matrix-with-conditions)
 * [Course schedule](Solutions/C/course-schedule)
 * [Course schedule ii](Solutions/C/course-schedule-ii)
 
-#### Dynamic Programming
+#### <a name="Dynamic_Programming">Dynamic Programming</a>
 * [Largest color value in a directed graph](Solutions/L/largest-color-value-in-a-directed-graph)
 
-## Greedy
+## <a name="Greedy">Greedy</a>
 * [Advantage shuffle](Solutions/A/advantage-shuffle)
 * [Bag of tokens](Solutions/B/bag-of-tokens)
 * [Best time to buy and sell stock ii](Solutions/B/best-time-to-buy-and-sell-stock-ii)
@@ -296,7 +296,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Largest number](Solutions/L/largest-number)
 * [Longest subsequence with limited sum](Solutions/L/longest-subsequence-with-limited-sum)
 
-## Hashmap
+## <a name="Hashmap">Hashmap</a>
 * [Array of doubled pairs](Solutions/A/array-of-doubled-pairs)
 * [Brick wall](Solutions/B/brick-wall)
 * [Check array formation through concatenation](Solutions/C/check-array-formation-through-concatenation)
@@ -322,43 +322,43 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum amount of time to collect garbage](Solutions/M/minimum-amount-of-time-to-collect-garbage)
 * [Number of atoms](Solutions/N/number-of-atoms)
 
-### Coordinate compression
+### <a name="Coordinate_compression">Coordinate compression</a>
 * [Design underground system](Solutions/D/design-underground-system)
 
-### Forward and backward
+### <a name="Forward_and_backward">Forward and backward</a>
 * [Find and replace pattern](Solutions/F/find-and-replace-pattern)
 * [First unique number](Solutions/F/first-unique-number)
 * [Insert delete getrandom o1](Solutions/I/insert-delete-getrandom-o1)
 * [Isomorphic strings](Solutions/I/isomorphic-strings)
 
-### Group items
+### <a name="Group_items">Group items</a>
 * [Jump game iv](Solutions/J/jump-game-iv)
 
-### Update using insert and delete
+### <a name="Update_using_insert_and_delete">Update using insert and delete</a>
 * [Finding pairs with a certain sum](Solutions/F/finding-pairs-with-a-certain-sum)
 * [Fraction to recurring decimal](Solutions/F/fraction-to-recurring-decimal)
 
-## Integer operations on strings
+## <a name="Integer_operations_on_strings">Integer operations on strings</a>
 * [Add binary](Solutions/A/add-binary)
 * [Add two numbers](Solutions/A/add-two-numbers)
 * [Add two numbers ii](Solutions/A/add-two-numbers-ii)
 * [Complex number multiplication](Solutions/C/complex-number-multiplication)
 
-## Intervals
+## <a name="Intervals">Intervals</a>
 * [Insert interval](Solutions/I/insert-interval)
 
-### Endpoint sorting
+### <a name="Endpoint_sorting">Endpoint sorting</a>
 * [Car pooling](Solutions/C/car-pooling)
 
-### Non-overlapping decomposition
+### <a name="Non_overlapping_decomposition">Non-overlapping decomposition</a>
 * [Falling squares](Solutions/F/falling-squares)
 
-### Overlap
+### <a name="Overlap">Overlap</a>
 * [Interval list intersections](Solutions/I/interval-list-intersections)
 
-## Linked list
+## <a name="Linked_list">Linked list</a>
 
-### Iteration
+### <a name="Linked_list-Iteration">Iteration</a>
 * [Add two numbers](Solutions/A/add-two-numbers)
 * [Add two numbers ii](Solutions/A/add-two-numbers-ii)
 * [Convert binary number in a linked list to integer](Solutions/C/convert-binary-number-in-a-linked-list-to-integer)
@@ -370,19 +370,19 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Insertion sort list](Solutions/I/insertion-sort-list)
 * [Intersection of two linked lists](Solutions/I/intersection-of-two-linked-lists)
 
-### Recursion
+### <a name="Recursion">Recursion</a>
 * [Flatten a multilevel doubly linked list](Solutions/F/flatten-a-multilevel-doubly-linked-list)
 
-## Mathematics
+## <a name="Mathematics">Mathematics</a>
 
-### Advanced
+### <a name="Mathematics-Advanced">Advanced</a>
 * [Best position for a service centre](Solutions/B/best-position-for-a-service-centre)
 
-### Basic
+### <a name="Basic">Basic</a>
 * [Angle between hands of a clock](Solutions/A/angle-between-hands-of-a-clock)
 * [Fraction to recurring decimal](Solutions/F/fraction-to-recurring-decimal)
 
-### Combinatorics
+### <a name="Combinatorics">Combinatorics</a>
 * [3sum with multiplicity](Solutions/0-9/3sum-with-multiplicity)
 * [Arithmetic slices ii subsequence](Solutions/A/arithmetic-slices-ii-subsequence)
 * [Binary trees with factors](Solutions/B/binary-trees-with-factors)
@@ -399,89 +399,89 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Domino and tromino tiling](Solutions/D/domino-and-tromino-tiling)
 * [Iterator for combination](Solutions/I/iterator-for-combination)
 
-### Composition of operations
+### <a name="Composition_of_operations">Composition of operations</a>
 * [Fancy sequence](Solutions/F/fancy-sequence)
 * [Find xor sum of all pairs bitwise and](Solutions/F/find-xor-sum-of-all-pairs-bitwise-and)
 
-### Geometry
+### <a name="Geometry">Geometry</a>
 * [Check if it is a straight line](Solutions/C/check-if-it-is-a-straight-line)
 
-#### Convex hull
+#### <a name="Convex_hull">Convex hull</a>
 * [Erect the fence](Solutions/E/erect-the-fence)
 
-#### Geometric median
+#### <a name="Geometric_median">Geometric median</a>
 * [Best position for a service centre](Solutions/B/best-position-for-a-service-centre)
 
-### Number theory
+### <a name="Number_theory">Number theory</a>
 
-#### Basic
+#### <a name="Number_theory-Basic">Basic</a>
 * [Add digits](Solutions/A/add-digits)
 * [Check if it is a good array](Solutions/C/check-if-it-is-a-good-array)
 * [Factorial trailing zeroes](Solutions/F/factorial-trailing-zeroes)
 * [Find the student that will replace the chalk](Solutions/F/find-the-student-that-will-replace-the-chalk)
 * [Integer break](Solutions/I/integer-break)
 
-#### Dynamic programming
+#### <a name="Dynamic_programming">Dynamic programming</a>
 * [Largest divisible subset](Solutions/L/largest-divisible-subset)
 
-#### Factor listing in sqrt(N)
+#### <a name="Factor_listing_in_sqrt_N_">Factor listing in sqrt(N)</a>
 * [Largest divisible subset](Solutions/L/largest-divisible-subset)
 
-#### Modular exponentiation/inverse
+#### <a name="Modular_exponentiation_inverse">Modular exponentiation/inverse</a>
 * [Count good numbers](Solutions/C/count-good-numbers)
 * [Count the number of ideal arrays](Solutions/C/count-the-number-of-ideal-arrays)
 
-#### Prime sieving
+#### <a name="Prime_sieving">Prime sieving</a>
 * [Count primes](Solutions/C/count-primes)
 * [Count the number of ideal arrays](Solutions/C/count-the-number-of-ideal-arrays)
 * [Largest component size by common factor](Solutions/L/largest-component-size-by-common-factor)
 
-### Probability
+### <a name="Probability">Probability</a>
 * [Generate random point in a circle](Solutions/G/generate-random-point-in-a-circle)
 * [Implement rand10 using rand7](Solutions/I/implement-rand10-using-rand7)
 * [Insert delete getrandom o1](Solutions/I/insert-delete-getrandom-o1)
 
-## Matrix
+## <a name="Matrix">Matrix</a>
 
-### Geometric transformation
+### <a name="Matrix-Geometric_transformation">Geometric transformation</a>
 * [Determine whether matrix can be obtained by rotation](Solutions/D/determine-whether-matrix-can-be-obtained-by-rotation)
 * [Equal row and column pairs](Solutions/E/equal-row-and-column-pairs)
 * [Image overlap](Solutions/I/image-overlap)
 
-### Path
+### <a name="Path">Path</a>
 * [Dungeon game](Solutions/D/dungeon-game)
 
-### Traversal
+### <a name="Traversal">Traversal</a>
 * [Diagonal traverse](Solutions/D/diagonal-traverse)
 * [Get biggest three rhombus sums in a grid](Solutions/G/get-biggest-three-rhombus-sums-in-a-grid)
 
-## Meet in the middle
+## <a name="Meet_in_the_middle">Meet in the middle</a>
 * [4sum](Solutions/0-9/4sum)
 * [4sum ii](Solutions/0-9/4sum-ii)
 
-## Palindrome
+## <a name="Palindrome">Palindrome</a>
 * [Break a palindrome](Solutions/B/break-a-palindrome)
 * [Largest palindromic number](Solutions/L/largest-palindromic-number)
 
-## Permutation
+## <a name="Permutation">Permutation</a>
 
-### Cycle
+### <a name="Permutation-Cycle">Cycle</a>
 * [Array nesting](Solutions/A/array-nesting)
 
-### Inverse
+### <a name="Inverse">Inverse</a>
 * [Build a matrix with conditions](Solutions/B/build-a-matrix-with-conditions)
 * [Build array from permutation](Solutions/B/build-array-from-permutation)
 
-### Inversions
+### <a name="Inversions">Inversions</a>
 * [Global and local inversions](Solutions/G/global-and-local-inversions)
 
-## Pointers
+## <a name="Pointers">Pointers</a>
 * [Clone graph](Solutions/C/clone-graph)
 * [Copy list with random pointer](Solutions/C/copy-list-with-random-pointer)
 
-## Prefix
+## <a name="Prefix">Prefix</a>
 
-### Extremum
+### <a name="Prefix-Extremum">Extremum</a>
 * [132 pattern](Solutions/0-9/132-pattern)
 * [Best sightseeing pair](Solutions/B/best-sightseeing-pair)
 * [Best time to buy and sell stock](Solutions/B/best-time-to-buy-and-sell-stock)
@@ -489,7 +489,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Global and local inversions](Solutions/G/global-and-local-inversions)
 * [Increasing triplet subsequence](Solutions/I/increasing-triplet-subsequence)
 
-### Sum
+### <a name="Sum">Sum</a>
 * [Contiguous array](Solutions/C/contiguous-array)
 * [Count subarrays with score less than k](Solutions/C/count-subarrays-with-score-less-than-k)
 * [Delivering boxes from storage to ports](Solutions/D/delivering-boxes-from-storage-to-ports)
@@ -498,33 +498,33 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest subsequence with limited sum](Solutions/L/longest-subsequence-with-limited-sum)
 * [Minimum amount of time to collect garbage](Solutions/M/minimum-amount-of-time-to-collect-garbage)
 
-## Priority queue
+## <a name="Priority_queue">Priority queue</a>
 * [First unique character in a string](Solutions/F/first-unique-character-in-a-string)
 * [Furthest building you can reach](Solutions/F/furthest-building-you-can-reach)
 * [Jump game vi](Solutions/J/jump-game-vi)
 * [Last stone weight](Solutions/L/last-stone-weight)
 
-### Dijkstra-like processing of subarrays
+### <a name="Dijkstra_like_processing_of_subarrays">Dijkstra-like processing of subarrays</a>
 * [Find the k sum of an array](Solutions/F/find-the-k-sum-of-an-array)
 
-### K smallest/largest elements
+### <a name="K_smallest_largest_elements">K smallest/largest elements</a>
 * [Find the most competitive subsequence](Solutions/F/find-the-most-competitive-subsequence)
 * [Get biggest three rhombus sums in a grid](Solutions/G/get-biggest-three-rhombus-sums-in-a-grid)
 * [Kth largest element in a stream](Solutions/K/kth-largest-element-in-a-stream)
 
-#### Transfer between the two
+#### <a name="Transfer_between_the_two">Transfer between the two</a>
 * [Find median from data stream](Solutions/F/find-median-from-data-stream)
 * [Finding mk average](Solutions/F/finding-mk-average)
 
-### Key update using insert and remove on C++ set
+### <a name="Key_update_using_insert_and_remove_on_C___set">Key update using insert and remove on C++ set</a>
 * [Design a food rating system](Solutions/D/design-a-food-rating-system)
 * [Design a number container system](Solutions/D/design-a-number-container-system)
 * [Design authentication manager](Solutions/D/design-authentication-manager)
 
-## Quick Select
+## <a name="Quick_Select">Quick Select</a>
 * [Kth largest element in an array](Solutions/K/kth-largest-element-in-an-array)
 
-## Segment tree
+## <a name="Segment_tree">Segment tree</a>
 * [Count of range sum](Solutions/C/count-of-range-sum)
 * [Count of smaller numbers after self](Solutions/C/count-of-smaller-numbers-after-self)
 * [Count pairs with xor in a range](Solutions/C/count-pairs-with-xor-in-a-range)
@@ -533,7 +533,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Fancy sequence](Solutions/F/fancy-sequence)
 * [Jump game vii](Solutions/J/jump-game-vii)
 
-## Simple implementation
+## <a name="Simple_implementation">Simple implementation</a>
 * [Arranging coins](Solutions/A/arranging-coins)
 * [Best poker hand](Solutions/B/best-poker-hand)
 * [Bulls and cows](Solutions/B/bulls-and-cows)
@@ -576,7 +576,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Largest magic square](Solutions/L/largest-magic-square)
 * [Largest time for given digits](Solutions/L/largest-time-for-given-digits)
 
-## Sliding window
+## <a name="Sliding_window">Sliding window</a>
 * [3sum](Solutions/0-9/3sum)
 * [3sum closest](Solutions/0-9/3sum-closest)
 * [Binary trees with factors](Solutions/B/binary-trees-with-factors)
@@ -586,12 +586,12 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Frequency of the most frequent element](Solutions/F/frequency-of-the-most-frequent-element)
 * [Fruit into baskets](Solutions/F/fruit-into-baskets)
 
-### String hashing
+### <a name="String_hashing">String hashing</a>
 * [Implement strstr](Solutions/I/implement-strstr)
 
-## Sorting
+## <a name="Sorting">Sorting</a>
 
-### Custom
+### <a name="Sorting-Custom">Custom</a>
 * [Advantage shuffle](Solutions/A/advantage-shuffle)
 * [Array of doubled pairs](Solutions/A/array-of-doubled-pairs)
 * [Closest room](Solutions/C/closest-room)
@@ -604,36 +604,36 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [K closest points to origin](Solutions/K/k-closest-points-to-origin)
 * [Largest number](Solutions/L/largest-number)
 
-### Partial
+### <a name="Partial">Partial</a>
 * [Find k closest elements](Solutions/F/find-k-closest-elements)
 * [K closest points to origin](Solutions/K/k-closest-points-to-origin)
 
-### Remembering index
+### <a name="Remembering_index">Remembering index</a>
 * [Find right interval](Solutions/F/find-right-interval)
 
-## Stack
+## <a name="Stack">Stack</a>
 * [Binary search tree iterator](Solutions/B/binary-search-tree-iterator)
 * [Removing stars from a string](Solutions/R/removing-stars-from-a-string)
 
-### From array elements
+### <a name="From_array_elements">From array elements</a>
 * [Asteroid collision](Solutions/A/asteroid-collision)
 
-### Monotonic stack
+### <a name="Monotonic_stack">Monotonic stack</a>
 * [Daily temperatures](Solutions/D/daily-temperatures)
 * [Largest rectangle in histogram](Solutions/L/largest-rectangle-in-histogram)
 
-### Numerical operations
+### <a name="Numerical_operations">Numerical operations</a>
 * [Baseball game](Solutions/B/baseball-game)
 * [Basic calculator](Solutions/B/basic-calculator)
 * [Basic calculator ii](Solutions/B/basic-calculator-ii)
 * [Evaluate reverse polish notation](Solutions/E/evaluate-reverse-polish-notation)
 
-## String
+## <a name="String">String</a>
 
-### Anagrams
+### <a name="String-Anagrams">Anagrams</a>
 * [Group anagrams](Solutions/G/group-anagrams)
 
-### Parsing
+### <a name="Parsing">Parsing</a>
 * [Basic calculator](Solutions/B/basic-calculator)
 * [Basic calculator ii](Solutions/B/basic-calculator-ii)
 * [Compare version numbers](Solutions/C/compare-version-numbers)
@@ -643,22 +643,22 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find duplicate file in system](Solutions/F/find-duplicate-file-in-system)
 * [Goat latin](Solutions/G/goat-latin)
 
-#### Recursive
+#### <a name="Recursive">Recursive</a>
 * [Decode string](Solutions/D/decode-string)
 * [Number of atoms](Solutions/N/number-of-atoms)
 
-### Search
+### <a name="Search">Search</a>
 
-#### Hashing
+#### <a name="Search-Hashing">Hashing</a>
 * [Implement strstr](Solutions/I/implement-strstr)
 
-### Subsequence
+### <a name="Subsequence">Subsequence</a>
 * [Is subsequence](Solutions/I/is-subsequence)
 
-### Validation
+### <a name="Validation">Validation</a>
 * [Ambiguous coordinates](Solutions/A/ambiguous-coordinates)
 
-## Suboptimal solution
+## <a name="Suboptimal_solution">Suboptimal solution</a>
 * [Check if all the integers in a range are covered](Solutions/C/check-if-all-the-integers-in-a-range-are-covered)
 * [Check if two string arrays are equivalent](Solutions/C/check-if-two-string-arrays-are-equivalent)
 * [Counting bits](Solutions/C/counting-bits)
@@ -668,17 +668,17 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [How many numbers are smaller than the current number](Solutions/H/how-many-numbers-are-smaller-than-the-current-number)
 * [Kth missing positive number](Solutions/K/kth-missing-positive-number)
 
-## Time reversed simulation
+## <a name="Time_reversed_simulation">Time reversed simulation</a>
 * [Backspace string compare](Solutions/B/backspace-string-compare)
 * [Construct target array with multiple sums](Solutions/C/construct-target-array-with-multiple-sums)
 
-## Tree
+## <a name="Tree">Tree</a>
 
-### Binary search tree
+### <a name="Tree-Binary_search_tree">Binary search tree</a>
 * [Insert into a binary search tree](Solutions/I/insert-into-a-binary-search-tree)
 * [Kth smallest element in a bst](Solutions/K/kth-smallest-element-in-a-bst)
 
-#### Traversal
+#### <a name="Traversal">Traversal</a>
 * [All elements in two binary search trees](Solutions/A/all-elements-in-two-binary-search-trees)
 * [Binary search tree iterator](Solutions/B/binary-search-tree-iterator)
 * [Construct binary search tree from preorder traversal](Solutions/C/construct-binary-search-tree-from-preorder-traversal)
@@ -686,9 +686,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Delete node in a bst](Solutions/D/delete-node-in-a-bst)
 * [Increasing order search tree](Solutions/I/increasing-order-search-tree)
 
-### Binary tree
+### <a name="Binary_tree">Binary tree</a>
 
-#### Recursion
+#### <a name="Binary_tree-Recursion">Recursion</a>
 * [Add one row to tree](Solutions/A/add-one-row-to-tree)
 * [Average of levels in binary tree](Solutions/A/average-of-levels-in-binary-tree)
 * [Balanced binary tree](Solutions/B/balanced-binary-tree)
@@ -723,22 +723,22 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Invert binary tree](Solutions/I/invert-binary-tree)
 * [Kth smallest element in a bst](Solutions/K/kth-smallest-element-in-a-bst)
 
-### Order traversal
+### <a name="Order_traversal">Order traversal</a>
 * [Construct binary tree from inorder and postorder traversal](Solutions/C/construct-binary-tree-from-inorder-and-postorder-traversal)
 * [Construct binary tree from preorder and inorder traversal](Solutions/C/construct-binary-tree-from-preorder-and-inorder-traversal)
 * [Flip binary tree to match preorder traversal](Solutions/F/flip-binary-tree-to-match-preorder-traversal)
 
-### Rerooting
+### <a name="Rerooting">Rerooting</a>
 * [Amount of time for binary tree to be infected](Solutions/A/amount-of-time-for-binary-tree-to-be-infected)
 
-## Trie
+## <a name="Trie">Trie</a>
 * [Design add and search words data structure](Solutions/D/design-add-and-search-words-data-structure)
 * [Implement trie prefix tree](Solutions/I/implement-trie-prefix-tree)
 
-## Unique elements in subarray
+## <a name="Unique_elements_in_subarray">Unique elements in subarray</a>
 * [Count unique characters of all substrings of a given string](Solutions/C/count-unique-characters-of-all-substrings-of-a-given-string)
 
-## Unique/duplicate element finding with bizarro algorithms
+## <a name="Unique_duplicate_element_finding_with_bizarro_algorithms">Unique/duplicate element finding with bizarro algorithms</a>
 * [Find all duplicates in an array](Solutions/F/find-all-duplicates-in-an-array)
 * [Find all numbers disappeared in an array](Solutions/F/find-all-numbers-disappeared-in-an-array)
 * [Find the difference](Solutions/F/find-the-difference)

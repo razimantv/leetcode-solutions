@@ -1,0 +1,7 @@
+# Fizz buzz multithreaded
+
+[Problem link](https://leetcode.com/problems/fizz-buzz-multithreaded)
+
+## Tags
+
+* [Concurrency](/README.md#Concurrency)

@@ -1,0 +1,7 @@
+# First letter to appear twice
+
+[Problem link](https://leetcode.com/problems/first-letter-to-appear-twice)
+
+## Tags
+
+* [Hashmap](/README.md#Hashmap)

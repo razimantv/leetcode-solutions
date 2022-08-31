@@ -1,0 +1,7 @@
+# Kth smallest element in a sorted matrix
+
+[Problem link](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)
+
+## Tags
+
+* [Binary search](/README.md#Binary_search)
