@@ -6,4 +6,4 @@
 
 * [Design data structure](/README.md#Design_data_structure)
 * [Mathematics](/README.md#Mathematics) > [Combinatorics](/README.md#Mathematics-Combinatorics)
-* [Brute force enumeration with combinatorics](/README.md#Brute_force_enumeration_with_combinatorics)
+* [Brute force enumeration](/README.md#Brute_force_enumeration) > [Combinatorial](/README.md#Brute_force_enumeration-Combinatorial)

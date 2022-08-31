@@ -17,6 +17,10 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Consecutive characters](Solutions/C/consecutive-characters)
 * [Count binary substrings](Solutions/C/count-binary-substrings)
 * [Distribute candies](Solutions/D/distribute-candies)
+* [Longer contiguous segments of ones than zeros](Solutions/L/longer-contiguous-segments-of-ones-than-zeros)
+* [Longest mountain in array](Solutions/L/longest-mountain-in-array)
+* [Longest substring of all vowels in order](Solutions/L/longest-substring-of-all-vowels-in-order)
+* [Longest turbulent subarray](Solutions/L/longest-turbulent-subarray)
 
 ### <a name="Array_scanning-From_both_ends_of_array">From both ends of array</a>
 * [Best time to buy and sell stock iii](Solutions/B/best-time-to-buy-and-sell-stock-iii)
@@ -39,6 +43,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Jump game ii](Solutions/J/jump-game-ii)
 * [Jump game vi](Solutions/J/jump-game-vi)
 * [Largest odd number in string](Solutions/L/largest-odd-number-in-string)
+* [Longest binary subsequence less than or equal to k](Solutions/L/longest-binary-subsequence-less-than-or-equal-to-k)
 
 ## <a name="Averaging_from_total_and_count">Averaging from total and count</a>
 * [Average of levels in binary tree](Solutions/A/average-of-levels-in-binary-tree)
@@ -97,9 +102,15 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Gray code](Solutions/G/gray-code)
 * [Hamming distance](Solutions/H/hamming-distance)
 
-## <a name="Brute_force_enumeration_with_combinatorics">Brute force enumeration with combinatorics</a>
+## <a name="Brute_force_enumeration">Brute force enumeration</a>
+
+### <a name="Brute_force_enumeration-Combinatorial">Combinatorial</a>
 * [Fair distribution of cookies](Solutions/F/fair-distribution-of-cookies)
 * [Iterator for combination](Solutions/I/iterator-for-combination)
+
+### <a name="Brute_force_enumeration-Elementwise_processing_using_a_vector">Elementwise processing using a vector</a>
+* [Letter case permutation](Solutions/L/letter-case-permutation)
+* [Letter combinations of a phone number](Solutions/L/letter-combinations-of-a-phone-number)
 
 ## <a name="Concurrency">Concurrency</a>
 * [Building h2o](Solutions/B/building-h2o)
@@ -115,6 +126,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find all anagrams in a string](Solutions/F/find-all-anagrams-in-a-string)
 * [Intersection of two arrays ii](Solutions/I/intersection-of-two-arrays-ii)
 * [Largest palindromic number](Solutions/L/largest-palindromic-number)
+* [Longest palindrome](Solutions/L/longest-palindrome)
 
 ## <a name="Design_data_structure">Design data structure</a>
 * [Design a food rating system](Solutions/D/design-a-food-rating-system)
@@ -160,6 +172,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [House robber](Solutions/H/house-robber)
 * [Jump game](Solutions/J/jump-game)
 * [Jump game ii](Solutions/J/jump-game-ii)
+* [Longest string chain](Solutions/L/longest-string-chain)
 
 ### <a name="Dynamic_programming-Array_reuse">Array reuse</a>
 * [Champagne tower](Solutions/C/champagne-tower)
@@ -170,6 +183,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Distinct subsequences](Solutions/D/distinct-subsequences)
 * [Interleaving string](Solutions/I/interleaving-string)
 * [K inverse pairs array](Solutions/K/k-inverse-pairs-array)
+* [Longest binary subsequence less than or equal to k](Solutions/L/longest-binary-subsequence-less-than-or-equal-to-k)
+* [Longest ideal subsequence](Solutions/L/longest-ideal-subsequence)
 
 ### <a name="Dynamic_programming-Auxiliary_array">Auxiliary array</a>
 * [Best time to buy and sell stock iv](Solutions/B/best-time-to-buy-and-sell-stock-iv)
@@ -187,6 +202,10 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Dynamic_programming-Longest_common_subsequence">Longest common subsequence</a>
 * [Delete operation for two strings](Solutions/D/delete-operation-for-two-strings)
+* [Longest common subsequence](Solutions/L/longest-common-subsequence)
+
+### <a name="Dynamic_programming-Longest_increasing_subsequence">Longest increasing subsequence</a>
+* [Longest increasing subsequence](Solutions/L/longest-increasing-subsequence)
 
 ### <a name="Dynamic_programming-Memoised_recursion">Memoised recursion</a>
 * [Combination sum iv](Solutions/C/combination-sum-iv)
@@ -209,6 +228,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Diameter of binary tree](Solutions/D/diameter-of-binary-tree)
 * [Employee importance](Solutions/E/employee-importance)
 * [House robber iii](Solutions/H/house-robber-iii)
+* [Longest path with different adjacent characters](Solutions/L/longest-path-with-different-adjacent-characters)
 
 ## <a name="Encoding_and_decoding">Encoding and decoding</a>
 * [Encode and decode tinyurl](Solutions/E/encode-and-decode-tinyurl)
@@ -256,6 +276,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Employee importance](Solutions/E/employee-importance)
 * [Jump game iii](Solutions/J/jump-game-iii)
 * [Keys and rooms](Solutions/K/keys-and-rooms)
+* [Longest increasing path in a matrix](Solutions/L/longest-increasing-path-in-a-matrix)
+* [Longest path with different adjacent characters](Solutions/L/longest-path-with-different-adjacent-characters)
 
 #### <a name="Graph_theory-Depth_first_search-Colouring">Colouring</a>
 * [Is graph bipartite](Solutions/I/is-graph-bipartite)
@@ -273,6 +295,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Graph_theory-Single_outdegree_graphs">Single outdegree graphs</a>
 * [Find closest node to given two nodes](Solutions/F/find-closest-node-to-given-two-nodes)
+* [Longest cycle in a graph](Solutions/L/longest-cycle-in-a-graph)
 
 ### <a name="Graph_theory-Topological_sort">Topological sort</a>
 * [Build a matrix with conditions](Solutions/B/build-a-matrix-with-conditions)
@@ -319,6 +342,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Intersection of two arrays ii](Solutions/I/intersection-of-two-arrays-ii)
 * [Jewels and stones](Solutions/J/jewels-and-stones)
 * [K diff pairs in an array](Solutions/K/k-diff-pairs-in-an-array)
+* [Longest consecutive sequence](Solutions/L/longest-consecutive-sequence)
 * [Minimum amount of time to collect garbage](Solutions/M/minimum-amount-of-time-to-collect-garbage)
 * [Number of atoms](Solutions/N/number-of-atoms)
 
@@ -369,6 +393,11 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Flatten binary tree to linked list](Solutions/F/flatten-binary-tree-to-linked-list)
 * [Insertion sort list](Solutions/I/insertion-sort-list)
 * [Intersection of two linked lists](Solutions/I/intersection-of-two-linked-lists)
+* [Linked list random node](Solutions/L/linked-list-random-node)
+
+#### <a name="Linked_list-Iteration-Cycle_detection">Cycle detection</a>
+* [Linked list cycle](Solutions/L/linked-list-cycle)
+* [Linked list cycle ii](Solutions/L/linked-list-cycle-ii)
 
 ### <a name="Linked_list-Recursion">Recursion</a>
 * [Flatten a multilevel doubly linked list](Solutions/F/flatten-a-multilevel-doubly-linked-list)
@@ -440,6 +469,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Generate random point in a circle](Solutions/G/generate-random-point-in-a-circle)
 * [Implement rand10 using rand7](Solutions/I/implement-rand10-using-rand7)
 * [Insert delete getrandom o1](Solutions/I/insert-delete-getrandom-o1)
+* [Linked list random node](Solutions/L/linked-list-random-node)
 
 ## <a name="Matrix">Matrix</a>
 
@@ -450,6 +480,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Matrix-Path">Path</a>
 * [Dungeon game](Solutions/D/dungeon-game)
+* [Longest increasing path in a matrix](Solutions/L/longest-increasing-path-in-a-matrix)
 
 ### <a name="Matrix-Traversal">Traversal</a>
 * [Diagonal traverse](Solutions/D/diagonal-traverse)
@@ -462,6 +493,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## <a name="Palindrome">Palindrome</a>
 * [Break a palindrome](Solutions/B/break-a-palindrome)
 * [Largest palindromic number](Solutions/L/largest-palindromic-number)
+* [Longest palindrome](Solutions/L/longest-palindrome)
+* [Longest palindromic substring](Solutions/L/longest-palindromic-substring)
 
 ## <a name="Permutation">Permutation</a>
 
@@ -585,6 +618,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find all anagrams in a string](Solutions/F/find-all-anagrams-in-a-string)
 * [Frequency of the most frequent element](Solutions/F/frequency-of-the-most-frequent-element)
 * [Fruit into baskets](Solutions/F/fruit-into-baskets)
+* [Longest duplicate substring](Solutions/L/longest-duplicate-substring)
+* [Longest harmonious subsequence](Solutions/L/longest-harmonious-subsequence)
+* [Longest substring without repeating characters](Solutions/L/longest-substring-without-repeating-characters)
 
 ### <a name="Sliding_window-String_hashing">String hashing</a>
 * [Implement strstr](Solutions/I/implement-strstr)
@@ -603,6 +639,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find k closest elements](Solutions/F/find-k-closest-elements)
 * [K closest points to origin](Solutions/K/k-closest-points-to-origin)
 * [Largest number](Solutions/L/largest-number)
+* [Longest string chain](Solutions/L/longest-string-chain)
 
 ### <a name="Sorting-Partial">Partial</a>
 * [Find k closest elements](Solutions/F/find-k-closest-elements)
@@ -642,6 +679,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Evaluate the bracket pairs of a string](Solutions/E/evaluate-the-bracket-pairs-of-a-string)
 * [Find duplicate file in system](Solutions/F/find-duplicate-file-in-system)
 * [Goat latin](Solutions/G/goat-latin)
+* [Length of last word](Solutions/L/length-of-last-word)
 
 #### <a name="String-Parsing-Recursive">Recursive</a>
 * [Decode string](Solutions/D/decode-string)
@@ -651,9 +689,11 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 #### <a name="String-Search-Hashing">Hashing</a>
 * [Implement strstr](Solutions/I/implement-strstr)
+* [Longest duplicate substring](Solutions/L/longest-duplicate-substring)
 
 ### <a name="String-Subsequence">Subsequence</a>
 * [Is subsequence](Solutions/I/is-subsequence)
+* [Longest common subsequence](Solutions/L/longest-common-subsequence)
 
 ### <a name="String-Validation">Validation</a>
 * [Ambiguous coordinates](Solutions/A/ambiguous-coordinates)
@@ -667,6 +707,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Flatten nested list iterator](Solutions/F/flatten-nested-list-iterator)
 * [How many numbers are smaller than the current number](Solutions/H/how-many-numbers-are-smaller-than-the-current-number)
 * [Kth missing positive number](Solutions/K/kth-missing-positive-number)
+* [Longest increasing subsequence](Solutions/L/longest-increasing-subsequence)
+* [Longest palindromic substring](Solutions/L/longest-palindromic-substring)
+* [Longest substring with at least k repeating characters](Solutions/L/longest-substring-with-at-least-k-repeating-characters)
 
 ## <a name="Time_reversed_simulation">Time reversed simulation</a>
 * [Backspace string compare](Solutions/B/backspace-string-compare)
@@ -737,6 +780,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## <a name="Unique_elements_in_subarray">Unique elements in subarray</a>
 * [Count unique characters of all substrings of a given string](Solutions/C/count-unique-characters-of-all-substrings-of-a-given-string)
+* [Longest substring without repeating characters](Solutions/L/longest-substring-without-repeating-characters)
 
 ## <a name="Unique_duplicate_element_finding_with_bizarro_algorithms">Unique/duplicate element finding with bizarro algorithms</a>
 * [Find all duplicates in an array](Solutions/F/find-all-duplicates-in-an-array)
@@ -751,31 +795,6 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Decoded string at index](Solutions/D/decoded-string-at-index)
 * [Flip string to monotone increasing](Solutions/F/flip-string-to-monotone-increasing)
 * [Leftmost column with at least a one](Solutions/L/leftmost-column-with-at-least-a-one)
-* [Length of last word](Solutions/L/length-of-last-word)
-* [Letter case permutation](Solutions/L/letter-case-permutation)
-* [Letter combinations of a phone number](Solutions/L/letter-combinations-of-a-phone-number)
-* [Linked list cycle](Solutions/L/linked-list-cycle)
-* [Linked list cycle ii](Solutions/L/linked-list-cycle-ii)
-* [Linked list random node](Solutions/L/linked-list-random-node)
-* [Longer contiguous segments of ones than zeros](Solutions/L/longer-contiguous-segments-of-ones-than-zeros)
-* [Longest binary subsequence less than or equal to k](Solutions/L/longest-binary-subsequence-less-than-or-equal-to-k)
-* [Longest common subsequence](Solutions/L/longest-common-subsequence)
-* [Longest consecutive sequence](Solutions/L/longest-consecutive-sequence)
-* [Longest cycle in a graph](Solutions/L/longest-cycle-in-a-graph)
-* [Longest duplicate substring](Solutions/L/longest-duplicate-substring)
-* [Longest harmonious subsequence](Solutions/L/longest-harmonious-subsequence)
-* [Longest ideal subsequence](Solutions/L/longest-ideal-subsequence)
-* [Longest increasing path in a matrix](Solutions/L/longest-increasing-path-in-a-matrix)
-* [Longest increasing subsequence](Solutions/L/longest-increasing-subsequence)
-* [Longest mountain in array](Solutions/L/longest-mountain-in-array)
-* [Longest palindrome](Solutions/L/longest-palindrome)
-* [Longest palindromic substring](Solutions/L/longest-palindromic-substring)
-* [Longest path with different adjacent characters](Solutions/L/longest-path-with-different-adjacent-characters)
-* [Longest string chain](Solutions/L/longest-string-chain)
-* [Longest substring of all vowels in order](Solutions/L/longest-substring-of-all-vowels-in-order)
-* [Longest substring with at least k repeating characters](Solutions/L/longest-substring-with-at-least-k-repeating-characters)
-* [Longest substring without repeating characters](Solutions/L/longest-substring-without-repeating-characters)
-* [Longest turbulent subarray](Solutions/L/longest-turbulent-subarray)
 * [Longest uncommon subsequence ii](Solutions/L/longest-uncommon-subsequence-ii)
 * [Longest univalue path](Solutions/L/longest-univalue-path)
 * [Longest valid parentheses](Solutions/L/longest-valid-parentheses)

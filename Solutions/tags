@@ -10,7 +10,8 @@ Binary search
 Binary search>C++ set
 Binary search>Prefix sum
 Bitwise operation
-Brute force enumeration with combinatorics
+Brute force enumeration>Combinatorial
+Brute force enumeration>Elementwise processing using a vector
 Concurrency
 Construction
 Counting elements in array
@@ -24,6 +25,7 @@ Dynamic programming>Cyclic array
 Dynamic programming>Digits
 Dynamic programming>Knapsack
 Dynamic programming>Longest common subsequence
+Dynamic programming>Longest increasing subsequence
 Dynamic programming>Memoised recursion
 Dynamic programming>Number theory
 Dynamic programming>Segment tree
@@ -58,6 +60,7 @@ Intervals>Endpoint sorting
 Intervals>Non-overlapping decomposition
 Intervals>Overlap
 Linked list>Iteration
+Linked list>Iteration>Cycle detection
 Linked list>Recursion
 Mathematics>Advanced
 Mathematics>Basic
