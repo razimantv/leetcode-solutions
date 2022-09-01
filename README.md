@@ -101,12 +101,14 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find xor sum of all pairs bitwise and](Solutions/F/find-xor-sum-of-all-pairs-bitwise-and)
 * [Gray code](Solutions/G/gray-code)
 * [Hamming distance](Solutions/H/hamming-distance)
+* [Longest uncommon subsequence ii](Solutions/L/longest-uncommon-subsequence-ii)
 
 ## <a name="Brute_force_enumeration">Brute force enumeration</a>
 
 ### <a name="Brute_force_enumeration-Combinatorial">Combinatorial</a>
 * [Fair distribution of cookies](Solutions/F/fair-distribution-of-cookies)
 * [Iterator for combination](Solutions/I/iterator-for-combination)
+* [Longest uncommon subsequence ii](Solutions/L/longest-uncommon-subsequence-ii)
 
 ### <a name="Brute_force_enumeration-Elementwise_processing_using_a_vector">Elementwise processing using a vector</a>
 * [Letter case permutation](Solutions/L/letter-case-permutation)
@@ -142,6 +144,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Implement trie prefix tree](Solutions/I/implement-trie-prefix-tree)
 * [Insert delete getrandom o1](Solutions/I/insert-delete-getrandom-o1)
 * [Iterator for combination](Solutions/I/iterator-for-combination)
+* [Lru cache](Solutions/L/lru-cache)
 
 ### <a name="Design_data_structure-Interconversion">Interconversion</a>
 * [Implement stack using queues](Solutions/I/implement-stack-using-queues)
@@ -229,6 +232,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Employee importance](Solutions/E/employee-importance)
 * [House robber iii](Solutions/H/house-robber-iii)
 * [Longest path with different adjacent characters](Solutions/L/longest-path-with-different-adjacent-characters)
+* [Longest univalue path](Solutions/L/longest-univalue-path)
 
 ## <a name="Encoding_and_decoding">Encoding and decoding</a>
 * [Encode and decode tinyurl](Solutions/E/encode-and-decode-tinyurl)
@@ -318,6 +322,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Is subsequence](Solutions/I/is-subsequence)
 * [Largest number](Solutions/L/largest-number)
 * [Longest subsequence with limited sum](Solutions/L/longest-subsequence-with-limited-sum)
+* [Make array zero by subtracting equal amounts](Solutions/M/make-array-zero-by-subtracting-equal-amounts)
 
 ## <a name="Hashmap">Hashmap</a>
 * [Array of doubled pairs](Solutions/A/array-of-doubled-pairs)
@@ -343,6 +348,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Jewels and stones](Solutions/J/jewels-and-stones)
 * [K diff pairs in an array](Solutions/K/k-diff-pairs-in-an-array)
 * [Longest consecutive sequence](Solutions/L/longest-consecutive-sequence)
+* [Longest word in dictionary](Solutions/L/longest-word-in-dictionary)
+* [Lru cache](Solutions/L/lru-cache)
 * [Minimum amount of time to collect garbage](Solutions/M/minimum-amount-of-time-to-collect-garbage)
 * [Number of atoms](Solutions/N/number-of-atoms)
 
@@ -401,6 +408,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Linked_list-Recursion">Recursion</a>
 * [Flatten a multilevel doubly linked list](Solutions/F/flatten-a-multilevel-doubly-linked-list)
+
+## <a name="Majority_element">Majority element</a>
+* [Majority element ii](Solutions/M/majority-element-ii)
 
 ## <a name="Mathematics">Mathematics</a>
 
@@ -529,6 +539,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Execution of all suffix instructions staying in a grid](Solutions/E/execution-of-all-suffix-instructions-staying-in-a-grid)
 * [Gas station](Solutions/G/gas-station)
 * [Longest subsequence with limited sum](Solutions/L/longest-subsequence-with-limited-sum)
+* [Longest valid parentheses](Solutions/L/longest-valid-parentheses)
 * [Minimum amount of time to collect garbage](Solutions/M/minimum-amount-of-time-to-collect-garbage)
 
 ## <a name="Priority_queue">Priority queue</a>
@@ -553,6 +564,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Design a food rating system](Solutions/D/design-a-food-rating-system)
 * [Design a number container system](Solutions/D/design-a-number-container-system)
 * [Design authentication manager](Solutions/D/design-authentication-manager)
+* [Lru cache](Solutions/L/lru-cache)
 
 ## <a name="Quick_Select">Quick Select</a>
 * [Kth largest element in an array](Solutions/K/kth-largest-element-in-an-array)
@@ -626,6 +638,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Implement strstr](Solutions/I/implement-strstr)
 
 ## <a name="Sorting">Sorting</a>
+* [Majority element](Solutions/M/majority-element)
 
 ### <a name="Sorting-Custom">Custom</a>
 * [Advantage shuffle](Solutions/A/advantage-shuffle)
@@ -654,6 +667,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Stack-From_array_elements">From array elements</a>
 * [Asteroid collision](Solutions/A/asteroid-collision)
+* [Longest valid parentheses](Solutions/L/longest-valid-parentheses)
 
 ### <a name="Stack-Monotonic_stack">Monotonic stack</a>
 * [Daily temperatures](Solutions/D/daily-temperatures)
@@ -694,6 +708,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="String-Subsequence">Subsequence</a>
 * [Is subsequence](Solutions/I/is-subsequence)
 * [Longest common subsequence](Solutions/L/longest-common-subsequence)
+* [Longest uncommon subsequence ii](Solutions/L/longest-uncommon-subsequence-ii)
+* [Longest word in dictionary through deleting](Solutions/L/longest-word-in-dictionary-through-deleting)
 
 ### <a name="String-Validation">Validation</a>
 * [Ambiguous coordinates](Solutions/A/ambiguous-coordinates)
@@ -710,6 +726,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest increasing subsequence](Solutions/L/longest-increasing-subsequence)
 * [Longest palindromic substring](Solutions/L/longest-palindromic-substring)
 * [Longest substring with at least k repeating characters](Solutions/L/longest-substring-with-at-least-k-repeating-characters)
+* [Longest word in dictionary](Solutions/L/longest-word-in-dictionary)
+* [Majority element](Solutions/M/majority-element)
 
 ## <a name="Time_reversed_simulation">Time reversed simulation</a>
 * [Backspace string compare](Solutions/B/backspace-string-compare)
@@ -765,6 +783,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Increasing order search tree](Solutions/I/increasing-order-search-tree)
 * [Invert binary tree](Solutions/I/invert-binary-tree)
 * [Kth smallest element in a bst](Solutions/K/kth-smallest-element-in-a-bst)
+* [Longest univalue path](Solutions/L/longest-univalue-path)
+* [Lowest common ancestor of a binary search tree](Solutions/L/lowest-common-ancestor-of-a-binary-search-tree)
+* [Lowest common ancestor of a binary tree](Solutions/L/lowest-common-ancestor-of-a-binary-tree)
 
 ### <a name="Tree-Order_traversal">Order traversal</a>
 * [Construct binary tree from inorder and postorder traversal](Solutions/C/construct-binary-tree-from-inorder-and-postorder-traversal)
@@ -795,17 +816,6 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Decoded string at index](Solutions/D/decoded-string-at-index)
 * [Flip string to monotone increasing](Solutions/F/flip-string-to-monotone-increasing)
 * [Leftmost column with at least a one](Solutions/L/leftmost-column-with-at-least-a-one)
-* [Longest uncommon subsequence ii](Solutions/L/longest-uncommon-subsequence-ii)
-* [Longest univalue path](Solutions/L/longest-univalue-path)
-* [Longest valid parentheses](Solutions/L/longest-valid-parentheses)
-* [Longest word in dictionary](Solutions/L/longest-word-in-dictionary)
-* [Longest word in dictionary through deleting](Solutions/L/longest-word-in-dictionary-through-deleting)
-* [Lowest common ancestor of a binary search tree](Solutions/L/lowest-common-ancestor-of-a-binary-search-tree)
-* [Lowest common ancestor of a binary tree](Solutions/L/lowest-common-ancestor-of-a-binary-tree)
-* [Lru cache](Solutions/L/lru-cache)
-* [Majority element](Solutions/M/majority-element)
-* [Majority element ii](Solutions/M/majority-element-ii)
-* [Make array zero by subtracting equal amounts](Solutions/M/make-array-zero-by-subtracting-equal-amounts)
 * [Making a large island](Solutions/M/making-a-large-island)
 * [Map sum pairs](Solutions/M/map-sum-pairs)
 * [Match substring after replacement](Solutions/M/match-substring-after-replacement)

@@ -6,7 +6,7 @@ do
   cd "$i" || exit
   if [ ! -f tags ]
   then
-    vi -p ./* tags ../../tags
+    vi -p ./Solution.* tags ../../tags
   fi
   cd ../..
 done

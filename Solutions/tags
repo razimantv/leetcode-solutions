@@ -62,6 +62,7 @@ Intervals>Overlap
 Linked list>Iteration
 Linked list>Iteration>Cycle detection
 Linked list>Recursion
+Majority element
 Mathematics>Advanced
 Mathematics>Basic
 Mathematics>Combinatorics
@@ -88,14 +89,15 @@ Prefix>Extremum
 Prefix>Sum
 Priority queue
 Priority queue>Dijkstra-like processing of subarrays
+Priority queue>Key update using insert and remove on C++ set
 Priority queue>K smallest/largest elements
 Priority queue>K smallest/largest elements>Transfer between the two
-Priority queue>Key update using insert and remove on C++ set
 Quick Select
 Segment tree
 Simple implementation
 Sliding window
 Sliding window>String hashing
+Sorting
 Sorting>Custom
 Sorting>Partial
 Sorting>Remembering index
@@ -117,5 +119,5 @@ Tree>Binary tree>Recursion
 Tree>Order traversal
 Tree>Rerooting
 Trie
-Unique elements in subarray
 Unique/duplicate element finding with bizarro algorithms
+Unique elements in subarray
