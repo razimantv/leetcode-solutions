@@ -23,6 +23,7 @@ Dynamic programming>Array reuse
 Dynamic programming>Auxiliary array
 Dynamic programming>Cyclic array
 Dynamic programming>Digits
+Dynamic programming>Intervals
 Dynamic programming>Knapsack
 Dynamic programming>Longest common subsequence
 Dynamic programming>Longest increasing subsequence
@@ -54,8 +55,10 @@ Hashmap>Coordinate compression
 Hashmap>Forward and backward
 Hashmap>Group items
 Hashmap>Update using insert and delete
+Heuristic optimisation
 Integer operations on strings
 Intervals
+Intervals>DP with binary search
 Intervals>Endpoint sorting
 Intervals>Non-overlapping decomposition
 Intervals>Overlap
@@ -63,6 +66,7 @@ Linked list>Iteration
 Linked list>Iteration>Cycle detection
 Linked list>Recursion
 Majority element
+Mathematics
 Mathematics>Advanced
 Mathematics>Basic
 Mathematics>Combinatorics
@@ -87,6 +91,7 @@ Permutation>Inversions
 Pointers
 Prefix>Extremum
 Prefix>Sum
+Prefix>Sum>2D
 Priority queue
 Priority queue>Dijkstra-like processing of subarrays
 Priority queue>Key update using insert and remove on C++ set
