@@ -1,3 +1,4 @@
+Array scanning>Contiguous region
 Array scanning>Contiguous regions
 Array scanning>From both ends of array
 Array scanning>In-place modification
@@ -82,6 +83,7 @@ Mathematics>Number theory>Prime sieving
 Mathematics>Probability
 Matrix>Geometric transformation
 Matrix>Path
+Matrix>Row pair processing
 Matrix>Traversal
 Meet in the middle
 Palindrome
@@ -92,11 +94,12 @@ Pointers
 Prefix>Extremum
 Prefix>Sum
 Prefix>Sum>2D
+Prefix>Sums
 Priority queue
 Priority queue>Dijkstra-like processing of subarrays
-Priority queue>Key update using insert and remove on C++ set
 Priority queue>K smallest/largest elements
 Priority queue>K smallest/largest elements>Transfer between the two
+Priority queue>Key update using insert and remove on C++ set
 Quick Select
 Segment tree
 Simple implementation
@@ -124,5 +127,5 @@ Tree>Binary tree>Recursion
 Tree>Order traversal
 Tree>Rerooting
 Trie
-Unique/duplicate element finding with bizarro algorithms
 Unique elements in subarray
+Unique/duplicate element finding with bizarro algorithms
