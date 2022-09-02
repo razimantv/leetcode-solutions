@@ -11,6 +11,7 @@ Binary search
 Binary search>C++ set
 Binary search>Prefix sum
 Bitwise operation
+Bitwise operation>Build result bit-by-bit
 Brute force enumeration>Combinatorial
 Brute force enumeration>Elementwise processing using a vector
 Concurrency
@@ -63,13 +64,16 @@ Intervals>DP with binary search
 Intervals>Endpoint sorting
 Intervals>Non-overlapping decomposition
 Intervals>Overlap
+Intervals>Union
 Linked list>Iteration
 Linked list>Iteration>Cycle detection
+Linked list>Iteration>Slow and fast pointers
 Linked list>Recursion
 Majority element
 Mathematics
 Mathematics>Advanced
 Mathematics>Basic
+Mathematics>Closed form expressions
 Mathematics>Combinatorics
 Mathematics>Composition of operations
 Mathematics>Geometry
@@ -107,6 +111,7 @@ Sliding window
 Sliding window>String hashing
 Sorting
 Sorting>Custom
+Sorting>Merge sort
 Sorting>Partial
 Sorting>Remembering index
 Stack

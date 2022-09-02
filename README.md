@@ -12,9 +12,6 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## <a name="Array_scanning">Array scanning</a>
 
 ### <a name="Array_scanning-Contiguous_region">Contiguous region</a>
-* [Maximum product subarray](Solutions/M/maximum-product-subarray)
-
-### <a name="Array_scanning-Contiguous_regions">Contiguous regions</a>
 * [Arithmetic slices](Solutions/A/arithmetic-slices)
 * [Check if all 1s are at least length k places away](Solutions/C/check-if-all-1s-are-at-least-length-k-places-away)
 * [Consecutive characters](Solutions/C/consecutive-characters)
@@ -27,6 +24,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Max consecutive ones](Solutions/M/max-consecutive-ones)
 * [Maximal rectangle](Solutions/M/maximal-rectangle)
 * [Maximum ascending subarray sum](Solutions/M/maximum-ascending-subarray-sum)
+* [Maximum product subarray](Solutions/M/maximum-product-subarray)
 
 ### <a name="Array_scanning-From_both_ends_of_array">From both ends of array</a>
 * [Best time to buy and sell stock iii](Solutions/B/best-time-to-buy-and-sell-stock-iii)
@@ -38,6 +36,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Array_scanning-In_place_modification">In-place modification</a>
 * [Duplicate zeros](Solutions/D/duplicate-zeros)
 * [Find all duplicates in an array](Solutions/F/find-all-duplicates-in-an-array)
+* [Merge sorted array](Solutions/M/merge-sorted-array)
 
 ### <a name="Array_scanning-Location_of_previous_element_with_same_value">Location of previous element with same value</a>
 * [Count unique characters of all substrings of a given string](Solutions/C/count-unique-characters-of-all-substrings-of-a-given-string)
@@ -66,6 +65,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Expression add operators](Solutions/E/expression-add-operators)
 * [Generate parentheses](Solutions/G/generate-parentheses)
 * [Maximum number of groups getting fresh donuts](Solutions/M/maximum-number-of-groups-getting-fresh-donuts)
+* [Maximum score words formed by letters](Solutions/M/maximum-score-words-formed-by-letters)
 
 ## <a name="Binary_search">Binary search</a>
 * [Binary search](Solutions/B/binary-search)
@@ -87,6 +87,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest subsequence with limited sum](Solutions/L/longest-subsequence-with-limited-sum)
 * [Maximum distance between a pair of values](Solutions/M/maximum-distance-between-a-pair-of-values)
 * [Maximum number of removable characters](Solutions/M/maximum-number-of-removable-characters)
+* [Maximum value at a given index in a bounded array](Solutions/M/maximum-value-at-a-given-index-in-a-bounded-array)
+* [Maximum xor of two numbers in an array](Solutions/M/maximum-xor-of-two-numbers-in-an-array)
 
 ### <a name="Binary_search-C___set">C++ set</a>
 * [132 pattern](Solutions/0-9/132-pattern)
@@ -116,6 +118,11 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest uncommon subsequence ii](Solutions/L/longest-uncommon-subsequence-ii)
 * [Maximum length of a concatenated string with unique characters](Solutions/M/maximum-length-of-a-concatenated-string-with-unique-characters)
 * [Maximum product of word lengths](Solutions/M/maximum-product-of-word-lengths)
+* [Maximum xor after operations](Solutions/M/maximum-xor-after-operations)
+* [Maximum xor for each query](Solutions/M/maximum-xor-for-each-query)
+
+### <a name="Bitwise_operation-Build_result_bit_by_bit">Build result bit-by-bit</a>
+* [Maximum xor of two numbers in an array](Solutions/M/maximum-xor-of-two-numbers-in-an-array)
 
 ## <a name="Brute_force_enumeration">Brute force enumeration</a>
 
@@ -169,6 +176,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## <a name="Disjoint_set_union">Disjoint set union</a>
 * [Accounts merge](Solutions/A/accounts-merge)
 * [Largest component size by common factor](Solutions/L/largest-component-size-by-common-factor)
+* [Maximum segment sum after removals](Solutions/M/maximum-segment-sum-after-removals)
 
 ## <a name="Dynamic_programming">Dynamic programming</a>
 * [Arithmetic slices ii subsequence](Solutions/A/arithmetic-slices-ii-subsequence)
@@ -215,12 +223,14 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Dynamic_programming-Cyclic_array">Cyclic array</a>
 * [House robber ii](Solutions/H/house-robber-ii)
+* [Maximum sum circular subarray](Solutions/M/maximum-sum-circular-subarray)
 
 ### <a name="Dynamic_programming-Digits">Digits</a>
 * [Count special integers](Solutions/C/count-special-integers)
 
 ### <a name="Dynamic_programming-Intervals">Intervals</a>
 * [Maximum number of events that can be attended ii](Solutions/M/maximum-number-of-events-that-can-be-attended-ii)
+* [Maximum profit in job scheduling](Solutions/M/maximum-profit-in-job-scheduling)
 
 ### <a name="Dynamic_programming-Knapsack">Knapsack</a>
 * [Coin change](Solutions/C/coin-change)
@@ -356,6 +366,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum number of consecutive values you can make](Solutions/M/maximum-number-of-consecutive-values-you-can-make)
 * [Maximum number of groups entering a competition](Solutions/M/maximum-number-of-groups-entering-a-competition)
 * [Maximum performance of a team](Solutions/M/maximum-performance-of-a-team)
+* [Maximum units on a truck](Solutions/M/maximum-units-on-a-truck)
+* [Maximum value after insertion](Solutions/M/maximum-value-after-insertion)
 
 ## <a name="Hashmap">Hashmap</a>
 * [Array of doubled pairs](Solutions/A/array-of-doubled-pairs)
@@ -389,6 +401,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Max sum of a pair with equal sum of digits](Solutions/M/max-sum-of-a-pair-with-equal-sum-of-digits)
 * [Maximum number of pairs in array](Solutions/M/maximum-number-of-pairs-in-array)
 * [Maximum population year](Solutions/M/maximum-population-year)
+* [Merge similar items](Solutions/M/merge-similar-items)
 * [Minimum amount of time to collect garbage](Solutions/M/minimum-amount-of-time-to-collect-garbage)
 * [Number of atoms](Solutions/N/number-of-atoms)
 
@@ -423,6 +436,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Intervals-DP_with_binary_search">DP with binary search</a>
 * [Maximum number of events that can be attended ii](Solutions/M/maximum-number-of-events-that-can-be-attended-ii)
+* [Maximum profit in job scheduling](Solutions/M/maximum-profit-in-job-scheduling)
 
 ### <a name="Intervals-Endpoint_sorting">Endpoint sorting</a>
 * [Car pooling](Solutions/C/car-pooling)
@@ -432,6 +446,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Intervals-Overlap">Overlap</a>
 * [Interval list intersections](Solutions/I/interval-list-intersections)
+
+### <a name="Intervals-Union">Union</a>
+* [Merge intervals](Solutions/M/merge-intervals)
 
 ## <a name="Linked_list">Linked list</a>
 
@@ -447,10 +464,14 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Insertion sort list](Solutions/I/insertion-sort-list)
 * [Intersection of two linked lists](Solutions/I/intersection-of-two-linked-lists)
 * [Linked list random node](Solutions/L/linked-list-random-node)
+* [Merge in between linked lists](Solutions/M/merge-in-between-linked-lists)
+* [Merge k sorted lists](Solutions/M/merge-k-sorted-lists)
+* [Merge two sorted lists](Solutions/M/merge-two-sorted-lists)
 
-#### <a name="Linked_list-Iteration-Cycle_detection">Cycle detection</a>
+#### <a name="Linked_list-Iteration-Slow_and_fast_pointers">Slow and fast pointers</a>
 * [Linked list cycle](Solutions/L/linked-list-cycle)
 * [Linked list cycle ii](Solutions/L/linked-list-cycle-ii)
+* [Middle of the linked list](Solutions/M/middle-of-the-linked-list)
 
 ### <a name="Linked_list-Recursion">Recursion</a>
 * [Flatten a multilevel doubly linked list](Solutions/F/flatten-a-multilevel-doubly-linked-list)
@@ -467,6 +488,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Mathematics-Basic">Basic</a>
 * [Angle between hands of a clock](Solutions/A/angle-between-hands-of-a-clock)
 * [Fraction to recurring decimal](Solutions/F/fraction-to-recurring-decimal)
+
+### <a name="Mathematics-Closed_form_expressions">Closed form expressions</a>
+* [Maximum value at a given index in a bounded array](Solutions/M/maximum-value-at-a-given-index-in-a-bounded-array)
 
 ### <a name="Mathematics-Combinatorics">Combinatorics</a>
 * [3sum with multiplicity](Solutions/0-9/3sum-with-multiplicity)
@@ -596,13 +620,16 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Max sum of rectangle no larger than k](Solutions/M/max-sum-of-rectangle-no-larger-than-k)
 * [Maximal rectangle](Solutions/M/maximal-rectangle)
 * [Maximum nesting depth of two valid parentheses strings](Solutions/M/maximum-nesting-depth-of-two-valid-parentheses-strings)
+* [Maximum product subarray](Solutions/M/maximum-product-subarray)
+* [Maximum score of spliced array](Solutions/M/maximum-score-of-spliced-array)
+* [Maximum subarray](Solutions/M/maximum-subarray)
+* [Maximum subarray min product](Solutions/M/maximum-subarray-min-product)
+* [Maximum sum circular subarray](Solutions/M/maximum-sum-circular-subarray)
+* [Maximum xor for each query](Solutions/M/maximum-xor-for-each-query)
 * [Minimum amount of time to collect garbage](Solutions/M/minimum-amount-of-time-to-collect-garbage)
 
 #### <a name="Prefix-Sum-2D">2D</a>
 * [Maximal square](Solutions/M/maximal-square)
-
-### <a name="Prefix-Sums">Sums</a>
-* [Maximum product subarray](Solutions/M/maximum-product-subarray)
 
 ## <a name="Priority_queue">Priority queue</a>
 * [First unique character in a string](Solutions/F/first-unique-character-in-a-string)
@@ -611,6 +638,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Last stone weight](Solutions/L/last-stone-weight)
 * [Maximum frequency stack](Solutions/M/maximum-frequency-stack)
 * [Maximum number of events that can be attended](Solutions/M/maximum-number-of-events-that-can-be-attended)
+* [Merge k sorted lists](Solutions/M/merge-k-sorted-lists)
 
 ### <a name="Priority_queue-Dijkstra_like_processing_of_subarrays">Dijkstra-like processing of subarrays</a>
 * [Find the k sum of an array](Solutions/F/find-the-k-sum-of-an-array)
@@ -688,6 +716,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Match substring after replacement](Solutions/M/match-substring-after-replacement)
 * [Maximum number of balloons](Solutions/M/maximum-number-of-balloons)
 * [Maximum number of pairs in array](Solutions/M/maximum-number-of-pairs-in-array)
+* [Merge triplets to form target triplet](Solutions/M/merge-triplets-to-form-target-triplet)
 
 ## <a name="Sliding_window">Sliding window</a>
 * [3sum](Solutions/0-9/3sum)
@@ -726,6 +755,14 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [K closest points to origin](Solutions/K/k-closest-points-to-origin)
 * [Largest number](Solutions/L/largest-number)
 * [Longest string chain](Solutions/L/longest-string-chain)
+* [Maximum profit in job scheduling](Solutions/M/maximum-profit-in-job-scheduling)
+* [Maximum units on a truck](Solutions/M/maximum-units-on-a-truck)
+* [Merge k sorted lists](Solutions/M/merge-k-sorted-lists)
+
+### <a name="Sorting-Merge_sort">Merge sort</a>
+* [Merge k sorted lists](Solutions/M/merge-k-sorted-lists)
+* [Merge sorted array](Solutions/M/merge-sorted-array)
+* [Merge two sorted lists](Solutions/M/merge-two-sorted-lists)
 
 ### <a name="Sorting-Partial">Partial</a>
 * [Find k closest elements](Solutions/F/find-k-closest-elements)
@@ -745,6 +782,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Stack-Monotonic_stack">Monotonic stack</a>
 * [Daily temperatures](Solutions/D/daily-temperatures)
 * [Largest rectangle in histogram](Solutions/L/largest-rectangle-in-histogram)
+* [Maximum score of a good subarray](Solutions/M/maximum-score-of-a-good-subarray)
+* [Maximum subarray min product](Solutions/M/maximum-subarray-min-product)
 
 ### <a name="Stack-Numerical_operations">Numerical operations</a>
 * [Baseball game](Solutions/B/baseball-game)
@@ -808,6 +847,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## <a name="Time_reversed_simulation">Time reversed simulation</a>
 * [Backspace string compare](Solutions/B/backspace-string-compare)
 * [Construct target array with multiple sums](Solutions/C/construct-target-array-with-multiple-sums)
+* [Maximum segment sum after removals](Solutions/M/maximum-segment-sum-after-removals)
 
 ## <a name="Tree">Tree</a>
 
@@ -865,6 +905,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum depth of binary tree](Solutions/M/maximum-depth-of-binary-tree)
 * [Maximum difference between node and ancestor](Solutions/M/maximum-difference-between-node-and-ancestor)
 * [Maximum product of splitted binary tree](Solutions/M/maximum-product-of-splitted-binary-tree)
+* [Maximum width of binary tree](Solutions/M/maximum-width-of-binary-tree)
 
 ### <a name="Tree-Order_traversal">Order traversal</a>
 * [Construct binary tree from inorder and postorder traversal](Solutions/C/construct-binary-tree-from-inorder-and-postorder-traversal)
@@ -896,29 +937,6 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Decoded string at index](Solutions/D/decoded-string-at-index)
 * [Flip string to monotone increasing](Solutions/F/flip-string-to-monotone-increasing)
 * [Leftmost column with at least a one](Solutions/L/leftmost-column-with-at-least-a-one)
-* [Maximum profit in job scheduling](Solutions/M/maximum-profit-in-job-scheduling)
-* [Maximum score of a good subarray](Solutions/M/maximum-score-of-a-good-subarray)
-* [Maximum score of spliced array](Solutions/M/maximum-score-of-spliced-array)
-* [Maximum score words formed by letters](Solutions/M/maximum-score-words-formed-by-letters)
-* [Maximum segment sum after removals](Solutions/M/maximum-segment-sum-after-removals)
-* [Maximum subarray](Solutions/M/maximum-subarray)
-* [Maximum subarray min product](Solutions/M/maximum-subarray-min-product)
-* [Maximum sum circular subarray](Solutions/M/maximum-sum-circular-subarray)
-* [Maximum units on a truck](Solutions/M/maximum-units-on-a-truck)
-* [Maximum value after insertion](Solutions/M/maximum-value-after-insertion)
-* [Maximum value at a given index in a bounded array](Solutions/M/maximum-value-at-a-given-index-in-a-bounded-array)
-* [Maximum width of binary tree](Solutions/M/maximum-width-of-binary-tree)
-* [Maximum xor after operations](Solutions/M/maximum-xor-after-operations)
-* [Maximum xor for each query](Solutions/M/maximum-xor-for-each-query)
-* [Maximum xor of two numbers in an array](Solutions/M/maximum-xor-of-two-numbers-in-an-array)
-* [Merge in between linked lists](Solutions/M/merge-in-between-linked-lists)
-* [Merge intervals](Solutions/M/merge-intervals)
-* [Merge k sorted lists](Solutions/M/merge-k-sorted-lists)
-* [Merge similar items](Solutions/M/merge-similar-items)
-* [Merge sorted array](Solutions/M/merge-sorted-array)
-* [Merge triplets to form target triplet](Solutions/M/merge-triplets-to-form-target-triplet)
-* [Merge two sorted lists](Solutions/M/merge-two-sorted-lists)
-* [Middle of the linked list](Solutions/M/middle-of-the-linked-list)
 * [Min cost climbing stairs](Solutions/M/min-cost-climbing-stairs)
 * [Min cost to connect all points](Solutions/M/min-cost-to-connect-all-points)
 * [Min max game](Solutions/M/min-max-game)

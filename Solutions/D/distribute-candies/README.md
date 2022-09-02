@@ -4,5 +4,5 @@
 
 ## Tags
 
-* [Array scanning](/README.md#Array_scanning) > [Contiguous regions](/README.md#Array_scanning-Contiguous_regions)
+* [Array scanning](/README.md#Array_scanning) > [Contiguous region](/README.md#Array_scanning-Contiguous_region)
 * [Simple implementation](/README.md#Simple_implementation)
