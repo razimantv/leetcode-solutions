@@ -1,5 +1,4 @@
 Array scanning>Contiguous region
-Array scanning>Contiguous regions
 Array scanning>From both ends of array
 Array scanning>In-place modification
 Array scanning>Location of previous element with same value
@@ -48,6 +47,7 @@ Graph theory>Depth first search>Colouring
 Graph theory>Depth first search>Component decomposition
 Graph theory>Depth first search>Flood fill
 Graph theory>Directed acyclic graph
+Graph theory>Minimum spanning tree
 Graph theory>Single outdegree graphs
 Graph theory>Topological sort
 Graph theory>Topological sort>Dynamic Programming
@@ -66,7 +66,6 @@ Intervals>Non-overlapping decomposition
 Intervals>Overlap
 Intervals>Union
 Linked list>Iteration
-Linked list>Iteration>Cycle detection
 Linked list>Iteration>Slow and fast pointers
 Linked list>Recursion
 Majority element
@@ -98,7 +97,6 @@ Pointers
 Prefix>Extremum
 Prefix>Sum
 Prefix>Sum>2D
-Prefix>Sums
 Priority queue
 Priority queue>Dijkstra-like processing of subarrays
 Priority queue>K smallest/largest elements
