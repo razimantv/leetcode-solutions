@@ -87,6 +87,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest subsequence with limited sum](Solutions/L/longest-subsequence-with-limited-sum)
 * [Maximum distance between a pair of values](Solutions/M/maximum-distance-between-a-pair-of-values)
 * [Maximum number of removable characters](Solutions/M/maximum-number-of-removable-characters)
+* [Maximum number of robots within budget](Solutions/M/maximum-number-of-robots-within-budget)
 * [Maximum value at a given index in a bounded array](Solutions/M/maximum-value-at-a-given-index-in-a-bounded-array)
 * [Maximum xor of two numbers in an array](Solutions/M/maximum-xor-of-two-numbers-in-an-array)
 
@@ -118,6 +119,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest uncommon subsequence ii](Solutions/L/longest-uncommon-subsequence-ii)
 * [Maximum length of a concatenated string with unique characters](Solutions/M/maximum-length-of-a-concatenated-string-with-unique-characters)
 * [Maximum product of word lengths](Solutions/M/maximum-product-of-word-lengths)
+* [Maximum rows covered by columns](Solutions/M/maximum-rows-covered-by-columns)
 * [Maximum xor after operations](Solutions/M/maximum-xor-after-operations)
 * [Maximum xor for each query](Solutions/M/maximum-xor-for-each-query)
 
@@ -132,6 +134,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest uncommon subsequence ii](Solutions/L/longest-uncommon-subsequence-ii)
 * [Matchsticks to square](Solutions/M/matchsticks-to-square)
 * [Maximum length of a concatenated string with unique characters](Solutions/M/maximum-length-of-a-concatenated-string-with-unique-characters)
+* [Maximum rows covered by columns](Solutions/M/maximum-rows-covered-by-columns)
 
 ### <a name="Brute_force_enumeration-Elementwise_processing_using_a_vector">Elementwise processing using a vector</a>
 * [Letter case permutation](Solutions/L/letter-case-permutation)
@@ -153,6 +156,11 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Largest palindromic number](Solutions/L/largest-palindromic-number)
 * [Longest palindrome](Solutions/L/longest-palindrome)
 
+## <a name="Deque">Deque</a>
+
+### <a name="Deque-Monotonic_deque">Monotonic deque</a>
+* [Maximum number of robots within budget](Solutions/M/maximum-number-of-robots-within-budget)
+
 ## <a name="Design_data_structure">Design data structure</a>
 * [Design a food rating system](Solutions/D/design-a-food-rating-system)
 * [Design a number container system](Solutions/D/design-a-number-container-system)
@@ -169,6 +177,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Iterator for combination](Solutions/I/iterator-for-combination)
 * [Lru cache](Solutions/L/lru-cache)
 * [Maximum frequency stack](Solutions/M/maximum-frequency-stack)
+* [Min stack](Solutions/M/min-stack)
 
 ### <a name="Design_data_structure-Interconversion">Interconversion</a>
 * [Implement stack using queues](Solutions/I/implement-stack-using-queues)
@@ -177,6 +186,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Accounts merge](Solutions/A/accounts-merge)
 * [Largest component size by common factor](Solutions/L/largest-component-size-by-common-factor)
 * [Maximum segment sum after removals](Solutions/M/maximum-segment-sum-after-removals)
+* [Min cost to connect all points](Solutions/M/min-cost-to-connect-all-points)
 
 ## <a name="Dynamic_programming">Dynamic programming</a>
 * [Arithmetic slices ii subsequence](Solutions/A/arithmetic-slices-ii-subsequence)
@@ -202,6 +212,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Jump game ii](Solutions/J/jump-game-ii)
 * [Longest string chain](Solutions/L/longest-string-chain)
 * [Maximum alternating subsequence sum](Solutions/M/maximum-alternating-subsequence-sum)
+* [Min cost climbing stairs](Solutions/M/min-cost-climbing-stairs)
 
 ### <a name="Dynamic_programming-Array_reuse">Array reuse</a>
 * [Champagne tower](Solutions/C/champagne-tower)
@@ -335,6 +346,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Graph_theory-Directed_acyclic_graph">Directed acyclic graph</a>
 * [All paths from source to target](Solutions/A/all-paths-from-source-to-target)
 
+### <a name="Graph_theory-Minimum_spanning_tree">Minimum spanning tree</a>
+* [Min cost to connect all points](Solutions/M/min-cost-to-connect-all-points)
+
 ### <a name="Graph_theory-Single_outdegree_graphs">Single outdegree graphs</a>
 * [Find closest node to given two nodes](Solutions/F/find-closest-node-to-given-two-nodes)
 * [Longest cycle in a graph](Solutions/L/longest-cycle-in-a-graph)
@@ -368,6 +382,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum performance of a team](Solutions/M/maximum-performance-of-a-team)
 * [Maximum units on a truck](Solutions/M/maximum-units-on-a-truck)
 * [Maximum value after insertion](Solutions/M/maximum-value-after-insertion)
+* [Minimize maximum pair sum in array](Solutions/M/minimize-maximum-pair-sum-in-array)
 
 ## <a name="Hashmap">Hashmap</a>
 * [Array of doubled pairs](Solutions/A/array-of-doubled-pairs)
@@ -384,6 +399,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Equal row and column pairs](Solutions/E/equal-row-and-column-pairs)
 * [Evaluate the bracket pairs of a string](Solutions/E/evaluate-the-bracket-pairs-of-a-string)
 * [Find duplicate file in system](Solutions/F/find-duplicate-file-in-system)
+* [Find subarrays with equal sum](Solutions/F/find-subarrays-with-equal-sum)
 * [Finding the users active minutes](Solutions/F/finding-the-users-active-minutes)
 * [First letter to appear twice](Solutions/F/first-letter-to-appear-twice)
 * [First unique character in a string](Solutions/F/first-unique-character-in-a-string)
@@ -488,6 +504,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Mathematics-Basic">Basic</a>
 * [Angle between hands of a clock](Solutions/A/angle-between-hands-of-a-clock)
 * [Fraction to recurring decimal](Solutions/F/fraction-to-recurring-decimal)
+* [Strictly palindromic number](Solutions/S/strictly-palindromic-number)
 
 ### <a name="Mathematics-Closed_form_expressions">Closed form expressions</a>
 * [Maximum value at a given index in a bounded array](Solutions/M/maximum-value-at-a-given-index-in-a-bounded-array)
@@ -694,6 +711,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Excel sheet column number](Solutions/E/excel-sheet-column-number)
 * [Find nearest point that has the same x or y coordinate](Solutions/F/find-nearest-point-that-has-the-same-x-or-y-coordinate)
 * [Find numbers with even number of digits](Solutions/F/find-numbers-with-even-number-of-digits)
+* [Find subarrays with equal sum](Solutions/F/find-subarrays-with-equal-sum)
 * [Find the distance value between two arrays](Solutions/F/find-the-distance-value-between-two-arrays)
 * [Find the town judge](Solutions/F/find-the-town-judge)
 * [Find the winner of the circular game](Solutions/F/find-the-winner-of-the-circular-game)
@@ -717,6 +735,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum number of balloons](Solutions/M/maximum-number-of-balloons)
 * [Maximum number of pairs in array](Solutions/M/maximum-number-of-pairs-in-array)
 * [Merge triplets to form target triplet](Solutions/M/merge-triplets-to-form-target-triplet)
+* [Min max game](Solutions/M/min-max-game)
 
 ## <a name="Sliding_window">Sliding window</a>
 * [3sum](Solutions/0-9/3sum)
@@ -733,6 +752,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Max consecutive ones iii](Solutions/M/max-consecutive-ones-iii)
 * [Maximum erasure value](Solutions/M/maximum-erasure-value)
 * [Maximum points you can obtain from cards](Solutions/M/maximum-points-you-can-obtain-from-cards)
+
+### <a name="Sliding_window-Monotonic_deque">Monotonic deque</a>
+* [Maximum number of robots within budget](Solutions/M/maximum-number-of-robots-within-budget)
 
 ### <a name="Sliding_window-String_hashing">String hashing</a>
 * [Implement strstr](Solutions/I/implement-strstr)
@@ -773,6 +795,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## <a name="Stack">Stack</a>
 * [Binary search tree iterator](Solutions/B/binary-search-tree-iterator)
+* [Min stack](Solutions/M/min-stack)
 * [Removing stars from a string](Solutions/R/removing-stars-from-a-string)
 
 ### <a name="Stack-From_array_elements">From array elements</a>
@@ -937,12 +960,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Decoded string at index](Solutions/D/decoded-string-at-index)
 * [Flip string to monotone increasing](Solutions/F/flip-string-to-monotone-increasing)
 * [Leftmost column with at least a one](Solutions/L/leftmost-column-with-at-least-a-one)
-* [Min cost climbing stairs](Solutions/M/min-cost-climbing-stairs)
-* [Min cost to connect all points](Solutions/M/min-cost-to-connect-all-points)
-* [Min max game](Solutions/M/min-max-game)
-* [Min stack](Solutions/M/min-stack)
 * [Minimize deviation in array](Solutions/M/minimize-deviation-in-array)
-* [Minimize maximum pair sum in array](Solutions/M/minimize-maximum-pair-sum-in-array)
 * [Minimum absolute difference](Solutions/M/minimum-absolute-difference)
 * [Minimum absolute difference queries](Solutions/M/minimum-absolute-difference-queries)
 * [Minimum absolute sum difference](Solutions/M/minimum-absolute-sum-difference)
