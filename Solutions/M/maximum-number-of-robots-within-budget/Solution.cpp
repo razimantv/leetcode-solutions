@@ -2,32 +2,21 @@
 
 class Solution {
  public:
-  bool work(int n, int k, vector<int>& ct, vector<int>& rc, long long b) {
+  int maximumRobots(vector<int>& chargingTimes, vector<int>& runningCosts,
+                    long long budget) {
+    int n = chargingTimes.size(), best = 0;
     long long tot = 0;
     deque<pair<int, int>> dq;
-    for (int i = 0; i < n; ++i) {
-      tot += rc[i];
-      while (!dq.empty() and dq.back().first <= ct[i]) dq.pop_back();
-      dq.push_back({ct[i], i});
-      if (i >= k - 1) {
-        while (dq.front().second <= i - k) dq.pop_front();
-        long long cur = k * tot + dq.front().first;
-        if (cur <= b) return true;
-        tot -= rc[i - k + 1];
+    for (int i = 0, l = 0; i < n; ++i) {
+      tot += runningCosts[i];
+      while (!dq.empty() and dq.back().first <= chargingTimes[i]) dq.pop_back();
+      dq.push_back({chargingTimes[i], i});
+      if (!dq.empty() and (i - l + 1) * tot + dq.front().first > budget) {
+        tot -= runningCosts[l];
+        if (dq.front().second == l++) dq.pop_front();
       }
+      best = max(best, i - l + 1);
     }
-    return false;
-  }
-  int maximumRobots(vector<int>& ct, vector<int>& rc, long long b) {
-    int n = ct.size();
-    int start = 0, end = n + 1;
-    while (end - start > 1) {
-      int mid = (start + end) >> 1;
-      if (work(n, mid, ct, rc, b))
-        start = mid;
-      else
-        end = mid;
-    }
-    return start;
+    return best;
   }
 };
