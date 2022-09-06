@@ -16,6 +16,7 @@ Brute force enumeration>Elementwise processing using a vector
 Concurrency
 Construction
 Counting elements in array
+Deque>Monotonic deque
 Design data structure
 Design data structure>Interconversion
 Disjoint set union
@@ -93,6 +94,7 @@ Palindrome
 Permutation>Cycle
 Permutation>Inverse
 Permutation>Inversions
+Permutation>Next/Previous
 Pointers
 Prefix>Extremum
 Prefix>Sum
@@ -106,6 +108,7 @@ Quick Select
 Segment tree
 Simple implementation
 Sliding window
+Sliding window>Monotonic deque
 Sliding window>String hashing
 Sorting
 Sorting>Custom

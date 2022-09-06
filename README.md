@@ -90,12 +90,14 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum number of robots within budget](Solutions/M/maximum-number-of-robots-within-budget)
 * [Maximum value at a given index in a bounded array](Solutions/M/maximum-value-at-a-given-index-in-a-bounded-array)
 * [Maximum xor of two numbers in an array](Solutions/M/maximum-xor-of-two-numbers-in-an-array)
+* [Minimum cost for tickets](Solutions/M/minimum-cost-for-tickets)
 
 ### <a name="Binary_search-C___set">C++ set</a>
 * [132 pattern](Solutions/0-9/132-pattern)
 * [Closest room](Solutions/C/closest-room)
 * [Contains duplicate iii](Solutions/C/contains-duplicate-iii)
 * [Count of range sum](Solutions/C/count-of-range-sum)
+* [Minimum absolute sum difference](Solutions/M/minimum-absolute-sum-difference)
 
 ### <a name="Binary_search-Prefix_sum">Prefix sum</a>
 * [Delivering boxes from storage to ports](Solutions/D/delivering-boxes-from-storage-to-ports)
@@ -213,6 +215,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest string chain](Solutions/L/longest-string-chain)
 * [Maximum alternating subsequence sum](Solutions/M/maximum-alternating-subsequence-sum)
 * [Min cost climbing stairs](Solutions/M/min-cost-climbing-stairs)
+* [Minimum cost for tickets](Solutions/M/minimum-cost-for-tickets)
 
 ### <a name="Dynamic_programming-Array_reuse">Array reuse</a>
 * [Champagne tower](Solutions/C/champagne-tower)
@@ -280,6 +283,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [House robber iii](Solutions/H/house-robber-iii)
 * [Longest path with different adjacent characters](Solutions/L/longest-path-with-different-adjacent-characters)
 * [Longest univalue path](Solutions/L/longest-univalue-path)
+* [Minimum cost to change the final value of expression](Solutions/M/minimum-cost-to-change-the-final-value-of-expression)
 
 ## <a name="Encoding_and_decoding">Encoding and decoding</a>
 * [Encode and decode tinyurl](Solutions/E/encode-and-decode-tinyurl)
@@ -383,6 +387,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum units on a truck](Solutions/M/maximum-units-on-a-truck)
 * [Maximum value after insertion](Solutions/M/maximum-value-after-insertion)
 * [Minimize maximum pair sum in array](Solutions/M/minimize-maximum-pair-sum-in-array)
+* [Minimum amount of time to fill cups](Solutions/M/minimum-amount-of-time-to-fill-cups)
 
 ## <a name="Hashmap">Hashmap</a>
 * [Array of doubled pairs](Solutions/A/array-of-doubled-pairs)
@@ -419,6 +424,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum population year](Solutions/M/maximum-population-year)
 * [Merge similar items](Solutions/M/merge-similar-items)
 * [Minimum amount of time to collect garbage](Solutions/M/minimum-amount-of-time-to-collect-garbage)
+* [Minimum deletions to make character frequencies unique](Solutions/M/minimum-deletions-to-make-character-frequencies-unique)
 * [Number of atoms](Solutions/N/number-of-atoms)
 
 ### <a name="Hashmap-Coordinate_compression">Coordinate compression</a>
@@ -548,6 +554,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Factorial trailing zeroes](Solutions/F/factorial-trailing-zeroes)
 * [Find the student that will replace the chalk](Solutions/F/find-the-student-that-will-replace-the-chalk)
 * [Integer break](Solutions/I/integer-break)
+* [Minimum cost to move chips to the same position](Solutions/M/minimum-cost-to-move-chips-to-the-same-position)
+* [Minimum deletions to make array divisible](Solutions/M/minimum-deletions-to-make-array-divisible)
 
 #### <a name="Mathematics-Number_theory-Dynamic_programming">Dynamic programming</a>
 * [Largest divisible subset](Solutions/L/largest-divisible-subset)
@@ -611,6 +619,10 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Permutation-Inversions">Inversions</a>
 * [Global and local inversions](Solutions/G/global-and-local-inversions)
+* [Minimum adjacent swaps to reach the kth smallest number](Solutions/M/minimum-adjacent-swaps-to-reach-the-kth-smallest-number)
+
+### <a name="Permutation-Next_Previous">Next/Previous</a>
+* [Minimum adjacent swaps to reach the kth smallest number](Solutions/M/minimum-adjacent-swaps-to-reach-the-kth-smallest-number)
 
 ## <a name="Pointers">Pointers</a>
 * [Clone graph](Solutions/C/clone-graph)
@@ -736,6 +748,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum number of pairs in array](Solutions/M/maximum-number-of-pairs-in-array)
 * [Merge triplets to form target triplet](Solutions/M/merge-triplets-to-form-target-triplet)
 * [Min max game](Solutions/M/min-max-game)
+* [Minimum amount of time to fill cups](Solutions/M/minimum-amount-of-time-to-fill-cups)
+* [Minimum distance to the target element](Solutions/M/minimum-distance-to-the-target-element)
 
 ## <a name="Sliding_window">Sliding window</a>
 * [3sum](Solutions/0-9/3sum)
@@ -763,6 +777,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Majority element](Solutions/M/majority-element)
 * [Maximum area of a piece of cake after horizontal and vertical cuts](Solutions/M/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts)
 * [Maximum gap](Solutions/M/maximum-gap)
+* [Minimum absolute difference](Solutions/M/minimum-absolute-difference)
 
 ### <a name="Sorting-Custom">Custom</a>
 * [Advantage shuffle](Solutions/A/advantage-shuffle)
@@ -813,6 +828,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Basic calculator](Solutions/B/basic-calculator)
 * [Basic calculator ii](Solutions/B/basic-calculator-ii)
 * [Evaluate reverse polish notation](Solutions/E/evaluate-reverse-polish-notation)
+* [Minimum cost to change the final value of expression](Solutions/M/minimum-cost-to-change-the-final-value-of-expression)
 
 ## <a name="String">String</a>
 
@@ -829,6 +845,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find duplicate file in system](Solutions/F/find-duplicate-file-in-system)
 * [Goat latin](Solutions/G/goat-latin)
 * [Length of last word](Solutions/L/length-of-last-word)
+* [Minimum cost to change the final value of expression](Solutions/M/minimum-cost-to-change-the-final-value-of-expression)
 
 #### <a name="String-Parsing-Recursive">Recursive</a>
 * [Decode string](Solutions/D/decode-string)
@@ -929,6 +946,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum difference between node and ancestor](Solutions/M/maximum-difference-between-node-and-ancestor)
 * [Maximum product of splitted binary tree](Solutions/M/maximum-product-of-splitted-binary-tree)
 * [Maximum width of binary tree](Solutions/M/maximum-width-of-binary-tree)
+* [Minimum depth of binary tree](Solutions/M/minimum-depth-of-binary-tree)
 
 ### <a name="Tree-Order_traversal">Order traversal</a>
 * [Construct binary tree from inorder and postorder traversal](Solutions/C/construct-binary-tree-from-inorder-and-postorder-traversal)
@@ -961,18 +979,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Flip string to monotone increasing](Solutions/F/flip-string-to-monotone-increasing)
 * [Leftmost column with at least a one](Solutions/L/leftmost-column-with-at-least-a-one)
 * [Minimize deviation in array](Solutions/M/minimize-deviation-in-array)
-* [Minimum absolute difference](Solutions/M/minimum-absolute-difference)
 * [Minimum absolute difference queries](Solutions/M/minimum-absolute-difference-queries)
-* [Minimum absolute sum difference](Solutions/M/minimum-absolute-sum-difference)
-* [Minimum adjacent swaps to reach the kth smallest number](Solutions/M/minimum-adjacent-swaps-to-reach-the-kth-smallest-number)
-* [Minimum amount of time to fill cups](Solutions/M/minimum-amount-of-time-to-fill-cups)
-* [Minimum cost for tickets](Solutions/M/minimum-cost-for-tickets)
-* [Minimum cost to change the final value of expression](Solutions/M/minimum-cost-to-change-the-final-value-of-expression)
-* [Minimum cost to move chips to the same position](Solutions/M/minimum-cost-to-move-chips-to-the-same-position)
-* [Minimum deletions to make array divisible](Solutions/M/minimum-deletions-to-make-array-divisible)
-* [Minimum deletions to make character frequencies unique](Solutions/M/minimum-deletions-to-make-character-frequencies-unique)
-* [Minimum depth of binary tree](Solutions/M/minimum-depth-of-binary-tree)
-* [Minimum distance to the target element](Solutions/M/minimum-distance-to-the-target-element)
 * [Minimum domino rotations for equal row](Solutions/M/minimum-domino-rotations-for-equal-row)
 * [Minimum height trees](Solutions/M/minimum-height-trees)
 * [Minimum hours of training to win a competition](Solutions/M/minimum-hours-of-training-to-win-a-competition)
