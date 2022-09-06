@@ -393,6 +393,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Array of doubled pairs](Solutions/A/array-of-doubled-pairs)
 * [Brick wall](Solutions/B/brick-wall)
 * [Check array formation through concatenation](Solutions/C/check-array-formation-through-concatenation)
+* [Check distances between same letters](Solutions/C/check-distances-between-same-letters)
 * [Cinema seat allocation](Solutions/C/cinema-seat-allocation)
 * [Clone graph](Solutions/C/clone-graph)
 * [Contiguous array](Solutions/C/contiguous-array)
@@ -414,6 +415,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Jewels and stones](Solutions/J/jewels-and-stones)
 * [K diff pairs in an array](Solutions/K/k-diff-pairs-in-an-array)
 * [Longest consecutive sequence](Solutions/L/longest-consecutive-sequence)
+* [Longest nice subarray](Solutions/L/longest-nice-subarray)
 * [Longest word in dictionary](Solutions/L/longest-word-in-dictionary)
 * [Lru cache](Solutions/L/lru-cache)
 * [Map sum pairs](Solutions/M/map-sum-pairs)
@@ -531,6 +533,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count unreachable pairs of nodes in an undirected graph](Solutions/C/count-unreachable-pairs-of-nodes-in-an-undirected-graph)
 * [Domino and tromino tiling](Solutions/D/domino-and-tromino-tiling)
 * [Iterator for combination](Solutions/I/iterator-for-combination)
+* [Number of ways to reach a position after exactly k steps](Solutions/N/number-of-ways-to-reach-a-position-after-exactly-k-steps)
 
 ### <a name="Mathematics-Composition_of_operations">Composition of operations</a>
 * [Fancy sequence](Solutions/F/fancy-sequence)
@@ -667,6 +670,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Last stone weight](Solutions/L/last-stone-weight)
 * [Maximum frequency stack](Solutions/M/maximum-frequency-stack)
 * [Maximum number of events that can be attended](Solutions/M/maximum-number-of-events-that-can-be-attended)
+* [Meeting rooms iii](Solutions/M/meeting-rooms-iii)
 * [Merge k sorted lists](Solutions/M/merge-k-sorted-lists)
 
 ### <a name="Priority_queue-Dijkstra_like_processing_of_subarrays">Dijkstra-like processing of subarrays</a>
@@ -706,6 +710,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Bulls and cows](Solutions/B/bulls-and-cows)
 * [Calculate amount paid in taxes](Solutions/C/calculate-amount-paid-in-taxes)
 * [Can place flowers](Solutions/C/can-place-flowers)
+* [Check distances between same letters](Solutions/C/check-distances-between-same-letters)
 * [Check if a string contains all binary codes of size k](Solutions/C/check-if-a-string-contains-all-binary-codes-of-size-k)
 * [Check if all the integers in a range are covered](Solutions/C/check-if-all-the-integers-in-a-range-are-covered)
 * [Check if matrix is x matrix](Solutions/C/check-if-matrix-is-x-matrix)
@@ -962,6 +967,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## <a name="Unique_elements_in_subarray">Unique elements in subarray</a>
 * [Count unique characters of all substrings of a given string](Solutions/C/count-unique-characters-of-all-substrings-of-a-given-string)
+* [Longest nice subarray](Solutions/L/longest-nice-subarray)
 * [Longest substring without repeating characters](Solutions/L/longest-substring-without-repeating-characters)
 * [Maximum erasure value](Solutions/M/maximum-erasure-value)
 
