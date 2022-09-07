@@ -926,6 +926,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Construct binary search tree from preorder traversal](Solutions/C/construct-binary-search-tree-from-preorder-traversal)
 * [Construct binary tree from inorder and postorder traversal](Solutions/C/construct-binary-tree-from-inorder-and-postorder-traversal)
 * [Construct binary tree from preorder and inorder traversal](Solutions/C/construct-binary-tree-from-preorder-and-inorder-traversal)
+* [Construct string from binary tree](Solutions/C/construct-string-from-binary-tree)
 * [Convert bst to greater tree](Solutions/C/convert-bst-to-greater-tree)
 * [Convert sorted array to binary search tree](Solutions/C/convert-sorted-array-to-binary-search-tree)
 * [Convert sorted list to binary search tree](Solutions/C/convert-sorted-list-to-binary-search-tree)
