@@ -818,6 +818,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Min stack](Solutions/M/min-stack)
 * [Removing stars from a string](Solutions/R/removing-stars-from-a-string)
 
+### <a name="Stack-Depth_first_search">Depth first search</a>
+* [Binary tree inorder traversal](Solutions/B/binary-tree-inorder-traversal)
+
 ### <a name="Stack-From_array_elements">From array elements</a>
 * [Asteroid collision](Solutions/A/asteroid-collision)
 * [Longest valid parentheses](Solutions/L/longest-valid-parentheses)
@@ -909,6 +912,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Increasing order search tree](Solutions/I/increasing-order-search-tree)
 
 ### <a name="Tree-Binary_tree">Binary tree</a>
+
+#### <a name="Tree-Binary_tree-Iteration">Iteration</a>
+* [Binary tree inorder traversal](Solutions/B/binary-tree-inorder-traversal)
 
 #### <a name="Tree-Binary_tree-Recursion">Recursion</a>
 * [Add one row to tree](Solutions/A/add-one-row-to-tree)
