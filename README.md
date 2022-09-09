@@ -25,6 +25,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximal rectangle](Solutions/M/maximal-rectangle)
 * [Maximum ascending subarray sum](Solutions/M/maximum-ascending-subarray-sum)
 * [Maximum product subarray](Solutions/M/maximum-product-subarray)
+* [The number of weak characters in the game](Solutions/T/the-number-of-weak-characters-in-the-game)
 
 ### <a name="Array_scanning-From_both_ends_of_array">From both ends of array</a>
 * [Best time to buy and sell stock iii](Solutions/B/best-time-to-buy-and-sell-stock-iii)
@@ -51,6 +52,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Jump game vi](Solutions/J/jump-game-vi)
 * [Largest odd number in string](Solutions/L/largest-odd-number-in-string)
 * [Longest binary subsequence less than or equal to k](Solutions/L/longest-binary-subsequence-less-than-or-equal-to-k)
+* [The number of weak characters in the game](Solutions/T/the-number-of-weak-characters-in-the-game)
 
 ## <a name="Averaging_from_total_and_count">Averaging from total and count</a>
 * [Average of levels in binary tree](Solutions/A/average-of-levels-in-binary-tree)
@@ -783,6 +785,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum area of a piece of cake after horizontal and vertical cuts](Solutions/M/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts)
 * [Maximum gap](Solutions/M/maximum-gap)
 * [Minimum absolute difference](Solutions/M/minimum-absolute-difference)
+* [The number of weak characters in the game](Solutions/T/the-number-of-weak-characters-in-the-game)
 
 ### <a name="Sorting-Custom">Custom</a>
 * [Advantage shuffle](Solutions/A/advantage-shuffle)
