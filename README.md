@@ -93,6 +93,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum value at a given index in a bounded array](Solutions/M/maximum-value-at-a-given-index-in-a-bounded-array)
 * [Maximum xor of two numbers in an array](Solutions/M/maximum-xor-of-two-numbers-in-an-array)
 * [Minimum cost for tickets](Solutions/M/minimum-cost-for-tickets)
+* [Split array largest sum](Solutions/S/split-array-largest-sum)
 
 ### <a name="Binary_search-C___set">C++ set</a>
 * [132 pattern](Solutions/0-9/132-pattern)
@@ -390,6 +391,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum value after insertion](Solutions/M/maximum-value-after-insertion)
 * [Minimize maximum pair sum in array](Solutions/M/minimize-maximum-pair-sum-in-array)
 * [Minimum amount of time to fill cups](Solutions/M/minimum-amount-of-time-to-fill-cups)
+* [Split array largest sum](Solutions/S/split-array-largest-sum)
 
 ## <a name="Hashmap">Hashmap</a>
 * [Array of doubled pairs](Solutions/A/array-of-doubled-pairs)
@@ -1270,7 +1272,6 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Spiral matrix ii](Solutions/S/spiral-matrix-ii)
 * [Spiral matrix iv](Solutions/S/spiral-matrix-iv)
 * [Split array into consecutive subsequences](Solutions/S/split-array-into-consecutive-subsequences)
-* [Split array largest sum](Solutions/S/split-array-largest-sum)
 * [Split linked list in parts](Solutions/S/split-linked-list-in-parts)
 * [Splitting a string into descending consecutive values](Solutions/S/splitting-a-string-into-descending-consecutive-values)
 * [Sqrtx](Solutions/S/sqrtx)
