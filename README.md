@@ -17,6 +17,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Consecutive characters](Solutions/C/consecutive-characters)
 * [Count binary substrings](Solutions/C/count-binary-substrings)
 * [Distribute candies](Solutions/D/distribute-candies)
+* [Invalid transactions](Solutions/I/invalid-transactions)
 * [Longer contiguous segments of ones than zeros](Solutions/L/longer-contiguous-segments-of-ones-than-zeros)
 * [Longest mountain in array](Solutions/L/longest-mountain-in-array)
 * [Longest substring of all vowels in order](Solutions/L/longest-substring-of-all-vowels-in-order)
@@ -264,6 +265,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Dynamic_programming-Memoised_recursion">Memoised recursion</a>
 * [Combination sum iv](Solutions/C/combination-sum-iv)
+* [Minimum number of days to eat n oranges](Solutions/M/minimum-number-of-days-to-eat-n-oranges)
 
 ### <a name="Dynamic_programming-Number_theory">Number theory</a>
 * [Count the number of ideal arrays](Solutions/C/count-the-number-of-ideal-arrays)
@@ -416,6 +418,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Greatest english letter in upper and lower case](Solutions/G/greatest-english-letter-in-upper-and-lower-case)
 * [Group anagrams](Solutions/G/group-anagrams)
 * [Intersection of two arrays ii](Solutions/I/intersection-of-two-arrays-ii)
+* [Invalid transactions](Solutions/I/invalid-transactions)
 * [Jewels and stones](Solutions/J/jewels-and-stones)
 * [K diff pairs in an array](Solutions/K/k-diff-pairs-in-an-array)
 * [Longest consecutive sequence](Solutions/L/longest-consecutive-sequence)
@@ -667,6 +670,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 #### <a name="Prefix-Sum-2D">2D</a>
 * [Maximal square](Solutions/M/maximal-square)
 
+#### <a name="Prefix-Sum-For_range_updates">For range updates</a>
+* [Invalid transactions](Solutions/I/invalid-transactions)
+
 ## <a name="Priority_queue">Priority queue</a>
 * [First unique character in a string](Solutions/F/first-unique-character-in-a-string)
 * [Furthest building you can reach](Solutions/F/furthest-building-you-can-reach)
@@ -698,6 +704,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## <a name="Quick_Select">Quick Select</a>
 * [Kth largest element in an array](Solutions/K/kth-largest-element-in-an-array)
+
+## <a name="Range_updates_using_prefix_sum">Range updates using prefix sum</a>
+* [Invalid transactions](Solutions/I/invalid-transactions)
 
 ## <a name="Segment_tree">Segment tree</a>
 * [Count of range sum](Solutions/C/count-of-range-sum)
@@ -769,6 +778,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find all anagrams in a string](Solutions/F/find-all-anagrams-in-a-string)
 * [Frequency of the most frequent element](Solutions/F/frequency-of-the-most-frequent-element)
 * [Fruit into baskets](Solutions/F/fruit-into-baskets)
+* [Invalid transactions](Solutions/I/invalid-transactions)
 * [Longest duplicate substring](Solutions/L/longest-duplicate-substring)
 * [Longest harmonious subsequence](Solutions/L/longest-harmonious-subsequence)
 * [Longest substring without repeating characters](Solutions/L/longest-substring-without-repeating-characters)
@@ -817,6 +827,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Sorting-Remembering_index">Remembering index</a>
 * [Find right interval](Solutions/F/find-right-interval)
+* [Invalid transactions](Solutions/I/invalid-transactions)
 
 ## <a name="Stack">Stack</a>
 * [Binary search tree iterator](Solutions/B/binary-search-tree-iterator)
@@ -857,6 +868,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Evaluate the bracket pairs of a string](Solutions/E/evaluate-the-bracket-pairs-of-a-string)
 * [Find duplicate file in system](Solutions/F/find-duplicate-file-in-system)
 * [Goat latin](Solutions/G/goat-latin)
+* [Invalid transactions](Solutions/I/invalid-transactions)
 * [Length of last word](Solutions/L/length-of-last-word)
 * [Minimum cost to change the final value of expression](Solutions/M/minimum-cost-to-change-the-final-value-of-expression)
 

@@ -99,12 +99,14 @@ Pointers
 Prefix>Extremum
 Prefix>Sum
 Prefix>Sum>2D
+Prefix>Sum>For range updates
 Priority queue
 Priority queue>Dijkstra-like processing of subarrays
+Priority queue>Key update using insert and remove on C++ set
 Priority queue>K smallest/largest elements
 Priority queue>K smallest/largest elements>Transfer between the two
-Priority queue>Key update using insert and remove on C++ set
 Quick Select
+Range updates using prefix sum
 Segment tree
 Simple implementation
 Sliding window
@@ -116,6 +118,7 @@ Sorting>Merge sort
 Sorting>Partial
 Sorting>Remembering index
 Stack
+Stack>Depth first search
 Stack>From array elements
 Stack>Monotonic stack
 Stack>Numerical operations
@@ -129,9 +132,10 @@ Suboptimal solution
 Time reversed simulation
 Tree>Binary search tree
 Tree>Binary search tree>Traversal
+Tree>Binary tree>Iteration
 Tree>Binary tree>Recursion
 Tree>Order traversal
 Tree>Rerooting
 Trie
-Unique elements in subarray
 Unique/duplicate element finding with bizarro algorithms
+Unique elements in subarray
