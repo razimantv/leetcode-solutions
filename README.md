@@ -34,6 +34,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Largest plus sign](Solutions/L/largest-plus-sign)
 * [Maximize distance to closest person](Solutions/M/maximize-distance-to-closest-person)
 * [Maximum building height](Solutions/M/maximum-building-height)
+* [Minimum number of flips to make the binary string alternating](Solutions/M/minimum-number-of-flips-to-make-the-binary-string-alternating)
+* [Minimum remove to make valid parentheses](Solutions/M/minimum-remove-to-make-valid-parentheses)
 
 ### <a name="Array_scanning-In_place_modification">In-place modification</a>
 * [Duplicate zeros](Solutions/D/duplicate-zeros)
@@ -53,6 +55,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Jump game vi](Solutions/J/jump-game-vi)
 * [Largest odd number in string](Solutions/L/largest-odd-number-in-string)
 * [Longest binary subsequence less than or equal to k](Solutions/L/longest-binary-subsequence-less-than-or-equal-to-k)
+* [Minimum replacements to sort the array](Solutions/M/minimum-replacements-to-sort-the-array)
 * [The number of weak characters in the game](Solutions/T/the-number-of-weak-characters-in-the-game)
 
 ## <a name="Averaging_from_total_and_count">Averaging from total and count</a>
@@ -94,6 +97,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum value at a given index in a bounded array](Solutions/M/maximum-value-at-a-given-index-in-a-bounded-array)
 * [Maximum xor of two numbers in an array](Solutions/M/maximum-xor-of-two-numbers-in-an-array)
 * [Minimum cost for tickets](Solutions/M/minimum-cost-for-tickets)
+* [Minimum speed to arrive on time](Solutions/M/minimum-speed-to-arrive-on-time)
 * [Split array largest sum](Solutions/S/split-array-largest-sum)
 
 ### <a name="Binary_search-C___set">C++ set</a>
@@ -131,6 +135,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Bitwise_operation-Build_result_bit_by_bit">Build result bit-by-bit</a>
 * [Maximum xor of two numbers in an array](Solutions/M/maximum-xor-of-two-numbers-in-an-array)
+* [Minimum number of flips to convert binary matrix to zero matrix](Solutions/M/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix)
 
 ## <a name="Brute_force_enumeration">Brute force enumeration</a>
 
@@ -145,6 +150,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Brute_force_enumeration-Elementwise_processing_using_a_vector">Elementwise processing using a vector</a>
 * [Letter case permutation](Solutions/L/letter-case-permutation)
 * [Letter combinations of a phone number](Solutions/L/letter-combinations-of-a-phone-number)
+* [Minimum number of flips to convert binary matrix to zero matrix](Solutions/M/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix)
 
 ## <a name="Concurrency">Concurrency</a>
 * [Building h2o](Solutions/B/building-h2o)
@@ -220,6 +226,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum alternating subsequence sum](Solutions/M/maximum-alternating-subsequence-sum)
 * [Min cost climbing stairs](Solutions/M/min-cost-climbing-stairs)
 * [Minimum cost for tickets](Solutions/M/minimum-cost-for-tickets)
+* [Minimum sideway jumps](Solutions/M/minimum-sideway-jumps)
 
 ### <a name="Dynamic_programming-Array_reuse">Array reuse</a>
 * [Champagne tower](Solutions/C/champagne-tower)
@@ -234,6 +241,10 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest ideal subsequence](Solutions/L/longest-ideal-subsequence)
 * [Maximum length of repeated subarray](Solutions/M/maximum-length-of-repeated-subarray)
 * [Maximum number of points with cost](Solutions/M/maximum-number-of-points-with-cost)
+* [Minimum number of refueling stops](Solutions/M/minimum-number-of-refueling-stops)
+* [Minimum path cost in a grid](Solutions/M/minimum-path-cost-in-a-grid)
+* [Minimum path sum](Solutions/M/minimum-path-sum)
+* [Minimum skips to arrive at meeting on time](Solutions/M/minimum-skips-to-arrive-at-meeting-on-time)
 
 ### <a name="Dynamic_programming-Auxiliary_array">Auxiliary array</a>
 * [Best time to buy and sell stock iv](Solutions/B/best-time-to-buy-and-sell-stock-iv)
@@ -242,6 +253,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Dynamic_programming-Cyclic_array">Cyclic array</a>
 * [House robber ii](Solutions/H/house-robber-ii)
 * [Maximum sum circular subarray](Solutions/M/maximum-sum-circular-subarray)
+* [Minimum number of flips to make the binary string alternating](Solutions/M/minimum-number-of-flips-to-make-the-binary-string-alternating)
 
 ### <a name="Dynamic_programming-Digits">Digits</a>
 * [Count special integers](Solutions/C/count-special-integers)
@@ -289,6 +301,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest path with different adjacent characters](Solutions/L/longest-path-with-different-adjacent-characters)
 * [Longest univalue path](Solutions/L/longest-univalue-path)
 * [Minimum cost to change the final value of expression](Solutions/M/minimum-cost-to-change-the-final-value-of-expression)
+* [Minimum score after removals on a tree](Solutions/M/minimum-score-after-removals-on-a-tree)
 
 ## <a name="Encoding_and_decoding">Encoding and decoding</a>
 * [Encode and decode tinyurl](Solutions/E/encode-and-decode-tinyurl)
@@ -317,6 +330,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Amount of time for binary tree to be infected](Solutions/A/amount-of-time-for-binary-tree-to-be-infected)
 * [Bus routes](Solutions/B/bus-routes)
 * [Jump game iv](Solutions/J/jump-game-iv)
+* [Minimum operations to convert number](Solutions/M/minimum-operations-to-convert-number)
 
 ### <a name="Graph_theory-Bridges_Articulation_points">Bridges/Articulation points</a>
 * [Critical connections in a network](Solutions/C/critical-connections-in-a-network)
@@ -338,6 +352,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Keys and rooms](Solutions/K/keys-and-rooms)
 * [Longest increasing path in a matrix](Solutions/L/longest-increasing-path-in-a-matrix)
 * [Longest path with different adjacent characters](Solutions/L/longest-path-with-different-adjacent-characters)
+* [Minimum score after removals on a tree](Solutions/M/minimum-score-after-removals-on-a-tree)
 
 #### <a name="Graph_theory-Depth_first_search-Colouring">Colouring</a>
 * [Is graph bipartite](Solutions/I/is-graph-bipartite)
@@ -351,6 +366,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Flood fill](Solutions/F/flood-fill)
 * [Making a large island](Solutions/M/making-a-large-island)
 * [Max area of island](Solutions/M/max-area-of-island)
+
+#### <a name="Graph_theory-Depth_first_search-Tree_diameter">Tree diameter</a>
+* [Minimum height trees](Solutions/M/minimum-height-trees)
 
 ### <a name="Graph_theory-Directed_acyclic_graph">Directed acyclic graph</a>
 * [All paths from source to target](Solutions/A/all-paths-from-source-to-target)
@@ -393,6 +411,11 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum value after insertion](Solutions/M/maximum-value-after-insertion)
 * [Minimize maximum pair sum in array](Solutions/M/minimize-maximum-pair-sum-in-array)
 * [Minimum amount of time to fill cups](Solutions/M/minimum-amount-of-time-to-fill-cups)
+* [Minimum number of arrows to burst balloons](Solutions/M/minimum-number-of-arrows-to-burst-balloons)
+* [Minimum number of increments on subarrays to form a target array](Solutions/M/minimum-number-of-increments-on-subarrays-to-form-a-target-array)
+* [Minimum operations to make the array increasing](Solutions/M/minimum-operations-to-make-the-array-increasing)
+* [Minimum replacements to sort the array](Solutions/M/minimum-replacements-to-sort-the-array)
+* [Minimum sum of squared difference](Solutions/M/minimum-sum-of-squared-difference)
 * [Split array largest sum](Solutions/S/split-array-largest-sum)
 
 ## <a name="Hashmap">Hashmap</a>
@@ -471,6 +494,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Intervals-Endpoint_sorting">Endpoint sorting</a>
 * [Car pooling](Solutions/C/car-pooling)
+* [Minimum interval to include each query](Solutions/M/minimum-interval-to-include-each-query)
 
 ### <a name="Intervals-Non_overlapping_decomposition">Non-overlapping decomposition</a>
 * [Falling squares](Solutions/F/falling-squares)
@@ -523,6 +547,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Mathematics-Closed_form_expressions">Closed form expressions</a>
 * [Maximum value at a given index in a bounded array](Solutions/M/maximum-value-at-a-given-index-in-a-bounded-array)
+* [Minimum operations to make array equal](Solutions/M/minimum-operations-to-make-array-equal)
 
 ### <a name="Mathematics-Combinatorics">Combinatorics</a>
 * [3sum with multiplicity](Solutions/0-9/3sum-with-multiplicity)
@@ -540,6 +565,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count unreachable pairs of nodes in an undirected graph](Solutions/C/count-unreachable-pairs-of-nodes-in-an-undirected-graph)
 * [Domino and tromino tiling](Solutions/D/domino-and-tromino-tiling)
 * [Iterator for combination](Solutions/I/iterator-for-combination)
+* [Minimum number of operations to make string sorted](Solutions/M/minimum-number-of-operations-to-make-string-sorted)
 * [Number of ways to reach a position after exactly k steps](Solutions/N/number-of-ways-to-reach-a-position-after-exactly-k-steps)
 
 ### <a name="Mathematics-Composition_of_operations">Composition of operations</a>
@@ -577,6 +603,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count good numbers](Solutions/C/count-good-numbers)
 * [Count the number of ideal arrays](Solutions/C/count-the-number-of-ideal-arrays)
 * [Maximize number of nice divisors](Solutions/M/maximize-number-of-nice-divisors)
+* [Minimum number of operations to make string sorted](Solutions/M/minimum-number-of-operations-to-make-string-sorted)
 
 #### <a name="Mathematics-Number_theory-Prime_sieving">Prime sieving</a>
 * [Count primes](Solutions/C/count-primes)
@@ -599,6 +626,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Matrix-Path">Path</a>
 * [Dungeon game](Solutions/D/dungeon-game)
 * [Longest increasing path in a matrix](Solutions/L/longest-increasing-path-in-a-matrix)
+* [Minimum path sum](Solutions/M/minimum-path-sum)
 
 ### <a name="Matrix-Row_pair_processing">Row pair processing</a>
 * [Max sum of rectangle no larger than k](Solutions/M/max-sum-of-rectangle-no-larger-than-k)
@@ -622,6 +650,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Permutation-Cycle">Cycle</a>
 * [Array nesting](Solutions/A/array-nesting)
+* [Minimum number of operations to reinitialize a permutation](Solutions/M/minimum-number-of-operations-to-reinitialize-a-permutation)
 
 ### <a name="Permutation-Inverse">Inverse</a>
 * [Build a matrix with conditions](Solutions/B/build-a-matrix-with-conditions)
@@ -633,6 +662,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Permutation-Next_Previous">Next/Previous</a>
 * [Minimum adjacent swaps to reach the kth smallest number](Solutions/M/minimum-adjacent-swaps-to-reach-the-kth-smallest-number)
+* [Minimum number of operations to make string sorted](Solutions/M/minimum-number-of-operations-to-make-string-sorted)
 
 ## <a name="Pointers">Pointers</a>
 * [Clone graph](Solutions/C/clone-graph)
@@ -666,12 +696,16 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum sum circular subarray](Solutions/M/maximum-sum-circular-subarray)
 * [Maximum xor for each query](Solutions/M/maximum-xor-for-each-query)
 * [Minimum amount of time to collect garbage](Solutions/M/minimum-amount-of-time-to-collect-garbage)
+* [Minimum space wasted from packaging](Solutions/M/minimum-space-wasted-from-packaging)
 
 #### <a name="Prefix-Sum-2D">2D</a>
 * [Maximal square](Solutions/M/maximal-square)
 
 #### <a name="Prefix-Sum-For_range_updates">For range updates</a>
 * [Invalid transactions](Solutions/I/invalid-transactions)
+
+#### <a name="Prefix-Sum-Valid_brackets">Valid brackets</a>
+* [Minimum remove to make valid parentheses](Solutions/M/minimum-remove-to-make-valid-parentheses)
 
 ## <a name="Priority_queue">Priority queue</a>
 * [First unique character in a string](Solutions/F/first-unique-character-in-a-string)
@@ -682,6 +716,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum number of events that can be attended](Solutions/M/maximum-number-of-events-that-can-be-attended)
 * [Meeting rooms iii](Solutions/M/meeting-rooms-iii)
 * [Merge k sorted lists](Solutions/M/merge-k-sorted-lists)
+* [Minimum interval to include each query](Solutions/M/minimum-interval-to-include-each-query)
 
 ### <a name="Priority_queue-Dijkstra_like_processing_of_subarrays">Dijkstra-like processing of subarrays</a>
 * [Find the k sum of an array](Solutions/F/find-the-k-sum-of-an-array)
@@ -704,6 +739,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## <a name="Quick_Select">Quick Select</a>
 * [Kth largest element in an array](Solutions/K/kth-largest-element-in-an-array)
+* [Minimum moves to equal array elements ii](Solutions/M/minimum-moves-to-equal-array-elements-ii)
 
 ## <a name="Range_updates_using_prefix_sum">Range updates using prefix sum</a>
 * [Invalid transactions](Solutions/I/invalid-transactions)
@@ -768,6 +804,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Min max game](Solutions/M/min-max-game)
 * [Minimum amount of time to fill cups](Solutions/M/minimum-amount-of-time-to-fill-cups)
 * [Minimum distance to the target element](Solutions/M/minimum-distance-to-the-target-element)
+* [Minimum domino rotations for equal row](Solutions/M/minimum-domino-rotations-for-equal-row)
+* [Minimum hours of training to win a competition](Solutions/M/minimum-hours-of-training-to-win-a-competition)
+* [Minimum number of swaps to make the binary string alternating](Solutions/M/minimum-number-of-swaps-to-make-the-binary-string-alternating)
 
 ## <a name="Sliding_window">Sliding window</a>
 * [3sum](Solutions/0-9/3sum)
@@ -785,6 +824,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Max consecutive ones iii](Solutions/M/max-consecutive-ones-iii)
 * [Maximum erasure value](Solutions/M/maximum-erasure-value)
 * [Maximum points you can obtain from cards](Solutions/M/maximum-points-you-can-obtain-from-cards)
+* [Minimum operations to reduce x to zero](Solutions/M/minimum-operations-to-reduce-x-to-zero)
+* [Minimum recolors to get k consecutive black blocks](Solutions/M/minimum-recolors-to-get-k-consecutive-black-blocks)
 
 ### <a name="Sliding_window-Monotonic_deque">Monotonic deque</a>
 * [Maximum number of robots within budget](Solutions/M/maximum-number-of-robots-within-budget)
@@ -815,6 +856,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum profit in job scheduling](Solutions/M/maximum-profit-in-job-scheduling)
 * [Maximum units on a truck](Solutions/M/maximum-units-on-a-truck)
 * [Merge k sorted lists](Solutions/M/merge-k-sorted-lists)
+* [Minimum number of arrows to burst balloons](Solutions/M/minimum-number-of-arrows-to-burst-balloons)
+* [Minimum sum of squared difference](Solutions/M/minimum-sum-of-squared-difference)
 
 ### <a name="Sorting-Merge_sort">Merge sort</a>
 * [Merge k sorted lists](Solutions/M/merge-k-sorted-lists)
@@ -824,6 +867,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Sorting-Partial">Partial</a>
 * [Find k closest elements](Solutions/F/find-k-closest-elements)
 * [K closest points to origin](Solutions/K/k-closest-points-to-origin)
+
+### <a name="Sorting-Queries_and_updates_together">Queries and updates together</a>
+* [Minimum space wasted from packaging](Solutions/M/minimum-space-wasted-from-packaging)
 
 ### <a name="Sorting-Remembering_index">Remembering index</a>
 * [Find right interval](Solutions/F/find-right-interval)
@@ -1010,34 +1056,6 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Leftmost column with at least a one](Solutions/L/leftmost-column-with-at-least-a-one)
 * [Minimize deviation in array](Solutions/M/minimize-deviation-in-array)
 * [Minimum absolute difference queries](Solutions/M/minimum-absolute-difference-queries)
-* [Minimum domino rotations for equal row](Solutions/M/minimum-domino-rotations-for-equal-row)
-* [Minimum height trees](Solutions/M/minimum-height-trees)
-* [Minimum hours of training to win a competition](Solutions/M/minimum-hours-of-training-to-win-a-competition)
-* [Minimum interval to include each query](Solutions/M/minimum-interval-to-include-each-query)
-* [Minimum moves to equal array elements ii](Solutions/M/minimum-moves-to-equal-array-elements-ii)
-* [Minimum number of arrows to burst balloons](Solutions/M/minimum-number-of-arrows-to-burst-balloons)
-* [Minimum number of flips to convert binary matrix to zero matrix](Solutions/M/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix)
-* [Minimum number of flips to make the binary string alternating](Solutions/M/minimum-number-of-flips-to-make-the-binary-string-alternating)
-* [Minimum number of increments on subarrays to form a target array](Solutions/M/minimum-number-of-increments-on-subarrays-to-form-a-target-array)
-* [Minimum number of operations to make string sorted](Solutions/M/minimum-number-of-operations-to-make-string-sorted)
-* [Minimum number of operations to reinitialize a permutation](Solutions/M/minimum-number-of-operations-to-reinitialize-a-permutation)
-* [Minimum number of refueling stops](Solutions/M/minimum-number-of-refueling-stops)
-* [Minimum number of swaps to make the binary string alternating](Solutions/M/minimum-number-of-swaps-to-make-the-binary-string-alternating)
-* [Minimum operations to convert number](Solutions/M/minimum-operations-to-convert-number)
-* [Minimum operations to make array equal](Solutions/M/minimum-operations-to-make-array-equal)
-* [Minimum operations to make the array increasing](Solutions/M/minimum-operations-to-make-the-array-increasing)
-* [Minimum operations to reduce x to zero](Solutions/M/minimum-operations-to-reduce-x-to-zero)
-* [Minimum path cost in a grid](Solutions/M/minimum-path-cost-in-a-grid)
-* [Minimum path sum](Solutions/M/minimum-path-sum)
-* [Minimum recolors to get k consecutive black blocks](Solutions/M/minimum-recolors-to-get-k-consecutive-black-blocks)
-* [Minimum remove to make valid parentheses](Solutions/M/minimum-remove-to-make-valid-parentheses)
-* [Minimum replacements to sort the array](Solutions/M/minimum-replacements-to-sort-the-array)
-* [Minimum score after removals on a tree](Solutions/M/minimum-score-after-removals-on-a-tree)
-* [Minimum sideway jumps](Solutions/M/minimum-sideway-jumps)
-* [Minimum skips to arrive at meeting on time](Solutions/M/minimum-skips-to-arrive-at-meeting-on-time)
-* [Minimum space wasted from packaging](Solutions/M/minimum-space-wasted-from-packaging)
-* [Minimum speed to arrive on time](Solutions/M/minimum-speed-to-arrive-on-time)
-* [Minimum sum of squared difference](Solutions/M/minimum-sum-of-squared-difference)
 * [Minimum time to remove all cars containing illegal goods](Solutions/M/minimum-time-to-remove-all-cars-containing-illegal-goods)
 * [Minimum value to get positive step by step sum](Solutions/M/minimum-value-to-get-positive-step-by-step-sum)
 * [Minimum window substring](Solutions/M/minimum-window-substring)

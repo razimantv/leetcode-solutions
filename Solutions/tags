@@ -47,6 +47,7 @@ Graph theory>Depth first search
 Graph theory>Depth first search>Colouring
 Graph theory>Depth first search>Component decomposition
 Graph theory>Depth first search>Flood fill
+Graph theory>Depth first search>Tree diameter
 Graph theory>Directed acyclic graph
 Graph theory>Minimum spanning tree
 Graph theory>Single outdegree graphs
@@ -100,11 +101,12 @@ Prefix>Extremum
 Prefix>Sum
 Prefix>Sum>2D
 Prefix>Sum>For range updates
+Prefix>Sum>Valid brackets
 Priority queue
 Priority queue>Dijkstra-like processing of subarrays
-Priority queue>Key update using insert and remove on C++ set
 Priority queue>K smallest/largest elements
 Priority queue>K smallest/largest elements>Transfer between the two
+Priority queue>Key update using insert and remove on C++ set
 Quick Select
 Range updates using prefix sum
 Segment tree
@@ -116,6 +118,7 @@ Sorting
 Sorting>Custom
 Sorting>Merge sort
 Sorting>Partial
+Sorting>Queries and updates together
 Sorting>Remembering index
 Stack
 Stack>Depth first search
@@ -137,5 +140,5 @@ Tree>Binary tree>Recursion
 Tree>Order traversal
 Tree>Rerooting
 Trie
-Unique/duplicate element finding with bizarro algorithms
 Unique elements in subarray
+Unique/duplicate element finding with bizarro algorithms

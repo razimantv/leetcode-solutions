@@ -15,7 +15,6 @@ class Solution {
 
     for (int i = 1; i <= N; ++i) {
       int c = i & 1, p = c ^ 1;
-      cout << i;
       for (int j = 1; j < N; ++j) {
         DP[c][j] = min(DP[p][j],
                        ceil(DP[c][j - 1] + dist[j - 1] / (double)speed - eps));

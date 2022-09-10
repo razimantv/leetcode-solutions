@@ -13,16 +13,11 @@ class Solution {
     for (int v : adj[u]) {
       if (v == par) continue;
       children.push_back(dfs(v, u));
-      // cout << u << " " << v << ": ";
-      // for(int x: children[C]) cout << x << " ";
-      // cout << "\n";
       int childtreexor = children[C].back();
       subtreexor ^= childtreexor;
       for (int i = 0, n = children[C].size(); i < n - 1; ++i) {
         vector<int> cur{children[C][i], childtreexor ^ children[C][i],
                         X ^ childtreexor};
-        // cout << u << "-" << v << ": " << children[C][i]  <<  " "<<
-        // (childtreexor^children[C][i])  <<  " "<< (X^childtreexor) << "\n";
         sort(cur.begin(), cur.end());
         best = min(best, cur[2] - cur[0]);
       }
@@ -32,8 +27,6 @@ class Solution {
           for (int y : children[C]) {
             vector<int> cur{x, y, X ^ x ^ y};
             sort(cur.begin(), cur.end());
-            // cout << u << "-" << v << ": " << x <<  " " << y <<  " " <<
-            // (X^x^y) << "\n";
             best = min(best, cur[2] - cur[0]);
           }
       if (children[C].size() > children[maxc].size()) maxc = C;
