@@ -457,7 +457,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Merge similar items](Solutions/M/merge-similar-items)
 * [Minimum amount of time to collect garbage](Solutions/M/minimum-amount-of-time-to-collect-garbage)
 * [Minimum deletions to make character frequencies unique](Solutions/M/minimum-deletions-to-make-character-frequencies-unique)
+* [Most frequent even element](Solutions/M/most-frequent-even-element)
 * [Number of atoms](Solutions/N/number-of-atoms)
+* [Optimal partition of string](Solutions/O/optimal-partition-of-string)
 
 ### <a name="Hashmap-Coordinate_compression">Coordinate compression</a>
 * [Design underground system](Solutions/D/design-underground-system)
@@ -494,12 +496,14 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Intervals-Endpoint_sorting">Endpoint sorting</a>
 * [Car pooling](Solutions/C/car-pooling)
+* [Divide intervals into minimum number of groups](Solutions/D/divide-intervals-into-minimum-number-of-groups)
 * [Minimum interval to include each query](Solutions/M/minimum-interval-to-include-each-query)
 
 ### <a name="Intervals-Non_overlapping_decomposition">Non-overlapping decomposition</a>
 * [Falling squares](Solutions/F/falling-squares)
 
 ### <a name="Intervals-Overlap">Overlap</a>
+* [Divide intervals into minimum number of groups](Solutions/D/divide-intervals-into-minimum-number-of-groups)
 * [Interval list intersections](Solutions/I/interval-list-intersections)
 
 ### <a name="Intervals-Union">Union</a>
@@ -752,6 +756,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Delivering boxes from storage to ports](Solutions/D/delivering-boxes-from-storage-to-ports)
 * [Fancy sequence](Solutions/F/fancy-sequence)
 * [Jump game vii](Solutions/J/jump-game-vii)
+* [Longest increasing subsequence ii](Solutions/L/longest-increasing-subsequence-ii)
 
 ## <a name="Simple_implementation">Simple implementation</a>
 * [Arranging coins](Solutions/A/arranging-coins)
@@ -807,6 +812,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum domino rotations for equal row](Solutions/M/minimum-domino-rotations-for-equal-row)
 * [Minimum hours of training to win a competition](Solutions/M/minimum-hours-of-training-to-win-a-competition)
 * [Minimum number of swaps to make the binary string alternating](Solutions/M/minimum-number-of-swaps-to-make-the-binary-string-alternating)
+* [Most frequent even element](Solutions/M/most-frequent-even-element)
 
 ## <a name="Sliding_window">Sliding window</a>
 * [3sum](Solutions/0-9/3sum)
@@ -848,6 +854,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Course schedule iii](Solutions/C/course-schedule-iii)
 * [Custom sort string](Solutions/C/custom-sort-string)
 * [Design a food rating system](Solutions/D/design-a-food-rating-system)
+* [Divide intervals into minimum number of groups](Solutions/D/divide-intervals-into-minimum-number-of-groups)
 * [Eliminate maximum number of monsters](Solutions/E/eliminate-maximum-number-of-monsters)
 * [Find k closest elements](Solutions/F/find-k-closest-elements)
 * [K closest points to origin](Solutions/K/k-closest-points-to-origin)
@@ -1040,6 +1047,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest nice subarray](Solutions/L/longest-nice-subarray)
 * [Longest substring without repeating characters](Solutions/L/longest-substring-without-repeating-characters)
 * [Maximum erasure value](Solutions/M/maximum-erasure-value)
+* [Optimal partition of string](Solutions/O/optimal-partition-of-string)
 
 ## <a name="Unique_duplicate_element_finding_with_bizarro_algorithms">Unique/duplicate element finding with bizarro algorithms</a>
 * [Find all duplicates in an array](Solutions/F/find-all-duplicates-in-an-array)
