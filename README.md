@@ -368,6 +368,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Making a large island](Solutions/M/making-a-large-island)
 * [Max area of island](Solutions/M/max-area-of-island)
 
+#### <a name="Graph_theory-Depth_first_search-Iterative">Iterative</a>
+* [Find eventual safe states](Solutions/F/find-eventual-safe-states)
+
 #### <a name="Graph_theory-Depth_first_search-Tree_diameter">Tree diameter</a>
 * [Minimum height trees](Solutions/M/minimum-height-trees)
 
@@ -385,6 +388,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Build a matrix with conditions](Solutions/B/build-a-matrix-with-conditions)
 * [Course schedule](Solutions/C/course-schedule)
 * [Course schedule ii](Solutions/C/course-schedule-ii)
+* [Find eventual safe states](Solutions/F/find-eventual-safe-states)
 
 #### <a name="Graph_theory-Topological_sort-Dynamic_Programming">Dynamic Programming</a>
 * [Largest color value in a directed graph](Solutions/L/largest-color-value-in-a-directed-graph)
@@ -890,6 +894,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Stack-Depth_first_search">Depth first search</a>
 * [Binary tree inorder traversal](Solutions/B/binary-tree-inorder-traversal)
+* [Find eventual safe states](Solutions/F/find-eventual-safe-states)
 
 ### <a name="Stack-From_array_elements">From array elements</a>
 * [Asteroid collision](Solutions/A/asteroid-collision)
