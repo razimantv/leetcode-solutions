@@ -132,6 +132,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum rows covered by columns](Solutions/M/maximum-rows-covered-by-columns)
 * [Maximum xor after operations](Solutions/M/maximum-xor-after-operations)
 * [Maximum xor for each query](Solutions/M/maximum-xor-for-each-query)
+* [Utf 8 validation](Solutions/U/utf-8-validation)
 
 ### <a name="Bitwise_operation-Build_result_bit_by_bit">Build result bit-by-bit</a>
 * [Maximum xor of two numbers in an array](Solutions/M/maximum-xor-of-two-numbers-in-an-array)
@@ -924,6 +925,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Invalid transactions](Solutions/I/invalid-transactions)
 * [Length of last word](Solutions/L/length-of-last-word)
 * [Minimum cost to change the final value of expression](Solutions/M/minimum-cost-to-change-the-final-value-of-expression)
+* [Utf 8 validation](Solutions/U/utf-8-validation)
 
 #### <a name="String-Parsing-Recursive">Recursive</a>
 * [Decode string](Solutions/D/decode-string)
