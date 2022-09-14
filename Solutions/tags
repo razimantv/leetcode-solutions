@@ -47,6 +47,7 @@ Graph theory>Depth first search
 Graph theory>Depth first search>Colouring
 Graph theory>Depth first search>Component decomposition
 Graph theory>Depth first search>Flood fill
+Graph theory>Depth first search>Iterative
 Graph theory>Depth first search>Tree diameter
 Graph theory>Directed acyclic graph
 Graph theory>Minimum spanning tree
@@ -91,6 +92,7 @@ Matrix>Path
 Matrix>Row pair processing
 Matrix>Traversal
 Meet in the middle
+Offline query processing
 Palindrome
 Permutation>Cycle
 Permutation>Inverse
