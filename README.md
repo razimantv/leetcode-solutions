@@ -73,6 +73,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Generate parentheses](Solutions/G/generate-parentheses)
 * [Maximum number of groups getting fresh donuts](Solutions/M/maximum-number-of-groups-getting-fresh-donuts)
 * [Maximum score words formed by letters](Solutions/M/maximum-score-words-formed-by-letters)
+* [N queens](Solutions/N/n-queens)
 
 ## <a name="Binary_search">Binary search</a>
 * [Binary search](Solutions/B/binary-search)
@@ -151,6 +152,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Matchsticks to square](Solutions/M/matchsticks-to-square)
 * [Maximum length of a concatenated string with unique characters](Solutions/M/maximum-length-of-a-concatenated-string-with-unique-characters)
 * [Maximum rows covered by columns](Solutions/M/maximum-rows-covered-by-columns)
+* [N queens](Solutions/N/n-queens)
+* [N queens ii](Solutions/N/n-queens-ii)
 
 ### <a name="Brute_force_enumeration-Elementwise_processing_using_a_vector">Elementwise processing using a vector</a>
 * [Letter case permutation](Solutions/L/letter-case-permutation)
@@ -251,6 +254,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum path cost in a grid](Solutions/M/minimum-path-cost-in-a-grid)
 * [Minimum path sum](Solutions/M/minimum-path-sum)
 * [Minimum skips to arrive at meeting on time](Solutions/M/minimum-skips-to-arrive-at-meeting-on-time)
+* [N th tribonacci number](Solutions/N/n-th-tribonacci-number)
 
 ### <a name="Dynamic_programming-Auxiliary_array">Auxiliary array</a>
 * [Best time to buy and sell stock iv](Solutions/B/best-time-to-buy-and-sell-stock-iv)
@@ -330,6 +334,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find minimum in rotated sorted array ii](Solutions/F/find-minimum-in-rotated-sorted-array-ii)
 * [Find peak element](Solutions/F/find-peak-element)
 * [Multiply strings](Solutions/M/multiply-strings)
+* [Next permutation](Solutions/N/next-permutation)
 
 ## <a name="Graph_theory">Graph theory</a>
 
@@ -380,6 +385,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 #### <a name="Graph_theory-Depth_first_search-Tree_diameter">Tree diameter</a>
 * [Minimum height trees](Solutions/M/minimum-height-trees)
+
+### <a name="Graph_theory-Dijkstra_s_algorithm">Dijkstra's algorithm</a>
+* [Network delay time](Solutions/N/network-delay-time)
 
 ### <a name="Graph_theory-Directed_acyclic_graph">Directed acyclic graph</a>
 * [All paths from source to target](Solutions/A/all-paths-from-source-to-target)
@@ -584,6 +592,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Domino and tromino tiling](Solutions/D/domino-and-tromino-tiling)
 * [Iterator for combination](Solutions/I/iterator-for-combination)
 * [Minimum number of operations to make string sorted](Solutions/M/minimum-number-of-operations-to-make-string-sorted)
+* [Naming a company](Solutions/N/naming-a-company)
 * [Number of ways to reach a position after exactly k steps](Solutions/N/number-of-ways-to-reach-a-position-after-exactly-k-steps)
 
 ### <a name="Mathematics-Composition_of_operations">Composition of operations</a>
@@ -685,6 +694,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Permutation-Next_Previous">Next/Previous</a>
 * [Minimum adjacent swaps to reach the kth smallest number](Solutions/M/minimum-adjacent-swaps-to-reach-the-kth-smallest-number)
 * [Minimum number of operations to make string sorted](Solutions/M/minimum-number-of-operations-to-make-string-sorted)
+* [Next greater element iii](Solutions/N/next-greater-element-iii)
+* [Next permutation](Solutions/N/next-permutation)
 
 ## <a name="Pointers">Pointers</a>
 * [Clone graph](Solutions/C/clone-graph)
@@ -743,6 +754,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimize deviation in array](Solutions/M/minimize-deviation-in-array)
 * [Minimum interval to include each query](Solutions/M/minimum-interval-to-include-each-query)
 
+### <a name="Priority_queue-Dijkstra_s_algorithm">Dijkstra's algorithm</a>
+* [Network delay time](Solutions/N/network-delay-time)
+
 ### <a name="Priority_queue-Dijkstra_like_processing_of_subarrays">Dijkstra-like processing of subarrays</a>
 * [Find the k sum of an array](Solutions/F/find-the-k-sum-of-an-array)
 
@@ -761,6 +775,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Design a number container system](Solutions/D/design-a-number-container-system)
 * [Design authentication manager](Solutions/D/design-authentication-manager)
 * [Lru cache](Solutions/L/lru-cache)
+* [Network delay time](Solutions/N/network-delay-time)
 
 ## <a name="Quick_Select">Quick Select</a>
 * [Kth largest element in an array](Solutions/K/kth-largest-element-in-an-array)
@@ -834,6 +849,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum hours of training to win a competition](Solutions/M/minimum-hours-of-training-to-win-a-competition)
 * [Minimum number of swaps to make the binary string alternating](Solutions/M/minimum-number-of-swaps-to-make-the-binary-string-alternating)
 * [Most frequent even element](Solutions/M/most-frequent-even-element)
+* [Next greater element i](Solutions/N/next-greater-element-i)
 
 ## <a name="Sliding_window">Sliding window</a>
 * [3sum](Solutions/0-9/3sum)
@@ -922,6 +938,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Largest rectangle in histogram](Solutions/L/largest-rectangle-in-histogram)
 * [Maximum score of a good subarray](Solutions/M/maximum-score-of-a-good-subarray)
 * [Maximum subarray min product](Solutions/M/maximum-subarray-min-product)
+* [Next greater element ii](Solutions/N/next-greater-element-ii)
 
 ### <a name="Stack-Numerical_operations">Numerical operations</a>
 * [Baseball game](Solutions/B/baseball-game)
@@ -985,6 +1002,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Majority element](Solutions/M/majority-element)
 * [Map sum pairs](Solutions/M/map-sum-pairs)
 * [Maximum distance between a pair of values](Solutions/M/maximum-distance-between-a-pair-of-values)
+* [Next greater element i](Solutions/N/next-greater-element-i)
 
 ## <a name="Time_reversed_simulation">Time reversed simulation</a>
 * [Backspace string compare](Solutions/B/backspace-string-compare)
@@ -1059,6 +1077,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Construct binary tree from preorder and inorder traversal](Solutions/C/construct-binary-tree-from-preorder-and-inorder-traversal)
 * [Flip binary tree to match preorder traversal](Solutions/F/flip-binary-tree-to-match-preorder-traversal)
 * [N ary tree level order traversal](Solutions/N/n-ary-tree-level-order-traversal)
+* [N ary tree preorder traversal](Solutions/N/n-ary-tree-preorder-traversal)
 
 ### <a name="Tree-Rerooting">Rerooting</a>
 * [Amount of time for binary tree to be infected](Solutions/A/amount-of-time-for-binary-tree-to-be-infected)
@@ -1089,16 +1108,6 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Flip string to monotone increasing](Solutions/F/flip-string-to-monotone-increasing)
 * [Leftmost column with at least a one](Solutions/L/leftmost-column-with-at-least-a-one)
 * [Move pieces to obtain a string](Solutions/M/move-pieces-to-obtain-a-string)
-* [N ary tree preorder traversal](Solutions/N/n-ary-tree-preorder-traversal)
-* [N queens](Solutions/N/n-queens)
-* [N queens ii](Solutions/N/n-queens-ii)
-* [N th tribonacci number](Solutions/N/n-th-tribonacci-number)
-* [Naming a company](Solutions/N/naming-a-company)
-* [Network delay time](Solutions/N/network-delay-time)
-* [Next greater element i](Solutions/N/next-greater-element-i)
-* [Next greater element ii](Solutions/N/next-greater-element-ii)
-* [Next greater element iii](Solutions/N/next-greater-element-iii)
-* [Next permutation](Solutions/N/next-permutation)
 * [Node with highest edge score](Solutions/N/node-with-highest-edge-score)
 * [Non decreasing array](Solutions/N/non-decreasing-array)
 * [Non negative integers without consecutive ones](Solutions/N/non-negative-integers-without-consecutive-ones)

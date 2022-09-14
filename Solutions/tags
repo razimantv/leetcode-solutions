@@ -49,6 +49,7 @@ Graph theory>Depth first search>Component decomposition
 Graph theory>Depth first search>Flood fill
 Graph theory>Depth first search>Iterative
 Graph theory>Depth first search>Tree diameter
+Graph theory>Dijkstra's algorithm
 Graph theory>Directed acyclic graph
 Graph theory>Minimum spanning tree
 Graph theory>Single outdegree graphs
@@ -105,6 +106,7 @@ Prefix>Sum>2D
 Prefix>Sum>For range updates
 Prefix>Sum>Valid brackets
 Priority queue
+Priority queue>Dijkstra's algorithm
 Priority queue>Dijkstra-like processing of subarrays
 Priority queue>K smallest/largest elements
 Priority queue>K smallest/largest elements>Transfer between the two
