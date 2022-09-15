@@ -743,6 +743,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum remove to make valid parentheses](Solutions/M/minimum-remove-to-make-valid-parentheses)
 
 ## <a name="Priority_queue">Priority queue</a>
+* [Find original array from doubled array](Solutions/F/find-original-array-from-doubled-array)
 * [First unique character in a string](Solutions/F/first-unique-character-in-a-string)
 * [Furthest building you can reach](Solutions/F/furthest-building-you-can-reach)
 * [Jump game vi](Solutions/J/jump-game-vi)
