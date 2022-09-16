@@ -250,6 +250,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest ideal subsequence](Solutions/L/longest-ideal-subsequence)
 * [Maximum length of repeated subarray](Solutions/M/maximum-length-of-repeated-subarray)
 * [Maximum number of points with cost](Solutions/M/maximum-number-of-points-with-cost)
+* [Maximum score from performing multiplication operations](Solutions/M/maximum-score-from-performing-multiplication-operations)
 * [Minimum number of refueling stops](Solutions/M/minimum-number-of-refueling-stops)
 * [Minimum path cost in a grid](Solutions/M/minimum-path-cost-in-a-grid)
 * [Minimum path sum](Solutions/M/minimum-path-sum)
