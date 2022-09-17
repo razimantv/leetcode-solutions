@@ -678,6 +678,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest palindrome](Solutions/L/longest-palindrome)
 * [Longest palindromic substring](Solutions/L/longest-palindromic-substring)
 
+### <a name="Palindrome-Hashing">Hashing</a>
+* [Palindrome pairs](Solutions/P/palindrome-pairs)
+
 ## <a name="Permutation">Permutation</a>
 
 ### <a name="Permutation-Cycle">Cycle</a>
@@ -977,6 +980,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 #### <a name="String-Search-Hashing">Hashing</a>
 * [Implement strstr](Solutions/I/implement-strstr)
 * [Longest duplicate substring](Solutions/L/longest-duplicate-substring)
+* [Palindrome pairs](Solutions/P/palindrome-pairs)
 
 ### <a name="String-Subsequence">Subsequence</a>
 * [Is subsequence](Solutions/I/is-subsequence)
@@ -1152,7 +1156,6 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Pairs of songs with total durations divisible by 60](Solutions/P/pairs-of-songs-with-total-durations-divisible-by-60)
 * [Palindrome linked list](Solutions/P/palindrome-linked-list)
 * [Palindrome number](Solutions/P/palindrome-number)
-* [Palindrome pairs](Solutions/P/palindrome-pairs)
 * [Palindrome partitioning](Solutions/P/palindrome-partitioning)
 * [Palindrome partitioning ii](Solutions/P/palindrome-partitioning-ii)
 * [Palindrome partitioning iii](Solutions/P/palindrome-partitioning-iii)
