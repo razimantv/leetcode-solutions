@@ -57,6 +57,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Largest odd number in string](Solutions/L/largest-odd-number-in-string)
 * [Longest binary subsequence less than or equal to k](Solutions/L/longest-binary-subsequence-less-than-or-equal-to-k)
 * [Minimum replacements to sort the array](Solutions/M/minimum-replacements-to-sort-the-array)
+* [Smallest subarrays with maximum bitwise or](Solutions/S/smallest-subarrays-with-maximum-bitwise-or)
 * [The number of weak characters in the game](Solutions/T/the-number-of-weak-characters-in-the-game)
 
 ## <a name="Averaging_from_total_and_count">Averaging from total and count</a>
@@ -137,6 +138,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum xor for each query](Solutions/M/maximum-xor-for-each-query)
 * [Minimum xor sum of two arrays](Solutions/M/minimum-xor-sum-of-two-arrays)
 * [Missing number](Solutions/M/missing-number)
+* [Smallest subarrays with maximum bitwise or](Solutions/S/smallest-subarrays-with-maximum-bitwise-or)
 * [Utf 8 validation](Solutions/U/utf-8-validation)
 
 ### <a name="Bitwise_operation-Build_result_bit_by_bit">Build result bit-by-bit</a>
@@ -425,6 +427,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Make array zero by subtracting equal amounts](Solutions/M/make-array-zero-by-subtracting-equal-amounts)
 * [Maximum element after decreasing and rearranging](Solutions/M/maximum-element-after-decreasing-and-rearranging)
 * [Maximum ice cream bars](Solutions/M/maximum-ice-cream-bars)
+* [Maximum matching of players with trainer](Solutions/M/maximum-matching-of-players-with-trainer)
 * [Maximum number of consecutive values you can make](Solutions/M/maximum-number-of-consecutive-values-you-can-make)
 * [Maximum number of groups entering a competition](Solutions/M/maximum-number-of-groups-entering-a-competition)
 * [Maximum performance of a team](Solutions/M/maximum-performance-of-a-team)
@@ -432,6 +435,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum value after insertion](Solutions/M/maximum-value-after-insertion)
 * [Minimize maximum pair sum in array](Solutions/M/minimize-maximum-pair-sum-in-array)
 * [Minimum amount of time to fill cups](Solutions/M/minimum-amount-of-time-to-fill-cups)
+* [Minimum money required before transactions](Solutions/M/minimum-money-required-before-transactions)
 * [Minimum number of arrows to burst balloons](Solutions/M/minimum-number-of-arrows-to-burst-balloons)
 * [Minimum number of increments on subarrays to form a target array](Solutions/M/minimum-number-of-increments-on-subarrays-to-form-a-target-array)
 * [Minimum operations to make the array increasing](Solutions/M/minimum-operations-to-make-the-array-increasing)
@@ -481,6 +485,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Most frequent even element](Solutions/M/most-frequent-even-element)
 * [Number of atoms](Solutions/N/number-of-atoms)
 * [Optimal partition of string](Solutions/O/optimal-partition-of-string)
+* [Smallest subarrays with maximum bitwise or](Solutions/S/smallest-subarrays-with-maximum-bitwise-or)
 
 ### <a name="Hashmap-Coordinate_compression">Coordinate compression</a>
 * [Design underground system](Solutions/D/design-underground-system)
@@ -525,6 +530,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Falling squares](Solutions/F/falling-squares)
 
 ### <a name="Intervals-Overlap">Overlap</a>
+* [Count days spent together](Solutions/C/count-days-spent-together)
 * [Divide intervals into minimum number of groups](Solutions/D/divide-intervals-into-minimum-number-of-groups)
 * [Interval list intersections](Solutions/I/interval-list-intersections)
 * [My calendar iii](Solutions/M/my-calendar-iii)
@@ -717,6 +723,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Prefix-Sum">Sum</a>
 * [Contiguous array](Solutions/C/contiguous-array)
+* [Count days spent together](Solutions/C/count-days-spent-together)
 * [Count subarrays with score less than k](Solutions/C/count-subarrays-with-score-less-than-k)
 * [Delivering boxes from storage to ports](Solutions/D/delivering-boxes-from-storage-to-ports)
 * [Execution of all suffix instructions staying in a grid](Solutions/E/execution-of-all-suffix-instructions-staying-in-a-grid)
@@ -962,6 +969,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Basic calculator ii](Solutions/B/basic-calculator-ii)
 * [Compare version numbers](Solutions/C/compare-version-numbers)
 * [Complex number multiplication](Solutions/C/complex-number-multiplication)
+* [Count days spent together](Solutions/C/count-days-spent-together)
 * [Detect capital](Solutions/D/detect-capital)
 * [Evaluate the bracket pairs of a string](Solutions/E/evaluate-the-bracket-pairs-of-a-string)
 * [Find duplicate file in system](Solutions/F/find-duplicate-file-in-system)

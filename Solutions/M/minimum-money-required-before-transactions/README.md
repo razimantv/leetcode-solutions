@@ -1,0 +1,7 @@
+# Minimum money required before transactions
+
+[Problem link](https://leetcode.com/problems/minimum-money-required-before-transactions/)
+
+## Tags
+
+* [Greedy](/README.md#Greedy)
