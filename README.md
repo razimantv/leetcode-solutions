@@ -102,6 +102,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum xor of two numbers in an array](Solutions/M/maximum-xor-of-two-numbers-in-an-array)
 * [Minimum cost for tickets](Solutions/M/minimum-cost-for-tickets)
 * [Minimum speed to arrive on time](Solutions/M/minimum-speed-to-arrive-on-time)
+* [Nth magical number](Solutions/N/nth-magical-number)
 * [Split array largest sum](Solutions/S/split-array-largest-sum)
 
 ### <a name="Binary_search-C___set">C++ set</a>
@@ -139,6 +140,10 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum xor for each query](Solutions/M/maximum-xor-for-each-query)
 * [Minimum xor sum of two arrays](Solutions/M/minimum-xor-sum-of-two-arrays)
 * [Missing number](Solutions/M/missing-number)
+* [Non negative integers without consecutive ones](Solutions/N/non-negative-integers-without-consecutive-ones)
+* [Number complement](Solutions/N/number-complement)
+* [Number of 1 bits](Solutions/N/number-of-1-bits)
+* [Number of excellent pairs](Solutions/N/number-of-excellent-pairs)
 * [Smallest subarrays with maximum bitwise or](Solutions/S/smallest-subarrays-with-maximum-bitwise-or)
 * [Utf 8 validation](Solutions/U/utf-8-validation)
 
@@ -239,6 +244,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum cost for tickets](Solutions/M/minimum-cost-for-tickets)
 * [Minimum sideway jumps](Solutions/M/minimum-sideway-jumps)
 * [Minimum time to remove all cars containing illegal goods](Solutions/M/minimum-time-to-remove-all-cars-containing-illegal-goods)
+* [Number of distinct roll sequences](Solutions/N/number-of-distinct-roll-sequences)
 
 ### <a name="Dynamic_programming-Array_reuse">Array reuse</a>
 * [Champagne tower](Solutions/C/champagne-tower)
@@ -271,6 +277,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Dynamic_programming-Digits">Digits</a>
 * [Count special integers](Solutions/C/count-special-integers)
+* [Non negative integers without consecutive ones](Solutions/N/non-negative-integers-without-consecutive-ones)
+* [Number of digit one](Solutions/N/number-of-digit-one)
 
 ### <a name="Dynamic_programming-Intervals">Intervals</a>
 * [Maximum number of events that can be attended ii](Solutions/M/maximum-number-of-events-that-can-be-attended-ii)
@@ -370,6 +378,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest increasing path in a matrix](Solutions/L/longest-increasing-path-in-a-matrix)
 * [Longest path with different adjacent characters](Solutions/L/longest-path-with-different-adjacent-characters)
 * [Minimum score after removals on a tree](Solutions/M/minimum-score-after-removals-on-a-tree)
+* [Number of increasing paths in a grid](Solutions/N/number-of-increasing-paths-in-a-grid)
 
 #### <a name="Graph_theory-Depth_first_search-Colouring">Colouring</a>
 * [Is graph bipartite](Solutions/I/is-graph-bipartite)
@@ -402,6 +411,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Graph_theory-Single_outdegree_graphs">Single outdegree graphs</a>
 * [Find closest node to given two nodes](Solutions/F/find-closest-node-to-given-two-nodes)
 * [Longest cycle in a graph](Solutions/L/longest-cycle-in-a-graph)
+* [Node with highest edge score](Solutions/N/node-with-highest-edge-score)
 
 ### <a name="Graph_theory-Topological_sort">Topological sort</a>
 * [Build a matrix with conditions](Solutions/B/build-a-matrix-with-conditions)
@@ -442,6 +452,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum operations to make the array increasing](Solutions/M/minimum-operations-to-make-the-array-increasing)
 * [Minimum replacements to sort the array](Solutions/M/minimum-replacements-to-sort-the-array)
 * [Minimum sum of squared difference](Solutions/M/minimum-sum-of-squared-difference)
+* [Non overlapping intervals](Solutions/N/non-overlapping-intervals)
 * [Split array largest sum](Solutions/S/split-array-largest-sum)
 
 ## <a name="Hashmap">Hashmap</a>
@@ -485,6 +496,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum deletions to make character frequencies unique](Solutions/M/minimum-deletions-to-make-character-frequencies-unique)
 * [Most frequent even element](Solutions/M/most-frequent-even-element)
 * [Number of atoms](Solutions/N/number-of-atoms)
+* [Number of excellent pairs](Solutions/N/number-of-excellent-pairs)
 * [Optimal partition of string](Solutions/O/optimal-partition-of-string)
 * [Smallest subarrays with maximum bitwise or](Solutions/S/smallest-subarrays-with-maximum-bitwise-or)
 * [Sum of prefix scores of strings](Solutions/S/sum-of-prefix-scores-of-strings)
@@ -536,6 +548,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Divide intervals into minimum number of groups](Solutions/D/divide-intervals-into-minimum-number-of-groups)
 * [Interval list intersections](Solutions/I/interval-list-intersections)
 * [My calendar iii](Solutions/M/my-calendar-iii)
+* [Non overlapping intervals](Solutions/N/non-overlapping-intervals)
 
 ### <a name="Intervals-Union">Union</a>
 * [Merge intervals](Solutions/M/merge-intervals)
@@ -629,6 +642,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum cost to move chips to the same position](Solutions/M/minimum-cost-to-move-chips-to-the-same-position)
 * [Minimum deletions to make array divisible](Solutions/M/minimum-deletions-to-make-array-divisible)
 * [Mirror reflection](Solutions/M/mirror-reflection)
+* [Nth magical number](Solutions/N/nth-magical-number)
 
 #### <a name="Mathematics-Number_theory-Dynamic_programming">Dynamic programming</a>
 * [Largest divisible subset](Solutions/L/largest-divisible-subset)
@@ -646,6 +660,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count primes](Solutions/C/count-primes)
 * [Count the number of ideal arrays](Solutions/C/count-the-number-of-ideal-arrays)
 * [Largest component size by common factor](Solutions/L/largest-component-size-by-common-factor)
+* [Number of different subsequences gcds](Solutions/N/number-of-different-subsequences-gcds)
 
 ### <a name="Mathematics-Probability">Probability</a>
 * [Generate random point in a circle](Solutions/G/generate-random-point-in-a-circle)
@@ -864,6 +879,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum number of swaps to make the binary string alternating](Solutions/M/minimum-number-of-swaps-to-make-the-binary-string-alternating)
 * [Most frequent even element](Solutions/M/most-frequent-even-element)
 * [Next greater element i](Solutions/N/next-greater-element-i)
+* [Non decreasing array](Solutions/N/non-decreasing-array)
+* [Number of arithmetic triplets](Solutions/N/number-of-arithmetic-triplets)
 * [Smallest even multiple](Solutions/S/smallest-even-multiple)
 
 ## <a name="Sliding_window">Sliding window</a>
@@ -918,6 +935,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Merge k sorted lists](Solutions/M/merge-k-sorted-lists)
 * [Minimum number of arrows to burst balloons](Solutions/M/minimum-number-of-arrows-to-burst-balloons)
 * [Minimum sum of squared difference](Solutions/M/minimum-sum-of-squared-difference)
+* [Non overlapping intervals](Solutions/N/non-overlapping-intervals)
 
 ### <a name="Sorting-Merge_sort">Merge sort</a>
 * [Merge k sorted lists](Solutions/M/merge-k-sorted-lists)
@@ -980,6 +998,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Invalid transactions](Solutions/I/invalid-transactions)
 * [Length of last word](Solutions/L/length-of-last-word)
 * [Minimum cost to change the final value of expression](Solutions/M/minimum-cost-to-change-the-final-value-of-expression)
+* [Number of different integers in a string](Solutions/N/number-of-different-integers-in-a-string)
 * [Utf 8 validation](Solutions/U/utf-8-validation)
 
 #### <a name="String-Parsing-Recursive">Recursive</a>
@@ -1127,20 +1146,6 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Flip string to monotone increasing](Solutions/F/flip-string-to-monotone-increasing)
 * [Leftmost column with at least a one](Solutions/L/leftmost-column-with-at-least-a-one)
 * [Move pieces to obtain a string](Solutions/M/move-pieces-to-obtain-a-string)
-* [Node with highest edge score](Solutions/N/node-with-highest-edge-score)
-* [Non decreasing array](Solutions/N/non-decreasing-array)
-* [Non negative integers without consecutive ones](Solutions/N/non-negative-integers-without-consecutive-ones)
-* [Non overlapping intervals](Solutions/N/non-overlapping-intervals)
-* [Nth magical number](Solutions/N/nth-magical-number)
-* [Number complement](Solutions/N/number-complement)
-* [Number of 1 bits](Solutions/N/number-of-1-bits)
-* [Number of arithmetic triplets](Solutions/N/number-of-arithmetic-triplets)
-* [Number of different integers in a string](Solutions/N/number-of-different-integers-in-a-string)
-* [Number of different subsequences gcds](Solutions/N/number-of-different-subsequences-gcds)
-* [Number of digit one](Solutions/N/number-of-digit-one)
-* [Number of distinct roll sequences](Solutions/N/number-of-distinct-roll-sequences)
-* [Number of excellent pairs](Solutions/N/number-of-excellent-pairs)
-* [Number of increasing paths in a grid](Solutions/N/number-of-increasing-paths-in-a-grid)
 * [Number of islands](Solutions/N/number-of-islands)
 * [Number of longest increasing subsequence](Solutions/N/number-of-longest-increasing-subsequence)
 * [Number of matching subsequences](Solutions/N/number-of-matching-subsequences)
