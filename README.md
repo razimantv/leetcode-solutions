@@ -1,4 +1,4 @@
-# leetcode-solutions
+# LeetCode solutions
 My solutions to Leetcode Problems
 
 * All are AC solutions
@@ -18,6 +18,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count binary substrings](Solutions/C/count-binary-substrings)
 * [Distribute candies](Solutions/D/distribute-candies)
 * [Invalid transactions](Solutions/I/invalid-transactions)
+* [Length of the longest alphabetical continuous substring](Solutions/L/length-of-the-longest-alphabetical-continuous-substring)
 * [Longer contiguous segments of ones than zeros](Solutions/L/longer-contiguous-segments-of-ones-than-zeros)
 * [Longest mountain in array](Solutions/L/longest-mountain-in-array)
 * [Longest substring of all vowels in order](Solutions/L/longest-substring-of-all-vowels-in-order)
@@ -486,6 +487,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Number of atoms](Solutions/N/number-of-atoms)
 * [Optimal partition of string](Solutions/O/optimal-partition-of-string)
 * [Smallest subarrays with maximum bitwise or](Solutions/S/smallest-subarrays-with-maximum-bitwise-or)
+* [Sum of prefix scores of strings](Solutions/S/sum-of-prefix-scores-of-strings)
 
 ### <a name="Hashmap-Coordinate_compression">Coordinate compression</a>
 * [Design underground system](Solutions/D/design-underground-system)
@@ -862,6 +864,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum number of swaps to make the binary string alternating](Solutions/M/minimum-number-of-swaps-to-make-the-binary-string-alternating)
 * [Most frequent even element](Solutions/M/most-frequent-even-element)
 * [Next greater element i](Solutions/N/next-greater-element-i)
+* [Smallest even multiple](Solutions/S/smallest-even-multiple)
 
 ## <a name="Sliding_window">Sliding window</a>
 * [3sum](Solutions/0-9/3sum)
@@ -989,6 +992,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Implement strstr](Solutions/I/implement-strstr)
 * [Longest duplicate substring](Solutions/L/longest-duplicate-substring)
 * [Palindrome pairs](Solutions/P/palindrome-pairs)
+* [Sum of prefix scores of strings](Solutions/S/sum-of-prefix-scores-of-strings)
 
 ### <a name="String-Subsequence">Subsequence</a>
 * [Is subsequence](Solutions/I/is-subsequence)
@@ -1092,6 +1096,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Flip binary tree to match preorder traversal](Solutions/F/flip-binary-tree-to-match-preorder-traversal)
 * [N ary tree level order traversal](Solutions/N/n-ary-tree-level-order-traversal)
 * [N ary tree preorder traversal](Solutions/N/n-ary-tree-preorder-traversal)
+* [Reverse odd levels of binary tree](Solutions/R/reverse-odd-levels-of-binary-tree)
 
 ### <a name="Tree-Rerooting">Rerooting</a>
 * [Amount of time for binary tree to be infected](Solutions/A/amount-of-time-for-binary-tree-to-be-infected)
