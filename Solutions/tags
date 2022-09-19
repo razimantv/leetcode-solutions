@@ -25,6 +25,7 @@ Dynamic programming>Array reuse
 Dynamic programming>Auxiliary array
 Dynamic programming>Cyclic array
 Dynamic programming>Digits
+Dynamic programming>Graph-like state transitions
 Dynamic programming>Intervals
 Dynamic programming>Knapsack
 Dynamic programming>Longest common subsequence
@@ -112,6 +113,8 @@ Priority queue>Dijkstra-like processing of subarrays
 Priority queue>K smallest/largest elements
 Priority queue>K smallest/largest elements>Transfer between the two
 Priority queue>Key update using insert and remove on C++ set
+Process multiple vectors together
+Queue
 Quick Select
 Range updates using prefix sum
 Segment tree

@@ -27,6 +27,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximal rectangle](Solutions/M/maximal-rectangle)
 * [Maximum ascending subarray sum](Solutions/M/maximum-ascending-subarray-sum)
 * [Maximum product subarray](Solutions/M/maximum-product-subarray)
+* [Number of zero filled subarrays](Solutions/N/number-of-zero-filled-subarrays)
 * [The number of weak characters in the game](Solutions/T/the-number-of-weak-characters-in-the-game)
 
 ### <a name="Array_scanning-From_both_ends_of_array">From both ends of array</a>
@@ -47,6 +48,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Array_scanning-Location_of_previous_element_with_same_value">Location of previous element with same value</a>
 * [Count unique characters of all substrings of a given string](Solutions/C/count-unique-characters-of-all-substrings-of-a-given-string)
 * [Execution of all suffix instructions staying in a grid](Solutions/E/execution-of-all-suffix-instructions-staying-in-a-grid)
+* [Number of subarrays with bounded maximum](Solutions/N/number-of-subarrays-with-bounded-maximum)
 
 ### <a name="Array_scanning-Modify_element_with_index">Modify element with index</a>
 * [Best sightseeing pair](Solutions/B/best-sightseeing-pair)
@@ -167,6 +169,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Letter case permutation](Solutions/L/letter-case-permutation)
 * [Letter combinations of a phone number](Solutions/L/letter-combinations-of-a-phone-number)
 * [Minimum number of flips to convert binary matrix to zero matrix](Solutions/M/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix)
+* [Numbers with same consecutive differences](Solutions/N/numbers-with-same-consecutive-differences)
 
 ## <a name="Concurrency">Concurrency</a>
 * [Building h2o](Solutions/B/building-h2o)
@@ -206,6 +209,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Lru cache](Solutions/L/lru-cache)
 * [Maximum frequency stack](Solutions/M/maximum-frequency-stack)
 * [Min stack](Solutions/M/min-stack)
+* [Number of recent calls](Solutions/N/number-of-recent-calls)
 
 ### <a name="Design_data_structure-Interconversion">Interconversion</a>
 * [Implement stack using queues](Solutions/I/implement-stack-using-queues)
@@ -215,6 +219,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Largest component size by common factor](Solutions/L/largest-component-size-by-common-factor)
 * [Maximum segment sum after removals](Solutions/M/maximum-segment-sum-after-removals)
 * [Min cost to connect all points](Solutions/M/min-cost-to-connect-all-points)
+* [Number of islands](Solutions/N/number-of-islands)
 
 ## <a name="Dynamic_programming">Dynamic programming</a>
 * [Arithmetic slices ii subsequence](Solutions/A/arithmetic-slices-ii-subsequence)
@@ -245,6 +250,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum sideway jumps](Solutions/M/minimum-sideway-jumps)
 * [Minimum time to remove all cars containing illegal goods](Solutions/M/minimum-time-to-remove-all-cars-containing-illegal-goods)
 * [Number of distinct roll sequences](Solutions/N/number-of-distinct-roll-sequences)
+* [Number of ways to rearrange sticks with k sticks visible](Solutions/N/number-of-ways-to-rearrange-sticks-with-k-sticks-visible)
 
 ### <a name="Dynamic_programming-Array_reuse">Array reuse</a>
 * [Champagne tower](Solutions/C/champagne-tower)
@@ -269,6 +275,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Dynamic_programming-Auxiliary_array">Auxiliary array</a>
 * [Best time to buy and sell stock iv](Solutions/B/best-time-to-buy-and-sell-stock-iv)
 * [Best time to buy and sell stock with transaction fee](Solutions/B/best-time-to-buy-and-sell-stock-with-transaction-fee)
+* [Number of people aware of a secret](Solutions/N/number-of-people-aware-of-a-secret)
 
 ### <a name="Dynamic_programming-Cyclic_array">Cyclic array</a>
 * [House robber ii](Solutions/H/house-robber-ii)
@@ -279,6 +286,10 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count special integers](Solutions/C/count-special-integers)
 * [Non negative integers without consecutive ones](Solutions/N/non-negative-integers-without-consecutive-ones)
 * [Number of digit one](Solutions/N/number-of-digit-one)
+* [Numbers at most n given digit set](Solutions/N/numbers-at-most-n-given-digit-set)
+
+### <a name="Dynamic_programming-Graph_like_state_transitions">Graph-like state transitions</a>
+* [Number of ways to paint n 3 grid](Solutions/N/number-of-ways-to-paint-n-3-grid)
 
 ### <a name="Dynamic_programming-Intervals">Intervals</a>
 * [Maximum number of events that can be attended ii](Solutions/M/maximum-number-of-events-that-can-be-attended-ii)
@@ -296,6 +307,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Dynamic_programming-Longest_increasing_subsequence">Longest increasing subsequence</a>
 * [Longest increasing subsequence](Solutions/L/longest-increasing-subsequence)
+* [Number of longest increasing subsequence](Solutions/N/number-of-longest-increasing-subsequence)
 
 ### <a name="Dynamic_programming-Memoised_recursion">Memoised recursion</a>
 * [Combination sum iv](Solutions/C/combination-sum-iv)
@@ -386,6 +398,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 #### <a name="Graph_theory-Depth_first_search-Component_decomposition">Component decomposition</a>
 * [Count unreachable pairs of nodes in an undirected graph](Solutions/C/count-unreachable-pairs-of-nodes-in-an-undirected-graph)
 * [Evaluate division](Solutions/E/evaluate-division)
+* [Number of islands](Solutions/N/number-of-islands)
+* [Number of operations to make network connected](Solutions/N/number-of-operations-to-make-network-connected)
 
 #### <a name="Graph_theory-Depth_first_search-Flood_fill">Flood fill</a>
 * [Count sub islands](Solutions/C/count-sub-islands)
@@ -401,6 +415,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Graph_theory-Dijkstra_s_algorithm">Dijkstra's algorithm</a>
 * [Network delay time](Solutions/N/network-delay-time)
+* [Number of ways to arrive at destination](Solutions/N/number-of-ways-to-arrive-at-destination)
 
 ### <a name="Graph_theory-Directed_acyclic_graph">Directed acyclic graph</a>
 * [All paths from source to target](Solutions/A/all-paths-from-source-to-target)
@@ -453,6 +468,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum replacements to sort the array](Solutions/M/minimum-replacements-to-sort-the-array)
 * [Minimum sum of squared difference](Solutions/M/minimum-sum-of-squared-difference)
 * [Non overlapping intervals](Solutions/N/non-overlapping-intervals)
+* [Number of matching subsequences](Solutions/N/number-of-matching-subsequences)
 * [Split array largest sum](Solutions/S/split-array-largest-sum)
 
 ## <a name="Hashmap">Hashmap</a>
@@ -616,6 +632,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum number of operations to make string sorted](Solutions/M/minimum-number-of-operations-to-make-string-sorted)
 * [Naming a company](Solutions/N/naming-a-company)
 * [Number of ways to reach a position after exactly k steps](Solutions/N/number-of-ways-to-reach-a-position-after-exactly-k-steps)
+* [Number of ways to rearrange sticks with k sticks visible](Solutions/N/number-of-ways-to-rearrange-sticks-with-k-sticks-visible)
 
 ### <a name="Mathematics-Composition_of_operations">Composition of operations</a>
 * [Fancy sequence](Solutions/F/fancy-sequence)
@@ -682,6 +699,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Matrix-Row_pair_processing">Row pair processing</a>
 * [Max sum of rectangle no larger than k](Solutions/M/max-sum-of-rectangle-no-larger-than-k)
+* [Number of submatrices that sum to target](Solutions/N/number-of-submatrices-that-sum-to-target)
 
 ### <a name="Matrix-Traversal">Traversal</a>
 * [Diagonal traverse](Solutions/D/diagonal-traverse)
@@ -763,6 +781,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 #### <a name="Prefix-Sum-2D">2D</a>
 * [Maximal square](Solutions/M/maximal-square)
+* [Number of submatrices that sum to target](Solutions/N/number-of-submatrices-that-sum-to-target)
 
 #### <a name="Prefix-Sum-For_range_updates">For range updates</a>
 * [Invalid transactions](Solutions/I/invalid-transactions)
@@ -782,6 +801,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Merge k sorted lists](Solutions/M/merge-k-sorted-lists)
 * [Minimize deviation in array](Solutions/M/minimize-deviation-in-array)
 * [Minimum interval to include each query](Solutions/M/minimum-interval-to-include-each-query)
+* [Number of orders in the backlog](Solutions/N/number-of-orders-in-the-backlog)
 
 ### <a name="Priority_queue-Dijkstra_s_algorithm">Dijkstra's algorithm</a>
 * [Network delay time](Solutions/N/network-delay-time)
@@ -805,6 +825,13 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Design authentication manager](Solutions/D/design-authentication-manager)
 * [Lru cache](Solutions/L/lru-cache)
 * [Network delay time](Solutions/N/network-delay-time)
+* [Number of ways to arrive at destination](Solutions/N/number-of-ways-to-arrive-at-destination)
+
+## <a name="Process_multiple_vectors_together">Process multiple vectors together</a>
+* [Number of matching subsequences](Solutions/N/number-of-matching-subsequences)
+
+## <a name="Queue">Queue</a>
+* [Number of recent calls](Solutions/N/number-of-recent-calls)
 
 ## <a name="Quick_Select">Quick Select</a>
 * [Kth largest element in an array](Solutions/K/kth-largest-element-in-an-array)
@@ -881,6 +908,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Next greater element i](Solutions/N/next-greater-element-i)
 * [Non decreasing array](Solutions/N/non-decreasing-array)
 * [Number of arithmetic triplets](Solutions/N/number-of-arithmetic-triplets)
+* [Number of steps to reduce a number to zero](Solutions/N/number-of-steps-to-reduce-a-number-to-zero)
 * [Smallest even multiple](Solutions/S/smallest-even-multiple)
 
 ## <a name="Sliding_window">Sliding window</a>
@@ -1019,6 +1047,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest uncommon subsequence ii](Solutions/L/longest-uncommon-subsequence-ii)
 * [Longest word in dictionary through deleting](Solutions/L/longest-word-in-dictionary-through-deleting)
 * [Maximum number of removable characters](Solutions/M/maximum-number-of-removable-characters)
+* [Number of matching subsequences](Solutions/N/number-of-matching-subsequences)
 
 ### <a name="String-Validation">Validation</a>
 * [Ambiguous coordinates](Solutions/A/ambiguous-coordinates)
@@ -1146,22 +1175,6 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Flip string to monotone increasing](Solutions/F/flip-string-to-monotone-increasing)
 * [Leftmost column with at least a one](Solutions/L/leftmost-column-with-at-least-a-one)
 * [Move pieces to obtain a string](Solutions/M/move-pieces-to-obtain-a-string)
-* [Number of islands](Solutions/N/number-of-islands)
-* [Number of longest increasing subsequence](Solutions/N/number-of-longest-increasing-subsequence)
-* [Number of matching subsequences](Solutions/N/number-of-matching-subsequences)
-* [Number of operations to make network connected](Solutions/N/number-of-operations-to-make-network-connected)
-* [Number of orders in the backlog](Solutions/N/number-of-orders-in-the-backlog)
-* [Number of people aware of a secret](Solutions/N/number-of-people-aware-of-a-secret)
-* [Number of recent calls](Solutions/N/number-of-recent-calls)
-* [Number of steps to reduce a number to zero](Solutions/N/number-of-steps-to-reduce-a-number-to-zero)
-* [Number of subarrays with bounded maximum](Solutions/N/number-of-subarrays-with-bounded-maximum)
-* [Number of submatrices that sum to target](Solutions/N/number-of-submatrices-that-sum-to-target)
-* [Number of ways to arrive at destination](Solutions/N/number-of-ways-to-arrive-at-destination)
-* [Number of ways to paint n 3 grid](Solutions/N/number-of-ways-to-paint-n-3-grid)
-* [Number of ways to rearrange sticks with k sticks visible](Solutions/N/number-of-ways-to-rearrange-sticks-with-k-sticks-visible)
-* [Number of zero filled subarrays](Solutions/N/number-of-zero-filled-subarrays)
-* [Numbers at most n given digit set](Solutions/N/numbers-at-most-n-given-digit-set)
-* [Numbers with same consecutive differences](Solutions/N/numbers-with-same-consecutive-differences)
 * [Odd even linked list](Solutions/O/odd-even-linked-list)
 * [Ones and zeroes](Solutions/O/ones-and-zeroes)
 * [Online majority element in subarray](Solutions/O/online-majority-element-in-subarray)
