@@ -746,6 +746,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Clone graph](Solutions/C/clone-graph)
 * [Copy list with random pointer](Solutions/C/copy-list-with-random-pointer)
 
+## <a name="Precomputation_to_answer_queries_efficiently_with_delta">Precomputation to answer queries efficiently with delta</a>
+* [Sum of even numbers after queries](Solutions/S/sum-of-even-numbers-after-queries)
+
 ## <a name="Prefix">Prefix</a>
 
 ### <a name="Prefix-Extremum">Extremum</a>
