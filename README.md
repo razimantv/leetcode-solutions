@@ -114,6 +114,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count of range sum](Solutions/C/count-of-range-sum)
 * [Minimum absolute sum difference](Solutions/M/minimum-absolute-sum-difference)
 * [My calendar i](Solutions/M/my-calendar-i)
+* [Online majority element in subarray](Solutions/O/online-majority-element-in-subarray)
 
 ### <a name="Binary_search-Prefix_sum">Prefix sum</a>
 * [Delivering boxes from storage to ports](Solutions/D/delivering-boxes-from-storage-to-ports)
@@ -210,6 +211,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum frequency stack](Solutions/M/maximum-frequency-stack)
 * [Min stack](Solutions/M/min-stack)
 * [Number of recent calls](Solutions/N/number-of-recent-calls)
+* [Online majority element in subarray](Solutions/O/online-majority-element-in-subarray)
 
 ### <a name="Design_data_structure-Interconversion">Interconversion</a>
 * [Implement stack using queues](Solutions/I/implement-stack-using-queues)
@@ -298,6 +300,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Dynamic_programming-Knapsack">Knapsack</a>
 * [Coin change](Solutions/C/coin-change)
 * [Coin change 2](Solutions/C/coin-change-2)
+* [Ones and zeroes](Solutions/O/ones-and-zeroes)
 
 ### <a name="Dynamic_programming-Longest_common_subsequence">Longest common subsequence</a>
 * [Delete operation for two strings](Solutions/D/delete-operation-for-two-strings)
@@ -312,6 +315,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Dynamic_programming-Memoised_recursion">Memoised recursion</a>
 * [Combination sum iv](Solutions/C/combination-sum-iv)
 * [Minimum number of days to eat n oranges](Solutions/M/minimum-number-of-days-to-eat-n-oranges)
+* [Out of boundary paths](Solutions/O/out-of-boundary-paths)
 
 ### <a name="Dynamic_programming-Number_theory">Number theory</a>
 * [Count the number of ideal arrays](Solutions/C/count-the-number-of-ideal-arrays)
@@ -368,6 +372,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Bus routes](Solutions/B/bus-routes)
 * [Jump game iv](Solutions/J/jump-game-iv)
 * [Minimum operations to convert number](Solutions/M/minimum-operations-to-convert-number)
+* [Open the lock](Solutions/O/open-the-lock)
 
 ### <a name="Graph_theory-Bridges_Articulation_points">Bridges/Articulation points</a>
 * [Critical connections in a network](Solutions/C/critical-connections-in-a-network)
@@ -586,6 +591,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Merge in between linked lists](Solutions/M/merge-in-between-linked-lists)
 * [Merge k sorted lists](Solutions/M/merge-k-sorted-lists)
 * [Merge two sorted lists](Solutions/M/merge-two-sorted-lists)
+* [Odd even linked list](Solutions/O/odd-even-linked-list)
 
 #### <a name="Linked_list-Iteration-Slow_and_fast_pointers">Slow and fast pointers</a>
 * [Linked list cycle](Solutions/L/linked-list-cycle)
@@ -741,6 +747,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum number of operations to make string sorted](Solutions/M/minimum-number-of-operations-to-make-string-sorted)
 * [Next greater element iii](Solutions/N/next-greater-element-iii)
 * [Next permutation](Solutions/N/next-permutation)
+
+### <a name="Permutation-Swaps">Swaps</a>
+* [Orderly queue](Solutions/O/orderly-queue)
 
 ## <a name="Pointers">Pointers</a>
 * [Clone graph](Solutions/C/clone-graph)
@@ -1003,6 +1012,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum score of a good subarray](Solutions/M/maximum-score-of-a-good-subarray)
 * [Maximum subarray min product](Solutions/M/maximum-subarray-min-product)
 * [Next greater element ii](Solutions/N/next-greater-element-ii)
+* [Online stock span](Solutions/O/online-stock-span)
 
 ### <a name="Stack-Numerical_operations">Numerical operations</a>
 * [Baseball game](Solutions/B/baseball-game)
@@ -1178,13 +1188,6 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Flip string to monotone increasing](Solutions/F/flip-string-to-monotone-increasing)
 * [Leftmost column with at least a one](Solutions/L/leftmost-column-with-at-least-a-one)
 * [Move pieces to obtain a string](Solutions/M/move-pieces-to-obtain-a-string)
-* [Odd even linked list](Solutions/O/odd-even-linked-list)
-* [Ones and zeroes](Solutions/O/ones-and-zeroes)
-* [Online majority element in subarray](Solutions/O/online-majority-element-in-subarray)
-* [Online stock span](Solutions/O/online-stock-span)
-* [Open the lock](Solutions/O/open-the-lock)
-* [Orderly queue](Solutions/O/orderly-queue)
-* [Out of boundary paths](Solutions/O/out-of-boundary-paths)
 * [Pacific atlantic water flow](Solutions/P/pacific-atlantic-water-flow)
 * [Paint house iii](Solutions/P/paint-house-iii)
 * [Pairs of songs with total durations divisible by 60](Solutions/P/pairs-of-songs-with-total-durations-divisible-by-60)

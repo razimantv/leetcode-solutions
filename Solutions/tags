@@ -101,7 +101,9 @@ Permutation>Cycle
 Permutation>Inverse
 Permutation>Inversions
 Permutation>Next/Previous
+Permutation>Swaps
 Pointers
+Precomputation to answer queries efficiently with delta
 Prefix>Extremum
 Prefix>Sum
 Prefix>Sum>2D
