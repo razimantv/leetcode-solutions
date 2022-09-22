@@ -38,6 +38,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum building height](Solutions/M/maximum-building-height)
 * [Minimum number of flips to make the binary string alternating](Solutions/M/minimum-number-of-flips-to-make-the-binary-string-alternating)
 * [Minimum remove to make valid parentheses](Solutions/M/minimum-remove-to-make-valid-parentheses)
+* [Partition array into disjoint intervals](Solutions/P/partition-array-into-disjoint-intervals)
 
 ### <a name="Array_scanning-In_place_modification">In-place modification</a>
 * [Duplicate zeros](Solutions/D/duplicate-zeros)
@@ -78,6 +79,10 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum number of groups getting fresh donuts](Solutions/M/maximum-number-of-groups-getting-fresh-donuts)
 * [Maximum score words formed by letters](Solutions/M/maximum-score-words-formed-by-letters)
 * [N queens](Solutions/N/n-queens)
+* [Partition to k equal sum subsets](Solutions/P/partition-to-k-equal-sum-subsets)
+
+### <a name="Backtracking-Push_and_pop_for_efficient_state_update">Push and pop for efficient state update</a>
+* [Path sum ii](Solutions/P/path-sum-ii)
 
 ## <a name="Binary_search">Binary search</a>
 * [Binary search](Solutions/B/binary-search)
@@ -105,6 +110,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum cost for tickets](Solutions/M/minimum-cost-for-tickets)
 * [Minimum speed to arrive on time](Solutions/M/minimum-speed-to-arrive-on-time)
 * [Nth magical number](Solutions/N/nth-magical-number)
+* [Partition array such that maximum difference is k](Solutions/P/partition-array-such-that-maximum-difference-is-k)
 * [Split array largest sum](Solutions/S/split-array-largest-sum)
 
 ### <a name="Binary_search-C___set">C++ set</a>
@@ -253,6 +259,11 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum time to remove all cars containing illegal goods](Solutions/M/minimum-time-to-remove-all-cars-containing-illegal-goods)
 * [Number of distinct roll sequences](Solutions/N/number-of-distinct-roll-sequences)
 * [Number of ways to rearrange sticks with k sticks visible](Solutions/N/number-of-ways-to-rearrange-sticks-with-k-sticks-visible)
+* [Paint house iii](Solutions/P/paint-house-iii)
+* [Palindrome partitioning ii](Solutions/P/palindrome-partitioning-ii)
+* [Palindrome partitioning iii](Solutions/P/palindrome-partitioning-iii)
+* [Palindrome partitioning iv](Solutions/P/palindrome-partitioning-iv)
+* [Pascals triangle](Solutions/P/pascals-triangle)
 
 ### <a name="Dynamic_programming-Array_reuse">Array reuse</a>
 * [Champagne tower](Solutions/C/champagne-tower)
@@ -273,6 +284,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum path sum](Solutions/M/minimum-path-sum)
 * [Minimum skips to arrive at meeting on time](Solutions/M/minimum-skips-to-arrive-at-meeting-on-time)
 * [N th tribonacci number](Solutions/N/n-th-tribonacci-number)
+* [Partition equal subset sum](Solutions/P/partition-equal-subset-sum)
+* [Pascals triangle ii](Solutions/P/pascals-triangle-ii)
 
 ### <a name="Dynamic_programming-Auxiliary_array">Auxiliary array</a>
 * [Best time to buy and sell stock iv](Solutions/B/best-time-to-buy-and-sell-stock-iv)
@@ -301,6 +314,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Coin change](Solutions/C/coin-change)
 * [Coin change 2](Solutions/C/coin-change-2)
 * [Ones and zeroes](Solutions/O/ones-and-zeroes)
+* [Partition equal subset sum](Solutions/P/partition-equal-subset-sum)
 
 ### <a name="Dynamic_programming-Longest_common_subsequence">Longest common subsequence</a>
 * [Delete operation for two strings](Solutions/D/delete-operation-for-two-strings)
@@ -316,6 +330,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Combination sum iv](Solutions/C/combination-sum-iv)
 * [Minimum number of days to eat n oranges](Solutions/M/minimum-number-of-days-to-eat-n-oranges)
 * [Out of boundary paths](Solutions/O/out-of-boundary-paths)
+* [Palindrome partitioning](Solutions/P/palindrome-partitioning)
+* [Partition to k equal sum subsets](Solutions/P/partition-to-k-equal-sum-subsets)
 
 ### <a name="Dynamic_programming-Number_theory">Number theory</a>
 * [Count the number of ideal arrays](Solutions/C/count-the-number-of-ideal-arrays)
@@ -373,6 +389,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Jump game iv](Solutions/J/jump-game-iv)
 * [Minimum operations to convert number](Solutions/M/minimum-operations-to-convert-number)
 * [Open the lock](Solutions/O/open-the-lock)
+* [Pacific atlantic water flow](Solutions/P/pacific-atlantic-water-flow)
 
 ### <a name="Graph_theory-Bridges_Articulation_points">Bridges/Articulation points</a>
 * [Critical connections in a network](Solutions/C/critical-connections-in-a-network)
@@ -474,6 +491,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum sum of squared difference](Solutions/M/minimum-sum-of-squared-difference)
 * [Non overlapping intervals](Solutions/N/non-overlapping-intervals)
 * [Number of matching subsequences](Solutions/N/number-of-matching-subsequences)
+* [Partition labels](Solutions/P/partition-labels)
+* [Patching array](Solutions/P/patching-array)
 * [Split array largest sum](Solutions/S/split-array-largest-sum)
 
 ## <a name="Hashmap">Hashmap</a>
@@ -519,6 +538,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Number of atoms](Solutions/N/number-of-atoms)
 * [Number of excellent pairs](Solutions/N/number-of-excellent-pairs)
 * [Optimal partition of string](Solutions/O/optimal-partition-of-string)
+* [Pairs of songs with total durations divisible by 60](Solutions/P/pairs-of-songs-with-total-durations-divisible-by-60)
+* [Partition labels](Solutions/P/partition-labels)
 * [Smallest subarrays with maximum bitwise or](Solutions/S/smallest-subarrays-with-maximum-bitwise-or)
 * [Sum of prefix scores of strings](Solutions/S/sum-of-prefix-scores-of-strings)
 
@@ -592,6 +613,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Merge k sorted lists](Solutions/M/merge-k-sorted-lists)
 * [Merge two sorted lists](Solutions/M/merge-two-sorted-lists)
 * [Odd even linked list](Solutions/O/odd-even-linked-list)
+* [Partition list](Solutions/P/partition-list)
 
 #### <a name="Linked_list-Iteration-Slow_and_fast_pointers">Slow and fast pointers</a>
 * [Linked list cycle](Solutions/L/linked-list-cycle)
@@ -600,6 +622,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Linked_list-Recursion">Recursion</a>
 * [Flatten a multilevel doubly linked list](Solutions/F/flatten-a-multilevel-doubly-linked-list)
+* [Palindrome linked list](Solutions/P/palindrome-linked-list)
 
 ## <a name="Majority_element">Majority element</a>
 * [Majority element ii](Solutions/M/majority-element-ii)
@@ -724,6 +747,12 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Largest palindromic number](Solutions/L/largest-palindromic-number)
 * [Longest palindrome](Solutions/L/longest-palindrome)
 * [Longest palindromic substring](Solutions/L/longest-palindromic-substring)
+* [Palindrome linked list](Solutions/P/palindrome-linked-list)
+* [Palindrome partitioning](Solutions/P/palindrome-partitioning)
+* [Palindrome partitioning ii](Solutions/P/palindrome-partitioning-ii)
+* [Palindrome partitioning iii](Solutions/P/palindrome-partitioning-iii)
+* [Palindrome partitioning iv](Solutions/P/palindrome-partitioning-iv)
+* [Palindromic substrings](Solutions/P/palindromic-substrings)
 
 ### <a name="Palindrome-Hashing">Hashing</a>
 * [Palindrome pairs](Solutions/P/palindrome-pairs)
@@ -767,6 +796,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Best time to buy and sell stock iii](Solutions/B/best-time-to-buy-and-sell-stock-iii)
 * [Global and local inversions](Solutions/G/global-and-local-inversions)
 * [Increasing triplet subsequence](Solutions/I/increasing-triplet-subsequence)
+* [Partition array into disjoint intervals](Solutions/P/partition-array-into-disjoint-intervals)
 
 ### <a name="Prefix-Sum">Sum</a>
 * [Contiguous array](Solutions/C/contiguous-array)
@@ -921,6 +951,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Non decreasing array](Solutions/N/non-decreasing-array)
 * [Number of arithmetic triplets](Solutions/N/number-of-arithmetic-triplets)
 * [Number of steps to reduce a number to zero](Solutions/N/number-of-steps-to-reduce-a-number-to-zero)
+* [Palindrome number](Solutions/P/palindrome-number)
+* [Pancake sorting](Solutions/P/pancake-sorting)
+* [Partitioning into minimum number of deci binary numbers](Solutions/P/partitioning-into-minimum-number-of-deci-binary-numbers)
 * [Smallest even multiple](Solutions/S/smallest-even-multiple)
 
 ## <a name="Sliding_window">Sliding window</a>
@@ -1151,6 +1184,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum product of splitted binary tree](Solutions/M/maximum-product-of-splitted-binary-tree)
 * [Maximum width of binary tree](Solutions/M/maximum-width-of-binary-tree)
 * [Minimum depth of binary tree](Solutions/M/minimum-depth-of-binary-tree)
+* [Path sum ii](Solutions/P/path-sum-ii)
 
 ### <a name="Tree-Order_traversal">Order traversal</a>
 * [Construct binary tree from inorder and postorder traversal](Solutions/C/construct-binary-tree-from-inorder-and-postorder-traversal)
@@ -1189,29 +1223,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Flip string to monotone increasing](Solutions/F/flip-string-to-monotone-increasing)
 * [Leftmost column with at least a one](Solutions/L/leftmost-column-with-at-least-a-one)
 * [Move pieces to obtain a string](Solutions/M/move-pieces-to-obtain-a-string)
-* [Pacific atlantic water flow](Solutions/P/pacific-atlantic-water-flow)
-* [Paint house iii](Solutions/P/paint-house-iii)
-* [Pairs of songs with total durations divisible by 60](Solutions/P/pairs-of-songs-with-total-durations-divisible-by-60)
-* [Palindrome linked list](Solutions/P/palindrome-linked-list)
-* [Palindrome number](Solutions/P/palindrome-number)
-* [Palindrome partitioning](Solutions/P/palindrome-partitioning)
-* [Palindrome partitioning ii](Solutions/P/palindrome-partitioning-ii)
-* [Palindrome partitioning iii](Solutions/P/palindrome-partitioning-iii)
-* [Palindrome partitioning iv](Solutions/P/palindrome-partitioning-iv)
-* [Palindromic substrings](Solutions/P/palindromic-substrings)
-* [Pancake sorting](Solutions/P/pancake-sorting)
-* [Partition array into disjoint intervals](Solutions/P/partition-array-into-disjoint-intervals)
-* [Partition array such that maximum difference is k](Solutions/P/partition-array-such-that-maximum-difference-is-k)
-* [Partition equal subset sum](Solutions/P/partition-equal-subset-sum)
-* [Partition labels](Solutions/P/partition-labels)
-* [Partition list](Solutions/P/partition-list)
-* [Partition to k equal sum subsets](Solutions/P/partition-to-k-equal-sum-subsets)
-* [Partitioning into minimum number of deci binary numbers](Solutions/P/partitioning-into-minimum-number-of-deci-binary-numbers)
-* [Pascals triangle](Solutions/P/pascals-triangle)
-* [Pascals triangle ii](Solutions/P/pascals-triangle-ii)
-* [Patching array](Solutions/P/patching-array)
 * [Path sum](Solutions/P/path-sum)
-* [Path sum ii](Solutions/P/path-sum-ii)
 * [Path sum iii](Solutions/P/path-sum-iii)
 * [Path with maximum probability](Solutions/P/path-with-maximum-probability)
 * [Path with minimum effort](Solutions/P/path-with-minimum-effort)

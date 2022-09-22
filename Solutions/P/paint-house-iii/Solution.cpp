@@ -4,9 +4,8 @@ class Solution {
  public:
   int minCost(vector<int>& houses, vector<vector<int>>& cost, int m, int n,
               int target) {
-    // DP[i][j][k] = minimum cost of colouring first i cells such that last cell
-    // is coloured j
-    //               and there are k overall
+    // DP[i][j][k] = minimum cost of colouring first i cells 
+    // such that last cell is coloured jand there are k overall
 
     const int INF = 1'000'000'000;
     vector<vector<vector<int>>> DP(
