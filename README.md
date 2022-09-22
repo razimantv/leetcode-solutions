@@ -83,6 +83,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Backtracking-Push_and_pop_for_efficient_state_update">Push and pop for efficient state update</a>
 * [Path sum ii](Solutions/P/path-sum-ii)
+* [Path sum iii](Solutions/P/path-sum-iii)
 
 ## <a name="Binary_search">Binary search</a>
 * [Binary search](Solutions/B/binary-search)
@@ -218,6 +219,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Min stack](Solutions/M/min-stack)
 * [Number of recent calls](Solutions/N/number-of-recent-calls)
 * [Online majority element in subarray](Solutions/O/online-majority-element-in-subarray)
+* [Peeking iterator](Solutions/P/peeking-iterator)
 
 ### <a name="Design_data_structure-Interconversion">Interconversion</a>
 * [Implement stack using queues](Solutions/I/implement-stack-using-queues)
@@ -438,6 +440,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Graph_theory-Dijkstra_s_algorithm">Dijkstra's algorithm</a>
 * [Network delay time](Solutions/N/network-delay-time)
 * [Number of ways to arrive at destination](Solutions/N/number-of-ways-to-arrive-at-destination)
+* [Path with maximum probability](Solutions/P/path-with-maximum-probability)
+* [Path with minimum effort](Solutions/P/path-with-minimum-effort)
 
 ### <a name="Graph_theory-Directed_acyclic_graph">Directed acyclic graph</a>
 * [All paths from source to target](Solutions/A/all-paths-from-source-to-target)
@@ -540,6 +544,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Optimal partition of string](Solutions/O/optimal-partition-of-string)
 * [Pairs of songs with total durations divisible by 60](Solutions/P/pairs-of-songs-with-total-durations-divisible-by-60)
 * [Partition labels](Solutions/P/partition-labels)
+* [Path sum iii](Solutions/P/path-sum-iii)
+* [Permutation in string](Solutions/P/permutation-in-string)
 * [Smallest subarrays with maximum bitwise or](Solutions/S/smallest-subarrays-with-maximum-bitwise-or)
 * [Sum of prefix scores of strings](Solutions/S/sum-of-prefix-scores-of-strings)
 
@@ -662,6 +668,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Naming a company](Solutions/N/naming-a-company)
 * [Number of ways to reach a position after exactly k steps](Solutions/N/number-of-ways-to-reach-a-position-after-exactly-k-steps)
 * [Number of ways to rearrange sticks with k sticks visible](Solutions/N/number-of-ways-to-rearrange-sticks-with-k-sticks-visible)
+* [Permutation sequence](Solutions/P/permutation-sequence)
 
 ### <a name="Mathematics-Composition_of_operations">Composition of operations</a>
 * [Fancy sequence](Solutions/F/fancy-sequence)
@@ -707,6 +714,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count the number of ideal arrays](Solutions/C/count-the-number-of-ideal-arrays)
 * [Largest component size by common factor](Solutions/L/largest-component-size-by-common-factor)
 * [Number of different subsequences gcds](Solutions/N/number-of-different-subsequences-gcds)
+
+#### <a name="Mathematics-Number_theory-Theorems">Theorems</a>
+* [Perfect squares](Solutions/P/perfect-squares)
 
 ### <a name="Mathematics-Probability">Probability</a>
 * [Generate random point in a circle](Solutions/G/generate-random-point-in-a-circle)
@@ -758,6 +768,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Palindrome pairs](Solutions/P/palindrome-pairs)
 
 ## <a name="Permutation">Permutation</a>
+* [Permutation sequence](Solutions/P/permutation-sequence)
 
 ### <a name="Permutation-Cycle">Cycle</a>
 * [Array nesting](Solutions/A/array-nesting)
@@ -776,6 +787,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum number of operations to make string sorted](Solutions/M/minimum-number-of-operations-to-make-string-sorted)
 * [Next greater element iii](Solutions/N/next-greater-element-iii)
 * [Next permutation](Solutions/N/next-permutation)
+* [Permutations ii](Solutions/P/permutations-ii)
 
 ### <a name="Permutation-Swaps">Swaps</a>
 * [Orderly queue](Solutions/O/orderly-queue)
@@ -868,6 +880,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Lru cache](Solutions/L/lru-cache)
 * [Network delay time](Solutions/N/network-delay-time)
 * [Number of ways to arrive at destination](Solutions/N/number-of-ways-to-arrive-at-destination)
+* [Path with maximum probability](Solutions/P/path-with-maximum-probability)
 
 ## <a name="Process_multiple_vectors_together">Process multiple vectors together</a>
 * [Number of matching subsequences](Solutions/N/number-of-matching-subsequences)
@@ -954,6 +967,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Palindrome number](Solutions/P/palindrome-number)
 * [Pancake sorting](Solutions/P/pancake-sorting)
 * [Partitioning into minimum number of deci binary numbers](Solutions/P/partitioning-into-minimum-number-of-deci-binary-numbers)
+* [Perform string shifts](Solutions/P/perform-string-shifts)
 * [Smallest even multiple](Solutions/S/smallest-even-multiple)
 
 ## <a name="Sliding_window">Sliding window</a>
@@ -975,6 +989,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum operations to reduce x to zero](Solutions/M/minimum-operations-to-reduce-x-to-zero)
 * [Minimum recolors to get k consecutive black blocks](Solutions/M/minimum-recolors-to-get-k-consecutive-black-blocks)
 * [Minimum window substring](Solutions/M/minimum-window-substring)
+* [Permutation in string](Solutions/P/permutation-in-string)
 
 ### <a name="Sliding_window-Monotonic_deque">Monotonic deque</a>
 * [Maximum number of robots within budget](Solutions/M/maximum-number-of-robots-within-budget)
@@ -1184,7 +1199,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum product of splitted binary tree](Solutions/M/maximum-product-of-splitted-binary-tree)
 * [Maximum width of binary tree](Solutions/M/maximum-width-of-binary-tree)
 * [Minimum depth of binary tree](Solutions/M/minimum-depth-of-binary-tree)
+* [Path sum](Solutions/P/path-sum)
 * [Path sum ii](Solutions/P/path-sum-ii)
+* [Path sum iii](Solutions/P/path-sum-iii)
 
 ### <a name="Tree-Order_traversal">Order traversal</a>
 * [Construct binary tree from inorder and postorder traversal](Solutions/C/construct-binary-tree-from-inorder-and-postorder-traversal)
@@ -1223,16 +1240,6 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Flip string to monotone increasing](Solutions/F/flip-string-to-monotone-increasing)
 * [Leftmost column with at least a one](Solutions/L/leftmost-column-with-at-least-a-one)
 * [Move pieces to obtain a string](Solutions/M/move-pieces-to-obtain-a-string)
-* [Path sum](Solutions/P/path-sum)
-* [Path sum iii](Solutions/P/path-sum-iii)
-* [Path with maximum probability](Solutions/P/path-with-maximum-probability)
-* [Path with minimum effort](Solutions/P/path-with-minimum-effort)
-* [Peeking iterator](Solutions/P/peeking-iterator)
-* [Perfect squares](Solutions/P/perfect-squares)
-* [Perform string shifts](Solutions/P/perform-string-shifts)
-* [Permutation in string](Solutions/P/permutation-in-string)
-* [Permutation sequence](Solutions/P/permutation-sequence)
-* [Permutations ii](Solutions/P/permutations-ii)
 * [Pizza with 3n slices](Solutions/P/pizza-with-3n-slices)
 * [Plus one](Solutions/P/plus-one)
 * [Poor pigs](Solutions/P/poor-pigs)
