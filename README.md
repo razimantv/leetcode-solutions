@@ -61,6 +61,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Largest odd number in string](Solutions/L/largest-odd-number-in-string)
 * [Longest binary subsequence less than or equal to k](Solutions/L/longest-binary-subsequence-less-than-or-equal-to-k)
 * [Minimum replacements to sort the array](Solutions/M/minimum-replacements-to-sort-the-array)
+* [Plus one](Solutions/P/plus-one)
 * [Smallest subarrays with maximum bitwise or](Solutions/S/smallest-subarrays-with-maximum-bitwise-or)
 * [The number of weak characters in the game](Solutions/T/the-number-of-weak-characters-in-the-game)
 
@@ -84,6 +85,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Backtracking-Push_and_pop_for_efficient_state_update">Push and pop for efficient state update</a>
 * [Path sum ii](Solutions/P/path-sum-ii)
 * [Path sum iii](Solutions/P/path-sum-iii)
+
+## <a name="Binary_lifting">Binary lifting</a>
+* [Prison cells after n days](Solutions/P/prison-cells-after-n-days)
 
 ## <a name="Binary_search">Binary search</a>
 * [Binary search](Solutions/B/binary-search)
@@ -154,6 +158,10 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Number complement](Solutions/N/number-complement)
 * [Number of 1 bits](Solutions/N/number-of-1-bits)
 * [Number of excellent pairs](Solutions/N/number-of-excellent-pairs)
+* [Power of four](Solutions/P/power-of-four)
+* [Power of two](Solutions/P/power-of-two)
+* [Powx n](Solutions/P/powx-n)
+* [Prison cells after n days](Solutions/P/prison-cells-after-n-days)
 * [Smallest subarrays with maximum bitwise or](Solutions/S/smallest-subarrays-with-maximum-bitwise-or)
 * [Utf 8 validation](Solutions/U/utf-8-validation)
 
@@ -172,6 +180,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum rows covered by columns](Solutions/M/maximum-rows-covered-by-columns)
 * [N queens](Solutions/N/n-queens)
 * [N queens ii](Solutions/N/n-queens-ii)
+* [Probability of a two boxes having the same number of distinct balls](Solutions/P/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls)
 
 ### <a name="Brute_force_enumeration-Elementwise_processing_using_a_vector">Elementwise processing using a vector</a>
 * [Letter case permutation](Solutions/L/letter-case-permutation)
@@ -182,6 +191,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## <a name="Concurrency">Concurrency</a>
 * [Building h2o](Solutions/B/building-h2o)
 * [Fizz buzz multithreaded](Solutions/F/fizz-buzz-multithreaded)
+* [Print foobar alternately](Solutions/P/print-foobar-alternately)
+* [Print in order](Solutions/P/print-in-order)
+* [Print zero even odd](Solutions/P/print-zero-even-odd)
 
 ## <a name="Construction">Construction</a>
 * [Beautiful arrangement ii](Solutions/B/beautiful-arrangement-ii)
@@ -288,6 +300,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [N th tribonacci number](Solutions/N/n-th-tribonacci-number)
 * [Partition equal subset sum](Solutions/P/partition-equal-subset-sum)
 * [Pascals triangle ii](Solutions/P/pascals-triangle-ii)
+* [Prison cells after n days](Solutions/P/prison-cells-after-n-days)
 
 ### <a name="Dynamic_programming-Auxiliary_array">Auxiliary array</a>
 * [Best time to buy and sell stock iv](Solutions/B/best-time-to-buy-and-sell-stock-iv)
@@ -298,6 +311,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [House robber ii](Solutions/H/house-robber-ii)
 * [Maximum sum circular subarray](Solutions/M/maximum-sum-circular-subarray)
 * [Minimum number of flips to make the binary string alternating](Solutions/M/minimum-number-of-flips-to-make-the-binary-string-alternating)
+* [Pizza with 3n slices](Solutions/P/pizza-with-3n-slices)
 
 ### <a name="Dynamic_programming-Digits">Digits</a>
 * [Count special integers](Solutions/C/count-special-integers)
@@ -418,6 +432,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 #### <a name="Graph_theory-Depth_first_search-Colouring">Colouring</a>
 * [Is graph bipartite](Solutions/I/is-graph-bipartite)
+* [Possible bipartition](Solutions/P/possible-bipartition)
 
 #### <a name="Graph_theory-Depth_first_search-Component_decomposition">Component decomposition</a>
 * [Count unreachable pairs of nodes in an undirected graph](Solutions/C/count-unreachable-pairs-of-nodes-in-an-undirected-graph)
@@ -546,6 +561,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Partition labels](Solutions/P/partition-labels)
 * [Path sum iii](Solutions/P/path-sum-iii)
 * [Permutation in string](Solutions/P/permutation-in-string)
+* [Powerful integers](Solutions/P/powerful-integers)
+* [Prefix and suffix search](Solutions/P/prefix-and-suffix-search)
 * [Smallest subarrays with maximum bitwise or](Solutions/S/smallest-subarrays-with-maximum-bitwise-or)
 * [Sum of prefix scores of strings](Solutions/S/sum-of-prefix-scores-of-strings)
 
@@ -573,6 +590,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Add two numbers](Solutions/A/add-two-numbers)
 * [Add two numbers ii](Solutions/A/add-two-numbers-ii)
 * [Complex number multiplication](Solutions/C/complex-number-multiplication)
+* [Plus one](Solutions/P/plus-one)
 
 ## <a name="Intervals">Intervals</a>
 * [Insert interval](Solutions/I/insert-interval)
@@ -642,6 +660,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Mathematics-Basic">Basic</a>
 * [Angle between hands of a clock](Solutions/A/angle-between-hands-of-a-clock)
 * [Fraction to recurring decimal](Solutions/F/fraction-to-recurring-decimal)
+* [Poor pigs](Solutions/P/poor-pigs)
 * [Strictly palindromic number](Solutions/S/strictly-palindromic-number)
 
 ### <a name="Mathematics-Closed_form_expressions">Closed form expressions</a>
@@ -669,6 +688,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Number of ways to reach a position after exactly k steps](Solutions/N/number-of-ways-to-reach-a-position-after-exactly-k-steps)
 * [Number of ways to rearrange sticks with k sticks visible](Solutions/N/number-of-ways-to-rearrange-sticks-with-k-sticks-visible)
 * [Permutation sequence](Solutions/P/permutation-sequence)
+* [Probability of a two boxes having the same number of distinct balls](Solutions/P/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls)
 
 ### <a name="Mathematics-Composition_of_operations">Composition of operations</a>
 * [Fancy sequence](Solutions/F/fancy-sequence)
@@ -723,6 +743,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Implement rand10 using rand7](Solutions/I/implement-rand10-using-rand7)
 * [Insert delete getrandom o1](Solutions/I/insert-delete-getrandom-o1)
 * [Linked list random node](Solutions/L/linked-list-random-node)
+* [Probability of a two boxes having the same number of distinct balls](Solutions/P/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls)
 
 ## <a name="Matrix">Matrix</a>
 
@@ -968,6 +989,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Pancake sorting](Solutions/P/pancake-sorting)
 * [Partitioning into minimum number of deci binary numbers](Solutions/P/partitioning-into-minimum-number-of-deci-binary-numbers)
 * [Perform string shifts](Solutions/P/perform-string-shifts)
+* [Power of three](Solutions/P/power-of-three)
+* [Powerful integers](Solutions/P/powerful-integers)
 * [Smallest even multiple](Solutions/S/smallest-even-multiple)
 
 ## <a name="Sliding_window">Sliding window</a>
@@ -1103,6 +1126,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Palindrome pairs](Solutions/P/palindrome-pairs)
 * [Sum of prefix scores of strings](Solutions/S/sum-of-prefix-scores-of-strings)
 
+#### <a name="String-Search-Prefix_Suffix">Prefix/Suffix</a>
+* [Prefix and suffix search](Solutions/P/prefix-and-suffix-search)
+
 ### <a name="String-Subsequence">Subsequence</a>
 * [Is subsequence](Solutions/I/is-subsequence)
 * [Longest common subsequence](Solutions/L/longest-common-subsequence)
@@ -1155,6 +1181,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 #### <a name="Tree-Binary_tree-Iteration">Iteration</a>
 * [Binary tree inorder traversal](Solutions/B/binary-tree-inorder-traversal)
+* [Populating next right pointers in each node ii](Solutions/P/populating-next-right-pointers-in-each-node-ii)
 
 #### <a name="Tree-Binary_tree-Recursion">Recursion</a>
 * [Add one row to tree](Solutions/A/add-one-row-to-tree)
@@ -1202,6 +1229,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Path sum](Solutions/P/path-sum)
 * [Path sum ii](Solutions/P/path-sum-ii)
 * [Path sum iii](Solutions/P/path-sum-iii)
+* [Populating next right pointers in each node](Solutions/P/populating-next-right-pointers-in-each-node)
 
 ### <a name="Tree-Order_traversal">Order traversal</a>
 * [Construct binary tree from inorder and postorder traversal](Solutions/C/construct-binary-tree-from-inorder-and-postorder-traversal)
@@ -1240,23 +1268,6 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Flip string to monotone increasing](Solutions/F/flip-string-to-monotone-increasing)
 * [Leftmost column with at least a one](Solutions/L/leftmost-column-with-at-least-a-one)
 * [Move pieces to obtain a string](Solutions/M/move-pieces-to-obtain-a-string)
-* [Pizza with 3n slices](Solutions/P/pizza-with-3n-slices)
-* [Plus one](Solutions/P/plus-one)
-* [Poor pigs](Solutions/P/poor-pigs)
-* [Populating next right pointers in each node](Solutions/P/populating-next-right-pointers-in-each-node)
-* [Populating next right pointers in each node ii](Solutions/P/populating-next-right-pointers-in-each-node-ii)
-* [Possible bipartition](Solutions/P/possible-bipartition)
-* [Power of four](Solutions/P/power-of-four)
-* [Power of three](Solutions/P/power-of-three)
-* [Power of two](Solutions/P/power-of-two)
-* [Powerful integers](Solutions/P/powerful-integers)
-* [Powx n](Solutions/P/powx-n)
-* [Prefix and suffix search](Solutions/P/prefix-and-suffix-search)
-* [Print foobar alternately](Solutions/P/print-foobar-alternately)
-* [Print in order](Solutions/P/print-in-order)
-* [Print zero even odd](Solutions/P/print-zero-even-odd)
-* [Prison cells after n days](Solutions/P/prison-cells-after-n-days)
-* [Probability of a two boxes having the same number of distinct balls](Solutions/P/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls)
 * [Process tasks using servers](Solutions/P/process-tasks-using-servers)
 * [Product of array except self](Solutions/P/product-of-array-except-self)
 * [Pseudo palindromic paths in a binary tree](Solutions/P/pseudo-palindromic-paths-in-a-binary-tree)
