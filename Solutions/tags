@@ -13,6 +13,7 @@ Binary search>C++ set
 Binary search>Prefix sum
 Bitwise operation
 Bitwise operation>Build result bit-by-bit
+Bitwise operation>Self-inverse property of xor
 Brute force enumeration>Combinatorial
 Brute force enumeration>Elementwise processing using a vector
 Concurrency
@@ -134,6 +135,7 @@ Sorting>Merge sort
 Sorting>Partial
 Sorting>Queries and updates together
 Sorting>Remembering index
+Sorting>Stable
 Stack
 Stack>Depth first search
 Stack>From array elements
@@ -145,6 +147,7 @@ String>Parsing>Recursive
 String>Search>Hashing
 String>Search>Prefix/Suffix
 String>Subsequence
+String>Suffix array
 String>Validation
 Suboptimal solution
 Time reversed simulation

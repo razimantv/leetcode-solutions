@@ -39,6 +39,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum number of flips to make the binary string alternating](Solutions/M/minimum-number-of-flips-to-make-the-binary-string-alternating)
 * [Minimum remove to make valid parentheses](Solutions/M/minimum-remove-to-make-valid-parentheses)
 * [Partition array into disjoint intervals](Solutions/P/partition-array-into-disjoint-intervals)
+* [Product of array except self](Solutions/P/product-of-array-except-self)
 
 ### <a name="Array_scanning-In_place_modification">In-place modification</a>
 * [Duplicate zeros](Solutions/D/duplicate-zeros)
@@ -168,6 +169,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Bitwise_operation-Build_result_bit_by_bit">Build result bit-by-bit</a>
 * [Maximum xor of two numbers in an array](Solutions/M/maximum-xor-of-two-numbers-in-an-array)
 * [Minimum number of flips to convert binary matrix to zero matrix](Solutions/M/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix)
+
+### <a name="Bitwise_operation-Self_inverse_property_of_xor">Self-inverse property of xor</a>
+* [Pseudo palindromic paths in a binary tree](Solutions/P/pseudo-palindromic-paths-in-a-binary-tree)
 
 ## <a name="Brute_force_enumeration">Brute force enumeration</a>
 
@@ -512,6 +516,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Number of matching subsequences](Solutions/N/number-of-matching-subsequences)
 * [Partition labels](Solutions/P/partition-labels)
 * [Patching array](Solutions/P/patching-array)
+* [Queue reconstruction by height](Solutions/Q/queue-reconstruction-by-height)
 * [Split array largest sum](Solutions/S/split-array-largest-sum)
 
 ## <a name="Hashmap">Hashmap</a>
@@ -877,6 +882,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimize deviation in array](Solutions/M/minimize-deviation-in-array)
 * [Minimum interval to include each query](Solutions/M/minimum-interval-to-include-each-query)
 * [Number of orders in the backlog](Solutions/N/number-of-orders-in-the-backlog)
+* [Process tasks using servers](Solutions/P/process-tasks-using-servers)
 
 ### <a name="Priority_queue-Dijkstra_s_algorithm">Dijkstra's algorithm</a>
 * [Network delay time](Solutions/N/network-delay-time)
@@ -991,6 +997,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Perform string shifts](Solutions/P/perform-string-shifts)
 * [Power of three](Solutions/P/power-of-three)
 * [Powerful integers](Solutions/P/powerful-integers)
+* [Push dominoes](Solutions/P/push-dominoes)
+* [Queries on number of points inside a circle](Solutions/Q/queries-on-number-of-points-inside-a-circle)
 * [Smallest even multiple](Solutions/S/smallest-even-multiple)
 
 ## <a name="Sliding_window">Sliding window</a>
@@ -1064,6 +1072,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find right interval](Solutions/F/find-right-interval)
 * [Invalid transactions](Solutions/I/invalid-transactions)
 
+### <a name="Sorting-Stable">Stable</a>
+* [Query kth smallest trimmed number](Solutions/Q/query-kth-smallest-trimmed-number)
+
 ## <a name="Stack">Stack</a>
 * [Binary search tree iterator](Solutions/B/binary-search-tree-iterator)
 * [Min stack](Solutions/M/min-stack)
@@ -1136,6 +1147,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest word in dictionary through deleting](Solutions/L/longest-word-in-dictionary-through-deleting)
 * [Maximum number of removable characters](Solutions/M/maximum-number-of-removable-characters)
 * [Number of matching subsequences](Solutions/N/number-of-matching-subsequences)
+
+### <a name="String-Suffix_array">Suffix array</a>
+* [Query kth smallest trimmed number](Solutions/Q/query-kth-smallest-trimmed-number)
 
 ### <a name="String-Validation">Validation</a>
 * [Ambiguous coordinates](Solutions/A/ambiguous-coordinates)
@@ -1230,6 +1244,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Path sum ii](Solutions/P/path-sum-ii)
 * [Path sum iii](Solutions/P/path-sum-iii)
 * [Populating next right pointers in each node](Solutions/P/populating-next-right-pointers-in-each-node)
+* [Pseudo palindromic paths in a binary tree](Solutions/P/pseudo-palindromic-paths-in-a-binary-tree)
 
 ### <a name="Tree-Order_traversal">Order traversal</a>
 * [Construct binary tree from inorder and postorder traversal](Solutions/C/construct-binary-tree-from-inorder-and-postorder-traversal)
@@ -1268,13 +1283,6 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Flip string to monotone increasing](Solutions/F/flip-string-to-monotone-increasing)
 * [Leftmost column with at least a one](Solutions/L/leftmost-column-with-at-least-a-one)
 * [Move pieces to obtain a string](Solutions/M/move-pieces-to-obtain-a-string)
-* [Process tasks using servers](Solutions/P/process-tasks-using-servers)
-* [Product of array except self](Solutions/P/product-of-array-except-self)
-* [Pseudo palindromic paths in a binary tree](Solutions/P/pseudo-palindromic-paths-in-a-binary-tree)
-* [Push dominoes](Solutions/P/push-dominoes)
-* [Queries on number of points inside a circle](Solutions/Q/queries-on-number-of-points-inside-a-circle)
-* [Query kth smallest trimmed number](Solutions/Q/query-kth-smallest-trimmed-number)
-* [Queue reconstruction by height](Solutions/Q/queue-reconstruction-by-height)
 * [Rabbits in forest](Solutions/R/rabbits-in-forest)
 * [Random pick with weight](Solutions/R/random-pick-with-weight)
 * [Random point in non overlapping rectangles](Solutions/R/random-point-in-non-overlapping-rectangles)
