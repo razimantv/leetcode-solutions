@@ -17,10 +17,12 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Consecutive characters](Solutions/C/consecutive-characters)
 * [Count binary substrings](Solutions/C/count-binary-substrings)
 * [Distribute candies](Solutions/D/distribute-candies)
+* [Find all good indices](Solutions/F/find-all-good-indices)
 * [Invalid transactions](Solutions/I/invalid-transactions)
 * [Length of the longest alphabetical continuous substring](Solutions/L/length-of-the-longest-alphabetical-continuous-substring)
 * [Longer contiguous segments of ones than zeros](Solutions/L/longer-contiguous-segments-of-ones-than-zeros)
 * [Longest mountain in array](Solutions/L/longest-mountain-in-array)
+* [Longest subarray with maximum bitwise and](Solutions/L/longest-subarray-with-maximum-bitwise-and)
 * [Longest substring of all vowels in order](Solutions/L/longest-substring-of-all-vowels-in-order)
 * [Longest turbulent subarray](Solutions/L/longest-turbulent-subarray)
 * [Max consecutive ones](Solutions/M/max-consecutive-ones)
@@ -33,6 +35,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Array_scanning-From_both_ends_of_array">From both ends of array</a>
 * [Best time to buy and sell stock iii](Solutions/B/best-time-to-buy-and-sell-stock-iii)
 * [Candy](Solutions/C/candy)
+* [Find all good indices](Solutions/F/find-all-good-indices)
 * [Largest plus sign](Solutions/L/largest-plus-sign)
 * [Maximize distance to closest person](Solutions/M/maximize-distance-to-closest-person)
 * [Maximum building height](Solutions/M/maximum-building-height)
@@ -245,6 +248,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Largest component size by common factor](Solutions/L/largest-component-size-by-common-factor)
 * [Maximum segment sum after removals](Solutions/M/maximum-segment-sum-after-removals)
 * [Min cost to connect all points](Solutions/M/min-cost-to-connect-all-points)
+* [Number of good paths](Solutions/N/number-of-good-paths)
 * [Number of islands](Solutions/N/number-of-islands)
 
 ## <a name="Dynamic_programming">Dynamic programming</a>
@@ -582,6 +586,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Hashmap-Group_items">Group items</a>
 * [Jump game iv](Solutions/J/jump-game-iv)
+* [Number of good paths](Solutions/N/number-of-good-paths)
 
 ### <a name="Hashmap-Update_using_insert_and_delete">Update using insert and delete</a>
 * [Finding pairs with a certain sum](Solutions/F/finding-pairs-with-a-certain-sum)
@@ -690,6 +695,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Iterator for combination](Solutions/I/iterator-for-combination)
 * [Minimum number of operations to make string sorted](Solutions/M/minimum-number-of-operations-to-make-string-sorted)
 * [Naming a company](Solutions/N/naming-a-company)
+* [Number of good paths](Solutions/N/number-of-good-paths)
 * [Number of ways to reach a position after exactly k steps](Solutions/N/number-of-ways-to-reach-a-position-after-exactly-k-steps)
 * [Number of ways to rearrange sticks with k sticks visible](Solutions/N/number-of-ways-to-rearrange-sticks-with-k-sticks-visible)
 * [Permutation sequence](Solutions/P/permutation-sequence)
@@ -1055,6 +1061,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum number of arrows to burst balloons](Solutions/M/minimum-number-of-arrows-to-burst-balloons)
 * [Minimum sum of squared difference](Solutions/M/minimum-sum-of-squared-difference)
 * [Non overlapping intervals](Solutions/N/non-overlapping-intervals)
+* [Sort the people](Solutions/S/sort-the-people)
 
 ### <a name="Sorting-Merge_sort">Merge sort</a>
 * [Merge k sorted lists](Solutions/M/merge-k-sorted-lists)
@@ -1067,6 +1074,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Sorting-Queries_and_updates_together">Queries and updates together</a>
 * [Minimum space wasted from packaging](Solutions/M/minimum-space-wasted-from-packaging)
+* [Number of good paths](Solutions/N/number-of-good-paths)
 
 ### <a name="Sorting-Remembering_index">Remembering index</a>
 * [Find right interval](Solutions/F/find-right-interval)
