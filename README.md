@@ -250,6 +250,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Min cost to connect all points](Solutions/M/min-cost-to-connect-all-points)
 * [Number of good paths](Solutions/N/number-of-good-paths)
 * [Number of islands](Solutions/N/number-of-islands)
+* [Satisfiability of equality equations](Solutions/S/satisfiability-of-equality-equations)
 
 ## <a name="Dynamic_programming">Dynamic programming</a>
 * [Arithmetic slices ii subsequence](Solutions/A/arithmetic-slices-ii-subsequence)
