@@ -130,10 +130,14 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum absolute sum difference](Solutions/M/minimum-absolute-sum-difference)
 * [My calendar i](Solutions/M/my-calendar-i)
 * [Online majority element in subarray](Solutions/O/online-majority-element-in-subarray)
+* [Random pick with weight](Solutions/R/random-pick-with-weight)
+* [Random point in non overlapping rectangles](Solutions/R/random-point-in-non-overlapping-rectangles)
 
 ### <a name="Binary_search-Prefix_sum">Prefix sum</a>
 * [Delivering boxes from storage to ports](Solutions/D/delivering-boxes-from-storage-to-ports)
 * [Max sum of rectangle no larger than k](Solutions/M/max-sum-of-rectangle-no-larger-than-k)
+* [Random pick with weight](Solutions/R/random-pick-with-weight)
+* [Random point in non overlapping rectangles](Solutions/R/random-point-in-non-overlapping-rectangles)
 
 ## <a name="Bitwise_operation">Bitwise operation</a>
 * [Binary watch](Solutions/B/binary-watch)
@@ -239,6 +243,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Number of recent calls](Solutions/N/number-of-recent-calls)
 * [Online majority element in subarray](Solutions/O/online-majority-element-in-subarray)
 * [Peeking iterator](Solutions/P/peeking-iterator)
+* [Random pick with weight](Solutions/R/random-pick-with-weight)
 
 ### <a name="Design_data_structure-Interconversion">Interconversion</a>
 * [Implement stack using queues](Solutions/I/implement-stack-using-queues)
@@ -250,6 +255,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Min cost to connect all points](Solutions/M/min-cost-to-connect-all-points)
 * [Number of good paths](Solutions/N/number-of-good-paths)
 * [Number of islands](Solutions/N/number-of-islands)
+* [Rank transform of a matrix](Solutions/R/rank-transform-of-a-matrix)
 * [Satisfiability of equality equations](Solutions/S/satisfiability-of-equality-equations)
 
 ## <a name="Dynamic_programming">Dynamic programming</a>
@@ -573,6 +579,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Permutation in string](Solutions/P/permutation-in-string)
 * [Powerful integers](Solutions/P/powerful-integers)
 * [Prefix and suffix search](Solutions/P/prefix-and-suffix-search)
+* [Rabbits in forest](Solutions/R/rabbits-in-forest)
 * [Smallest subarrays with maximum bitwise or](Solutions/S/smallest-subarrays-with-maximum-bitwise-or)
 * [Sum of prefix scores of strings](Solutions/S/sum-of-prefix-scores-of-strings)
 
@@ -756,6 +763,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Insert delete getrandom o1](Solutions/I/insert-delete-getrandom-o1)
 * [Linked list random node](Solutions/L/linked-list-random-node)
 * [Probability of a two boxes having the same number of distinct balls](Solutions/P/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls)
+* [Random pick with weight](Solutions/R/random-pick-with-weight)
+* [Random point in non overlapping rectangles](Solutions/R/random-point-in-non-overlapping-rectangles)
 
 ## <a name="Matrix">Matrix</a>
 
@@ -865,10 +874,14 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum amount of time to collect garbage](Solutions/M/minimum-amount-of-time-to-collect-garbage)
 * [Minimum space wasted from packaging](Solutions/M/minimum-space-wasted-from-packaging)
 * [Minimum value to get positive step by step sum](Solutions/M/minimum-value-to-get-positive-step-by-step-sum)
+* [Random pick with weight](Solutions/R/random-pick-with-weight)
+* [Random point in non overlapping rectangles](Solutions/R/random-point-in-non-overlapping-rectangles)
+* [Range sum query immutable](Solutions/R/range-sum-query-immutable)
 
 #### <a name="Prefix-Sum-2D">2D</a>
 * [Maximal square](Solutions/M/maximal-square)
 * [Number of submatrices that sum to target](Solutions/N/number-of-submatrices-that-sum-to-target)
+* [Range sum query 2d immutable](Solutions/R/range-sum-query-2d-immutable)
 
 #### <a name="Prefix-Sum-For_range_updates">For range updates</a>
 * [Invalid transactions](Solutions/I/invalid-transactions)
@@ -938,6 +951,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Fancy sequence](Solutions/F/fancy-sequence)
 * [Jump game vii](Solutions/J/jump-game-vii)
 * [Longest increasing subsequence ii](Solutions/L/longest-increasing-subsequence-ii)
+* [Range sum query mutable](Solutions/R/range-sum-query-mutable)
 
 ## <a name="Simple_implementation">Simple implementation</a>
 * [Arranging coins](Solutions/A/arranging-coins)
@@ -1006,6 +1020,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Powerful integers](Solutions/P/powerful-integers)
 * [Push dominoes](Solutions/P/push-dominoes)
 * [Queries on number of points inside a circle](Solutions/Q/queries-on-number-of-points-inside-a-circle)
+* [Range addition ii](Solutions/R/range-addition-ii)
 * [Smallest even multiple](Solutions/S/smallest-even-multiple)
 
 ## <a name="Sliding_window">Sliding window</a>
@@ -1191,6 +1206,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Tree-Binary_search_tree">Binary search tree</a>
 * [Insert into a binary search tree](Solutions/I/insert-into-a-binary-search-tree)
 * [Kth smallest element in a bst](Solutions/K/kth-smallest-element-in-a-bst)
+* [Range sum of bst](Solutions/R/range-sum-of-bst)
 
 #### <a name="Tree-Binary_search_tree-Traversal">Traversal</a>
 * [All elements in two binary search trees](Solutions/A/all-elements-in-two-binary-search-trees)
@@ -1254,6 +1270,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Path sum iii](Solutions/P/path-sum-iii)
 * [Populating next right pointers in each node](Solutions/P/populating-next-right-pointers-in-each-node)
 * [Pseudo palindromic paths in a binary tree](Solutions/P/pseudo-palindromic-paths-in-a-binary-tree)
+* [Range sum of bst](Solutions/R/range-sum-of-bst)
 
 ### <a name="Tree-Order_traversal">Order traversal</a>
 * [Construct binary tree from inorder and postorder traversal](Solutions/C/construct-binary-tree-from-inorder-and-postorder-traversal)
@@ -1292,16 +1309,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Flip string to monotone increasing](Solutions/F/flip-string-to-monotone-increasing)
 * [Leftmost column with at least a one](Solutions/L/leftmost-column-with-at-least-a-one)
 * [Move pieces to obtain a string](Solutions/M/move-pieces-to-obtain-a-string)
-* [Rabbits in forest](Solutions/R/rabbits-in-forest)
-* [Random pick with weight](Solutions/R/random-pick-with-weight)
-* [Random point in non overlapping rectangles](Solutions/R/random-point-in-non-overlapping-rectangles)
-* [Range addition ii](Solutions/R/range-addition-ii)
 * [Range module](Solutions/R/range-module)
-* [Range sum of bst](Solutions/R/range-sum-of-bst)
-* [Range sum query 2d immutable](Solutions/R/range-sum-query-2d-immutable)
-* [Range sum query immutable](Solutions/R/range-sum-query-immutable)
-* [Range sum query mutable](Solutions/R/range-sum-query-mutable)
-* [Rank transform of a matrix](Solutions/R/rank-transform-of-a-matrix)
 * [Ransom note](Solutions/R/ransom-note)
 * [Reach a number](Solutions/R/reach-a-number)
 * [Reachable nodes in subdivided graph](Solutions/R/reachable-nodes-in-subdivided-graph)
