@@ -68,6 +68,7 @@ Hashmap>Update using insert and delete
 Heuristic optimisation
 Integer operations on strings
 Intervals
+Intervals>2D
 Intervals>DP with binary search
 Intervals>Endpoint sorting
 Intervals>Non-overlapping decomposition
@@ -98,6 +99,7 @@ Matrix>Path
 Matrix>Row pair processing
 Matrix>Traversal
 Meet in the middle
+Number transformations based on mathematical rules
 Offline query processing
 Palindrome
 Palindrome>Hashing
@@ -120,6 +122,7 @@ Priority queue>Dijkstra-like processing of subarrays
 Priority queue>K smallest/largest elements
 Priority queue>K smallest/largest elements>Transfer between the two
 Priority queue>Key update using insert and remove on C++ set
+Process in unusual order
 Process multiple vectors together
 Queue
 Quick Select

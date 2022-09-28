@@ -30,6 +30,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum ascending subarray sum](Solutions/M/maximum-ascending-subarray-sum)
 * [Maximum product subarray](Solutions/M/maximum-product-subarray)
 * [Number of zero filled subarrays](Solutions/N/number-of-zero-filled-subarrays)
+* [Reduce array size to the half](Solutions/R/reduce-array-size-to-the-half)
 * [The number of weak characters in the game](Solutions/T/the-number-of-weak-characters-in-the-game)
 
 ### <a name="Array_scanning-From_both_ends_of_array">From both ends of array</a>
@@ -89,6 +90,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Backtracking-Push_and_pop_for_efficient_state_update">Push and pop for efficient state update</a>
 * [Path sum ii](Solutions/P/path-sum-ii)
 * [Path sum iii](Solutions/P/path-sum-iii)
+* [Reconstruct itinerary](Solutions/R/reconstruct-itinerary)
 
 ## <a name="Binary_lifting">Binary lifting</a>
 * [Prison cells after n days](Solutions/P/prison-cells-after-n-days)
@@ -444,6 +446,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest path with different adjacent characters](Solutions/L/longest-path-with-different-adjacent-characters)
 * [Minimum score after removals on a tree](Solutions/M/minimum-score-after-removals-on-a-tree)
 * [Number of increasing paths in a grid](Solutions/N/number-of-increasing-paths-in-a-grid)
+* [Reachable nodes with restrictions](Solutions/R/reachable-nodes-with-restrictions)
 
 #### <a name="Graph_theory-Depth_first_search-Colouring">Colouring</a>
 * [Is graph bipartite](Solutions/I/is-graph-bipartite)
@@ -472,6 +475,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Number of ways to arrive at destination](Solutions/N/number-of-ways-to-arrive-at-destination)
 * [Path with maximum probability](Solutions/P/path-with-maximum-probability)
 * [Path with minimum effort](Solutions/P/path-with-minimum-effort)
+* [Reachable nodes in subdivided graph](Solutions/R/reachable-nodes-in-subdivided-graph)
 
 ### <a name="Graph_theory-Directed_acyclic_graph">Directed acyclic graph</a>
 * [All paths from source to target](Solutions/A/all-paths-from-source-to-target)
@@ -528,6 +532,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Partition labels](Solutions/P/partition-labels)
 * [Patching array](Solutions/P/patching-array)
 * [Queue reconstruction by height](Solutions/Q/queue-reconstruction-by-height)
+* [Reduce array size to the half](Solutions/R/reduce-array-size-to-the-half)
+* [Reducing dishes](Solutions/R/reducing-dishes)
 * [Split array largest sum](Solutions/S/split-array-largest-sum)
 
 ## <a name="Hashmap">Hashmap</a>
@@ -580,6 +586,10 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Powerful integers](Solutions/P/powerful-integers)
 * [Prefix and suffix search](Solutions/P/prefix-and-suffix-search)
 * [Rabbits in forest](Solutions/R/rabbits-in-forest)
+* [Ransom note](Solutions/R/ransom-note)
+* [Reconstruct original digits from english](Solutions/R/reconstruct-original-digits-from-english)
+* [Redistribute characters to make all strings equal](Solutions/R/redistribute-characters-to-make-all-strings-equal)
+* [Reduce array size to the half](Solutions/R/reduce-array-size-to-the-half)
 * [Smallest subarrays with maximum bitwise or](Solutions/S/smallest-subarrays-with-maximum-bitwise-or)
 * [Sum of prefix scores of strings](Solutions/S/sum-of-prefix-scores-of-strings)
 
@@ -614,6 +624,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Insert interval](Solutions/I/insert-interval)
 * [Maximum number of events that can be attended](Solutions/M/maximum-number-of-events-that-can-be-attended)
 
+### <a name="Intervals-2D">2D</a>
+* [Rectangle area ii](Solutions/R/rectangle-area-ii)
+
 ### <a name="Intervals-DP_with_binary_search">DP with binary search</a>
 * [Maximum number of events that can be attended ii](Solutions/M/maximum-number-of-events-that-can-be-attended-ii)
 * [Maximum profit in job scheduling](Solutions/M/maximum-profit-in-job-scheduling)
@@ -623,9 +636,11 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Divide intervals into minimum number of groups](Solutions/D/divide-intervals-into-minimum-number-of-groups)
 * [Minimum interval to include each query](Solutions/M/minimum-interval-to-include-each-query)
 * [My calendar iii](Solutions/M/my-calendar-iii)
+* [Rectangle area ii](Solutions/R/rectangle-area-ii)
 
 ### <a name="Intervals-Non_overlapping_decomposition">Non-overlapping decomposition</a>
 * [Falling squares](Solutions/F/falling-squares)
+* [Rectangle area ii](Solutions/R/rectangle-area-ii)
 
 ### <a name="Intervals-Overlap">Overlap</a>
 * [Count days spent together](Solutions/C/count-days-spent-together)
@@ -791,6 +806,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [4sum ii](Solutions/0-9/4sum-ii)
 * [Matchsticks to square](Solutions/M/matchsticks-to-square)
 
+## <a name="Number_transformations_based_on_mathematical_rules">Number transformations based on mathematical rules</a>
+* [Reach a number](Solutions/R/reach-a-number)
+
 ## <a name="Offline_query_processing">Offline query processing</a>
 * [Minimum absolute difference queries](Solutions/M/minimum-absolute-difference-queries)
 
@@ -877,6 +895,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Random pick with weight](Solutions/R/random-pick-with-weight)
 * [Random point in non overlapping rectangles](Solutions/R/random-point-in-non-overlapping-rectangles)
 * [Range sum query immutable](Solutions/R/range-sum-query-immutable)
+* [Reducing dishes](Solutions/R/reducing-dishes)
 
 #### <a name="Prefix-Sum-2D">2D</a>
 * [Maximal square](Solutions/M/maximal-square)
@@ -928,6 +947,10 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Network delay time](Solutions/N/network-delay-time)
 * [Number of ways to arrive at destination](Solutions/N/number-of-ways-to-arrive-at-destination)
 * [Path with maximum probability](Solutions/P/path-with-maximum-probability)
+* [Reachable nodes in subdivided graph](Solutions/R/reachable-nodes-in-subdivided-graph)
+
+## <a name="Process_in_unusual_order">Process in unusual order</a>
+* [Reconstruct original digits from english](Solutions/R/reconstruct-original-digits-from-english)
 
 ## <a name="Process_multiple_vectors_together">Process multiple vectors together</a>
 * [Number of matching subsequences](Solutions/N/number-of-matching-subsequences)
@@ -1207,6 +1230,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Insert into a binary search tree](Solutions/I/insert-into-a-binary-search-tree)
 * [Kth smallest element in a bst](Solutions/K/kth-smallest-element-in-a-bst)
 * [Range sum of bst](Solutions/R/range-sum-of-bst)
+* [Recover binary search tree](Solutions/R/recover-binary-search-tree)
 
 #### <a name="Tree-Binary_search_tree-Traversal">Traversal</a>
 * [All elements in two binary search trees](Solutions/A/all-elements-in-two-binary-search-trees)
@@ -1271,6 +1295,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Populating next right pointers in each node](Solutions/P/populating-next-right-pointers-in-each-node)
 * [Pseudo palindromic paths in a binary tree](Solutions/P/pseudo-palindromic-paths-in-a-binary-tree)
 * [Range sum of bst](Solutions/R/range-sum-of-bst)
+* [Recover binary search tree](Solutions/R/recover-binary-search-tree)
 
 ### <a name="Tree-Order_traversal">Order traversal</a>
 * [Construct binary tree from inorder and postorder traversal](Solutions/C/construct-binary-tree-from-inorder-and-postorder-traversal)
@@ -1310,17 +1335,6 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Leftmost column with at least a one](Solutions/L/leftmost-column-with-at-least-a-one)
 * [Move pieces to obtain a string](Solutions/M/move-pieces-to-obtain-a-string)
 * [Range module](Solutions/R/range-module)
-* [Ransom note](Solutions/R/ransom-note)
-* [Reach a number](Solutions/R/reach-a-number)
-* [Reachable nodes in subdivided graph](Solutions/R/reachable-nodes-in-subdivided-graph)
-* [Reachable nodes with restrictions](Solutions/R/reachable-nodes-with-restrictions)
-* [Reconstruct itinerary](Solutions/R/reconstruct-itinerary)
-* [Reconstruct original digits from english](Solutions/R/reconstruct-original-digits-from-english)
-* [Recover binary search tree](Solutions/R/recover-binary-search-tree)
-* [Rectangle area ii](Solutions/R/rectangle-area-ii)
-* [Redistribute characters to make all strings equal](Solutions/R/redistribute-characters-to-make-all-strings-equal)
-* [Reduce array size to the half](Solutions/R/reduce-array-size-to-the-half)
-* [Reducing dishes](Solutions/R/reducing-dishes)
 * [Reduction operations to make the array elements equal](Solutions/R/reduction-operations-to-make-the-array-elements-equal)
 * [Redundant connection](Solutions/R/redundant-connection)
 * [Remove all adjacent duplicates in string](Solutions/R/remove-all-adjacent-duplicates-in-string)
