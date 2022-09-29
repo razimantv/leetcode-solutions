@@ -102,6 +102,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Design movie rental system](Solutions/D/design-movie-rental-system)
 * [Dungeon game](Solutions/D/dungeon-game)
 * [Find first and last position of element in sorted array](Solutions/F/find-first-and-last-position-of-element-in-sorted-array)
+* [Find k closest elements](Solutions/F/find-k-closest-elements)
 * [Find right interval](Solutions/F/find-right-interval)
 * [Find the duplicate number](Solutions/F/find-the-duplicate-number)
 * [Find the smallest divisor given a threshold](Solutions/F/find-the-smallest-divisor-given-a-threshold)
@@ -1090,7 +1091,6 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Design a food rating system](Solutions/D/design-a-food-rating-system)
 * [Divide intervals into minimum number of groups](Solutions/D/divide-intervals-into-minimum-number-of-groups)
 * [Eliminate maximum number of monsters](Solutions/E/eliminate-maximum-number-of-monsters)
-* [Find k closest elements](Solutions/F/find-k-closest-elements)
 * [K closest points to origin](Solutions/K/k-closest-points-to-origin)
 * [Largest number](Solutions/L/largest-number)
 * [Longest string chain](Solutions/L/longest-string-chain)
@@ -1108,7 +1108,6 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Merge two sorted lists](Solutions/M/merge-two-sorted-lists)
 
 ### <a name="Sorting-Partial">Partial</a>
-* [Find k closest elements](Solutions/F/find-k-closest-elements)
 * [K closest points to origin](Solutions/K/k-closest-points-to-origin)
 
 ### <a name="Sorting-Queries_and_updates_together">Queries and updates together</a>
@@ -1311,6 +1310,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## <a name="Trie">Trie</a>
 * [Design add and search words data structure](Solutions/D/design-add-and-search-words-data-structure)
 * [Implement trie prefix tree](Solutions/I/implement-trie-prefix-tree)
+
+## <a name="Two_pointers">Two pointers</a>
+* [Find k closest elements](Solutions/F/find-k-closest-elements)
 
 ## <a name="Unique_elements_in_subarray">Unique elements in subarray</a>
 * [Count unique characters of all substrings of a given string](Solutions/C/count-unique-characters-of-all-substrings-of-a-given-string)

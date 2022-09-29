@@ -4,5 +4,5 @@
 
 ## Tags
 
-* [Sorting](/README.md#Sorting) > [Custom](/README.md#Sorting-Custom)
-* [Sorting](/README.md#Sorting) > [Partial](/README.md#Sorting-Partial)
+* [Binary search](/README.md#Binary_search)
+* [Two pointers](/README.md#Two_pointers)
