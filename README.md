@@ -181,6 +181,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum number of flips to convert binary matrix to zero matrix](Solutions/M/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix)
 
 ### <a name="Bitwise_operation-Self_inverse_property_of_xor">Self-inverse property of xor</a>
+* [Bitwise xor of all pairings](Solutions/B/bitwise-xor-of-all-pairings)
 * [Pseudo palindromic paths in a binary tree](Solutions/P/pseudo-palindromic-paths-in-a-binary-tree)
 
 ## <a name="Brute_force_enumeration">Brute force enumeration</a>
@@ -240,6 +241,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Implement trie prefix tree](Solutions/I/implement-trie-prefix-tree)
 * [Insert delete getrandom o1](Solutions/I/insert-delete-getrandom-o1)
 * [Iterator for combination](Solutions/I/iterator-for-combination)
+* [Longest uploaded prefix](Solutions/L/longest-uploaded-prefix)
 * [Lru cache](Solutions/L/lru-cache)
 * [Maximum frequency stack](Solutions/M/maximum-frequency-stack)
 * [Min stack](Solutions/M/min-stack)
@@ -565,6 +567,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [K diff pairs in an array](Solutions/K/k-diff-pairs-in-an-array)
 * [Longest consecutive sequence](Solutions/L/longest-consecutive-sequence)
 * [Longest nice subarray](Solutions/L/longest-nice-subarray)
+* [Longest uploaded prefix](Solutions/L/longest-uploaded-prefix)
 * [Longest word in dictionary](Solutions/L/longest-word-in-dictionary)
 * [Lru cache](Solutions/L/lru-cache)
 * [Map sum pairs](Solutions/M/map-sum-pairs)
@@ -606,6 +609,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Hashmap-Group_items">Group items</a>
 * [Jump game iv](Solutions/J/jump-game-iv)
 * [Number of good paths](Solutions/N/number-of-good-paths)
+* [Remove letter to equalize frequency](Solutions/R/remove-letter-to-equalize-frequency)
 
 ### <a name="Hashmap-Update_using_insert_and_delete">Update using insert and delete</a>
 * [Finding pairs with a certain sum](Solutions/F/finding-pairs-with-a-certain-sum)
@@ -726,8 +730,12 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Probability of a two boxes having the same number of distinct balls](Solutions/P/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls)
 
 ### <a name="Mathematics-Composition_of_operations">Composition of operations</a>
+* [Bitwise xor of all pairings](Solutions/B/bitwise-xor-of-all-pairings)
 * [Fancy sequence](Solutions/F/fancy-sequence)
 * [Find xor sum of all pairs bitwise and](Solutions/F/find-xor-sum-of-all-pairs-bitwise-and)
+
+### <a name="Mathematics-Expression_rearrangement">Expression rearrangement</a>
+* [Number of pairs satisfying inequality](Solutions/N/number-of-pairs-satisfying-inequality)
 
 ### <a name="Mathematics-Geometry">Geometry</a>
 * [Check if it is a straight line](Solutions/C/check-if-it-is-a-straight-line)
@@ -975,6 +983,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Fancy sequence](Solutions/F/fancy-sequence)
 * [Jump game vii](Solutions/J/jump-game-vii)
 * [Longest increasing subsequence ii](Solutions/L/longest-increasing-subsequence-ii)
+* [Number of pairs satisfying inequality](Solutions/N/number-of-pairs-satisfying-inequality)
 * [Range sum query mutable](Solutions/R/range-sum-query-mutable)
 
 ## <a name="Simple_implementation">Simple implementation</a>
