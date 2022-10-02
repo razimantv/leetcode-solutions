@@ -163,6 +163,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum rows covered by columns](Solutions/M/maximum-rows-covered-by-columns)
 * [Maximum xor after operations](Solutions/M/maximum-xor-after-operations)
 * [Maximum xor for each query](Solutions/M/maximum-xor-for-each-query)
+* [Minimize xor](Solutions/M/minimize-xor)
 * [Minimum xor sum of two arrays](Solutions/M/minimum-xor-sum-of-two-arrays)
 * [Missing number](Solutions/M/missing-number)
 * [Non negative integers without consecutive ones](Solutions/N/non-negative-integers-without-consecutive-ones)
@@ -287,6 +288,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Jump game ii](Solutions/J/jump-game-ii)
 * [Longest string chain](Solutions/L/longest-string-chain)
 * [Maximum alternating subsequence sum](Solutions/M/maximum-alternating-subsequence-sum)
+* [Maximum deletions on a string](Solutions/M/maximum-deletions-on-a-string)
 * [Min cost climbing stairs](Solutions/M/min-cost-climbing-stairs)
 * [Minimum cost for tickets](Solutions/M/minimum-cost-for-tickets)
 * [Minimum sideway jumps](Solutions/M/minimum-sideway-jumps)
@@ -760,6 +762,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum deletions to make array divisible](Solutions/M/minimum-deletions-to-make-array-divisible)
 * [Mirror reflection](Solutions/M/mirror-reflection)
 * [Nth magical number](Solutions/N/nth-magical-number)
+* [Number of common factors](Solutions/N/number-of-common-factors)
 
 #### <a name="Mathematics-Number_theory-Dynamic_programming">Dynamic programming</a>
 * [Largest divisible subset](Solutions/L/largest-divisible-subset)
@@ -1034,6 +1037,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Match substring after replacement](Solutions/M/match-substring-after-replacement)
 * [Maximum number of balloons](Solutions/M/maximum-number-of-balloons)
 * [Maximum number of pairs in array](Solutions/M/maximum-number-of-pairs-in-array)
+* [Maximum sum of an hourglass](Solutions/M/maximum-sum-of-an-hourglass)
 * [Merge triplets to form target triplet](Solutions/M/merge-triplets-to-form-target-triplet)
 * [Min max game](Solutions/M/min-max-game)
 * [Minimum amount of time to fill cups](Solutions/M/minimum-amount-of-time-to-fill-cups)
@@ -1190,6 +1194,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 #### <a name="String-Search-Hashing">Hashing</a>
 * [Implement strstr](Solutions/I/implement-strstr)
 * [Longest duplicate substring](Solutions/L/longest-duplicate-substring)
+* [Maximum deletions on a string](Solutions/M/maximum-deletions-on-a-string)
 * [Palindrome pairs](Solutions/P/palindrome-pairs)
 * [Sum of prefix scores of strings](Solutions/S/sum-of-prefix-scores-of-strings)
 
