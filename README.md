@@ -365,6 +365,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Dynamic_programming-Memoised_recursion">Memoised recursion</a>
 * [Combination sum iv](Solutions/C/combination-sum-iv)
 * [Minimum number of days to eat n oranges](Solutions/M/minimum-number-of-days-to-eat-n-oranges)
+* [Number of dice rolls with target sum](Solutions/N/number-of-dice-rolls-with-target-sum)
 * [Out of boundary paths](Solutions/O/out-of-boundary-paths)
 * [Palindrome partitioning](Solutions/P/palindrome-partitioning)
 * [Partition to k equal sum subsets](Solutions/P/partition-to-k-equal-sum-subsets)
