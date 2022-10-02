@@ -51,7 +51,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Merge sorted array](Solutions/M/merge-sorted-array)
 * [Move zeroes](Solutions/M/move-zeroes)
 * [Remove all adjacent duplicates in string](Solutions/R/remove-all-adjacent-duplicates-in-string)
+* [Remove duplicates from sorted array](Solutions/R/remove-duplicates-from-sorted-array)
 * [Remove duplicates from sorted array ii](Solutions/R/remove-duplicates-from-sorted-array-ii)
+* [Remove element](Solutions/R/remove-element)
 
 ### <a name="Array_scanning-Location_of_previous_element_with_same_value">Location of previous element with same value</a>
 * [Count unique characters of all substrings of a given string](Solutions/C/count-unique-characters-of-all-substrings-of-a-given-string)
@@ -177,6 +179,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Powx n](Solutions/P/powx-n)
 * [Prison cells after n days](Solutions/P/prison-cells-after-n-days)
 * [Remove duplicate letters](Solutions/R/remove-duplicate-letters)
+* [Remove invalid parentheses](Solutions/R/remove-invalid-parentheses)
 * [Smallest subarrays with maximum bitwise or](Solutions/S/smallest-subarrays-with-maximum-bitwise-or)
 * [Utf 8 validation](Solutions/U/utf-8-validation)
 
@@ -200,6 +203,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [N queens](Solutions/N/n-queens)
 * [N queens ii](Solutions/N/n-queens-ii)
 * [Probability of a two boxes having the same number of distinct balls](Solutions/P/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls)
+* [Remove invalid parentheses](Solutions/R/remove-invalid-parentheses)
 
 ### <a name="Brute_force_enumeration-Elementwise_processing_using_a_vector">Elementwise processing using a vector</a>
 * [Letter case permutation](Solutions/L/letter-case-permutation)
@@ -546,6 +550,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Reduce array size to the half](Solutions/R/reduce-array-size-to-the-half)
 * [Reducing dishes](Solutions/R/reducing-dishes)
 * [Remove duplicate letters](Solutions/R/remove-duplicate-letters)
+* [Remove k digits](Solutions/R/remove-k-digits)
 * [Split array largest sum](Solutions/S/split-array-largest-sum)
 
 ## <a name="Hashmap">Hashmap</a>
@@ -686,15 +691,19 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Merge two sorted lists](Solutions/M/merge-two-sorted-lists)
 * [Odd even linked list](Solutions/O/odd-even-linked-list)
 * [Partition list](Solutions/P/partition-list)
+* [Reorder list](Solutions/R/reorder-list)
 
 #### <a name="Linked_list-Iteration-Slow_and_fast_pointers">Slow and fast pointers</a>
 * [Linked list cycle](Solutions/L/linked-list-cycle)
 * [Linked list cycle ii](Solutions/L/linked-list-cycle-ii)
 * [Middle of the linked list](Solutions/M/middle-of-the-linked-list)
+* [Remove nth node from end of list](Solutions/R/remove-nth-node-from-end-of-list)
 
 ### <a name="Linked_list-Recursion">Recursion</a>
 * [Flatten a multilevel doubly linked list](Solutions/F/flatten-a-multilevel-doubly-linked-list)
 * [Palindrome linked list](Solutions/P/palindrome-linked-list)
+* [Remove duplicates from sorted list ii](Solutions/R/remove-duplicates-from-sorted-list-ii)
+* [Remove linked list elements](Solutions/R/remove-linked-list-elements)
 
 ## <a name="Majority_element">Majority element</a>
 * [Majority element ii](Solutions/M/majority-element-ii)
@@ -843,6 +852,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Palindrome partitioning iii](Solutions/P/palindrome-partitioning-iii)
 * [Palindrome partitioning iv](Solutions/P/palindrome-partitioning-iv)
 * [Palindromic substrings](Solutions/P/palindromic-substrings)
+* [Remove palindromic subsequences](Solutions/R/remove-palindromic-subsequences)
 
 ### <a name="Palindrome-Hashing">Hashing</a>
 * [Palindrome pairs](Solutions/P/palindrome-pairs)
@@ -927,6 +937,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 #### <a name="Prefix-Sum-Valid_brackets">Valid brackets</a>
 * [Minimum remove to make valid parentheses](Solutions/M/minimum-remove-to-make-valid-parentheses)
+* [Remove invalid parentheses](Solutions/R/remove-invalid-parentheses)
 
 ## <a name="Priority_queue">Priority queue</a>
 * [Find original array from doubled array](Solutions/F/find-original-array-from-doubled-array)
@@ -1067,6 +1078,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Queries on number of points inside a circle](Solutions/Q/queries-on-number-of-points-inside-a-circle)
 * [Range addition ii](Solutions/R/range-addition-ii)
 * [Remove all occurrences of a substring](Solutions/R/remove-all-occurrences-of-a-substring)
+* [Remove one element to make the array strictly increasing](Solutions/R/remove-one-element-to-make-the-array-strictly-increasing)
+* [Remove palindromic subsequences](Solutions/R/remove-palindromic-subsequences)
 * [Smallest even multiple](Solutions/S/smallest-even-multiple)
 
 ## <a name="Sliding_window">Sliding window</a>
@@ -1363,16 +1376,6 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Leftmost column with at least a one](Solutions/L/leftmost-column-with-at-least-a-one)
 * [Move pieces to obtain a string](Solutions/M/move-pieces-to-obtain-a-string)
 * [Range module](Solutions/R/range-module)
-* [Remove duplicates from sorted array](Solutions/R/remove-duplicates-from-sorted-array)
-* [Remove duplicates from sorted list ii](Solutions/R/remove-duplicates-from-sorted-list-ii)
-* [Remove element](Solutions/R/remove-element)
-* [Remove invalid parentheses](Solutions/R/remove-invalid-parentheses)
-* [Remove k digits](Solutions/R/remove-k-digits)
-* [Remove linked list elements](Solutions/R/remove-linked-list-elements)
-* [Remove nth node from end of list](Solutions/R/remove-nth-node-from-end-of-list)
-* [Remove one element to make the array strictly increasing](Solutions/R/remove-one-element-to-make-the-array-strictly-increasing)
-* [Remove palindromic subsequences](Solutions/R/remove-palindromic-subsequences)
-* [Reorder list](Solutions/R/reorder-list)
 * [Reordered power of 2](Solutions/R/reordered-power-of-2)
 * [Repeated dna sequences](Solutions/R/repeated-dna-sequences)
 * [Repeated substring pattern](Solutions/R/repeated-substring-pattern)
