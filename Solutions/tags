@@ -84,6 +84,7 @@ Mathematics>Basic
 Mathematics>Closed form expressions
 Mathematics>Combinatorics
 Mathematics>Composition of operations
+Mathematics>Expression rearrangement
 Mathematics>Geometry
 Mathematics>Geometry>Convex hull
 Mathematics>Geometry>Geometric median
@@ -161,5 +162,6 @@ Tree>Binary tree>Recursion
 Tree>Order traversal
 Tree>Rerooting
 Trie
+Two pointers
 Unique elements in subarray
 Unique/duplicate element finding with bizarro algorithms

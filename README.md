@@ -50,6 +50,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find all duplicates in an array](Solutions/F/find-all-duplicates-in-an-array)
 * [Merge sorted array](Solutions/M/merge-sorted-array)
 * [Move zeroes](Solutions/M/move-zeroes)
+* [Remove all adjacent duplicates in string](Solutions/R/remove-all-adjacent-duplicates-in-string)
+* [Remove duplicates from sorted array ii](Solutions/R/remove-duplicates-from-sorted-array-ii)
 
 ### <a name="Array_scanning-Location_of_previous_element_with_same_value">Location of previous element with same value</a>
 * [Count unique characters of all substrings of a given string](Solutions/C/count-unique-characters-of-all-substrings-of-a-given-string)
@@ -174,6 +176,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Power of two](Solutions/P/power-of-two)
 * [Powx n](Solutions/P/powx-n)
 * [Prison cells after n days](Solutions/P/prison-cells-after-n-days)
+* [Remove duplicate letters](Solutions/R/remove-duplicate-letters)
 * [Smallest subarrays with maximum bitwise or](Solutions/S/smallest-subarrays-with-maximum-bitwise-or)
 * [Utf 8 validation](Solutions/U/utf-8-validation)
 
@@ -262,6 +265,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Number of good paths](Solutions/N/number-of-good-paths)
 * [Number of islands](Solutions/N/number-of-islands)
 * [Rank transform of a matrix](Solutions/R/rank-transform-of-a-matrix)
+* [Redundant connection](Solutions/R/redundant-connection)
 * [Satisfiability of equality equations](Solutions/S/satisfiability-of-equality-equations)
 
 ## <a name="Dynamic_programming">Dynamic programming</a>
@@ -300,6 +304,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Palindrome partitioning iii](Solutions/P/palindrome-partitioning-iii)
 * [Palindrome partitioning iv](Solutions/P/palindrome-partitioning-iv)
 * [Pascals triangle](Solutions/P/pascals-triangle)
+* [Remove boxes](Solutions/R/remove-boxes)
 
 ### <a name="Dynamic_programming-Array_reuse">Array reuse</a>
 * [Champagne tower](Solutions/C/champagne-tower)
@@ -540,6 +545,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Queue reconstruction by height](Solutions/Q/queue-reconstruction-by-height)
 * [Reduce array size to the half](Solutions/R/reduce-array-size-to-the-half)
 * [Reducing dishes](Solutions/R/reducing-dishes)
+* [Remove duplicate letters](Solutions/R/remove-duplicate-letters)
 * [Split array largest sum](Solutions/S/split-array-largest-sum)
 
 ## <a name="Hashmap">Hashmap</a>
@@ -656,6 +662,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Interval list intersections](Solutions/I/interval-list-intersections)
 * [My calendar iii](Solutions/M/my-calendar-iii)
 * [Non overlapping intervals](Solutions/N/non-overlapping-intervals)
+* [Remove covered intervals](Solutions/R/remove-covered-intervals)
 
 ### <a name="Intervals-Union">Union</a>
 * [Merge intervals](Solutions/M/merge-intervals)
@@ -1059,6 +1066,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Push dominoes](Solutions/P/push-dominoes)
 * [Queries on number of points inside a circle](Solutions/Q/queries-on-number-of-points-inside-a-circle)
 * [Range addition ii](Solutions/R/range-addition-ii)
+* [Remove all occurrences of a substring](Solutions/R/remove-all-occurrences-of-a-substring)
 * [Smallest even multiple](Solutions/S/smallest-even-multiple)
 
 ## <a name="Sliding_window">Sliding window</a>
@@ -1093,6 +1101,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum area of a piece of cake after horizontal and vertical cuts](Solutions/M/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts)
 * [Maximum gap](Solutions/M/maximum-gap)
 * [Minimum absolute difference](Solutions/M/minimum-absolute-difference)
+* [Reduction operations to make the array elements equal](Solutions/R/reduction-operations-to-make-the-array-elements-equal)
 * [The number of weak characters in the game](Solutions/T/the-number-of-weak-characters-in-the-game)
 
 ### <a name="Sorting-Custom">Custom</a>
@@ -1147,6 +1156,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Stack-From_array_elements">From array elements</a>
 * [Asteroid collision](Solutions/A/asteroid-collision)
 * [Longest valid parentheses](Solutions/L/longest-valid-parentheses)
+* [Remove all adjacent duplicates in string ii](Solutions/R/remove-all-adjacent-duplicates-in-string-ii)
 
 ### <a name="Stack-Monotonic_stack">Monotonic stack</a>
 * [Daily temperatures](Solutions/D/daily-temperatures)
@@ -1208,6 +1218,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest word in dictionary through deleting](Solutions/L/longest-word-in-dictionary-through-deleting)
 * [Maximum number of removable characters](Solutions/M/maximum-number-of-removable-characters)
 * [Number of matching subsequences](Solutions/N/number-of-matching-subsequences)
+* [Remove duplicate letters](Solutions/R/remove-duplicate-letters)
 
 ### <a name="String-Suffix_array">Suffix array</a>
 * [Query kth smallest trimmed number](Solutions/Q/query-kth-smallest-trimmed-number)
@@ -1352,16 +1363,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Leftmost column with at least a one](Solutions/L/leftmost-column-with-at-least-a-one)
 * [Move pieces to obtain a string](Solutions/M/move-pieces-to-obtain-a-string)
 * [Range module](Solutions/R/range-module)
-* [Reduction operations to make the array elements equal](Solutions/R/reduction-operations-to-make-the-array-elements-equal)
-* [Redundant connection](Solutions/R/redundant-connection)
-* [Remove all adjacent duplicates in string](Solutions/R/remove-all-adjacent-duplicates-in-string)
-* [Remove all adjacent duplicates in string ii](Solutions/R/remove-all-adjacent-duplicates-in-string-ii)
-* [Remove all occurrences of a substring](Solutions/R/remove-all-occurrences-of-a-substring)
-* [Remove boxes](Solutions/R/remove-boxes)
-* [Remove covered intervals](Solutions/R/remove-covered-intervals)
-* [Remove duplicate letters](Solutions/R/remove-duplicate-letters)
 * [Remove duplicates from sorted array](Solutions/R/remove-duplicates-from-sorted-array)
-* [Remove duplicates from sorted array ii](Solutions/R/remove-duplicates-from-sorted-array-ii)
 * [Remove duplicates from sorted list ii](Solutions/R/remove-duplicates-from-sorted-list-ii)
 * [Remove element](Solutions/R/remove-element)
 * [Remove invalid parentheses](Solutions/R/remove-invalid-parentheses)
