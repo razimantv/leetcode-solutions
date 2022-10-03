@@ -29,6 +29,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximal rectangle](Solutions/M/maximal-rectangle)
 * [Maximum ascending subarray sum](Solutions/M/maximum-ascending-subarray-sum)
 * [Maximum product subarray](Solutions/M/maximum-product-subarray)
+* [Minimum time to make rope colorful](Solutions/M/minimum-time-to-make-rope-colorful)
 * [Number of zero filled subarrays](Solutions/N/number-of-zero-filled-subarrays)
 * [Reduce array size to the half](Solutions/R/reduce-array-size-to-the-half)
 * [The number of weak characters in the game](Solutions/T/the-number-of-weak-characters-in-the-game)
