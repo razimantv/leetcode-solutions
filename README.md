@@ -10,6 +10,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 # Problems by tags (INCOMPLETE!)
 
 ## <a name="Array_scanning">Array scanning</a>
+* [The employee that worked on the longest task](Solutions/T/the-employee-that-worked-on-the-longest-task)
 
 ### <a name="Array_scanning-Contiguous_region">Contiguous region</a>
 * [Arithmetic slices](Solutions/A/arithmetic-slices)
@@ -66,6 +67,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Array_scanning-Right_to_left">Right to left</a>
 * [Execution of all suffix instructions staying in a grid](Solutions/E/execution-of-all-suffix-instructions-staying-in-a-grid)
+* [Find the original array of prefix xor](Solutions/F/find-the-original-array-of-prefix-xor)
 * [Jump game ii](Solutions/J/jump-game-ii)
 * [Jump game vi](Solutions/J/jump-game-vi)
 * [Largest odd number in string](Solutions/L/largest-odd-number-in-string)
@@ -74,6 +76,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Plus one](Solutions/P/plus-one)
 * [Smallest subarrays with maximum bitwise or](Solutions/S/smallest-subarrays-with-maximum-bitwise-or)
 * [The number of weak characters in the game](Solutions/T/the-number-of-weak-characters-in-the-game)
+* [Using a robot to print the lexicographically smallest string](Solutions/U/using-a-robot-to-print-the-lexicographically-smallest-string)
 
 ## <a name="Averaging_from_total_and_count">Averaging from total and count</a>
 * [Average of levels in binary tree](Solutions/A/average-of-levels-in-binary-tree)
@@ -190,6 +193,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Bitwise_operation-Self_inverse_property_of_xor">Self-inverse property of xor</a>
 * [Bitwise xor of all pairings](Solutions/B/bitwise-xor-of-all-pairings)
+* [Find the original array of prefix xor](Solutions/F/find-the-original-array-of-prefix-xor)
 * [Pseudo palindromic paths in a binary tree](Solutions/P/pseudo-palindromic-paths-in-a-binary-tree)
 
 ## <a name="Brute_force_enumeration">Brute force enumeration</a>
@@ -332,6 +336,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [N th tribonacci number](Solutions/N/n-th-tribonacci-number)
 * [Partition equal subset sum](Solutions/P/partition-equal-subset-sum)
 * [Pascals triangle ii](Solutions/P/pascals-triangle-ii)
+* [Paths in matrix whose sum is divisible by k](Solutions/P/paths-in-matrix-whose-sum-is-divisible-by-k)
 * [Prison cells after n days](Solutions/P/prison-cells-after-n-days)
 
 ### <a name="Dynamic_programming-Auxiliary_array">Auxiliary array</a>
@@ -353,6 +358,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Dynamic_programming-Graph_like_state_transitions">Graph-like state transitions</a>
 * [Number of ways to paint n 3 grid](Solutions/N/number-of-ways-to-paint-n-3-grid)
+
+### <a name="Dynamic_programming-Grid">Grid</a>
+* [Paths in matrix whose sum is divisible by k](Solutions/P/paths-in-matrix-whose-sum-is-divisible-by-k)
 
 ### <a name="Dynamic_programming-Intervals">Intervals</a>
 * [Maximum number of events that can be attended ii](Solutions/M/maximum-number-of-events-that-can-be-attended-ii)
@@ -822,6 +830,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Dungeon game](Solutions/D/dungeon-game)
 * [Longest increasing path in a matrix](Solutions/L/longest-increasing-path-in-a-matrix)
 * [Minimum path sum](Solutions/M/minimum-path-sum)
+* [Paths in matrix whose sum is divisible by k](Solutions/P/paths-in-matrix-whose-sum-is-divisible-by-k)
 
 ### <a name="Matrix-Row_pair_processing">Row pair processing</a>
 * [Max sum of rectangle no larger than k](Solutions/M/max-sum-of-rectangle-no-larger-than-k)
@@ -900,6 +909,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Global and local inversions](Solutions/G/global-and-local-inversions)
 * [Increasing triplet subsequence](Solutions/I/increasing-triplet-subsequence)
 * [Partition array into disjoint intervals](Solutions/P/partition-array-into-disjoint-intervals)
+* [Using a robot to print the lexicographically smallest string](Solutions/U/using-a-robot-to-print-the-lexicographically-smallest-string)
 
 ### <a name="Prefix-Sum">Sum</a>
 * [Contiguous array](Solutions/C/contiguous-array)
@@ -1082,6 +1092,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Remove one element to make the array strictly increasing](Solutions/R/remove-one-element-to-make-the-array-strictly-increasing)
 * [Remove palindromic subsequences](Solutions/R/remove-palindromic-subsequences)
 * [Smallest even multiple](Solutions/S/smallest-even-multiple)
+* [The employee that worked on the longest task](Solutions/T/the-employee-that-worked-on-the-longest-task)
 
 ## <a name="Sliding_window">Sliding window</a>
 * [3sum](Solutions/0-9/3sum)
@@ -1171,6 +1182,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Asteroid collision](Solutions/A/asteroid-collision)
 * [Longest valid parentheses](Solutions/L/longest-valid-parentheses)
 * [Remove all adjacent duplicates in string ii](Solutions/R/remove-all-adjacent-duplicates-in-string-ii)
+* [Using a robot to print the lexicographically smallest string](Solutions/U/using-a-robot-to-print-the-lexicographically-smallest-string)
 
 ### <a name="Stack-Monotonic_stack">Monotonic stack</a>
 * [Daily temperatures](Solutions/D/daily-temperatures)
