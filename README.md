@@ -726,6 +726,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Mathematics-Basic">Basic</a>
 * [Angle between hands of a clock](Solutions/A/angle-between-hands-of-a-clock)
 * [Fraction to recurring decimal](Solutions/F/fraction-to-recurring-decimal)
+* [Largest perimeter triangle](Solutions/L/largest-perimeter-triangle)
 * [Poor pigs](Solutions/P/poor-pigs)
 * [Strictly palindromic number](Solutions/S/strictly-palindromic-number)
 
@@ -1122,6 +1123,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Implement strstr](Solutions/I/implement-strstr)
 
 ## <a name="Sorting">Sorting</a>
+* [Largest perimeter triangle](Solutions/L/largest-perimeter-triangle)
 * [Majority element](Solutions/M/majority-element)
 * [Maximum area of a piece of cake after horizontal and vertical cuts](Solutions/M/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts)
 * [Maximum gap](Solutions/M/maximum-gap)
