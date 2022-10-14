@@ -703,6 +703,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Reorder list](Solutions/R/reorder-list)
 
 #### <a name="Linked_list-Iteration-Slow_and_fast_pointers">Slow and fast pointers</a>
+* [Delete the middle node of a linked list](Solutions/D/delete-the-middle-node-of-a-linked-list)
 * [Linked list cycle](Solutions/L/linked-list-cycle)
 * [Linked list cycle ii](Solutions/L/linked-list-cycle-ii)
 * [Middle of the linked list](Solutions/M/middle-of-the-linked-list)
