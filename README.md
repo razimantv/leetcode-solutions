@@ -93,6 +93,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum number of groups getting fresh donuts](Solutions/M/maximum-number-of-groups-getting-fresh-donuts)
 * [Maximum score words formed by letters](Solutions/M/maximum-score-words-formed-by-letters)
 * [N queens](Solutions/N/n-queens)
+* [Number of valid clock times](Solutions/N/number-of-valid-clock-times)
 * [Partition to k equal sum subsets](Solutions/P/partition-to-k-equal-sum-subsets)
 
 ### <a name="Backtracking-Push_and_pop_for_efficient_state_update">Push and pop for efficient state update</a>
@@ -127,6 +128,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum number of robots within budget](Solutions/M/maximum-number-of-robots-within-budget)
 * [Maximum value at a given index in a bounded array](Solutions/M/maximum-value-at-a-given-index-in-a-bounded-array)
 * [Maximum xor of two numbers in an array](Solutions/M/maximum-xor-of-two-numbers-in-an-array)
+* [Minimize maximum of array](Solutions/M/minimize-maximum-of-array)
 * [Minimum cost for tickets](Solutions/M/minimum-cost-for-tickets)
 * [Minimum speed to arrive on time](Solutions/M/minimum-speed-to-arrive-on-time)
 * [Nth magical number](Solutions/N/nth-magical-number)
@@ -182,6 +184,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Power of two](Solutions/P/power-of-two)
 * [Powx n](Solutions/P/powx-n)
 * [Prison cells after n days](Solutions/P/prison-cells-after-n-days)
+* [Range product queries of powers](Solutions/R/range-product-queries-of-powers)
 * [Remove duplicate letters](Solutions/R/remove-duplicate-letters)
 * [Remove invalid parentheses](Solutions/R/remove-invalid-parentheses)
 * [Smallest subarrays with maximum bitwise or](Solutions/S/smallest-subarrays-with-maximum-bitwise-or)
@@ -465,6 +468,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Graph_theory-Depth_first_search">Depth first search</a>
 * [Amount of time for binary tree to be infected](Solutions/A/amount-of-time-for-binary-tree-to-be-infected)
+* [Create components with same value](Solutions/C/create-components-with-same-value)
 * [Critical connections in a network](Solutions/C/critical-connections-in-a-network)
 * [Delete nodes and return forest](Solutions/D/delete-nodes-and-return-forest)
 * [Detect cycles in 2d grid](Solutions/D/detect-cycles-in-2d-grid)
@@ -795,11 +799,13 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Mirror reflection](Solutions/M/mirror-reflection)
 * [Nth magical number](Solutions/N/nth-magical-number)
 * [Number of common factors](Solutions/N/number-of-common-factors)
+* [Range product queries of powers](Solutions/R/range-product-queries-of-powers)
 
 #### <a name="Mathematics-Number_theory-Dynamic_programming">Dynamic programming</a>
 * [Largest divisible subset](Solutions/L/largest-divisible-subset)
 
 #### <a name="Mathematics-Number_theory-Factor_listing_in_sqrt_N_">Factor listing in sqrt(N)</a>
+* [Create components with same value](Solutions/C/create-components-with-same-value)
 * [Largest divisible subset](Solutions/L/largest-divisible-subset)
 
 #### <a name="Mathematics-Number_theory-Modular_exponentiation_inverse">Modular exponentiation/inverse</a>
@@ -1259,6 +1265,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="String-Validation">Validation</a>
 * [Ambiguous coordinates](Solutions/A/ambiguous-coordinates)
+* [Number of valid clock times](Solutions/N/number-of-valid-clock-times)
 
 ## <a name="Suboptimal_solution">Suboptimal solution</a>
 * [Check if all the integers in a range are covered](Solutions/C/check-if-all-the-integers-in-a-range-are-covered)
