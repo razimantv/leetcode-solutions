@@ -185,6 +185,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Remove duplicate letters](Solutions/R/remove-duplicate-letters)
 * [Remove invalid parentheses](Solutions/R/remove-invalid-parentheses)
 * [Smallest subarrays with maximum bitwise or](Solutions/S/smallest-subarrays-with-maximum-bitwise-or)
+* [String compression ii](Solutions/S/string-compression-ii)
 * [Utf 8 validation](Solutions/U/utf-8-validation)
 
 ### <a name="Bitwise_operation-Build_result_bit_by_bit">Build result bit-by-bit</a>
@@ -338,6 +339,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Pascals triangle ii](Solutions/P/pascals-triangle-ii)
 * [Paths in matrix whose sum is divisible by k](Solutions/P/paths-in-matrix-whose-sum-is-divisible-by-k)
 * [Prison cells after n days](Solutions/P/prison-cells-after-n-days)
+* [String compression ii](Solutions/S/string-compression-ii)
 
 ### <a name="Dynamic_programming-Auxiliary_array">Auxiliary array</a>
 * [Best time to buy and sell stock iv](Solutions/B/best-time-to-buy-and-sell-stock-iv)
@@ -393,6 +395,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Dynamic_programming-Number_theory">Number theory</a>
 * [Count the number of ideal arrays](Solutions/C/count-the-number-of-ideal-arrays)
 * [Largest divisible subset](Solutions/L/largest-divisible-subset)
+
+### <a name="Dynamic_programming-Partial_bottom_up">Partial bottom-up</a>
+* [String compression ii](Solutions/S/string-compression-ii)
 
 ### <a name="Dynamic_programming-Segment_tree">Segment tree</a>
 * [Delivering boxes from storage to ports](Solutions/D/delivering-boxes-from-storage-to-ports)
