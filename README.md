@@ -308,6 +308,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum deletions on a string](Solutions/M/maximum-deletions-on-a-string)
 * [Min cost climbing stairs](Solutions/M/min-cost-climbing-stairs)
 * [Minimum cost for tickets](Solutions/M/minimum-cost-for-tickets)
+* [Minimum difficulty of a job schedule](Solutions/M/minimum-difficulty-of-a-job-schedule)
 * [Minimum sideway jumps](Solutions/M/minimum-sideway-jumps)
 * [Minimum time to remove all cars containing illegal goods](Solutions/M/minimum-time-to-remove-all-cars-containing-illegal-goods)
 * [Number of distinct roll sequences](Solutions/N/number-of-distinct-roll-sequences)
