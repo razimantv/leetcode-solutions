@@ -581,6 +581,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Clone graph](Solutions/C/clone-graph)
 * [Contiguous array](Solutions/C/contiguous-array)
 * [Count number of bad pairs](Solutions/C/count-number-of-bad-pairs)
+* [Count number of distinct integers after reverse operations](Solutions/C/count-number-of-distinct-integers-after-reverse-operations)
 * [Delete and earn](Solutions/D/delete-and-earn)
 * [Design hashmap](Solutions/D/design-hashmap)
 * [Determine if two strings are close](Solutions/D/determine-if-two-strings-are-close)
@@ -598,6 +599,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Invalid transactions](Solutions/I/invalid-transactions)
 * [Jewels and stones](Solutions/J/jewels-and-stones)
 * [K diff pairs in an array](Solutions/K/k-diff-pairs-in-an-array)
+* [Largest positive integer that exists with its negative](Solutions/L/largest-positive-integer-that-exists-with-its-negative)
 * [Longest consecutive sequence](Solutions/L/longest-consecutive-sequence)
 * [Longest nice subarray](Solutions/L/longest-nice-subarray)
 * [Longest uploaded prefix](Solutions/L/longest-uploaded-prefix)
@@ -920,6 +922,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Best sightseeing pair](Solutions/B/best-sightseeing-pair)
 * [Best time to buy and sell stock](Solutions/B/best-time-to-buy-and-sell-stock)
 * [Best time to buy and sell stock iii](Solutions/B/best-time-to-buy-and-sell-stock-iii)
+* [Count subarrays with fixed bounds](Solutions/C/count-subarrays-with-fixed-bounds)
 * [Global and local inversions](Solutions/G/global-and-local-inversions)
 * [Increasing triplet subsequence](Solutions/I/increasing-triplet-subsequence)
 * [Partition array into disjoint intervals](Solutions/P/partition-array-into-disjoint-intervals)
@@ -1049,6 +1052,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Check if word equals summation of two words](Solutions/C/check-if-word-equals-summation-of-two-words)
 * [Count and say](Solutions/C/count-and-say)
 * [Count asterisks](Solutions/C/count-asterisks)
+* [Count number of distinct integers after reverse operations](Solutions/C/count-number-of-distinct-integers-after-reverse-operations)
 * [Determine color of a chessboard square](Solutions/D/determine-color-of-a-chessboard-square)
 * [Determine if string halves are alike](Solutions/D/determine-if-string-halves-are-alike)
 * [Distribute candies](Solutions/D/distribute-candies)
@@ -1076,6 +1080,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Island perimeter](Solutions/I/island-perimeter)
 * [Largest local values in a matrix](Solutions/L/largest-local-values-in-a-matrix)
 * [Largest magic square](Solutions/L/largest-magic-square)
+* [Largest positive integer that exists with its negative](Solutions/L/largest-positive-integer-that-exists-with-its-negative)
 * [Largest time for given digits](Solutions/L/largest-time-for-given-digits)
 * [Match substring after replacement](Solutions/M/match-substring-after-replacement)
 * [Maximum number of balloons](Solutions/M/maximum-number-of-balloons)
@@ -1106,6 +1111,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Remove one element to make the array strictly increasing](Solutions/R/remove-one-element-to-make-the-array-strictly-increasing)
 * [Remove palindromic subsequences](Solutions/R/remove-palindromic-subsequences)
 * [Smallest even multiple](Solutions/S/smallest-even-multiple)
+* [Sum of number and its reverse](Solutions/S/sum-of-number-and-its-reverse)
 * [The employee that worked on the longest task](Solutions/T/the-employee-that-worked-on-the-longest-task)
 
 ## <a name="Sliding_window">Sliding window</a>
@@ -1395,6 +1401,11 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find the difference](Solutions/F/find-the-difference)
 * [First missing positive](Solutions/F/first-missing-positive)
 * [Missing number](Solutions/M/missing-number)
+
+## <a name="Valid_subarray_counting">Valid subarray counting</a>
+
+### <a name="Valid_subarray_counting-Iterate_one_endpoint_and_keep_valid_range_for_other">Iterate one endpoint and keep valid range for other</a>
+* [Count subarrays with fixed bounds](Solutions/C/count-subarrays-with-fixed-bounds)
 
 ## Untagged
 * [Broken calculator](Solutions/B/broken-calculator)
