@@ -42,6 +42,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Largest plus sign](Solutions/L/largest-plus-sign)
 * [Maximize distance to closest person](Solutions/M/maximize-distance-to-closest-person)
 * [Maximum building height](Solutions/M/maximum-building-height)
+* [Minimum cost to make array equal](Solutions/M/minimum-cost-to-make-array-equal)
 * [Minimum number of flips to make the binary string alternating](Solutions/M/minimum-number-of-flips-to-make-the-binary-string-alternating)
 * [Minimum remove to make valid parentheses](Solutions/M/minimum-remove-to-make-valid-parentheses)
 * [Partition array into disjoint intervals](Solutions/P/partition-array-into-disjoint-intervals)
@@ -308,6 +309,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum deletions on a string](Solutions/M/maximum-deletions-on-a-string)
 * [Min cost climbing stairs](Solutions/M/min-cost-climbing-stairs)
 * [Minimum cost for tickets](Solutions/M/minimum-cost-for-tickets)
+* [Minimum cost to make array equal](Solutions/M/minimum-cost-to-make-array-equal)
 * [Minimum difficulty of a job schedule](Solutions/M/minimum-difficulty-of-a-job-schedule)
 * [Minimum sideway jumps](Solutions/M/minimum-sideway-jumps)
 * [Minimum time to remove all cars containing illegal goods](Solutions/M/minimum-time-to-remove-all-cars-containing-illegal-goods)
@@ -555,9 +557,11 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum value after insertion](Solutions/M/maximum-value-after-insertion)
 * [Minimize maximum pair sum in array](Solutions/M/minimize-maximum-pair-sum-in-array)
 * [Minimum amount of time to fill cups](Solutions/M/minimum-amount-of-time-to-fill-cups)
+* [Minimum cost to make array equal](Solutions/M/minimum-cost-to-make-array-equal)
 * [Minimum money required before transactions](Solutions/M/minimum-money-required-before-transactions)
 * [Minimum number of arrows to burst balloons](Solutions/M/minimum-number-of-arrows-to-burst-balloons)
 * [Minimum number of increments on subarrays to form a target array](Solutions/M/minimum-number-of-increments-on-subarrays-to-form-a-target-array)
+* [Minimum number of operations to make arrays similar](Solutions/M/minimum-number-of-operations-to-make-arrays-similar)
 * [Minimum operations to make the array increasing](Solutions/M/minimum-operations-to-make-the-array-increasing)
 * [Minimum replacements to sort the array](Solutions/M/minimum-replacements-to-sort-the-array)
 * [Minimum sum of squared difference](Solutions/M/minimum-sum-of-squared-difference)
@@ -685,6 +689,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Intervals-Overlap">Overlap</a>
 * [Count days spent together](Solutions/C/count-days-spent-together)
+* [Determine if two events have conflict](Solutions/D/determine-if-two-events-have-conflict)
 * [Divide intervals into minimum number of groups](Solutions/D/divide-intervals-into-minimum-number-of-groups)
 * [Interval list intersections](Solutions/I/interval-list-intersections)
 * [My calendar iii](Solutions/M/my-calendar-iii)
@@ -789,6 +794,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 #### <a name="Mathematics-Geometry-Geometric_median">Geometric median</a>
 * [Best position for a service centre](Solutions/B/best-position-for-a-service-centre)
+* [Minimum cost to make array equal](Solutions/M/minimum-cost-to-make-array-equal)
 
 ### <a name="Mathematics-Number_theory">Number theory</a>
 
@@ -803,6 +809,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Mirror reflection](Solutions/M/mirror-reflection)
 * [Nth magical number](Solutions/N/nth-magical-number)
 * [Number of common factors](Solutions/N/number-of-common-factors)
+* [Number of subarrays with gcd equal to k](Solutions/N/number-of-subarrays-with-gcd-equal-to-k)
 * [Range product queries of powers](Solutions/R/range-product-queries-of-powers)
 
 #### <a name="Mathematics-Number_theory-Dynamic_programming">Dynamic programming</a>
@@ -1149,6 +1156,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum area of a piece of cake after horizontal and vertical cuts](Solutions/M/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts)
 * [Maximum gap](Solutions/M/maximum-gap)
 * [Minimum absolute difference](Solutions/M/minimum-absolute-difference)
+* [Minimum number of operations to make arrays similar](Solutions/M/minimum-number-of-operations-to-make-arrays-similar)
 * [Reduction operations to make the array elements equal](Solutions/R/reduction-operations-to-make-the-array-elements-equal)
 * [The number of weak characters in the game](Solutions/T/the-number-of-weak-characters-in-the-game)
 
