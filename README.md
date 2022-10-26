@@ -585,6 +585,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Clone graph](Solutions/C/clone-graph)
 * [Contains duplicate ii](Solutions/C/contains-duplicate-ii)
 * [Contiguous array](Solutions/C/contiguous-array)
+* [Continuous subarray sum](Solutions/C/continuous-subarray-sum)
 * [Count number of bad pairs](Solutions/C/count-number-of-bad-pairs)
 * [Count number of distinct integers after reverse operations](Solutions/C/count-number-of-distinct-integers-after-reverse-operations)
 * [Delete and earn](Solutions/D/delete-and-earn)
@@ -801,6 +802,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 #### <a name="Mathematics-Number_theory-Basic">Basic</a>
 * [Add digits](Solutions/A/add-digits)
 * [Check if it is a good array](Solutions/C/check-if-it-is-a-good-array)
+* [Continuous subarray sum](Solutions/C/continuous-subarray-sum)
 * [Factorial trailing zeroes](Solutions/F/factorial-trailing-zeroes)
 * [Find the student that will replace the chalk](Solutions/F/find-the-student-that-will-replace-the-chalk)
 * [Integer break](Solutions/I/integer-break)
@@ -938,6 +940,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Prefix-Sum">Sum</a>
 * [Contiguous array](Solutions/C/contiguous-array)
+* [Continuous subarray sum](Solutions/C/continuous-subarray-sum)
 * [Count days spent together](Solutions/C/count-days-spent-together)
 * [Count subarrays with score less than k](Solutions/C/count-subarrays-with-score-less-than-k)
 * [Delivering boxes from storage to ports](Solutions/D/delivering-boxes-from-storage-to-ports)
