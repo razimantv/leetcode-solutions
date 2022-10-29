@@ -591,6 +591,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count number of distinct integers after reverse operations](Solutions/C/count-number-of-distinct-integers-after-reverse-operations)
 * [Delete and earn](Solutions/D/delete-and-earn)
 * [Design hashmap](Solutions/D/design-hashmap)
+* [Destroy sequential targets](Solutions/D/destroy-sequential-targets)
 * [Determine if two strings are close](Solutions/D/determine-if-two-strings-are-close)
 * [Encode and decode tinyurl](Solutions/E/encode-and-decode-tinyurl)
 * [Equal row and column pairs](Solutions/E/equal-row-and-column-pairs)
@@ -624,6 +625,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Most frequent even element](Solutions/M/most-frequent-even-element)
 * [Number of atoms](Solutions/N/number-of-atoms)
 * [Number of excellent pairs](Solutions/N/number-of-excellent-pairs)
+* [Odd string difference](Solutions/O/odd-string-difference)
 * [Optimal partition of string](Solutions/O/optimal-partition-of-string)
 * [Pairs of songs with total durations divisible by 60](Solutions/P/pairs-of-songs-with-total-durations-divisible-by-60)
 * [Partition labels](Solutions/P/partition-labels)
@@ -804,6 +806,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Add digits](Solutions/A/add-digits)
 * [Check if it is a good array](Solutions/C/check-if-it-is-a-good-array)
 * [Continuous subarray sum](Solutions/C/continuous-subarray-sum)
+* [Destroy sequential targets](Solutions/D/destroy-sequential-targets)
 * [Factorial trailing zeroes](Solutions/F/factorial-trailing-zeroes)
 * [Find the student that will replace the chalk](Solutions/F/find-the-student-that-will-replace-the-chalk)
 * [Integer break](Solutions/I/integer-break)
@@ -871,6 +874,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [4sum](Solutions/0-9/4sum)
 * [4sum ii](Solutions/0-9/4sum-ii)
 * [Matchsticks to square](Solutions/M/matchsticks-to-square)
+* [Words within two edits of dictionary](Solutions/W/words-within-two-edits-of-dictionary)
 
 ## <a name="Number_transformations_based_on_mathematical_rules">Number transformations based on mathematical rules</a>
 * [Reach a number](Solutions/R/reach-a-number)
@@ -1045,6 +1049,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Fancy sequence](Solutions/F/fancy-sequence)
 * [Jump game vii](Solutions/J/jump-game-vii)
 * [Longest increasing subsequence ii](Solutions/L/longest-increasing-subsequence-ii)
+* [Next greater element iv](Solutions/N/next-greater-element-iv)
 * [Number of pairs satisfying inequality](Solutions/N/number-of-pairs-satisfying-inequality)
 * [Range sum query mutable](Solutions/R/range-sum-query-mutable)
 
@@ -1110,6 +1115,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Non decreasing array](Solutions/N/non-decreasing-array)
 * [Number of arithmetic triplets](Solutions/N/number-of-arithmetic-triplets)
 * [Number of steps to reduce a number to zero](Solutions/N/number-of-steps-to-reduce-a-number-to-zero)
+* [Odd string difference](Solutions/O/odd-string-difference)
 * [Palindrome number](Solutions/P/palindrome-number)
 * [Pancake sorting](Solutions/P/pancake-sorting)
 * [Partitioning into minimum number of deci binary numbers](Solutions/P/partitioning-into-minimum-number-of-deci-binary-numbers)
@@ -1183,6 +1189,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Merge k sorted lists](Solutions/M/merge-k-sorted-lists)
 * [Minimum number of arrows to burst balloons](Solutions/M/minimum-number-of-arrows-to-burst-balloons)
 * [Minimum sum of squared difference](Solutions/M/minimum-sum-of-squared-difference)
+* [Next greater element iv](Solutions/N/next-greater-element-iv)
 * [Non overlapping intervals](Solutions/N/non-overlapping-intervals)
 * [Sort the people](Solutions/S/sort-the-people)
 
