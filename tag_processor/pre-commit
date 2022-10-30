@@ -1,0 +1,21 @@
+#!/bin/sh
+
+exec 1>&2
+
+cd Solutions || exit 1
+if ! bash ../tag_processor/problem_readme_base_gen.sh
+then
+	echo "Problem base generation failed"
+	exit 2
+fi
+
+set -o pipefail
+cd ../tag_processor || exit 1
+if ! ./taggen | cat README.md.base - > ../README.md 
+then
+	echo "Readme generation failed"
+	exit 3
+fi
+
+cd ../Solutions || exit 1
+git add . ../README.md
