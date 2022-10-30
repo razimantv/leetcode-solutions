@@ -420,6 +420,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Dynamic_programming-Trees">Trees</a>
 * [Diameter of binary tree](Solutions/D/diameter-of-binary-tree)
 * [Employee importance](Solutions/E/employee-importance)
+* [Height of binary tree after subtree removal queries](Solutions/H/height-of-binary-tree-after-subtree-removal-queries)
 * [House robber iii](Solutions/H/house-robber-iii)
 * [Longest path with different adjacent characters](Solutions/L/longest-path-with-different-adjacent-characters)
 * [Longest univalue path](Solutions/L/longest-univalue-path)
@@ -623,6 +624,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum amount of time to collect garbage](Solutions/M/minimum-amount-of-time-to-collect-garbage)
 * [Minimum deletions to make character frequencies unique](Solutions/M/minimum-deletions-to-make-character-frequencies-unique)
 * [Most frequent even element](Solutions/M/most-frequent-even-element)
+* [Most popular video creator](Solutions/M/most-popular-video-creator)
 * [Number of atoms](Solutions/N/number-of-atoms)
 * [Number of excellent pairs](Solutions/N/number-of-excellent-pairs)
 * [Odd string difference](Solutions/O/odd-string-difference)
@@ -877,6 +879,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Words within two edits of dictionary](Solutions/W/words-within-two-edits-of-dictionary)
 
 ## <a name="Number_transformations_based_on_mathematical_rules">Number transformations based on mathematical rules</a>
+* [Minimum addition to make integer beautiful](Solutions/M/minimum-addition-to-make-integer-beautiful)
 * [Reach a number](Solutions/R/reach-a-number)
 
 ## <a name="Offline_query_processing">Offline query processing</a>
@@ -1055,6 +1058,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## <a name="Simple_implementation">Simple implementation</a>
 * [Arranging coins](Solutions/A/arranging-coins)
+* [Average value of even numbers that are divisible by three](Solutions/A/average-value-of-even-numbers-that-are-divisible-by-three)
 * [Best poker hand](Solutions/B/best-poker-hand)
 * [Bulls and cows](Solutions/B/bulls-and-cows)
 * [Calculate amount paid in taxes](Solutions/C/calculate-amount-paid-in-taxes)
@@ -1372,6 +1376,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find a corresponding node of a binary tree in a clone of that tree](Solutions/F/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree)
 * [Flatten binary tree to linked list](Solutions/F/flatten-binary-tree-to-linked-list)
 * [Flip binary tree to match preorder traversal](Solutions/F/flip-binary-tree-to-match-preorder-traversal)
+* [Height of binary tree after subtree removal queries](Solutions/H/height-of-binary-tree-after-subtree-removal-queries)
 * [House robber iii](Solutions/H/house-robber-iii)
 * [Increasing order search tree](Solutions/I/increasing-order-search-tree)
 * [Invert binary tree](Solutions/I/invert-binary-tree)
@@ -1396,6 +1401,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Construct binary tree from inorder and postorder traversal](Solutions/C/construct-binary-tree-from-inorder-and-postorder-traversal)
 * [Construct binary tree from preorder and inorder traversal](Solutions/C/construct-binary-tree-from-preorder-and-inorder-traversal)
 * [Flip binary tree to match preorder traversal](Solutions/F/flip-binary-tree-to-match-preorder-traversal)
+* [Height of binary tree after subtree removal queries](Solutions/H/height-of-binary-tree-after-subtree-removal-queries)
 * [N ary tree level order traversal](Solutions/N/n-ary-tree-level-order-traversal)
 * [N ary tree preorder traversal](Solutions/N/n-ary-tree-preorder-traversal)
 * [Reverse odd levels of binary tree](Solutions/R/reverse-odd-levels-of-binary-tree)
