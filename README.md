@@ -1135,6 +1135,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Smallest even multiple](Solutions/S/smallest-even-multiple)
 * [Sum of number and its reverse](Solutions/S/sum-of-number-and-its-reverse)
 * [The employee that worked on the longest task](Solutions/T/the-employee-that-worked-on-the-longest-task)
+* [Toeplitz matrix](Solutions/T/toeplitz-matrix)
 
 ## <a name="Sliding_window">Sliding window</a>
 * [3sum](Solutions/0-9/3sum)
