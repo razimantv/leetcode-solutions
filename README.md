@@ -524,6 +524,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find closest node to given two nodes](Solutions/F/find-closest-node-to-given-two-nodes)
 * [Longest cycle in a graph](Solutions/L/longest-cycle-in-a-graph)
 * [Node with highest edge score](Solutions/N/node-with-highest-edge-score)
+* [Where will the ball fall](Solutions/W/where-will-the-ball-fall)
 
 ### <a name="Graph_theory-Topological_sort">Topological sort</a>
 * [Build a matrix with conditions](Solutions/B/build-a-matrix-with-conditions)
@@ -863,6 +864,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest increasing path in a matrix](Solutions/L/longest-increasing-path-in-a-matrix)
 * [Minimum path sum](Solutions/M/minimum-path-sum)
 * [Paths in matrix whose sum is divisible by k](Solutions/P/paths-in-matrix-whose-sum-is-divisible-by-k)
+* [Where will the ball fall](Solutions/W/where-will-the-ball-fall)
 
 ### <a name="Matrix-Row_pair_processing">Row pair processing</a>
 * [Max sum of rectangle no larger than k](Solutions/M/max-sum-of-rectangle-no-larger-than-k)
