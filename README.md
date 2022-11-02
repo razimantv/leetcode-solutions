@@ -456,6 +456,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Amount of time for binary tree to be infected](Solutions/A/amount-of-time-for-binary-tree-to-be-infected)
 * [Bus routes](Solutions/B/bus-routes)
 * [Jump game iv](Solutions/J/jump-game-iv)
+* [Minimum genetic mutation](Solutions/M/minimum-genetic-mutation)
 * [Minimum operations to convert number](Solutions/M/minimum-operations-to-convert-number)
 * [Open the lock](Solutions/O/open-the-lock)
 * [Pacific atlantic water flow](Solutions/P/pacific-atlantic-water-flow)
