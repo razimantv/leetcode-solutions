@@ -57,6 +57,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Remove duplicates from sorted array](Solutions/R/remove-duplicates-from-sorted-array)
 * [Remove duplicates from sorted array ii](Solutions/R/remove-duplicates-from-sorted-array-ii)
 * [Remove element](Solutions/R/remove-element)
+* [Reverse vowels of a string](Solutions/R/reverse-vowels-of-a-string)
 
 ### <a name="Array_scanning-Location_of_previous_element_with_same_value">Location of previous element with same value</a>
 * [Count unique characters of all substrings of a given string](Solutions/C/count-unique-characters-of-all-substrings-of-a-given-string)
@@ -1421,6 +1422,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## <a name="Two_pointers">Two pointers</a>
 * [Find k closest elements](Solutions/F/find-k-closest-elements)
+* [Reverse vowels of a string](Solutions/R/reverse-vowels-of-a-string)
 
 ## <a name="Unique_elements_in_subarray">Unique elements in subarray</a>
 * [Count unique characters of all substrings of a given string](Solutions/C/count-unique-characters-of-all-substrings-of-a-given-string)
