@@ -102,6 +102,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Path sum ii](Solutions/P/path-sum-ii)
 * [Path sum iii](Solutions/P/path-sum-iii)
 * [Reconstruct itinerary](Solutions/R/reconstruct-itinerary)
+* [Word search ii](Solutions/W/word-search-ii)
 
 ## <a name="Binary_lifting">Binary lifting</a>
 * [Prison cells after n days](Solutions/P/prison-cells-after-n-days)
@@ -1419,6 +1420,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## <a name="Trie">Trie</a>
 * [Design add and search words data structure](Solutions/D/design-add-and-search-words-data-structure)
 * [Implement trie prefix tree](Solutions/I/implement-trie-prefix-tree)
+* [Word search ii](Solutions/W/word-search-ii)
 
 ## <a name="Two_pointers">Two pointers</a>
 * [Find k closest elements](Solutions/F/find-k-closest-elements)
@@ -1652,5 +1654,4 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Word ladder ii](Solutions/W/word-ladder-ii)
 * [Word pattern](Solutions/W/word-pattern)
 * [Word search](Solutions/W/word-search)
-* [Word search ii](Solutions/W/word-search-ii)
 * [Word subsets](Solutions/W/word-subsets)
