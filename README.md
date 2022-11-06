@@ -342,6 +342,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum path cost in a grid](Solutions/M/minimum-path-cost-in-a-grid)
 * [Minimum path sum](Solutions/M/minimum-path-sum)
 * [Minimum skips to arrive at meeting on time](Solutions/M/minimum-skips-to-arrive-at-meeting-on-time)
+* [Minimum total distance traveled](Solutions/M/minimum-total-distance-traveled)
 * [N th tribonacci number](Solutions/N/n-th-tribonacci-number)
 * [Partition equal subset sum](Solutions/P/partition-equal-subset-sum)
 * [Pascals triangle ii](Solutions/P/pascals-triangle-ii)
@@ -571,6 +572,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum operations to make the array increasing](Solutions/M/minimum-operations-to-make-the-array-increasing)
 * [Minimum replacements to sort the array](Solutions/M/minimum-replacements-to-sort-the-array)
 * [Minimum sum of squared difference](Solutions/M/minimum-sum-of-squared-difference)
+* [Minimum total distance traveled](Solutions/M/minimum-total-distance-traveled)
 * [Non overlapping intervals](Solutions/N/non-overlapping-intervals)
 * [Number of matching subsequences](Solutions/N/number-of-matching-subsequences)
 * [Partition labels](Solutions/P/partition-labels)
@@ -625,6 +627,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Max sum of a pair with equal sum of digits](Solutions/M/max-sum-of-a-pair-with-equal-sum-of-digits)
 * [Maximum number of pairs in array](Solutions/M/maximum-number-of-pairs-in-array)
 * [Maximum population year](Solutions/M/maximum-population-year)
+* [Maximum sum of distinct subarrays with length k](Solutions/M/maximum-sum-of-distinct-subarrays-with-length-k)
 * [Merge similar items](Solutions/M/merge-similar-items)
 * [Minimum amount of time to collect garbage](Solutions/M/minimum-amount-of-time-to-collect-garbage)
 * [Minimum deletions to make character frequencies unique](Solutions/M/minimum-deletions-to-make-character-frequencies-unique)
@@ -1007,6 +1010,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum interval to include each query](Solutions/M/minimum-interval-to-include-each-query)
 * [Number of orders in the backlog](Solutions/N/number-of-orders-in-the-backlog)
 * [Process tasks using servers](Solutions/P/process-tasks-using-servers)
+* [Total cost to hire k workers](Solutions/T/total-cost-to-hire-k-workers)
 
 ### <a name="Priority_queue-Dijkstra_s_algorithm">Dijkstra's algorithm</a>
 * [Network delay time](Solutions/N/network-delay-time)
@@ -1064,6 +1068,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Range sum query mutable](Solutions/R/range-sum-query-mutable)
 
 ## <a name="Simple_implementation">Simple implementation</a>
+* [Apply operations to an array](Solutions/A/apply-operations-to-an-array)
 * [Arranging coins](Solutions/A/arranging-coins)
 * [Average value of even numbers that are divisible by three](Solutions/A/average-value-of-even-numbers-that-are-divisible-by-three)
 * [Best poker hand](Solutions/B/best-poker-hand)
@@ -1161,6 +1166,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Max consecutive ones iii](Solutions/M/max-consecutive-ones-iii)
 * [Maximum erasure value](Solutions/M/maximum-erasure-value)
 * [Maximum points you can obtain from cards](Solutions/M/maximum-points-you-can-obtain-from-cards)
+* [Maximum sum of distinct subarrays with length k](Solutions/M/maximum-sum-of-distinct-subarrays-with-length-k)
 * [Minimum operations to reduce x to zero](Solutions/M/minimum-operations-to-reduce-x-to-zero)
 * [Minimum recolors to get k consecutive black blocks](Solutions/M/minimum-recolors-to-get-k-consecutive-black-blocks)
 * [Minimum window substring](Solutions/M/minimum-window-substring)
