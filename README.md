@@ -1116,6 +1116,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Largest positive integer that exists with its negative](Solutions/L/largest-positive-integer-that-exists-with-its-negative)
 * [Largest time for given digits](Solutions/L/largest-time-for-given-digits)
 * [Match substring after replacement](Solutions/M/match-substring-after-replacement)
+* [Maximum 69 number](Solutions/M/maximum-69-number)
 * [Maximum number of balloons](Solutions/M/maximum-number-of-balloons)
 * [Maximum number of pairs in array](Solutions/M/maximum-number-of-pairs-in-array)
 * [Maximum sum of an hourglass](Solutions/M/maximum-sum-of-an-hourglass)
