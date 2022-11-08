@@ -1243,6 +1243,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Stack-From_array_elements">From array elements</a>
 * [Asteroid collision](Solutions/A/asteroid-collision)
 * [Longest valid parentheses](Solutions/L/longest-valid-parentheses)
+* [Make the string great](Solutions/M/make-the-string-great)
 * [Remove all adjacent duplicates in string ii](Solutions/R/remove-all-adjacent-duplicates-in-string-ii)
 * [Using a robot to print the lexicographically smallest string](Solutions/U/using-a-robot-to-print-the-lexicographically-smallest-string)
 
