@@ -297,6 +297,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count square submatrices with all ones](Solutions/C/count-square-submatrices-with-all-ones)
 * [Count unique characters of all substrings of a given string](Solutions/C/count-unique-characters-of-all-substrings-of-a-given-string)
 * [Count vowels permutation](Solutions/C/count-vowels-permutation)
+* [Count ways to build good strings](Solutions/C/count-ways-to-build-good-strings)
 * [Decode ways](Solutions/D/decode-ways)
 * [Decode ways ii](Solutions/D/decode-ways-ii)
 * [Delete and earn](Solutions/D/delete-and-earn)
@@ -429,6 +430,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest univalue path](Solutions/L/longest-univalue-path)
 * [Minimum cost to change the final value of expression](Solutions/M/minimum-cost-to-change-the-final-value-of-expression)
 * [Minimum score after removals on a tree](Solutions/M/minimum-score-after-removals-on-a-tree)
+* [Most profitable path in a tree](Solutions/M/most-profitable-path-in-a-tree)
 
 ## <a name="Encoding_and_decoding">Encoding and decoding</a>
 * [Encode and decode tinyurl](Solutions/E/encode-and-decode-tinyurl)
@@ -486,6 +488,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest increasing path in a matrix](Solutions/L/longest-increasing-path-in-a-matrix)
 * [Longest path with different adjacent characters](Solutions/L/longest-path-with-different-adjacent-characters)
 * [Minimum score after removals on a tree](Solutions/M/minimum-score-after-removals-on-a-tree)
+* [Most profitable path in a tree](Solutions/M/most-profitable-path-in-a-tree)
 * [Number of increasing paths in a grid](Solutions/N/number-of-increasing-paths-in-a-grid)
 * [Reachable nodes with restrictions](Solutions/R/reachable-nodes-with-restrictions)
 
@@ -634,6 +637,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Most frequent even element](Solutions/M/most-frequent-even-element)
 * [Most popular video creator](Solutions/M/most-popular-video-creator)
 * [Number of atoms](Solutions/N/number-of-atoms)
+* [Number of distinct averages](Solutions/N/number-of-distinct-averages)
 * [Number of excellent pairs](Solutions/N/number-of-excellent-pairs)
 * [Odd string difference](Solutions/O/odd-string-difference)
 * [Optimal partition of string](Solutions/O/optimal-partition-of-string)
@@ -1186,6 +1190,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum gap](Solutions/M/maximum-gap)
 * [Minimum absolute difference](Solutions/M/minimum-absolute-difference)
 * [Minimum number of operations to make arrays similar](Solutions/M/minimum-number-of-operations-to-make-arrays-similar)
+* [Number of distinct averages](Solutions/N/number-of-distinct-averages)
 * [Reduction operations to make the array elements equal](Solutions/R/reduction-operations-to-make-the-array-elements-equal)
 * [The number of weak characters in the game](Solutions/T/the-number-of-weak-characters-in-the-game)
 
@@ -1282,6 +1287,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum cost to change the final value of expression](Solutions/M/minimum-cost-to-change-the-final-value-of-expression)
 * [Number of different integers in a string](Solutions/N/number-of-different-integers-in-a-string)
 * [Reverse words in a string iii](Solutions/R/reverse-words-in-a-string-iii)
+* [Split message based on limit](Solutions/S/split-message-based-on-limit)
 * [Utf 8 validation](Solutions/U/utf-8-validation)
 
 #### <a name="String-Parsing-Recursive">Recursive</a>
@@ -1333,6 +1339,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Map sum pairs](Solutions/M/map-sum-pairs)
 * [Maximum distance between a pair of values](Solutions/M/maximum-distance-between-a-pair-of-values)
 * [Next greater element i](Solutions/N/next-greater-element-i)
+* [Split message based on limit](Solutions/S/split-message-based-on-limit)
 
 ## <a name="Time_reversed_simulation">Time reversed simulation</a>
 * [Backspace string compare](Solutions/B/backspace-string-compare)
