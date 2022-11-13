@@ -369,6 +369,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Numbers at most n given digit set](Solutions/N/numbers-at-most-n-given-digit-set)
 
 ### <a name="Dynamic_programming-Graph_like_state_transitions">Graph-like state transitions</a>
+* [Maximum number of non overlapping palindrome substrings](Solutions/M/maximum-number-of-non-overlapping-palindrome-substrings)
 * [Number of ways to paint n 3 grid](Solutions/N/number-of-ways-to-paint-n-3-grid)
 
 ### <a name="Dynamic_programming-Grid">Grid</a>
@@ -487,6 +488,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Keys and rooms](Solutions/K/keys-and-rooms)
 * [Longest increasing path in a matrix](Solutions/L/longest-increasing-path-in-a-matrix)
 * [Longest path with different adjacent characters](Solutions/L/longest-path-with-different-adjacent-characters)
+* [Minimum number of operations to sort a binary tree by level](Solutions/M/minimum-number-of-operations-to-sort-a-binary-tree-by-level)
 * [Minimum score after removals on a tree](Solutions/M/minimum-score-after-removals-on-a-tree)
 * [Most profitable path in a tree](Solutions/M/most-profitable-path-in-a-tree)
 * [Number of increasing paths in a grid](Solutions/N/number-of-increasing-paths-in-a-grid)
@@ -830,6 +832,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Nth magical number](Solutions/N/nth-magical-number)
 * [Number of common factors](Solutions/N/number-of-common-factors)
 * [Number of subarrays with gcd equal to k](Solutions/N/number-of-subarrays-with-gcd-equal-to-k)
+* [Number of subarrays with lcm equal to k](Solutions/N/number-of-subarrays-with-lcm-equal-to-k)
 * [Range product queries of powers](Solutions/R/range-product-queries-of-powers)
 
 #### <a name="Mathematics-Number_theory-Dynamic_programming">Dynamic programming</a>
@@ -904,6 +907,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest palindrome](Solutions/L/longest-palindrome)
 * [Longest palindrome by concatenating two letter words](Solutions/L/longest-palindrome-by-concatenating-two-letter-words)
 * [Longest palindromic substring](Solutions/L/longest-palindromic-substring)
+* [Maximum number of non overlapping palindrome substrings](Solutions/M/maximum-number-of-non-overlapping-palindrome-substrings)
 * [Palindrome linked list](Solutions/P/palindrome-linked-list)
 * [Palindrome partitioning](Solutions/P/palindrome-partitioning)
 * [Palindrome partitioning ii](Solutions/P/palindrome-partitioning-ii)
@@ -921,6 +925,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Permutation-Cycle">Cycle</a>
 * [Array nesting](Solutions/A/array-nesting)
 * [Minimum number of operations to reinitialize a permutation](Solutions/M/minimum-number-of-operations-to-reinitialize-a-permutation)
+* [Minimum number of operations to sort a binary tree by level](Solutions/M/minimum-number-of-operations-to-sort-a-binary-tree-by-level)
 
 ### <a name="Permutation-Inverse">Inverse</a>
 * [Build a matrix with conditions](Solutions/B/build-a-matrix-with-conditions)
@@ -1087,6 +1092,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Check if the sentence is pangram](Solutions/C/check-if-the-sentence-is-pangram)
 * [Check if two string arrays are equivalent](Solutions/C/check-if-two-string-arrays-are-equivalent)
 * [Check if word equals summation of two words](Solutions/C/check-if-word-equals-summation-of-two-words)
+* [Convert the temperature](Solutions/C/convert-the-temperature)
 * [Count and say](Solutions/C/count-and-say)
 * [Count asterisks](Solutions/C/count-asterisks)
 * [Count number of distinct integers after reverse operations](Solutions/C/count-number-of-distinct-integers-after-reverse-operations)
@@ -1412,6 +1418,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum product of splitted binary tree](Solutions/M/maximum-product-of-splitted-binary-tree)
 * [Maximum width of binary tree](Solutions/M/maximum-width-of-binary-tree)
 * [Minimum depth of binary tree](Solutions/M/minimum-depth-of-binary-tree)
+* [Minimum number of operations to sort a binary tree by level](Solutions/M/minimum-number-of-operations-to-sort-a-binary-tree-by-level)
 * [Path sum](Solutions/P/path-sum)
 * [Path sum ii](Solutions/P/path-sum-ii)
 * [Path sum iii](Solutions/P/path-sum-iii)
@@ -1419,6 +1426,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Pseudo palindromic paths in a binary tree](Solutions/P/pseudo-palindromic-paths-in-a-binary-tree)
 * [Range sum of bst](Solutions/R/range-sum-of-bst)
 * [Recover binary search tree](Solutions/R/recover-binary-search-tree)
+
+### <a name="Tree-Level_wise_processing">Level-wise processing</a>
+* [Minimum number of operations to sort a binary tree by level](Solutions/M/minimum-number-of-operations-to-sort-a-binary-tree-by-level)
 
 ### <a name="Tree-Order_traversal">Order traversal</a>
 * [Construct binary tree from inorder and postorder traversal](Solutions/C/construct-binary-tree-from-inorder-and-postorder-traversal)
