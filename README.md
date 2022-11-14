@@ -501,6 +501,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 #### <a name="Graph_theory-Depth_first_search-Component_decomposition">Component decomposition</a>
 * [Count unreachable pairs of nodes in an undirected graph](Solutions/C/count-unreachable-pairs-of-nodes-in-an-undirected-graph)
 * [Evaluate division](Solutions/E/evaluate-division)
+* [Most stones removed with same row or column](Solutions/M/most-stones-removed-with-same-row-or-column)
 * [Number of islands](Solutions/N/number-of-islands)
 * [Number of operations to make network connected](Solutions/N/number-of-operations-to-make-network-connected)
 
