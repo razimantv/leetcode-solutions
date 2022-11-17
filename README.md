@@ -809,6 +809,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Mathematics-Geometry">Geometry</a>
 * [Check if it is a straight line](Solutions/C/check-if-it-is-a-straight-line)
 * [Max points on a line](Solutions/M/max-points-on-a-line)
+* [Rectangle area](Solutions/R/rectangle-area)
 
 #### <a name="Mathematics-Geometry-Convex_hull">Convex hull</a>
 * [Erect the fence](Solutions/E/erect-the-fence)
