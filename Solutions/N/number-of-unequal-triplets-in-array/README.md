@@ -1,0 +1,7 @@
+# Number of unequal triplets in array
+
+[Problem link](https://leetcode.com/problems/number-of-unequal-triplets-in-array/)
+
+## Tags
+
+* [Simple implementation](/README.md#Simple_implementation)

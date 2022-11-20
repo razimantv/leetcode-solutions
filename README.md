@@ -354,6 +354,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Dynamic_programming-Auxiliary_array">Auxiliary array</a>
 * [Best time to buy and sell stock iv](Solutions/B/best-time-to-buy-and-sell-stock-iv)
 * [Best time to buy and sell stock with transaction fee](Solutions/B/best-time-to-buy-and-sell-stock-with-transaction-fee)
+* [Number of beautiful partitions](Solutions/N/number-of-beautiful-partitions)
 * [Number of people aware of a secret](Solutions/N/number-of-people-aware-of-a-secret)
 
 ### <a name="Dynamic_programming-Cyclic_array">Cyclic array</a>
@@ -488,6 +489,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Keys and rooms](Solutions/K/keys-and-rooms)
 * [Longest increasing path in a matrix](Solutions/L/longest-increasing-path-in-a-matrix)
 * [Longest path with different adjacent characters](Solutions/L/longest-path-with-different-adjacent-characters)
+* [Minimum fuel cost to report to the capital](Solutions/M/minimum-fuel-cost-to-report-to-the-capital)
 * [Minimum number of operations to sort a binary tree by level](Solutions/M/minimum-number-of-operations-to-sort-a-binary-tree-by-level)
 * [Minimum score after removals on a tree](Solutions/M/minimum-score-after-removals-on-a-tree)
 * [Most profitable path in a tree](Solutions/M/most-profitable-path-in-a-tree)
@@ -1144,6 +1146,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Non decreasing array](Solutions/N/non-decreasing-array)
 * [Number of arithmetic triplets](Solutions/N/number-of-arithmetic-triplets)
 * [Number of steps to reduce a number to zero](Solutions/N/number-of-steps-to-reduce-a-number-to-zero)
+* [Number of unequal triplets in array](Solutions/N/number-of-unequal-triplets-in-array)
 * [Odd string difference](Solutions/O/odd-string-difference)
 * [Palindrome number](Solutions/P/palindrome-number)
 * [Pancake sorting](Solutions/P/pancake-sorting)
@@ -1239,6 +1242,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Number of good paths](Solutions/N/number-of-good-paths)
 
 ### <a name="Sorting-Remembering_index">Remembering index</a>
+* [Closest nodes queries in a binary search tree](Solutions/C/closest-nodes-queries-in-a-binary-search-tree)
 * [Find right interval](Solutions/F/find-right-interval)
 * [Invalid transactions](Solutions/I/invalid-transactions)
 
