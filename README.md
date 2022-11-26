@@ -38,6 +38,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Array_scanning-From_both_ends_of_array">From both ends of array</a>
 * [Best time to buy and sell stock iii](Solutions/B/best-time-to-buy-and-sell-stock-iii)
 * [Candy](Solutions/C/candy)
+* [Count palindromic subsequences](Solutions/C/count-palindromic-subsequences)
 * [Find all good indices](Solutions/F/find-all-good-indices)
 * [Largest plus sign](Solutions/L/largest-plus-sign)
 * [Maximize distance to closest person](Solutions/M/maximize-distance-to-closest-person)
@@ -241,6 +242,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Intersection of two arrays ii](Solutions/I/intersection-of-two-arrays-ii)
 * [Largest palindromic number](Solutions/L/largest-palindromic-number)
 * [Longest palindrome](Solutions/L/longest-palindrome)
+* [Minimum penalty for a shop](Solutions/M/minimum-penalty-for-a-shop)
 
 ## <a name="Deque">Deque</a>
 
@@ -295,6 +297,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Check if there is a valid partition for the array](Solutions/C/check-if-there-is-a-valid-partition-for-the-array)
 * [Climbing stairs](Solutions/C/climbing-stairs)
 * [Count number of ways to place houses](Solutions/C/count-number-of-ways-to-place-houses)
+* [Count palindromic subsequences](Solutions/C/count-palindromic-subsequences)
 * [Count square submatrices with all ones](Solutions/C/count-square-submatrices-with-all-ones)
 * [Count unique characters of all substrings of a given string](Solutions/C/count-unique-characters-of-all-substrings-of-a-given-string)
 * [Count vowels permutation](Solutions/C/count-vowels-permutation)
@@ -315,6 +318,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum cost for tickets](Solutions/M/minimum-cost-for-tickets)
 * [Minimum cost to make array equal](Solutions/M/minimum-cost-to-make-array-equal)
 * [Minimum difficulty of a job schedule](Solutions/M/minimum-difficulty-of-a-job-schedule)
+* [Minimum penalty for a shop](Solutions/M/minimum-penalty-for-a-shop)
 * [Minimum sideway jumps](Solutions/M/minimum-sideway-jumps)
 * [Minimum time to remove all cars containing illegal goods](Solutions/M/minimum-time-to-remove-all-cars-containing-illegal-goods)
 * [Number of distinct roll sequences](Solutions/N/number-of-distinct-roll-sequences)
@@ -813,6 +817,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Mathematics-Geometry">Geometry</a>
 * [Check if it is a straight line](Solutions/C/check-if-it-is-a-straight-line)
 * [Max points on a line](Solutions/M/max-points-on-a-line)
+* [Minimum cuts to divide a circle](Solutions/M/minimum-cuts-to-divide-a-circle)
 * [Rectangle area](Solutions/R/rectangle-area)
 
 #### <a name="Mathematics-Geometry-Convex_hull">Convex hull</a>
@@ -873,6 +878,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Random point in non overlapping rectangles](Solutions/R/random-point-in-non-overlapping-rectangles)
 
 ## <a name="Matrix">Matrix</a>
+* [Difference between ones and zeros in row and column](Solutions/D/difference-between-ones-and-zeros-in-row-and-column)
 
 ### <a name="Matrix-Geometric_transformation">Geometric transformation</a>
 * [Determine whether matrix can be obtained by rotation](Solutions/D/determine-whether-matrix-can-be-obtained-by-rotation)
@@ -909,6 +915,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## <a name="Palindrome">Palindrome</a>
 * [Break a palindrome](Solutions/B/break-a-palindrome)
+* [Count palindromic subsequences](Solutions/C/count-palindromic-subsequences)
 * [Largest palindromic number](Solutions/L/largest-palindromic-number)
 * [Longest palindrome](Solutions/L/longest-palindrome)
 * [Longest palindrome by concatenating two letter words](Solutions/L/longest-palindrome-by-concatenating-two-letter-words)
@@ -1104,6 +1111,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count number of distinct integers after reverse operations](Solutions/C/count-number-of-distinct-integers-after-reverse-operations)
 * [Determine color of a chessboard square](Solutions/D/determine-color-of-a-chessboard-square)
 * [Determine if string halves are alike](Solutions/D/determine-if-string-halves-are-alike)
+* [Difference between ones and zeros in row and column](Solutions/D/difference-between-ones-and-zeros-in-row-and-column)
 * [Distribute candies](Solutions/D/distribute-candies)
 * [Distribute candies to people](Solutions/D/distribute-candies-to-people)
 * [Duplicate zeros](Solutions/D/duplicate-zeros)
