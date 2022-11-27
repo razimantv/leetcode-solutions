@@ -555,6 +555,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## <a name="Greedy">Greedy</a>
 * [Advantage shuffle](Solutions/A/advantage-shuffle)
+* [Append characters to string to make subsequence](Solutions/A/append-characters-to-string-to-make-subsequence)
 * [Bag of tokens](Solutions/B/bag-of-tokens)
 * [Best time to buy and sell stock ii](Solutions/B/best-time-to-buy-and-sell-stock-ii)
 * [Boats to save people](Solutions/B/boats-to-save-people)
@@ -610,6 +611,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Continuous subarray sum](Solutions/C/continuous-subarray-sum)
 * [Count number of bad pairs](Solutions/C/count-number-of-bad-pairs)
 * [Count number of distinct integers after reverse operations](Solutions/C/count-number-of-distinct-integers-after-reverse-operations)
+* [Count subarrays with median k](Solutions/C/count-subarrays-with-median-k)
 * [Delete and earn](Solutions/D/delete-and-earn)
 * [Design hashmap](Solutions/D/design-hashmap)
 * [Destroy sequential targets](Solutions/D/destroy-sequential-targets)
@@ -761,6 +763,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Palindrome linked list](Solutions/P/palindrome-linked-list)
 * [Remove duplicates from sorted list ii](Solutions/R/remove-duplicates-from-sorted-list-ii)
 * [Remove linked list elements](Solutions/R/remove-linked-list-elements)
+* [Remove nodes from linked list](Solutions/R/remove-nodes-from-linked-list)
 
 ## <a name="Majority_element">Majority element</a>
 * [Majority element ii](Solutions/M/majority-element-ii)
@@ -779,6 +782,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Strictly palindromic number](Solutions/S/strictly-palindromic-number)
 
 ### <a name="Mathematics-Closed_form_expressions">Closed form expressions</a>
+* [Find the pivot integer](Solutions/F/find-the-pivot-integer)
 * [Maximum value at a given index in a bounded array](Solutions/M/maximum-value-at-a-given-index-in-a-bounded-array)
 * [Minimum operations to make array equal](Solutions/M/minimum-operations-to-make-array-equal)
 
@@ -982,6 +986,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Contiguous array](Solutions/C/contiguous-array)
 * [Continuous subarray sum](Solutions/C/continuous-subarray-sum)
 * [Count days spent together](Solutions/C/count-days-spent-together)
+* [Count subarrays with median k](Solutions/C/count-subarrays-with-median-k)
 * [Count subarrays with score less than k](Solutions/C/count-subarrays-with-score-less-than-k)
 * [Delivering boxes from storage to ports](Solutions/D/delivering-boxes-from-storage-to-ports)
 * [Execution of all suffix instructions staying in a grid](Solutions/E/execution-of-all-suffix-instructions-staying-in-a-grid)
@@ -1120,6 +1125,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find numbers with even number of digits](Solutions/F/find-numbers-with-even-number-of-digits)
 * [Find subarrays with equal sum](Solutions/F/find-subarrays-with-equal-sum)
 * [Find the distance value between two arrays](Solutions/F/find-the-distance-value-between-two-arrays)
+* [Find the pivot integer](Solutions/F/find-the-pivot-integer)
 * [Find the town judge](Solutions/F/find-the-town-judge)
 * [Find the winner of the circular game](Solutions/F/find-the-winner-of-the-circular-game)
 * [Find winner on a tic tac toe game](Solutions/F/find-winner-on-a-tic-tac-toe-game)
@@ -1331,6 +1337,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Prefix and suffix search](Solutions/P/prefix-and-suffix-search)
 
 ### <a name="String-Subsequence">Subsequence</a>
+* [Append characters to string to make subsequence](Solutions/A/append-characters-to-string-to-make-subsequence)
 * [Is subsequence](Solutions/I/is-subsequence)
 * [Longest common subsequence](Solutions/L/longest-common-subsequence)
 * [Longest uncommon subsequence ii](Solutions/L/longest-uncommon-subsequence-ii)
