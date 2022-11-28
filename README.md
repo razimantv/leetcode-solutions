@@ -620,6 +620,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Equal row and column pairs](Solutions/E/equal-row-and-column-pairs)
 * [Evaluate the bracket pairs of a string](Solutions/E/evaluate-the-bracket-pairs-of-a-string)
 * [Find duplicate file in system](Solutions/F/find-duplicate-file-in-system)
+* [Find players with zero or one losses](Solutions/F/find-players-with-zero-or-one-losses)
 * [Find subarrays with equal sum](Solutions/F/find-subarrays-with-equal-sum)
 * [Finding the users active minutes](Solutions/F/finding-the-users-active-minutes)
 * [First letter to appear twice](Solutions/F/first-letter-to-appear-twice)
