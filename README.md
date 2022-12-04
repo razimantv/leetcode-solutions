@@ -465,10 +465,14 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## <a name="Graph_theory">Graph theory</a>
 
+### <a name="Graph_theory-Bipartite_graph">Bipartite graph</a>
+* [Divide nodes into the maximum number of groups](Solutions/D/divide-nodes-into-the-maximum-number-of-groups)
+
 ### <a name="Graph_theory-Breadth_first_search">Breadth first search</a>
 * [01 matrix](Solutions/0-9/01-matrix)
 * [Amount of time for binary tree to be infected](Solutions/A/amount-of-time-for-binary-tree-to-be-infected)
 * [Bus routes](Solutions/B/bus-routes)
+* [Divide nodes into the maximum number of groups](Solutions/D/divide-nodes-into-the-maximum-number-of-groups)
 * [Jump game iv](Solutions/J/jump-game-iv)
 * [Minimum genetic mutation](Solutions/M/minimum-genetic-mutation)
 * [Minimum operations to convert number](Solutions/M/minimum-operations-to-convert-number)
@@ -500,6 +504,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum fuel cost to report to the capital](Solutions/M/minimum-fuel-cost-to-report-to-the-capital)
 * [Minimum number of operations to sort a binary tree by level](Solutions/M/minimum-number-of-operations-to-sort-a-binary-tree-by-level)
 * [Minimum score after removals on a tree](Solutions/M/minimum-score-after-removals-on-a-tree)
+* [Minimum score of a path between two cities](Solutions/M/minimum-score-of-a-path-between-two-cities)
 * [Most profitable path in a tree](Solutions/M/most-profitable-path-in-a-tree)
 * [Number of increasing paths in a grid](Solutions/N/number-of-increasing-paths-in-a-grid)
 * [Reachable nodes with restrictions](Solutions/R/reachable-nodes-with-restrictions)
@@ -510,6 +515,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 #### <a name="Graph_theory-Depth_first_search-Component_decomposition">Component decomposition</a>
 * [Count unreachable pairs of nodes in an undirected graph](Solutions/C/count-unreachable-pairs-of-nodes-in-an-undirected-graph)
+* [Divide nodes into the maximum number of groups](Solutions/D/divide-nodes-into-the-maximum-number-of-groups)
 * [Evaluate division](Solutions/E/evaluate-division)
 * [Most stones removed with same row or column](Solutions/M/most-stones-removed-with-same-row-or-column)
 * [Number of islands](Solutions/N/number-of-islands)
@@ -539,6 +545,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Graph_theory-Minimum_spanning_tree">Minimum spanning tree</a>
 * [Min cost to connect all points](Solutions/M/min-cost-to-connect-all-points)
+
+### <a name="Graph_theory-Reuse_visited_array">Reuse visited array</a>
+* [Divide nodes into the maximum number of groups](Solutions/D/divide-nodes-into-the-maximum-number-of-groups)
 
 ### <a name="Graph_theory-Single_outdegree_graphs">Single outdegree graphs</a>
 * [Find closest node to given two nodes](Solutions/F/find-closest-node-to-given-two-nodes)
@@ -1215,6 +1224,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Implement strstr](Solutions/I/implement-strstr)
 
 ## <a name="Sorting">Sorting</a>
+* [Divide players into teams of equal skill](Solutions/D/divide-players-into-teams-of-equal-skill)
 * [Largest perimeter triangle](Solutions/L/largest-perimeter-triangle)
 * [Majority element](Solutions/M/majority-element)
 * [Maximum area of a piece of cake after horizontal and vertical cuts](Solutions/M/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts)
@@ -1308,6 +1318,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="String-Parsing">Parsing</a>
 * [Basic calculator](Solutions/B/basic-calculator)
 * [Basic calculator ii](Solutions/B/basic-calculator-ii)
+* [Circular sentence](Solutions/C/circular-sentence)
 * [Compare version numbers](Solutions/C/compare-version-numbers)
 * [Complex number multiplication](Solutions/C/complex-number-multiplication)
 * [Count days spent together](Solutions/C/count-days-spent-together)
