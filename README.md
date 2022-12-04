@@ -43,6 +43,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Largest plus sign](Solutions/L/largest-plus-sign)
 * [Maximize distance to closest person](Solutions/M/maximize-distance-to-closest-person)
 * [Maximum building height](Solutions/M/maximum-building-height)
+* [Minimum average difference](Solutions/M/minimum-average-difference)
 * [Minimum cost to make array equal](Solutions/M/minimum-cost-to-make-array-equal)
 * [Minimum number of flips to make the binary string alternating](Solutions/M/minimum-number-of-flips-to-make-the-binary-string-alternating)
 * [Minimum remove to make valid parentheses](Solutions/M/minimum-remove-to-make-valid-parentheses)
@@ -85,6 +86,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Average of levels in binary tree](Solutions/A/average-of-levels-in-binary-tree)
 * [Design underground system](Solutions/D/design-underground-system)
 * [Finding mk average](Solutions/F/finding-mk-average)
+* [Minimum average difference](Solutions/M/minimum-average-difference)
 
 ## <a name="Backtracking">Backtracking</a>
 * [All paths from source to target](Solutions/A/all-paths-from-source-to-target)
