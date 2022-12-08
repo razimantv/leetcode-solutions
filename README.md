@@ -1449,6 +1449,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Increasing order search tree](Solutions/I/increasing-order-search-tree)
 * [Invert binary tree](Solutions/I/invert-binary-tree)
 * [Kth smallest element in a bst](Solutions/K/kth-smallest-element-in-a-bst)
+* [Leaf similar trees](Solutions/L/leaf-similar-trees)
 * [Longest univalue path](Solutions/L/longest-univalue-path)
 * [Lowest common ancestor of a binary search tree](Solutions/L/lowest-common-ancestor-of-a-binary-search-tree)
 * [Lowest common ancestor of a binary tree](Solutions/L/lowest-common-ancestor-of-a-binary-tree)
