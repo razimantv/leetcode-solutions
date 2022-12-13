@@ -346,6 +346,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum length of repeated subarray](Solutions/M/maximum-length-of-repeated-subarray)
 * [Maximum number of points with cost](Solutions/M/maximum-number-of-points-with-cost)
 * [Maximum score from performing multiplication operations](Solutions/M/maximum-score-from-performing-multiplication-operations)
+* [Minimum falling path sum](Solutions/M/minimum-falling-path-sum)
 * [Minimum number of refueling stops](Solutions/M/minimum-number-of-refueling-stops)
 * [Minimum path cost in a grid](Solutions/M/minimum-path-cost-in-a-grid)
 * [Minimum path sum](Solutions/M/minimum-path-sum)
@@ -904,6 +905,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Matrix-Path">Path</a>
 * [Dungeon game](Solutions/D/dungeon-game)
 * [Longest increasing path in a matrix](Solutions/L/longest-increasing-path-in-a-matrix)
+* [Minimum falling path sum](Solutions/M/minimum-falling-path-sum)
 * [Minimum path sum](Solutions/M/minimum-path-sum)
 * [Paths in matrix whose sum is divisible by k](Solutions/P/paths-in-matrix-whose-sum-is-divisible-by-k)
 * [Where will the ball fall](Solutions/W/where-will-the-ball-fall)
