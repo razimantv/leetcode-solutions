@@ -275,6 +275,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Random pick with weight](Solutions/R/random-pick-with-weight)
 
 ### <a name="Design_data_structure-Interconversion">Interconversion</a>
+* [Implement queue using stacks](Solutions/I/implement-queue-using-stacks)
 * [Implement stack using queues](Solutions/I/implement-stack-using-queues)
 
 ## <a name="Disjoint_set_union">Disjoint set union</a>
