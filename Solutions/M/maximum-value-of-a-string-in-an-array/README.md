@@ -1,0 +1,7 @@
+# Maximum value of a string in an array
+
+[Problem link](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/)
+
+## Tags
+
+* [Simple implementation](/README.md#Simple_implementation)
