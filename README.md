@@ -146,6 +146,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Closest room](Solutions/C/closest-room)
 * [Contains duplicate iii](Solutions/C/contains-duplicate-iii)
 * [Count of range sum](Solutions/C/count-of-range-sum)
+* [Maximum number of points from grid queries](Solutions/M/maximum-number-of-points-from-grid-queries)
 * [Minimum absolute sum difference](Solutions/M/minimum-absolute-sum-difference)
 * [My calendar i](Solutions/M/my-calendar-i)
 * [Online majority element in subarray](Solutions/O/online-majority-element-in-subarray)
@@ -259,6 +260,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Design circular queue](Solutions/D/design-circular-queue)
 * [Design hashmap](Solutions/D/design-hashmap)
 * [Design hashset](Solutions/D/design-hashset)
+* [Design memory allocator](Solutions/D/design-memory-allocator)
 * [Design movie rental system](Solutions/D/design-movie-rental-system)
 * [Design underground system](Solutions/D/design-underground-system)
 * [Encode and decode tinyurl](Solutions/E/encode-and-decode-tinyurl)
@@ -548,6 +550,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Graph_theory-Minimum_spanning_tree">Minimum spanning tree</a>
 * [Min cost to connect all points](Solutions/M/min-cost-to-connect-all-points)
 
+### <a name="Graph_theory-Prim_s_algorithm">Prim's algorithm</a>
+* [Maximum number of points from grid queries](Solutions/M/maximum-number-of-points-from-grid-queries)
+
 ### <a name="Graph_theory-Reuse_visited_array">Reuse visited array</a>
 * [Divide nodes into the maximum number of groups](Solutions/D/divide-nodes-into-the-maximum-number-of-groups)
 
@@ -650,6 +655,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest consecutive sequence](Solutions/L/longest-consecutive-sequence)
 * [Longest nice subarray](Solutions/L/longest-nice-subarray)
 * [Longest palindrome by concatenating two letter words](Solutions/L/longest-palindrome-by-concatenating-two-letter-words)
+* [Longest square streak in an array](Solutions/L/longest-square-streak-in-an-array)
 * [Longest uploaded prefix](Solutions/L/longest-uploaded-prefix)
 * [Longest word in dictionary](Solutions/L/longest-word-in-dictionary)
 * [Lru cache](Solutions/L/lru-cache)
@@ -1049,6 +1055,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Last stone weight](Solutions/L/last-stone-weight)
 * [Maximum frequency stack](Solutions/M/maximum-frequency-stack)
 * [Maximum number of events that can be attended](Solutions/M/maximum-number-of-events-that-can-be-attended)
+* [Maximum number of points from grid queries](Solutions/M/maximum-number-of-points-from-grid-queries)
 * [Meeting rooms iii](Solutions/M/meeting-rooms-iii)
 * [Merge k sorted lists](Solutions/M/merge-k-sorted-lists)
 * [Minimize deviation in array](Solutions/M/minimize-deviation-in-array)
@@ -1232,8 +1239,10 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Implement strstr](Solutions/I/implement-strstr)
 
 ## <a name="Sorting">Sorting</a>
+* [Delete greatest value in each row](Solutions/D/delete-greatest-value-in-each-row)
 * [Divide players into teams of equal skill](Solutions/D/divide-players-into-teams-of-equal-skill)
 * [Largest perimeter triangle](Solutions/L/largest-perimeter-triangle)
+* [Longest square streak in an array](Solutions/L/longest-square-streak-in-an-array)
 * [Majority element](Solutions/M/majority-element)
 * [Maximum area of a piece of cake after horizontal and vertical cuts](Solutions/M/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts)
 * [Maximum gap](Solutions/M/maximum-gap)
@@ -1258,6 +1267,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [K closest points to origin](Solutions/K/k-closest-points-to-origin)
 * [Largest number](Solutions/L/largest-number)
 * [Longest string chain](Solutions/L/longest-string-chain)
+* [Maximum number of points from grid queries](Solutions/M/maximum-number-of-points-from-grid-queries)
 * [Maximum profit in job scheduling](Solutions/M/maximum-profit-in-job-scheduling)
 * [Maximum units on a truck](Solutions/M/maximum-units-on-a-truck)
 * [Merge k sorted lists](Solutions/M/merge-k-sorted-lists)

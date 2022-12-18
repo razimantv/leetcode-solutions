@@ -1,0 +1,7 @@
+# Delete greatest value in each row
+
+[Problem link](https://leetcode.com/problems/delete-greatest-value-in-each-row/)
+
+## Tags
+
+* [Sorting](/README.md#Sorting)
