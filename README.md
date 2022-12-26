@@ -168,6 +168,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Concatenation of consecutive binary numbers](Solutions/C/concatenation-of-consecutive-binary-numbers)
 * [Count pairs with xor in a range](Solutions/C/count-pairs-with-xor-in-a-range)
 * [Counting bits](Solutions/C/counting-bits)
+* [Cycle length queries in a tree](Solutions/C/cycle-length-queries-in-a-tree)
 * [Determine if string halves are alike](Solutions/D/determine-if-string-halves-are-alike)
 * [Divide two integers](Solutions/D/divide-two-integers)
 * [Find a value of a mysterious function closest to target](Solutions/F/find-a-value-of-a-mysterious-function-closest-to-target)
@@ -492,6 +493,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Happy number](Solutions/H/happy-number)
 
 ### <a name="Graph_theory-Degree_counting">Degree counting</a>
+* [Add edges to make degrees of all nodes even](Solutions/A/add-edges-to-make-degrees-of-all-nodes-even)
 * [Find the town judge](Solutions/F/find-the-town-judge)
 
 ### <a name="Graph_theory-Depth_first_search">Depth first search</a>
@@ -632,6 +634,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Continuous subarray sum](Solutions/C/continuous-subarray-sum)
 * [Count number of bad pairs](Solutions/C/count-number-of-bad-pairs)
 * [Count number of distinct integers after reverse operations](Solutions/C/count-number-of-distinct-integers-after-reverse-operations)
+* [Count pairs of similar strings](Solutions/C/count-pairs-of-similar-strings)
 * [Count subarrays with median k](Solutions/C/count-subarrays-with-median-k)
 * [Delete and earn](Solutions/D/delete-and-earn)
 * [Design hashmap](Solutions/D/design-hashmap)
@@ -820,6 +823,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count number of bad pairs](Solutions/C/count-number-of-bad-pairs)
 * [Count number of ways to place houses](Solutions/C/count-number-of-ways-to-place-houses)
 * [Count pairs of nodes](Solutions/C/count-pairs-of-nodes)
+* [Count pairs of similar strings](Solutions/C/count-pairs-of-similar-strings)
 * [Count sorted vowel strings](Solutions/C/count-sorted-vowel-strings)
 * [Count special integers](Solutions/C/count-special-integers)
 * [Count the number of ideal arrays](Solutions/C/count-the-number-of-ideal-arrays)
@@ -880,6 +884,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 #### <a name="Mathematics-Number_theory-Factor_listing_in_sqrt_N_">Factor listing in sqrt(N)</a>
 * [Create components with same value](Solutions/C/create-components-with-same-value)
 * [Largest divisible subset](Solutions/L/largest-divisible-subset)
+* [Smallest value after replacing with sum of prime factors](Solutions/S/smallest-value-after-replacing-with-sum-of-prime-factors)
 
 #### <a name="Mathematics-Number_theory-Modular_exponentiation_inverse">Modular exponentiation/inverse</a>
 * [Count good numbers](Solutions/C/count-good-numbers)
@@ -1428,6 +1433,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Increasing order search tree](Solutions/I/increasing-order-search-tree)
 
 ### <a name="Tree-Binary_tree">Binary tree</a>
+* [Cycle length queries in a tree](Solutions/C/cycle-length-queries-in-a-tree)
 
 #### <a name="Tree-Binary_tree-Iteration">Iteration</a>
 * [Binary tree inorder traversal](Solutions/B/binary-tree-inorder-traversal)
