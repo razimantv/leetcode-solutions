@@ -591,6 +591,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Largest number](Solutions/L/largest-number)
 * [Longest subsequence with limited sum](Solutions/L/longest-subsequence-with-limited-sum)
 * [Make array zero by subtracting equal amounts](Solutions/M/make-array-zero-by-subtracting-equal-amounts)
+* [Maximum bags with full capacity of rocks](Solutions/M/maximum-bags-with-full-capacity-of-rocks)
 * [Maximum element after decreasing and rearranging](Solutions/M/maximum-element-after-decreasing-and-rearranging)
 * [Maximum ice cream bars](Solutions/M/maximum-ice-cream-bars)
 * [Maximum matching of players with trainer](Solutions/M/maximum-matching-of-players-with-trainer)
