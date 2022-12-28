@@ -621,6 +621,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Reducing dishes](Solutions/R/reducing-dishes)
 * [Remove duplicate letters](Solutions/R/remove-duplicate-letters)
 * [Remove k digits](Solutions/R/remove-k-digits)
+* [Remove stones to minimize the total](Solutions/R/remove-stones-to-minimize-the-total)
 * [Split array largest sum](Solutions/S/split-array-largest-sum)
 
 ## <a name="Hashmap">Hashmap</a>
@@ -1069,6 +1070,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum interval to include each query](Solutions/M/minimum-interval-to-include-each-query)
 * [Number of orders in the backlog](Solutions/N/number-of-orders-in-the-backlog)
 * [Process tasks using servers](Solutions/P/process-tasks-using-servers)
+* [Remove stones to minimize the total](Solutions/R/remove-stones-to-minimize-the-total)
 * [Total cost to hire k workers](Solutions/T/total-cost-to-hire-k-workers)
 
 ### <a name="Priority_queue-Dijkstra_s_algorithm">Dijkstra's algorithm</a>
