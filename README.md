@@ -10,6 +10,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 # Problems by tags (INCOMPLETE!)
 
 ## <a name="Array_scanning">Array scanning</a>
+* [Maximum enemy forts that can be captured](Solutions/M/maximum-enemy-forts-that-can-be-captured)
 * [The employee that worked on the longest task](Solutions/T/the-employee-that-worked-on-the-longest-task)
 
 ### <a name="Array_scanning-Contiguous_region">Contiguous region</a>
@@ -634,6 +635,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Contains duplicate ii](Solutions/C/contains-duplicate-ii)
 * [Contiguous array](Solutions/C/contiguous-array)
 * [Continuous subarray sum](Solutions/C/continuous-subarray-sum)
+* [Count anagrams](Solutions/C/count-anagrams)
 * [Count number of bad pairs](Solutions/C/count-number-of-bad-pairs)
 * [Count number of distinct integers after reverse operations](Solutions/C/count-number-of-distinct-integers-after-reverse-operations)
 * [Count pairs of similar strings](Solutions/C/count-pairs-of-similar-strings)
@@ -694,6 +696,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Reconstruct original digits from english](Solutions/R/reconstruct-original-digits-from-english)
 * [Redistribute characters to make all strings equal](Solutions/R/redistribute-characters-to-make-all-strings-equal)
 * [Reduce array size to the half](Solutions/R/reduce-array-size-to-the-half)
+* [Reward top k students](Solutions/R/reward-top-k-students)
 * [Smallest subarrays with maximum bitwise or](Solutions/S/smallest-subarrays-with-maximum-bitwise-or)
 * [Sum of prefix scores of strings](Solutions/S/sum-of-prefix-scores-of-strings)
 
@@ -811,6 +814,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Strictly palindromic number](Solutions/S/strictly-palindromic-number)
 
 ### <a name="Mathematics-Closed_form_expressions">Closed form expressions</a>
+* [Count anagrams](Solutions/C/count-anagrams)
 * [Find the pivot integer](Solutions/F/find-the-pivot-integer)
 * [Maximum value at a given index in a bounded array](Solutions/M/maximum-value-at-a-given-index-in-a-bounded-array)
 * [Minimum operations to make array equal](Solutions/M/minimum-operations-to-make-array-equal)
@@ -820,6 +824,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Arithmetic slices ii subsequence](Solutions/A/arithmetic-slices-ii-subsequence)
 * [Binary trees with factors](Solutions/B/binary-trees-with-factors)
 * [Count all valid pickup and delivery options](Solutions/C/count-all-valid-pickup-and-delivery-options)
+* [Count anagrams](Solutions/C/count-anagrams)
 * [Count good numbers](Solutions/C/count-good-numbers)
 * [Count nice pairs in an array](Solutions/C/count-nice-pairs-in-an-array)
 * [Count number of bad pairs](Solutions/C/count-number-of-bad-pairs)
@@ -871,6 +876,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Factorial trailing zeroes](Solutions/F/factorial-trailing-zeroes)
 * [Find the student that will replace the chalk](Solutions/F/find-the-student-that-will-replace-the-chalk)
 * [Integer break](Solutions/I/integer-break)
+* [Minimize the maximum of two arrays](Solutions/M/minimize-the-maximum-of-two-arrays)
 * [Minimum cost to move chips to the same position](Solutions/M/minimum-cost-to-move-chips-to-the-same-position)
 * [Minimum deletions to make array divisible](Solutions/M/minimum-deletions-to-make-array-divisible)
 * [Mirror reflection](Solutions/M/mirror-reflection)
@@ -889,6 +895,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Smallest value after replacing with sum of prime factors](Solutions/S/smallest-value-after-replacing-with-sum-of-prime-factors)
 
 #### <a name="Mathematics-Number_theory-Modular_exponentiation_inverse">Modular exponentiation/inverse</a>
+* [Count anagrams](Solutions/C/count-anagrams)
 * [Count good numbers](Solutions/C/count-good-numbers)
 * [Count the number of ideal arrays](Solutions/C/count-the-number-of-ideal-arrays)
 * [Maximize number of nice divisors](Solutions/M/maximize-number-of-nice-divisors)
@@ -1115,6 +1122,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## <a name="Range_updates_using_prefix_sum">Range updates using prefix sum</a>
 * [Invalid transactions](Solutions/I/invalid-transactions)
 
+## <a name="Search_by_iterative_bound_improvement">Search by iterative bound improvement</a>
+* [Minimize the maximum of two arrays](Solutions/M/minimize-the-maximum-of-two-arrays)
+
 ## <a name="Segment_tree">Segment tree</a>
 * [Count of range sum](Solutions/C/count-of-range-sum)
 * [Count of smaller numbers after self](Solutions/C/count-of-smaller-numbers-after-self)
@@ -1284,6 +1294,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum sum of squared difference](Solutions/M/minimum-sum-of-squared-difference)
 * [Next greater element iv](Solutions/N/next-greater-element-iv)
 * [Non overlapping intervals](Solutions/N/non-overlapping-intervals)
+* [Reward top k students](Solutions/R/reward-top-k-students)
 * [Sort the people](Solutions/S/sort-the-people)
 
 ### <a name="Sorting-Merge_sort">Merge sort</a>
@@ -1349,6 +1360,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Circular sentence](Solutions/C/circular-sentence)
 * [Compare version numbers](Solutions/C/compare-version-numbers)
 * [Complex number multiplication](Solutions/C/complex-number-multiplication)
+* [Count anagrams](Solutions/C/count-anagrams)
 * [Count days spent together](Solutions/C/count-days-spent-together)
 * [Detect capital](Solutions/D/detect-capital)
 * [Evaluate the bracket pairs of a string](Solutions/E/evaluate-the-bracket-pairs-of-a-string)
@@ -1359,6 +1371,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum cost to change the final value of expression](Solutions/M/minimum-cost-to-change-the-final-value-of-expression)
 * [Number of different integers in a string](Solutions/N/number-of-different-integers-in-a-string)
 * [Reverse words in a string iii](Solutions/R/reverse-words-in-a-string-iii)
+* [Reward top k students](Solutions/R/reward-top-k-students)
 * [Split message based on limit](Solutions/S/split-message-based-on-limit)
 * [Utf 8 validation](Solutions/U/utf-8-validation)
 

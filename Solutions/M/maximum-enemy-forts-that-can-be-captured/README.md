@@ -1,0 +1,7 @@
+# Maximum enemy forts that can be captured
+
+[Problem link](https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured/)
+
+## Tags
+
+* [Array scanning](/README.md#Array_scanning)
