@@ -50,6 +50,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum remove to make valid parentheses](Solutions/M/minimum-remove-to-make-valid-parentheses)
 * [Partition array into disjoint intervals](Solutions/P/partition-array-into-disjoint-intervals)
 * [Product of array except self](Solutions/P/product-of-array-except-self)
+* [Take k of each character from left and right](Solutions/T/take-k-of-each-character-from-left-and-right)
 
 ### <a name="Array_scanning-In_place_modification">In-place modification</a>
 * [Duplicate zeros](Solutions/D/duplicate-zeros)
@@ -133,6 +134,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum distance between a pair of values](Solutions/M/maximum-distance-between-a-pair-of-values)
 * [Maximum number of removable characters](Solutions/M/maximum-number-of-removable-characters)
 * [Maximum number of robots within budget](Solutions/M/maximum-number-of-robots-within-budget)
+* [Maximum tastiness of candy basket](Solutions/M/maximum-tastiness-of-candy-basket)
 * [Maximum value at a given index in a bounded array](Solutions/M/maximum-value-at-a-given-index-in-a-bounded-array)
 * [Maximum xor of two numbers in an array](Solutions/M/maximum-xor-of-two-numbers-in-an-array)
 * [Minimize maximum of array](Solutions/M/minimize-maximum-of-array)
@@ -358,6 +360,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum skips to arrive at meeting on time](Solutions/M/minimum-skips-to-arrive-at-meeting-on-time)
 * [Minimum total distance traveled](Solutions/M/minimum-total-distance-traveled)
 * [N th tribonacci number](Solutions/N/n-th-tribonacci-number)
+* [Number of great partitions](Solutions/N/number-of-great-partitions)
 * [Partition equal subset sum](Solutions/P/partition-equal-subset-sum)
 * [Pascals triangle ii](Solutions/P/pascals-triangle-ii)
 * [Paths in matrix whose sum is divisible by k](Solutions/P/paths-in-matrix-whose-sum-is-divisible-by-k)
@@ -396,6 +399,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Dynamic_programming-Knapsack">Knapsack</a>
 * [Coin change](Solutions/C/coin-change)
 * [Coin change 2](Solutions/C/coin-change-2)
+* [Number of great partitions](Solutions/N/number-of-great-partitions)
 * [Ones and zeroes](Solutions/O/ones-and-zeroes)
 * [Partition equal subset sum](Solutions/P/partition-equal-subset-sum)
 
@@ -599,6 +603,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum number of consecutive values you can make](Solutions/M/maximum-number-of-consecutive-values-you-can-make)
 * [Maximum number of groups entering a competition](Solutions/M/maximum-number-of-groups-entering-a-competition)
 * [Maximum performance of a team](Solutions/M/maximum-performance-of-a-team)
+* [Maximum tastiness of candy basket](Solutions/M/maximum-tastiness-of-candy-basket)
 * [Maximum units on a truck](Solutions/M/maximum-units-on-a-truck)
 * [Maximum value after insertion](Solutions/M/maximum-value-after-insertion)
 * [Minimize maximum pair sum in array](Solutions/M/minimize-maximum-pair-sum-in-array)
@@ -699,6 +704,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Reward top k students](Solutions/R/reward-top-k-students)
 * [Smallest subarrays with maximum bitwise or](Solutions/S/smallest-subarrays-with-maximum-bitwise-or)
 * [Sum of prefix scores of strings](Solutions/S/sum-of-prefix-scores-of-strings)
+* [Take k of each character from left and right](Solutions/T/take-k-of-each-character-from-left-and-right)
 
 ### <a name="Hashmap-Coordinate_compression">Coordinate compression</a>
 * [Design underground system](Solutions/D/design-underground-system)
@@ -1222,6 +1228,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Remove all occurrences of a substring](Solutions/R/remove-all-occurrences-of-a-substring)
 * [Remove one element to make the array strictly increasing](Solutions/R/remove-one-element-to-make-the-array-strictly-increasing)
 * [Remove palindromic subsequences](Solutions/R/remove-palindromic-subsequences)
+* [Shortest distance to target string in a circular array](Solutions/S/shortest-distance-to-target-string-in-a-circular-array)
 * [Smallest even multiple](Solutions/S/smallest-even-multiple)
 * [Sum of number and its reverse](Solutions/S/sum-of-number-and-its-reverse)
 * [The employee that worked on the longest task](Solutions/T/the-employee-that-worked-on-the-longest-task)
