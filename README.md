@@ -336,6 +336,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Palindrome partitioning ii](Solutions/P/palindrome-partitioning-ii)
 * [Palindrome partitioning iii](Solutions/P/palindrome-partitioning-iii)
 * [Palindrome partitioning iv](Solutions/P/palindrome-partitioning-iv)
+* [Partition string into substrings with values at most k](Solutions/P/partition-string-into-substrings-with-values-at-most-k)
 * [Pascals triangle](Solutions/P/pascals-triangle)
 * [Remove boxes](Solutions/R/remove-boxes)
 
@@ -649,6 +650,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Design hashmap](Solutions/D/design-hashmap)
 * [Destroy sequential targets](Solutions/D/destroy-sequential-targets)
 * [Determine if two strings are close](Solutions/D/determine-if-two-strings-are-close)
+* [Distinct prime factors of product of array](Solutions/D/distinct-prime-factors-of-product-of-array)
 * [Encode and decode tinyurl](Solutions/E/encode-and-decode-tinyurl)
 * [Equal row and column pairs](Solutions/E/equal-row-and-column-pairs)
 * [Evaluate the bracket pairs of a string](Solutions/E/evaluate-the-bracket-pairs-of-a-string)
@@ -908,8 +910,10 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum number of operations to make string sorted](Solutions/M/minimum-number-of-operations-to-make-string-sorted)
 
 #### <a name="Mathematics-Number_theory-Prime_sieving">Prime sieving</a>
+* [Closest prime numbers in range](Solutions/C/closest-prime-numbers-in-range)
 * [Count primes](Solutions/C/count-primes)
 * [Count the number of ideal arrays](Solutions/C/count-the-number-of-ideal-arrays)
+* [Distinct prime factors of product of array](Solutions/D/distinct-prime-factors-of-product-of-array)
 * [Largest component size by common factor](Solutions/L/largest-component-size-by-common-factor)
 * [Number of different subsequences gcds](Solutions/N/number-of-different-subsequences-gcds)
 
@@ -1164,6 +1168,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count and say](Solutions/C/count-and-say)
 * [Count asterisks](Solutions/C/count-asterisks)
 * [Count number of distinct integers after reverse operations](Solutions/C/count-number-of-distinct-integers-after-reverse-operations)
+* [Count the digits that divide a number](Solutions/C/count-the-digits-that-divide-a-number)
 * [Determine color of a chessboard square](Solutions/D/determine-color-of-a-chessboard-square)
 * [Determine if string halves are alike](Solutions/D/determine-if-string-halves-are-alike)
 * [Difference between ones and zeros in row and column](Solutions/D/difference-between-ones-and-zeros-in-row-and-column)
