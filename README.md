@@ -1169,6 +1169,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count asterisks](Solutions/C/count-asterisks)
 * [Count number of distinct integers after reverse operations](Solutions/C/count-number-of-distinct-integers-after-reverse-operations)
 * [Count the digits that divide a number](Solutions/C/count-the-digits-that-divide-a-number)
+* [Delete columns to make sorted](Solutions/D/delete-columns-to-make-sorted)
 * [Determine color of a chessboard square](Solutions/D/determine-color-of-a-chessboard-square)
 * [Determine if string halves are alike](Solutions/D/determine-if-string-halves-are-alike)
 * [Difference between ones and zeros in row and column](Solutions/D/difference-between-ones-and-zeros-in-row-and-column)
