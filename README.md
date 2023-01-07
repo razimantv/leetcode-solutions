@@ -131,6 +131,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Kth smallest element in a sorted matrix](Solutions/K/kth-smallest-element-in-a-sorted-matrix)
 * [Kth smallest number in multiplication table](Solutions/K/kth-smallest-number-in-multiplication-table)
 * [Longest subsequence with limited sum](Solutions/L/longest-subsequence-with-limited-sum)
+* [Maximize the minimum powered city](Solutions/M/maximize-the-minimum-powered-city)
 * [Maximum distance between a pair of values](Solutions/M/maximum-distance-between-a-pair-of-values)
 * [Maximum number of removable characters](Solutions/M/maximum-number-of-removable-characters)
 * [Maximum number of robots within budget](Solutions/M/maximum-number-of-robots-within-budget)
@@ -203,6 +204,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Utf 8 validation](Solutions/U/utf-8-validation)
 
 ### <a name="Bitwise_operation-Build_result_bit_by_bit">Build result bit-by-bit</a>
+* [Find xor beauty of array](Solutions/F/find-xor-beauty-of-array)
 * [Maximum xor of two numbers in an array](Solutions/M/maximum-xor-of-two-numbers-in-an-array)
 * [Minimum number of flips to convert binary matrix to zero matrix](Solutions/M/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix)
 
@@ -268,6 +270,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Design movie rental system](Solutions/D/design-movie-rental-system)
 * [Design underground system](Solutions/D/design-underground-system)
 * [Encode and decode tinyurl](Solutions/E/encode-and-decode-tinyurl)
+* [Find consecutive integers from a data stream](Solutions/F/find-consecutive-integers-from-a-data-stream)
 * [Implement trie prefix tree](Solutions/I/implement-trie-prefix-tree)
 * [Insert delete getrandom o1](Solutions/I/insert-delete-getrandom-o1)
 * [Iterator for combination](Solutions/I/iterator-for-combination)
@@ -597,6 +600,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Largest number](Solutions/L/largest-number)
 * [Longest subsequence with limited sum](Solutions/L/longest-subsequence-with-limited-sum)
 * [Make array zero by subtracting equal amounts](Solutions/M/make-array-zero-by-subtracting-equal-amounts)
+* [Maximize the minimum powered city](Solutions/M/maximize-the-minimum-powered-city)
 * [Maximum bags with full capacity of rocks](Solutions/M/maximum-bags-with-full-capacity-of-rocks)
 * [Maximum element after decreasing and rearranging](Solutions/M/maximum-element-after-decreasing-and-rearranging)
 * [Maximum ice cream bars](Solutions/M/maximum-ice-cream-bars)
@@ -845,6 +849,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count the number of ideal arrays](Solutions/C/count-the-number-of-ideal-arrays)
 * [Count unreachable pairs of nodes in an undirected graph](Solutions/C/count-unreachable-pairs-of-nodes-in-an-undirected-graph)
 * [Domino and tromino tiling](Solutions/D/domino-and-tromino-tiling)
+* [Find xor beauty of array](Solutions/F/find-xor-beauty-of-array)
 * [Iterator for combination](Solutions/I/iterator-for-combination)
 * [Minimum number of operations to make string sorted](Solutions/M/minimum-number-of-operations-to-make-string-sorted)
 * [Naming a company](Solutions/N/naming-a-company)
@@ -1069,6 +1074,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 #### <a name="Prefix-Sum-For_range_updates">For range updates</a>
 * [Invalid transactions](Solutions/I/invalid-transactions)
+* [Maximize the minimum powered city](Solutions/M/maximize-the-minimum-powered-city)
 
 #### <a name="Prefix-Sum-Valid_brackets">Valid brackets</a>
 * [Minimum remove to make valid parentheses](Solutions/M/minimum-remove-to-make-valid-parentheses)
@@ -1158,6 +1164,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Bulls and cows](Solutions/B/bulls-and-cows)
 * [Calculate amount paid in taxes](Solutions/C/calculate-amount-paid-in-taxes)
 * [Can place flowers](Solutions/C/can-place-flowers)
+* [Categorize box according to criteria](Solutions/C/categorize-box-according-to-criteria)
 * [Check distances between same letters](Solutions/C/check-distances-between-same-letters)
 * [Check if a string contains all binary codes of size k](Solutions/C/check-if-a-string-contains-all-binary-codes-of-size-k)
 * [Check if all the integers in a range are covered](Solutions/C/check-if-all-the-integers-in-a-range-are-covered)
