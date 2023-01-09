@@ -233,6 +233,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum number of flips to convert binary matrix to zero matrix](Solutions/M/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix)
 * [Numbers with same consecutive differences](Solutions/N/numbers-with-same-consecutive-differences)
 
+## <a name="Case_by_case_analysis">Case-by-case analysis</a>
+* [Make number of distinct characters equal](Solutions/M/make-number-of-distinct-characters-equal)
+
 ## <a name="Concurrency">Concurrency</a>
 * [Building h2o](Solutions/B/building-h2o)
 * [Fizz buzz multithreaded](Solutions/F/fizz-buzz-multithreaded)
@@ -678,6 +681,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest uploaded prefix](Solutions/L/longest-uploaded-prefix)
 * [Longest word in dictionary](Solutions/L/longest-word-in-dictionary)
 * [Lru cache](Solutions/L/lru-cache)
+* [Make number of distinct characters equal](Solutions/M/make-number-of-distinct-characters-equal)
 * [Map sum pairs](Solutions/M/map-sum-pairs)
 * [Max number of k sum pairs](Solutions/M/max-number-of-k-sum-pairs)
 * [Max points on a line](Solutions/M/max-points-on-a-line)
@@ -1086,6 +1090,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Furthest building you can reach](Solutions/F/furthest-building-you-can-reach)
 * [Jump game vi](Solutions/J/jump-game-vi)
 * [Last stone weight](Solutions/L/last-stone-weight)
+* [Maximal score after applying k operations](Solutions/M/maximal-score-after-applying-k-operations)
 * [Maximum frequency stack](Solutions/M/maximum-frequency-stack)
 * [Maximum number of events that can be attended](Solutions/M/maximum-number-of-events-that-can-be-attended)
 * [Maximum number of points from grid queries](Solutions/M/maximum-number-of-points-from-grid-queries)
@@ -1096,6 +1101,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Number of orders in the backlog](Solutions/N/number-of-orders-in-the-backlog)
 * [Process tasks using servers](Solutions/P/process-tasks-using-servers)
 * [Remove stones to minimize the total](Solutions/R/remove-stones-to-minimize-the-total)
+* [Time to cross a bridge](Solutions/T/time-to-cross-a-bridge)
 * [Total cost to hire k workers](Solutions/T/total-cost-to-hire-k-workers)
 
 ### <a name="Priority_queue-Dijkstra_s_algorithm">Dijkstra's algorithm</a>
@@ -1212,6 +1218,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Largest time for given digits](Solutions/L/largest-time-for-given-digits)
 * [Match substring after replacement](Solutions/M/match-substring-after-replacement)
 * [Maximum 69 number](Solutions/M/maximum-69-number)
+* [Maximum count of positive integer and negative integer](Solutions/M/maximum-count-of-positive-integer-and-negative-integer)
 * [Maximum number of balloons](Solutions/M/maximum-number-of-balloons)
 * [Maximum number of pairs in array](Solutions/M/maximum-number-of-pairs-in-array)
 * [Maximum star sum of a graph](Solutions/M/maximum-star-sum-of-a-graph)

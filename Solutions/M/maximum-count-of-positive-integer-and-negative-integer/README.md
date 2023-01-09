@@ -1,0 +1,7 @@
+# Maximum count of positive integer and negative integer
+
+[Problem link](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/)
+
+## Tags
+
+* [Simple implementation](/README.md#Simple_implementation)
