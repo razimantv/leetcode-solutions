@@ -1485,6 +1485,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Binary tree level order traversal](Solutions/B/binary-tree-level-order-traversal)
 * [Binary tree level order traversal ii](Solutions/B/binary-tree-level-order-traversal-ii)
 * [Binary tree maximum path sum](Solutions/B/binary-tree-maximum-path-sum)
+* [Binary tree preorder traversal](Solutions/B/binary-tree-preorder-traversal)
 * [Binary tree pruning](Solutions/B/binary-tree-pruning)
 * [Binary tree right side view](Solutions/B/binary-tree-right-side-view)
 * [Binary tree tilt](Solutions/B/binary-tree-tilt)
@@ -1535,6 +1536,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum number of operations to sort a binary tree by level](Solutions/M/minimum-number-of-operations-to-sort-a-binary-tree-by-level)
 
 ### <a name="Tree-Order_traversal">Order traversal</a>
+* [Binary tree preorder traversal](Solutions/B/binary-tree-preorder-traversal)
 * [Construct binary tree from inorder and postorder traversal](Solutions/C/construct-binary-tree-from-inorder-and-postorder-traversal)
 * [Construct binary tree from preorder and inorder traversal](Solutions/C/construct-binary-tree-from-preorder-and-inorder-traversal)
 * [Flip binary tree to match preorder traversal](Solutions/F/flip-binary-tree-to-match-preorder-traversal)
