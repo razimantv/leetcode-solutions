@@ -524,6 +524,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum number of operations to sort a binary tree by level](Solutions/M/minimum-number-of-operations-to-sort-a-binary-tree-by-level)
 * [Minimum score after removals on a tree](Solutions/M/minimum-score-after-removals-on-a-tree)
 * [Minimum score of a path between two cities](Solutions/M/minimum-score-of-a-path-between-two-cities)
+* [Minimum time to collect all apples in a tree](Solutions/M/minimum-time-to-collect-all-apples-in-a-tree)
 * [Most profitable path in a tree](Solutions/M/most-profitable-path-in-a-tree)
 * [Number of increasing paths in a grid](Solutions/N/number-of-increasing-paths-in-a-grid)
 * [Reachable nodes with restrictions](Solutions/R/reachable-nodes-with-restrictions)
