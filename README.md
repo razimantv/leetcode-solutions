@@ -527,6 +527,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum time to collect all apples in a tree](Solutions/M/minimum-time-to-collect-all-apples-in-a-tree)
 * [Most profitable path in a tree](Solutions/M/most-profitable-path-in-a-tree)
 * [Number of increasing paths in a grid](Solutions/N/number-of-increasing-paths-in-a-grid)
+* [Number of nodes in the sub tree with the same label](Solutions/N/number-of-nodes-in-the-sub-tree-with-the-same-label)
 * [Reachable nodes with restrictions](Solutions/R/reachable-nodes-with-restrictions)
 
 #### <a name="Graph_theory-Depth_first_search-Colouring">Colouring</a>
@@ -700,6 +701,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Number of atoms](Solutions/N/number-of-atoms)
 * [Number of distinct averages](Solutions/N/number-of-distinct-averages)
 * [Number of excellent pairs](Solutions/N/number-of-excellent-pairs)
+* [Number of nodes in the sub tree with the same label](Solutions/N/number-of-nodes-in-the-sub-tree-with-the-same-label)
 * [Odd string difference](Solutions/O/odd-string-difference)
 * [Optimal partition of string](Solutions/O/optimal-partition-of-string)
 * [Pairs of songs with total durations divisible by 60](Solutions/P/pairs-of-songs-with-total-durations-divisible-by-60)
