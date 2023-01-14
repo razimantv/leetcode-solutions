@@ -293,6 +293,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## <a name="Disjoint_set_union">Disjoint set union</a>
 * [Accounts merge](Solutions/A/accounts-merge)
 * [Largest component size by common factor](Solutions/L/largest-component-size-by-common-factor)
+* [Lexicographically smallest equivalent string](Solutions/L/lexicographically-smallest-equivalent-string)
 * [Maximum segment sum after removals](Solutions/M/maximum-segment-sum-after-removals)
 * [Min cost to connect all points](Solutions/M/min-cost-to-connect-all-points)
 * [Number of good paths](Solutions/N/number-of-good-paths)
