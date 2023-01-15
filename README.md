@@ -450,6 +450,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Dynamic_programming-Trees">Trees</a>
 * [Diameter of binary tree](Solutions/D/diameter-of-binary-tree)
+* [Difference between maximum and minimum price sum](Solutions/D/difference-between-maximum-and-minimum-price-sum)
 * [Employee importance](Solutions/E/employee-importance)
 * [Height of binary tree after subtree removal queries](Solutions/H/height-of-binary-tree-after-subtree-removal-queries)
 * [House robber iii](Solutions/H/house-robber-iii)
@@ -515,6 +516,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Critical connections in a network](Solutions/C/critical-connections-in-a-network)
 * [Delete nodes and return forest](Solutions/D/delete-nodes-and-return-forest)
 * [Detect cycles in 2d grid](Solutions/D/detect-cycles-in-2d-grid)
+* [Difference between maximum and minimum price sum](Solutions/D/difference-between-maximum-and-minimum-price-sum)
 * [Employee importance](Solutions/E/employee-importance)
 * [Find if path exists in graph](Solutions/F/find-if-path-exists-in-graph)
 * [Jump game iii](Solutions/J/jump-game-iii)
@@ -656,6 +658,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count number of distinct integers after reverse operations](Solutions/C/count-number-of-distinct-integers-after-reverse-operations)
 * [Count pairs of similar strings](Solutions/C/count-pairs-of-similar-strings)
 * [Count subarrays with median k](Solutions/C/count-subarrays-with-median-k)
+* [Count the number of good subarrays](Solutions/C/count-the-number-of-good-subarrays)
 * [Delete and earn](Solutions/D/delete-and-earn)
 * [Design hashmap](Solutions/D/design-hashmap)
 * [Destroy sequential targets](Solutions/D/destroy-sequential-targets)
@@ -946,6 +949,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## <a name="Matrix">Matrix</a>
 * [Difference between ones and zeros in row and column](Solutions/D/difference-between-ones-and-zeros-in-row-and-column)
+* [Increment submatrices by one](Solutions/I/increment-submatrices-by-one)
 
 ### <a name="Matrix-Geometric_transformation">Geometric transformation</a>
 * [Determine whether matrix can be obtained by rotation](Solutions/D/determine-whether-matrix-can-be-obtained-by-rotation)
@@ -1076,11 +1080,13 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Reducing dishes](Solutions/R/reducing-dishes)
 
 #### <a name="Prefix-Sum-2D">2D</a>
+* [Increment submatrices by one](Solutions/I/increment-submatrices-by-one)
 * [Maximal square](Solutions/M/maximal-square)
 * [Number of submatrices that sum to target](Solutions/N/number-of-submatrices-that-sum-to-target)
 * [Range sum query 2d immutable](Solutions/R/range-sum-query-2d-immutable)
 
 #### <a name="Prefix-Sum-For_range_updates">For range updates</a>
+* [Increment submatrices by one](Solutions/I/increment-submatrices-by-one)
 * [Invalid transactions](Solutions/I/invalid-transactions)
 * [Maximize the minimum powered city](Solutions/M/maximize-the-minimum-powered-city)
 
@@ -1191,6 +1197,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Delete columns to make sorted](Solutions/D/delete-columns-to-make-sorted)
 * [Determine color of a chessboard square](Solutions/D/determine-color-of-a-chessboard-square)
 * [Determine if string halves are alike](Solutions/D/determine-if-string-halves-are-alike)
+* [Difference between element sum and digit sum of an array](Solutions/D/difference-between-element-sum-and-digit-sum-of-an-array)
 * [Difference between ones and zeros in row and column](Solutions/D/difference-between-ones-and-zeros-in-row-and-column)
 * [Distribute candies](Solutions/D/distribute-candies)
 * [Distribute candies to people](Solutions/D/distribute-candies-to-people)
@@ -1267,6 +1274,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Binary trees with factors](Solutions/B/binary-trees-with-factors)
 * [Contains duplicate ii](Solutions/C/contains-duplicate-ii)
 * [Count pairs of nodes](Solutions/C/count-pairs-of-nodes)
+* [Count the number of good subarrays](Solutions/C/count-the-number-of-good-subarrays)
 * [Find a value of a mysterious function closest to target](Solutions/F/find-a-value-of-a-mysterious-function-closest-to-target)
 * [Find all anagrams in a string](Solutions/F/find-all-anagrams-in-a-string)
 * [Frequency of the most frequent element](Solutions/F/frequency-of-the-most-frequent-element)
@@ -1349,6 +1357,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Sum of subarray minimums](Solutions/S/sum-of-subarray-minimums)
 
 ### <a name="Sorting-Stable">Stable</a>
+* [Difference between maximum and minimum price sum](Solutions/D/difference-between-maximum-and-minimum-price-sum)
 * [Query kth smallest trimmed number](Solutions/Q/query-kth-smallest-trimmed-number)
 
 ## <a name="Stack">Stack</a>
