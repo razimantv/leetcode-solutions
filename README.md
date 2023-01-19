@@ -721,6 +721,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Reduce array size to the half](Solutions/R/reduce-array-size-to-the-half)
 * [Reward top k students](Solutions/R/reward-top-k-students)
 * [Smallest subarrays with maximum bitwise or](Solutions/S/smallest-subarrays-with-maximum-bitwise-or)
+* [Subarray sums divisible by k](Solutions/S/subarray-sums-divisible-by-k)
 * [Sum of prefix scores of strings](Solutions/S/sum-of-prefix-scores-of-strings)
 * [Take k of each character from left and right](Solutions/T/take-k-of-each-character-from-left-and-right)
 
@@ -911,6 +912,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Number of subarrays with gcd equal to k](Solutions/N/number-of-subarrays-with-gcd-equal-to-k)
 * [Number of subarrays with lcm equal to k](Solutions/N/number-of-subarrays-with-lcm-equal-to-k)
 * [Range product queries of powers](Solutions/R/range-product-queries-of-powers)
+* [Subarray sums divisible by k](Solutions/S/subarray-sums-divisible-by-k)
 
 #### <a name="Mathematics-Number_theory-Dynamic_programming">Dynamic programming</a>
 * [Largest divisible subset](Solutions/L/largest-divisible-subset)
@@ -1078,6 +1080,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Random point in non overlapping rectangles](Solutions/R/random-point-in-non-overlapping-rectangles)
 * [Range sum query immutable](Solutions/R/range-sum-query-immutable)
 * [Reducing dishes](Solutions/R/reducing-dishes)
+* [Subarray sums divisible by k](Solutions/S/subarray-sums-divisible-by-k)
 
 #### <a name="Prefix-Sum-2D">2D</a>
 * [Increment submatrices by one](Solutions/I/increment-submatrices-by-one)

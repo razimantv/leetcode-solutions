@@ -1,3 +1,4 @@
+Array scanning
 Array scanning>Contiguous region
 Array scanning>From both ends of array
 Array scanning>In-place modification
@@ -16,6 +17,7 @@ Bitwise operation>Build result bit-by-bit
 Bitwise operation>Self-inverse property of xor
 Brute force enumeration>Combinatorial
 Brute force enumeration>Elementwise processing using a vector
+Case-by-case analysis
 Concurrency
 Construction
 Counting elements in array
@@ -29,12 +31,14 @@ Dynamic programming>Auxiliary array
 Dynamic programming>Cyclic array
 Dynamic programming>Digits
 Dynamic programming>Graph-like state transitions
+Dynamic programming>Grid
 Dynamic programming>Intervals
 Dynamic programming>Knapsack
 Dynamic programming>Longest common subsequence
 Dynamic programming>Longest increasing subsequence
 Dynamic programming>Memoised recursion
 Dynamic programming>Number theory
+Dynamic programming>Partial bottom-up
 Dynamic programming>Segment tree
 Dynamic programming>Subsets
 Dynamic programming>Topological sort
@@ -43,6 +47,7 @@ Encoding and decoding
 Flattening
 Formatted output
 Fraud
+Graph theory>Bipartite graph
 Graph theory>Breadth first search
 Graph theory>Bridges/Articulation points
 Graph theory>Cycle detection
@@ -56,6 +61,8 @@ Graph theory>Depth first search>Tree diameter
 Graph theory>Dijkstra's algorithm
 Graph theory>Directed acyclic graph
 Graph theory>Minimum spanning tree
+Graph theory>Prim's algorithm
+Graph theory>Reuse visited array
 Graph theory>Single outdegree graphs
 Graph theory>Topological sort
 Graph theory>Topological sort>Dynamic Programming
@@ -95,6 +102,7 @@ Mathematics>Number theory>Modular exponentiation/inverse
 Mathematics>Number theory>Prime sieving
 Mathematics>Number theory>Theorems
 Mathematics>Probability
+Matrix
 Matrix>Geometric transformation
 Matrix>Path
 Matrix>Row pair processing
@@ -128,6 +136,7 @@ Process multiple vectors together
 Queue
 Quick Select
 Range updates using prefix sum
+Search by iterative bound improvement
 Segment tree
 Simple implementation
 Sliding window
@@ -157,11 +166,14 @@ Suboptimal solution
 Time reversed simulation
 Tree>Binary search tree
 Tree>Binary search tree>Traversal
+Tree>Binary tree
 Tree>Binary tree>Iteration
 Tree>Binary tree>Recursion
+Tree>Level-wise processing
 Tree>Order traversal
 Tree>Rerooting
 Trie
 Two pointers
 Unique elements in subarray
 Unique/duplicate element finding with bizarro algorithms
+Valid subarray counting>Iterate one endpoint and keep valid range for other
