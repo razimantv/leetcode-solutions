@@ -188,6 +188,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimize xor](Solutions/M/minimize-xor)
 * [Minimum xor sum of two arrays](Solutions/M/minimum-xor-sum-of-two-arrays)
 * [Missing number](Solutions/M/missing-number)
+* [Non decreasing subsequences](Solutions/N/non-decreasing-subsequences)
 * [Non negative integers without consecutive ones](Solutions/N/non-negative-integers-without-consecutive-ones)
 * [Number complement](Solutions/N/number-complement)
 * [Number of 1 bits](Solutions/N/number-of-1-bits)
@@ -224,6 +225,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum rows covered by columns](Solutions/M/maximum-rows-covered-by-columns)
 * [N queens](Solutions/N/n-queens)
 * [N queens ii](Solutions/N/n-queens-ii)
+* [Non decreasing subsequences](Solutions/N/non-decreasing-subsequences)
 * [Probability of a two boxes having the same number of distinct balls](Solutions/P/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls)
 * [Remove invalid parentheses](Solutions/R/remove-invalid-parentheses)
 
