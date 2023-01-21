@@ -348,6 +348,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Partition string into substrings with values at most k](Solutions/P/partition-string-into-substrings-with-values-at-most-k)
 * [Pascals triangle](Solutions/P/pascals-triangle)
 * [Remove boxes](Solutions/R/remove-boxes)
+* [Restore ip addresses](Solutions/R/restore-ip-addresses)
 
 ### <a name="Dynamic_programming-Array_reuse">Array reuse</a>
 * [Champagne tower](Solutions/C/champagne-tower)
