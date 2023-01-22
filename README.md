@@ -629,6 +629,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum number of arrows to burst balloons](Solutions/M/minimum-number-of-arrows-to-burst-balloons)
 * [Minimum number of increments on subarrays to form a target array](Solutions/M/minimum-number-of-increments-on-subarrays-to-form-a-target-array)
 * [Minimum number of operations to make arrays similar](Solutions/M/minimum-number-of-operations-to-make-arrays-similar)
+* [Minimum operations to make array equal ii](Solutions/M/minimum-operations-to-make-array-equal-ii)
 * [Minimum operations to make the array increasing](Solutions/M/minimum-operations-to-make-the-array-increasing)
 * [Minimum replacements to sort the array](Solutions/M/minimum-replacements-to-sort-the-array)
 * [Minimum sum of squared difference](Solutions/M/minimum-sum-of-squared-difference)
@@ -895,11 +896,15 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Best position for a service centre](Solutions/B/best-position-for-a-service-centre)
 * [Minimum cost to make array equal](Solutions/M/minimum-cost-to-make-array-equal)
 
+### <a name="Mathematics-Invariants">Invariants</a>
+* [Minimum operations to make array equal ii](Solutions/M/minimum-operations-to-make-array-equal-ii)
+
 ### <a name="Mathematics-Number_theory">Number theory</a>
 
 #### <a name="Mathematics-Number_theory-Basic">Basic</a>
 * [Add digits](Solutions/A/add-digits)
 * [Check if it is a good array](Solutions/C/check-if-it-is-a-good-array)
+* [Check if point is reachable](Solutions/C/check-if-point-is-reachable)
 * [Continuous subarray sum](Solutions/C/continuous-subarray-sum)
 * [Destroy sequential targets](Solutions/D/destroy-sequential-targets)
 * [Factorial trailing zeroes](Solutions/F/factorial-trailing-zeroes)
@@ -1131,6 +1136,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Get biggest three rhombus sums in a grid](Solutions/G/get-biggest-three-rhombus-sums-in-a-grid)
 * [Kth largest element in a stream](Solutions/K/kth-largest-element-in-a-stream)
 * [Maximum performance of a team](Solutions/M/maximum-performance-of-a-team)
+* [Maximum subsequence score](Solutions/M/maximum-subsequence-score)
 
 #### <a name="Priority_queue-K_smallest_largest_elements-Transfer_between_the_two">Transfer between the two</a>
 * [Find median from data stream](Solutions/F/find-median-from-data-stream)
@@ -1343,6 +1349,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Non overlapping intervals](Solutions/N/non-overlapping-intervals)
 * [Reward top k students](Solutions/R/reward-top-k-students)
 * [Sort the people](Solutions/S/sort-the-people)
+
+### <a name="Sorting-Index_array">Index array</a>
+* [Maximum subsequence score](Solutions/M/maximum-subsequence-score)
 
 ### <a name="Sorting-Merge_sort">Merge sort</a>
 * [Merge k sorted lists](Solutions/M/merge-k-sorted-lists)
@@ -1581,6 +1590,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## <a name="Two_pointers">Two pointers</a>
 * [Find k closest elements](Solutions/F/find-k-closest-elements)
+* [Minimum common value](Solutions/M/minimum-common-value)
 * [Reverse vowels of a string](Solutions/R/reverse-vowels-of-a-string)
 
 ## <a name="Unique_elements_in_subarray">Unique elements in subarray</a>

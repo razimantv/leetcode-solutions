@@ -95,6 +95,7 @@ Mathematics>Expression rearrangement
 Mathematics>Geometry
 Mathematics>Geometry>Convex hull
 Mathematics>Geometry>Geometric median
+Mathematics>Invariants
 Mathematics>Number theory>Basic
 Mathematics>Number theory>Dynamic programming
 Mathematics>Number theory>Factor listing in sqrt(N)
@@ -144,6 +145,7 @@ Sliding window>Monotonic deque
 Sliding window>String hashing
 Sorting
 Sorting>Custom
+Sorting>Index array
 Sorting>Merge sort
 Sorting>Partial
 Sorting>Queries and updates together
