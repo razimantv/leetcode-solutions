@@ -164,6 +164,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Random point in non overlapping rectangles](Solutions/R/random-point-in-non-overlapping-rectangles)
 
 ## <a name="Bitwise_operation">Bitwise operation</a>
+* [Apply bitwise operations to make strings equal](Solutions/A/apply-bitwise-operations-to-make-strings-equal)
 * [Binary watch](Solutions/B/binary-watch)
 * [Bitwise and of numbers range](Solutions/B/bitwise-and-of-numbers-range)
 * [Check if a string contains all binary codes of size k](Solutions/C/check-if-a-string-contains-all-binary-codes-of-size-k)
@@ -335,6 +336,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Min cost climbing stairs](Solutions/M/min-cost-climbing-stairs)
 * [Minimum cost for tickets](Solutions/M/minimum-cost-for-tickets)
 * [Minimum cost to make array equal](Solutions/M/minimum-cost-to-make-array-equal)
+* [Minimum cost to split an array](Solutions/M/minimum-cost-to-split-an-array)
 * [Minimum difficulty of a job schedule](Solutions/M/minimum-difficulty-of-a-job-schedule)
 * [Minimum penalty for a shop](Solutions/M/minimum-penalty-for-a-shop)
 * [Minimum sideway jumps](Solutions/M/minimum-sideway-jumps)
@@ -701,6 +703,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum sum of distinct subarrays with length k](Solutions/M/maximum-sum-of-distinct-subarrays-with-length-k)
 * [Merge similar items](Solutions/M/merge-similar-items)
 * [Minimum amount of time to collect garbage](Solutions/M/minimum-amount-of-time-to-collect-garbage)
+* [Minimum cost to split an array](Solutions/M/minimum-cost-to-split-an-array)
 * [Minimum deletions to make character frequencies unique](Solutions/M/minimum-deletions-to-make-character-frequencies-unique)
 * [Minimum rounds to complete all tasks](Solutions/M/minimum-rounds-to-complete-all-tasks)
 * [Minimum total cost to make arrays unequal](Solutions/M/minimum-total-cost-to-make-arrays-unequal)
@@ -1185,6 +1188,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Range sum query mutable](Solutions/R/range-sum-query-mutable)
 
 ## <a name="Simple_implementation">Simple implementation</a>
+* [Alternating digit sum](Solutions/A/alternating-digit-sum)
 * [Apply operations to an array](Solutions/A/apply-operations-to-an-array)
 * [Arranging coins](Solutions/A/arranging-coins)
 * [Average value of even numbers that are divisible by three](Solutions/A/average-value-of-even-numbers-that-are-divisible-by-three)
@@ -1349,6 +1353,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Non overlapping intervals](Solutions/N/non-overlapping-intervals)
 * [Reward top k students](Solutions/R/reward-top-k-students)
 * [Sort the people](Solutions/S/sort-the-people)
+* [Sort the students by their kth score](Solutions/S/sort-the-students-by-their-kth-score)
 
 ### <a name="Sorting-Index_array">Index array</a>
 * [Maximum subsequence score](Solutions/M/maximum-subsequence-score)
