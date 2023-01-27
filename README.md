@@ -315,6 +315,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Cheapest flights within k stops](Solutions/C/cheapest-flights-within-k-stops)
 * [Check if there is a valid partition for the array](Solutions/C/check-if-there-is-a-valid-partition-for-the-array)
 * [Climbing stairs](Solutions/C/climbing-stairs)
+* [Concatenated words](Solutions/C/concatenated-words)
 * [Count number of ways to place houses](Solutions/C/count-number-of-ways-to-place-houses)
 * [Count palindromic subsequences](Solutions/C/count-palindromic-subsequences)
 * [Count square submatrices with all ones](Solutions/C/count-square-submatrices-with-all-ones)
@@ -1333,6 +1334,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Advantage shuffle](Solutions/A/advantage-shuffle)
 * [Array of doubled pairs](Solutions/A/array-of-doubled-pairs)
 * [Closest room](Solutions/C/closest-room)
+* [Concatenated words](Solutions/C/concatenated-words)
 * [Container with most water](Solutions/C/container-with-most-water)
 * [Course schedule iii](Solutions/C/course-schedule-iii)
 * [Custom sort string](Solutions/C/custom-sort-string)
@@ -1444,6 +1446,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="String-Search">Search</a>
 
 #### <a name="String-Search-Hashing">Hashing</a>
+* [Concatenated words](Solutions/C/concatenated-words)
 * [Implement strstr](Solutions/I/implement-strstr)
 * [Longest duplicate substring](Solutions/L/longest-duplicate-substring)
 * [Maximum deletions on a string](Solutions/M/maximum-deletions-on-a-string)
