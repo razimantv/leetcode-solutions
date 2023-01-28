@@ -116,6 +116,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Binary search](Solutions/B/binary-search)
 * [Construct binary search tree from preorder traversal](Solutions/C/construct-binary-search-tree-from-preorder-traversal)
 * [Count subarrays with score less than k](Solutions/C/count-subarrays-with-score-less-than-k)
+* [Data stream as disjoint intervals](Solutions/D/data-stream-as-disjoint-intervals)
 * [Design movie rental system](Solutions/D/design-movie-rental-system)
 * [Dungeon game](Solutions/D/dungeon-game)
 * [Find first and last position of element in sorted array](Solutions/F/find-first-and-last-position-of-element-in-sorted-array)
@@ -265,6 +266,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum number of robots within budget](Solutions/M/maximum-number-of-robots-within-budget)
 
 ## <a name="Design_data_structure">Design data structure</a>
+* [Data stream as disjoint intervals](Solutions/D/data-stream-as-disjoint-intervals)
 * [Design a food rating system](Solutions/D/design-a-food-rating-system)
 * [Design a number container system](Solutions/D/design-a-number-container-system)
 * [Design add and search words data structure](Solutions/D/design-add-and-search-words-data-structure)
@@ -793,6 +795,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Remove covered intervals](Solutions/R/remove-covered-intervals)
 
 ### <a name="Intervals-Union">Union</a>
+* [Data stream as disjoint intervals](Solutions/D/data-stream-as-disjoint-intervals)
 * [Merge intervals](Solutions/M/merge-intervals)
 
 ## <a name="Linked_list">Linked list</a>
