@@ -446,6 +446,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [String compression ii](Solutions/S/string-compression-ii)
 
 ### <a name="Dynamic_programming-Segment_tree">Segment tree</a>
+* [Count increasing quadruplets](Solutions/C/count-increasing-quadruplets)
 * [Delivering boxes from storage to ports](Solutions/D/delivering-boxes-from-storage-to-ports)
 
 ### <a name="Dynamic_programming-Subsets">Subsets</a>
@@ -645,6 +646,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Number of matching subsequences](Solutions/N/number-of-matching-subsequences)
 * [Partition labels](Solutions/P/partition-labels)
 * [Patching array](Solutions/P/patching-array)
+* [Put marbles in bags](Solutions/P/put-marbles-in-bags)
 * [Queue reconstruction by height](Solutions/Q/queue-reconstruction-by-height)
 * [Reduce array size to the half](Solutions/R/reduce-array-size-to-the-half)
 * [Reducing dishes](Solutions/R/reducing-dishes)
@@ -862,6 +864,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Binary trees with factors](Solutions/B/binary-trees-with-factors)
 * [Count all valid pickup and delivery options](Solutions/C/count-all-valid-pickup-and-delivery-options)
 * [Count anagrams](Solutions/C/count-anagrams)
+* [Count collisions of monkeys on a polygon](Solutions/C/count-collisions-of-monkeys-on-a-polygon)
 * [Count good numbers](Solutions/C/count-good-numbers)
 * [Count nice pairs in an array](Solutions/C/count-nice-pairs-in-an-array)
 * [Count number of bad pairs](Solutions/C/count-number-of-bad-pairs)
@@ -882,6 +885,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Number of ways to rearrange sticks with k sticks visible](Solutions/N/number-of-ways-to-rearrange-sticks-with-k-sticks-visible)
 * [Permutation sequence](Solutions/P/permutation-sequence)
 * [Probability of a two boxes having the same number of distinct balls](Solutions/P/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls)
+
+#### <a name="Mathematics-Combinatorics-Inclusion_exclusion">Inclusion-exclusion</a>
+* [Count increasing quadruplets](Solutions/C/count-increasing-quadruplets)
 
 ### <a name="Mathematics-Composition_of_operations">Composition of operations</a>
 * [Bitwise xor of all pairings](Solutions/B/bitwise-xor-of-all-pairings)
@@ -914,6 +920,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Check if it is a good array](Solutions/C/check-if-it-is-a-good-array)
 * [Check if point is reachable](Solutions/C/check-if-point-is-reachable)
 * [Continuous subarray sum](Solutions/C/continuous-subarray-sum)
+* [Count distinct numbers on board](Solutions/C/count-distinct-numbers-on-board)
 * [Destroy sequential targets](Solutions/D/destroy-sequential-targets)
 * [Factorial trailing zeroes](Solutions/F/factorial-trailing-zeroes)
 * [Find the student that will replace the chalk](Solutions/F/find-the-student-that-will-replace-the-chalk)
@@ -940,6 +947,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 #### <a name="Mathematics-Number_theory-Modular_exponentiation_inverse">Modular exponentiation/inverse</a>
 * [Count anagrams](Solutions/C/count-anagrams)
+* [Count collisions of monkeys on a polygon](Solutions/C/count-collisions-of-monkeys-on-a-polygon)
 * [Count good numbers](Solutions/C/count-good-numbers)
 * [Count the number of ideal arrays](Solutions/C/count-the-number-of-ideal-arrays)
 * [Maximize number of nice divisors](Solutions/M/maximize-number-of-nice-divisors)
@@ -1182,6 +1190,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimize the maximum of two arrays](Solutions/M/minimize-the-maximum-of-two-arrays)
 
 ## <a name="Segment_tree">Segment tree</a>
+* [Count increasing quadruplets](Solutions/C/count-increasing-quadruplets)
 * [Count of range sum](Solutions/C/count-of-range-sum)
 * [Count of smaller numbers after self](Solutions/C/count-of-smaller-numbers-after-self)
 * [Count pairs with xor in a range](Solutions/C/count-pairs-with-xor-in-a-range)

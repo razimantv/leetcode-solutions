@@ -1,0 +1,7 @@
+# Put marbles in bags
+
+[Problem link](https://leetcode.com/problems/put-marbles-in-bags/)
+
+## Tags
+
+* [Greedy](/README.md#Greedy)
