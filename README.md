@@ -282,6 +282,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Implement trie prefix tree](Solutions/I/implement-trie-prefix-tree)
 * [Insert delete getrandom o1](Solutions/I/insert-delete-getrandom-o1)
 * [Iterator for combination](Solutions/I/iterator-for-combination)
+* [Lfu cache](Solutions/L/lfu-cache)
 * [Longest uploaded prefix](Solutions/L/longest-uploaded-prefix)
 * [Lru cache](Solutions/L/lru-cache)
 * [Maximum frequency stack](Solutions/M/maximum-frequency-stack)
@@ -1142,6 +1143,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find the most competitive subsequence](Solutions/F/find-the-most-competitive-subsequence)
 * [Get biggest three rhombus sums in a grid](Solutions/G/get-biggest-three-rhombus-sums-in-a-grid)
 * [Kth largest element in a stream](Solutions/K/kth-largest-element-in-a-stream)
+* [Lfu cache](Solutions/L/lfu-cache)
 * [Maximum performance of a team](Solutions/M/maximum-performance-of-a-team)
 * [Maximum subsequence score](Solutions/M/maximum-subsequence-score)
 
@@ -1153,6 +1155,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Design a food rating system](Solutions/D/design-a-food-rating-system)
 * [Design a number container system](Solutions/D/design-a-number-container-system)
 * [Design authentication manager](Solutions/D/design-authentication-manager)
+* [Lfu cache](Solutions/L/lfu-cache)
 * [Lru cache](Solutions/L/lru-cache)
 * [Network delay time](Solutions/N/network-delay-time)
 * [Number of ways to arrive at destination](Solutions/N/number-of-ways-to-arrive-at-destination)
