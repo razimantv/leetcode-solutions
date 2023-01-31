@@ -311,6 +311,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## <a name="Dynamic_programming">Dynamic programming</a>
 * [Arithmetic slices ii subsequence](Solutions/A/arithmetic-slices-ii-subsequence)
+* [Best team with no conflicts](Solutions/B/best-team-with-no-conflicts)
 * [Best time to buy and sell stock iii](Solutions/B/best-time-to-buy-and-sell-stock-iii)
 * [Best time to buy and sell stock with cooldown](Solutions/B/best-time-to-buy-and-sell-stock-with-cooldown)
 * [Binary trees with factors](Solutions/B/binary-trees-with-factors)
@@ -1348,6 +1349,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Sorting-Custom">Custom</a>
 * [Advantage shuffle](Solutions/A/advantage-shuffle)
 * [Array of doubled pairs](Solutions/A/array-of-doubled-pairs)
+* [Best team with no conflicts](Solutions/B/best-team-with-no-conflicts)
 * [Closest room](Solutions/C/closest-room)
 * [Concatenated words](Solutions/C/concatenated-words)
 * [Container with most water](Solutions/C/container-with-most-water)
@@ -1373,6 +1375,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Sort the students by their kth score](Solutions/S/sort-the-students-by-their-kth-score)
 
 ### <a name="Sorting-Index_array">Index array</a>
+* [Best team with no conflicts](Solutions/B/best-team-with-no-conflicts)
 * [Maximum subsequence score](Solutions/M/maximum-subsequence-score)
 
 ### <a name="Sorting-Merge_sort">Merge sort</a>
