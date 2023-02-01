@@ -4,4 +4,4 @@
 
 ## Tags
 
-* [Simple implementation](/README.md#Simple_implementation)
+* [Mathematics](/README.md#Mathematics) > [Number theory](/README.md#Mathematics-Number_theory) > [Basic](/README.md#Mathematics-Number_theory-Basic)
