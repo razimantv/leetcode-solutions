@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/expression-add-operators
+# https://leetcode.com/problems/expression-add-operators
 
 class Solution:
   def addOperators(self, num, target):

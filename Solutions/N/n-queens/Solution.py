@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/n-queens
+# https://leetcode.com/problems/n-queens
 
 class Solution:
     def backtrack(self, n, i, blocked, board, ret):
