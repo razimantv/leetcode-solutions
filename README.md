@@ -1300,6 +1300,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [The employee that worked on the longest task](Solutions/T/the-employee-that-worked-on-the-longest-task)
 * [Toeplitz matrix](Solutions/T/toeplitz-matrix)
 * [Ugly number](Solutions/U/ugly-number)
+* [Zigzag conversion](Solutions/Z/zigzag-conversion)
 
 ## <a name="Sliding_window">Sliding window</a>
 * [3sum](Solutions/0-9/3sum)
