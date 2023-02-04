@@ -43,6 +43,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find all good indices](Solutions/F/find-all-good-indices)
 * [Largest plus sign](Solutions/L/largest-plus-sign)
 * [Maximize distance to closest person](Solutions/M/maximize-distance-to-closest-person)
+* [Maximize win from two segments](Solutions/M/maximize-win-from-two-segments)
 * [Maximum building height](Solutions/M/maximum-building-height)
 * [Minimum average difference](Solutions/M/minimum-average-difference)
 * [Minimum cost to make array equal](Solutions/M/minimum-cost-to-make-array-equal)
@@ -626,6 +627,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum matching of players with trainer](Solutions/M/maximum-matching-of-players-with-trainer)
 * [Maximum number of consecutive values you can make](Solutions/M/maximum-number-of-consecutive-values-you-can-make)
 * [Maximum number of groups entering a competition](Solutions/M/maximum-number-of-groups-entering-a-competition)
+* [Maximum number of integers to choose from a range i](Solutions/M/maximum-number-of-integers-to-choose-from-a-range-i)
 * [Maximum performance of a team](Solutions/M/maximum-performance-of-a-team)
 * [Maximum tastiness of candy basket](Solutions/M/maximum-tastiness-of-candy-basket)
 * [Maximum units on a truck](Solutions/M/maximum-units-on-a-truck)
@@ -705,6 +707,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Max number of k sum pairs](Solutions/M/max-number-of-k-sum-pairs)
 * [Max points on a line](Solutions/M/max-points-on-a-line)
 * [Max sum of a pair with equal sum of digits](Solutions/M/max-sum-of-a-pair-with-equal-sum-of-digits)
+* [Maximum number of integers to choose from a range i](Solutions/M/maximum-number-of-integers-to-choose-from-a-range-i)
 * [Maximum number of pairs in array](Solutions/M/maximum-number-of-pairs-in-array)
 * [Maximum population year](Solutions/M/maximum-population-year)
 * [Maximum sum of distinct subarrays with length k](Solutions/M/maximum-sum-of-distinct-subarrays-with-length-k)
@@ -985,6 +988,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Image overlap](Solutions/I/image-overlap)
 
 ### <a name="Matrix-Path">Path</a>
+* [Disconnect path in a binary matrix by at most one flip](Solutions/D/disconnect-path-in-a-binary-matrix-by-at-most-one-flip)
 * [Dungeon game](Solutions/D/dungeon-game)
 * [Longest increasing path in a matrix](Solutions/L/longest-increasing-path-in-a-matrix)
 * [Minimum falling path sum](Solutions/M/minimum-falling-path-sum)
@@ -1109,6 +1113,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Subarray sums divisible by k](Solutions/S/subarray-sums-divisible-by-k)
 
 #### <a name="Prefix-Sum-2D">2D</a>
+* [Disconnect path in a binary matrix by at most one flip](Solutions/D/disconnect-path-in-a-binary-matrix-by-at-most-one-flip)
 * [Increment submatrices by one](Solutions/I/increment-submatrices-by-one)
 * [Maximal square](Solutions/M/maximal-square)
 * [Number of submatrices that sum to target](Solutions/N/number-of-submatrices-that-sum-to-target)
@@ -1294,6 +1299,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Remove all occurrences of a substring](Solutions/R/remove-all-occurrences-of-a-substring)
 * [Remove one element to make the array strictly increasing](Solutions/R/remove-one-element-to-make-the-array-strictly-increasing)
 * [Remove palindromic subsequences](Solutions/R/remove-palindromic-subsequences)
+* [Separate the digits in an array](Solutions/S/separate-the-digits-in-an-array)
 * [Shortest distance to target string in a circular array](Solutions/S/shortest-distance-to-target-string-in-a-circular-array)
 * [Smallest even multiple](Solutions/S/smallest-even-multiple)
 * [Sum of number and its reverse](Solutions/S/sum-of-number-and-its-reverse)
@@ -1318,6 +1324,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest harmonious subsequence](Solutions/L/longest-harmonious-subsequence)
 * [Longest substring without repeating characters](Solutions/L/longest-substring-without-repeating-characters)
 * [Max consecutive ones iii](Solutions/M/max-consecutive-ones-iii)
+* [Maximize win from two segments](Solutions/M/maximize-win-from-two-segments)
 * [Maximum erasure value](Solutions/M/maximum-erasure-value)
 * [Maximum points you can obtain from cards](Solutions/M/maximum-points-you-can-obtain-from-cards)
 * [Maximum sum of distinct subarrays with length k](Solutions/M/maximum-sum-of-distinct-subarrays-with-length-k)
