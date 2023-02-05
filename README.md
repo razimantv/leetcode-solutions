@@ -1306,6 +1306,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Remove palindromic subsequences](Solutions/R/remove-palindromic-subsequences)
 * [Separate the digits in an array](Solutions/S/separate-the-digits-in-an-array)
 * [Shortest distance to target string in a circular array](Solutions/S/shortest-distance-to-target-string-in-a-circular-array)
+* [Shuffle the array](Solutions/S/shuffle-the-array)
 * [Smallest even multiple](Solutions/S/smallest-even-multiple)
 * [Sum of number and its reverse](Solutions/S/sum-of-number-and-its-reverse)
 * [The employee that worked on the longest task](Solutions/T/the-employee-that-worked-on-the-longest-task)
