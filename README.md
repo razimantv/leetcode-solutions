@@ -503,6 +503,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Graph_theory-Breadth_first_search">Breadth first search</a>
 * [01 matrix](Solutions/0-9/01-matrix)
 * [Amount of time for binary tree to be infected](Solutions/A/amount-of-time-for-binary-tree-to-be-infected)
+* [As far from land as possible](Solutions/A/as-far-from-land-as-possible)
 * [Bus routes](Solutions/B/bus-routes)
 * [Divide nodes into the maximum number of groups](Solutions/D/divide-nodes-into-the-maximum-number-of-groups)
 * [Jump game iv](Solutions/J/jump-game-iv)
@@ -582,6 +583,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Graph_theory-Minimum_spanning_tree">Minimum spanning tree</a>
 * [Min cost to connect all points](Solutions/M/min-cost-to-connect-all-points)
+
+### <a name="Graph_theory-Multi_source_search">Multi source search</a>
+* [As far from land as possible](Solutions/A/as-far-from-land-as-possible)
 
 ### <a name="Graph_theory-Prim_s_algorithm">Prim's algorithm</a>
 * [Maximum number of points from grid queries](Solutions/M/maximum-number-of-points-from-grid-queries)
