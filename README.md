@@ -512,6 +512,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Nearest exit from entrance in maze](Solutions/N/nearest-exit-from-entrance-in-maze)
 * [Open the lock](Solutions/O/open-the-lock)
 * [Pacific atlantic water flow](Solutions/P/pacific-atlantic-water-flow)
+* [Shortest path with alternating colors](Solutions/S/shortest-path-with-alternating-colors)
 
 ### <a name="Graph_theory-Bridges_Articulation_points">Bridges/Articulation points</a>
 * [Critical connections in a network](Solutions/C/critical-connections-in-a-network)
@@ -586,6 +587,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Graph_theory-Multi_source_search">Multi source search</a>
 * [As far from land as possible](Solutions/A/as-far-from-land-as-possible)
+* [Shortest path with alternating colors](Solutions/S/shortest-path-with-alternating-colors)
 
 ### <a name="Graph_theory-Prim_s_algorithm">Prim's algorithm</a>
 * [Maximum number of points from grid queries](Solutions/M/maximum-number-of-points-from-grid-queries)
