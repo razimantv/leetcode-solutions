@@ -51,6 +51,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum remove to make valid parentheses](Solutions/M/minimum-remove-to-make-valid-parentheses)
 * [Partition array into disjoint intervals](Solutions/P/partition-array-into-disjoint-intervals)
 * [Product of array except self](Solutions/P/product-of-array-except-self)
+* [Subsequence with the minimum score](Solutions/S/subsequence-with-the-minimum-score)
 * [Take k of each character from left and right](Solutions/T/take-k-of-each-character-from-left-and-right)
 
 ### <a name="Array_scanning-In_place_modification">In-place modification</a>
@@ -217,6 +218,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Bitwise xor of all pairings](Solutions/B/bitwise-xor-of-all-pairings)
 * [Find the original array of prefix xor](Solutions/F/find-the-original-array-of-prefix-xor)
 * [Pseudo palindromic paths in a binary tree](Solutions/P/pseudo-palindromic-paths-in-a-binary-tree)
+* [Substring xor queries](Solutions/S/substring-xor-queries)
 
 ## <a name="Brute_force_enumeration">Brute force enumeration</a>
 
@@ -748,6 +750,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Reward top k students](Solutions/R/reward-top-k-students)
 * [Smallest subarrays with maximum bitwise or](Solutions/S/smallest-subarrays-with-maximum-bitwise-or)
 * [Subarray sums divisible by k](Solutions/S/subarray-sums-divisible-by-k)
+* [Substring xor queries](Solutions/S/substring-xor-queries)
 * [Sum of prefix scores of strings](Solutions/S/sum-of-prefix-scores-of-strings)
 * [Take k of each character from left and right](Solutions/T/take-k-of-each-character-from-left-and-right)
 
@@ -886,6 +889,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count pairs of similar strings](Solutions/C/count-pairs-of-similar-strings)
 * [Count sorted vowel strings](Solutions/C/count-sorted-vowel-strings)
 * [Count special integers](Solutions/C/count-special-integers)
+* [Count the number of fair pairs](Solutions/C/count-the-number-of-fair-pairs)
 * [Count the number of ideal arrays](Solutions/C/count-the-number-of-ideal-arrays)
 * [Count unreachable pairs of nodes in an undirected graph](Solutions/C/count-unreachable-pairs-of-nodes-in-an-undirected-graph)
 * [Domino and tromino tiling](Solutions/D/domino-and-tromino-tiling)
@@ -1256,6 +1260,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find nearest point that has the same x or y coordinate](Solutions/F/find-nearest-point-that-has-the-same-x-or-y-coordinate)
 * [Find numbers with even number of digits](Solutions/F/find-numbers-with-even-number-of-digits)
 * [Find subarrays with equal sum](Solutions/F/find-subarrays-with-equal-sum)
+* [Find the array concatenation value](Solutions/F/find-the-array-concatenation-value)
 * [Find the distance value between two arrays](Solutions/F/find-the-distance-value-between-two-arrays)
 * [Find the pivot integer](Solutions/F/find-the-pivot-integer)
 * [Find the town judge](Solutions/F/find-the-town-judge)
@@ -1326,6 +1331,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Binary trees with factors](Solutions/B/binary-trees-with-factors)
 * [Contains duplicate ii](Solutions/C/contains-duplicate-ii)
 * [Count pairs of nodes](Solutions/C/count-pairs-of-nodes)
+* [Count the number of fair pairs](Solutions/C/count-the-number-of-fair-pairs)
 * [Count the number of good subarrays](Solutions/C/count-the-number-of-good-subarrays)
 * [Find a value of a mysterious function closest to target](Solutions/F/find-a-value-of-a-mysterious-function-closest-to-target)
 * [Find all anagrams in a string](Solutions/F/find-all-anagrams-in-a-string)
@@ -1344,6 +1350,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum recolors to get k consecutive black blocks](Solutions/M/minimum-recolors-to-get-k-consecutive-black-blocks)
 * [Minimum window substring](Solutions/M/minimum-window-substring)
 * [Permutation in string](Solutions/P/permutation-in-string)
+* [Subsequence with the minimum score](Solutions/S/subsequence-with-the-minimum-score)
 
 ### <a name="Sliding_window-Monotonic_deque">Monotonic deque</a>
 * [Maximum number of robots within budget](Solutions/M/maximum-number-of-robots-within-budget)
@@ -1352,6 +1359,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Implement strstr](Solutions/I/implement-strstr)
 
 ## <a name="Sorting">Sorting</a>
+* [Count the number of fair pairs](Solutions/C/count-the-number-of-fair-pairs)
 * [Delete greatest value in each row](Solutions/D/delete-greatest-value-in-each-row)
 * [Divide players into teams of equal skill](Solutions/D/divide-players-into-teams-of-equal-skill)
 * [Largest perimeter triangle](Solutions/L/largest-perimeter-triangle)
@@ -1503,6 +1511,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum number of removable characters](Solutions/M/maximum-number-of-removable-characters)
 * [Number of matching subsequences](Solutions/N/number-of-matching-subsequences)
 * [Remove duplicate letters](Solutions/R/remove-duplicate-letters)
+* [Subsequence with the minimum score](Solutions/S/subsequence-with-the-minimum-score)
 
 ### <a name="String-Suffix_array">Suffix array</a>
 * [Query kth smallest trimmed number](Solutions/Q/query-kth-smallest-trimmed-number)
