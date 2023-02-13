@@ -1247,6 +1247,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count and say](Solutions/C/count-and-say)
 * [Count asterisks](Solutions/C/count-asterisks)
 * [Count number of distinct integers after reverse operations](Solutions/C/count-number-of-distinct-integers-after-reverse-operations)
+* [Count odd numbers in an interval range](Solutions/C/count-odd-numbers-in-an-interval-range)
 * [Count the digits that divide a number](Solutions/C/count-the-digits-that-divide-a-number)
 * [Delete columns to make sorted](Solutions/D/delete-columns-to-make-sorted)
 * [Determine color of a chessboard square](Solutions/D/determine-color-of-a-chessboard-square)
