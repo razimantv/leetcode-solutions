@@ -1226,6 +1226,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Range sum query mutable](Solutions/R/range-sum-query-mutable)
 
 ## <a name="Simple_implementation">Simple implementation</a>
+* [Add to array form of integer](Solutions/A/add-to-array-form-of-integer)
 * [Alternating digit sum](Solutions/A/alternating-digit-sum)
 * [Apply operations to an array](Solutions/A/apply-operations-to-an-array)
 * [Arranging coins](Solutions/A/arranging-coins)
