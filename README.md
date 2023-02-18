@@ -191,6 +191,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum xor after operations](Solutions/M/maximum-xor-after-operations)
 * [Maximum xor for each query](Solutions/M/maximum-xor-for-each-query)
 * [Minimize xor](Solutions/M/minimize-xor)
+* [Minimum impossible or](Solutions/M/minimum-impossible-or)
 * [Minimum xor sum of two arrays](Solutions/M/minimum-xor-sum-of-two-arrays)
 * [Missing number](Solutions/M/missing-number)
 * [Non decreasing subsequences](Solutions/N/non-decreasing-subsequences)
@@ -651,6 +652,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum operations to make array equal ii](Solutions/M/minimum-operations-to-make-array-equal-ii)
 * [Minimum operations to make the array increasing](Solutions/M/minimum-operations-to-make-the-array-increasing)
 * [Minimum replacements to sort the array](Solutions/M/minimum-replacements-to-sort-the-array)
+* [Minimum score by changing two elements](Solutions/M/minimum-score-by-changing-two-elements)
 * [Minimum sum of squared difference](Solutions/M/minimum-sum-of-squared-difference)
 * [Minimum total cost to make arrays unequal](Solutions/M/minimum-total-cost-to-make-arrays-unequal)
 * [Minimum total distance traveled](Solutions/M/minimum-total-distance-traveled)
@@ -910,6 +912,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Bitwise xor of all pairings](Solutions/B/bitwise-xor-of-all-pairings)
 * [Fancy sequence](Solutions/F/fancy-sequence)
 * [Find xor sum of all pairs bitwise and](Solutions/F/find-xor-sum-of-all-pairs-bitwise-and)
+* [Handling sum queries after update](Solutions/H/handling-sum-queries-after-update)
 
 ### <a name="Mathematics-Expression_rearrangement">Expression rearrangement</a>
 * [Number of pairs satisfying inequality](Solutions/N/number-of-pairs-satisfying-inequality)
@@ -1225,6 +1228,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Number of pairs satisfying inequality](Solutions/N/number-of-pairs-satisfying-inequality)
 * [Range sum query mutable](Solutions/R/range-sum-query-mutable)
 
+### <a name="Segment_tree-Lazy_propagation">Lazy propagation</a>
+* [Handling sum queries after update](Solutions/H/handling-sum-queries-after-update)
+
 ## <a name="Simple_implementation">Simple implementation</a>
 * [Add to array form of integer](Solutions/A/add-to-array-form-of-integer)
 * [Alternating digit sum](Solutions/A/alternating-digit-sum)
@@ -1286,6 +1292,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Match substring after replacement](Solutions/M/match-substring-after-replacement)
 * [Maximum 69 number](Solutions/M/maximum-69-number)
 * [Maximum count of positive integer and negative integer](Solutions/M/maximum-count-of-positive-integer-and-negative-integer)
+* [Maximum difference by remapping a digit](Solutions/M/maximum-difference-by-remapping-a-digit)
 * [Maximum number of balloons](Solutions/M/maximum-number-of-balloons)
 * [Maximum number of pairs in array](Solutions/M/maximum-number-of-pairs-in-array)
 * [Maximum star sum of a graph](Solutions/M/maximum-star-sum-of-a-graph)
