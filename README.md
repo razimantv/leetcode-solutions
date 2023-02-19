@@ -192,6 +192,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum xor for each query](Solutions/M/maximum-xor-for-each-query)
 * [Minimize xor](Solutions/M/minimize-xor)
 * [Minimum impossible or](Solutions/M/minimum-impossible-or)
+* [Minimum operations to reduce an integer to 0](Solutions/M/minimum-operations-to-reduce-an-integer-to-0)
 * [Minimum xor sum of two arrays](Solutions/M/minimum-xor-sum-of-two-arrays)
 * [Missing number](Solutions/M/missing-number)
 * [Non decreasing subsequences](Solutions/N/non-decreasing-subsequences)
@@ -396,6 +397,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Number of beautiful partitions](Solutions/N/number-of-beautiful-partitions)
 * [Number of people aware of a secret](Solutions/N/number-of-people-aware-of-a-secret)
 
+### <a name="Dynamic_programming-Construction">Construction</a>
+* [Find the string with lcp](Solutions/F/find-the-string-with-lcp)
+
 ### <a name="Dynamic_programming-Cyclic_array">Cyclic array</a>
 * [House robber ii](Solutions/H/house-robber-ii)
 * [Maximum sum circular subarray](Solutions/M/maximum-sum-circular-subarray)
@@ -457,6 +461,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Dynamic_programming-Subsets">Subsets</a>
 * [Construct smallest number from di string](Solutions/C/construct-smallest-number-from-di-string)
+* [Count the number of square free subsets](Solutions/C/count-the-number-of-square-free-subsets)
 * [Find the shortest superstring](Solutions/F/find-the-shortest-superstring)
 * [Maximize score after n operations](Solutions/M/maximize-score-after-n-operations)
 * [Minimum xor sum of two arrays](Solutions/M/minimum-xor-sum-of-two-arrays)
@@ -959,6 +964,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Subarray sums divisible by k](Solutions/S/subarray-sums-divisible-by-k)
 
 #### <a name="Mathematics-Number_theory-Dynamic_programming">Dynamic programming</a>
+* [Count the number of square free subsets](Solutions/C/count-the-number-of-square-free-subsets)
 * [Largest divisible subset](Solutions/L/largest-divisible-subset)
 
 #### <a name="Mathematics-Number_theory-Factor_listing_in_sqrt_N_">Factor listing in sqrt(N)</a>
@@ -1028,6 +1034,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## <a name="Number_transformations_based_on_mathematical_rules">Number transformations based on mathematical rules</a>
 * [Minimum addition to make integer beautiful](Solutions/M/minimum-addition-to-make-integer-beautiful)
+* [Minimum operations to reduce an integer to 0](Solutions/M/minimum-operations-to-reduce-an-integer-to-0)
 * [Reach a number](Solutions/R/reach-a-number)
 
 ## <a name="Offline_query_processing">Offline query processing</a>
@@ -1656,6 +1663,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## <a name="Two_pointers">Two pointers</a>
 * [Find k closest elements](Solutions/F/find-k-closest-elements)
+* [Merge two 2d arrays by summing values](Solutions/M/merge-two-2d-arrays-by-summing-values)
 * [Minimum common value](Solutions/M/minimum-common-value)
 * [Reverse vowels of a string](Solutions/R/reverse-vowels-of-a-string)
 

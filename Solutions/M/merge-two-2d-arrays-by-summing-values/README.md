@@ -1,0 +1,7 @@
+# Merge two 2d arrays by summing values
+
+[Problem link](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/)
+
+## Tags
+
+* [Two pointers](/README.md#Two_pointers)
