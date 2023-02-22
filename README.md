@@ -116,6 +116,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## <a name="Binary_search">Binary search</a>
 * [Binary search](Solutions/B/binary-search)
+* [Capacity to ship packages within d days](Solutions/C/capacity-to-ship-packages-within-d-days)
 * [Construct binary search tree from preorder traversal](Solutions/C/construct-binary-search-tree-from-preorder-traversal)
 * [Count subarrays with score less than k](Solutions/C/count-subarrays-with-score-less-than-k)
 * [Data stream as disjoint intervals](Solutions/D/data-stream-as-disjoint-intervals)
