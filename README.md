@@ -1157,6 +1157,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find original array from doubled array](Solutions/F/find-original-array-from-doubled-array)
 * [First unique character in a string](Solutions/F/first-unique-character-in-a-string)
 * [Furthest building you can reach](Solutions/F/furthest-building-you-can-reach)
+* [Ipo](Solutions/I/ipo)
 * [Jump game vi](Solutions/J/jump-game-vi)
 * [Last stone weight](Solutions/L/last-stone-weight)
 * [Maximal score after applying k operations](Solutions/M/maximal-score-after-applying-k-operations)
@@ -1421,6 +1422,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Sorting-Index_array">Index array</a>
 * [Best team with no conflicts](Solutions/B/best-team-with-no-conflicts)
+* [Ipo](Solutions/I/ipo)
 * [Maximum subsequence score](Solutions/M/maximum-subsequence-score)
 
 ### <a name="Sorting-Merge_sort">Merge sort</a>
