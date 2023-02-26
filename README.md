@@ -42,6 +42,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count palindromic subsequences](Solutions/C/count-palindromic-subsequences)
 * [Find all good indices](Solutions/F/find-all-good-indices)
 * [Largest plus sign](Solutions/L/largest-plus-sign)
+* [Left and right sum differences](Solutions/L/left-and-right-sum-differences)
 * [Maximize distance to closest person](Solutions/M/maximize-distance-to-closest-person)
 * [Maximize win from two segments](Solutions/M/maximize-win-from-two-segments)
 * [Maximum building height](Solutions/M/maximum-building-height)
@@ -126,6 +127,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find k closest elements](Solutions/F/find-k-closest-elements)
 * [Find right interval](Solutions/F/find-right-interval)
 * [Find the duplicate number](Solutions/F/find-the-duplicate-number)
+* [Find the maximum number of marked indices](Solutions/F/find-the-maximum-number-of-marked-indices)
 * [Find the smallest divisor given a threshold](Solutions/F/find-the-smallest-divisor-given-a-threshold)
 * [First bad version](Solutions/F/first-bad-version)
 * [Guess number higher or lower](Solutions/G/guess-number-higher-or-lower)
@@ -582,6 +584,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum height trees](Solutions/M/minimum-height-trees)
 
 ### <a name="Graph_theory-Dijkstra_s_algorithm">Dijkstra's algorithm</a>
+* [Minimum time to visit a cell in a grid](Solutions/M/minimum-time-to-visit-a-cell-in-a-grid)
 * [Network delay time](Solutions/N/network-delay-time)
 * [Number of ways to arrive at destination](Solutions/N/number-of-ways-to-arrive-at-destination)
 * [Path with maximum probability](Solutions/P/path-with-maximum-probability)
@@ -629,6 +632,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Course schedule iii](Solutions/C/course-schedule-iii)
 * [Earliest possible day of full bloom](Solutions/E/earliest-possible-day-of-full-bloom)
 * [Eliminate maximum number of monsters](Solutions/E/eliminate-maximum-number-of-monsters)
+* [Find the maximum number of marked indices](Solutions/F/find-the-maximum-number-of-marked-indices)
 * [Frog jump ii](Solutions/F/frog-jump-ii)
 * [Furthest building you can reach](Solutions/F/furthest-building-you-can-reach)
 * [Gas station](Solutions/G/gas-station)
@@ -949,6 +953,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count distinct numbers on board](Solutions/C/count-distinct-numbers-on-board)
 * [Destroy sequential targets](Solutions/D/destroy-sequential-targets)
 * [Factorial trailing zeroes](Solutions/F/factorial-trailing-zeroes)
+* [Find the divisibility array of a string](Solutions/F/find-the-divisibility-array-of-a-string)
 * [Find the student that will replace the chalk](Solutions/F/find-the-student-that-will-replace-the-chalk)
 * [Greatest common divisor of strings](Solutions/G/greatest-common-divisor-of-strings)
 * [Integer break](Solutions/I/integer-break)
@@ -1116,6 +1121,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Delivering boxes from storage to ports](Solutions/D/delivering-boxes-from-storage-to-ports)
 * [Execution of all suffix instructions staying in a grid](Solutions/E/execution-of-all-suffix-instructions-staying-in-a-grid)
 * [Gas station](Solutions/G/gas-station)
+* [Left and right sum differences](Solutions/L/left-and-right-sum-differences)
 * [Longest subsequence with limited sum](Solutions/L/longest-subsequence-with-limited-sum)
 * [Longest valid parentheses](Solutions/L/longest-valid-parentheses)
 * [Max sum of rectangle no larger than k](Solutions/M/max-sum-of-rectangle-no-larger-than-k)
@@ -1175,6 +1181,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Total cost to hire k workers](Solutions/T/total-cost-to-hire-k-workers)
 
 ### <a name="Priority_queue-Dijkstra_s_algorithm">Dijkstra's algorithm</a>
+* [Minimum time to visit a cell in a grid](Solutions/M/minimum-time-to-visit-a-cell-in-a-grid)
 * [Network delay time](Solutions/N/network-delay-time)
 
 ### <a name="Priority_queue-Dijkstra_like_processing_of_subarrays">Dijkstra-like processing of subarrays</a>
@@ -1198,6 +1205,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Design authentication manager](Solutions/D/design-authentication-manager)
 * [Lfu cache](Solutions/L/lfu-cache)
 * [Lru cache](Solutions/L/lru-cache)
+* [Minimum time to visit a cell in a grid](Solutions/M/minimum-time-to-visit-a-cell-in-a-grid)
 * [Network delay time](Solutions/N/network-delay-time)
 * [Number of ways to arrive at destination](Solutions/N/number-of-ways-to-arrive-at-destination)
 * [Path with maximum probability](Solutions/P/path-with-maximum-probability)

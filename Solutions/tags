@@ -28,6 +28,7 @@ Disjoint set union
 Dynamic programming
 Dynamic programming>Array reuse
 Dynamic programming>Auxiliary array
+Dynamic programming>Construction
 Dynamic programming>Cyclic array
 Dynamic programming>Digits
 Dynamic programming>Graph-like state transitions
@@ -141,6 +142,7 @@ Quick Select
 Range updates using prefix sum
 Search by iterative bound improvement
 Segment tree
+Segment tree>Lazy propagation
 Simple implementation
 Sliding window
 Sliding window>Monotonic deque
