@@ -275,6 +275,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum number of robots within budget](Solutions/M/maximum-number-of-robots-within-budget)
 
 ## <a name="Design_data_structure">Design data structure</a>
+* [Construct quad tree](Solutions/C/construct-quad-tree)
 * [Data stream as disjoint intervals](Solutions/D/data-stream-as-disjoint-intervals)
 * [Design a food rating system](Solutions/D/design-a-food-rating-system)
 * [Design a number container system](Solutions/D/design-a-number-container-system)
@@ -1144,6 +1145,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Subarray sums divisible by k](Solutions/S/subarray-sums-divisible-by-k)
 
 #### <a name="Prefix-Sum-2D">2D</a>
+* [Construct quad tree](Solutions/C/construct-quad-tree)
 * [Disconnect path in a binary matrix by at most one flip](Solutions/D/disconnect-path-in-a-binary-matrix-by-at-most-one-flip)
 * [Increment submatrices by one](Solutions/I/increment-submatrices-by-one)
 * [Maximal square](Solutions/M/maximal-square)
@@ -1217,6 +1219,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## <a name="Process_multiple_vectors_together">Process multiple vectors together</a>
 * [Number of matching subsequences](Solutions/N/number-of-matching-subsequences)
+
+## <a name="QuadTree">QuadTree</a>
+* [Construct quad tree](Solutions/C/construct-quad-tree)
 
 ## <a name="Queue">Queue</a>
 * [Number of recent calls](Solutions/N/number-of-recent-calls)
