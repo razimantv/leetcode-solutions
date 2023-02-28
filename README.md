@@ -477,6 +477,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Diameter of binary tree](Solutions/D/diameter-of-binary-tree)
 * [Difference between maximum and minimum price sum](Solutions/D/difference-between-maximum-and-minimum-price-sum)
 * [Employee importance](Solutions/E/employee-importance)
+* [Find duplicate subtrees](Solutions/F/find-duplicate-subtrees)
 * [Height of binary tree after subtree removal queries](Solutions/H/height-of-binary-tree-after-subtree-removal-queries)
 * [House robber iii](Solutions/H/house-robber-iii)
 * [Longest path with different adjacent characters](Solutions/L/longest-path-with-different-adjacent-characters)
@@ -1630,6 +1631,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Distribute coins in binary tree](Solutions/D/distribute-coins-in-binary-tree)
 * [Evaluate boolean binary tree](Solutions/E/evaluate-boolean-binary-tree)
 * [Find a corresponding node of a binary tree in a clone of that tree](Solutions/F/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree)
+* [Find duplicate subtrees](Solutions/F/find-duplicate-subtrees)
 * [Flatten binary tree to linked list](Solutions/F/flatten-binary-tree-to-linked-list)
 * [Flip binary tree to match preorder traversal](Solutions/F/flip-binary-tree-to-match-preorder-traversal)
 * [Height of binary tree after subtree removal queries](Solutions/H/height-of-binary-tree-after-subtree-removal-queries)
@@ -1655,6 +1657,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Pseudo palindromic paths in a binary tree](Solutions/P/pseudo-palindromic-paths-in-a-binary-tree)
 * [Range sum of bst](Solutions/R/range-sum-of-bst)
 * [Recover binary search tree](Solutions/R/recover-binary-search-tree)
+
+### <a name="Tree-Hashing">Hashing</a>
+* [Find duplicate subtrees](Solutions/F/find-duplicate-subtrees)
 
 ### <a name="Tree-Level_wise_processing">Level-wise processing</a>
 * [Minimum number of operations to sort a binary tree by level](Solutions/M/minimum-number-of-operations-to-sort-a-binary-tree-by-level)
