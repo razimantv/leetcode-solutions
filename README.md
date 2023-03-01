@@ -1180,6 +1180,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Number of orders in the backlog](Solutions/N/number-of-orders-in-the-backlog)
 * [Process tasks using servers](Solutions/P/process-tasks-using-servers)
 * [Remove stones to minimize the total](Solutions/R/remove-stones-to-minimize-the-total)
+* [Sort an array](Solutions/S/sort-an-array)
 * [Time to cross a bridge](Solutions/T/time-to-cross-a-bridge)
 * [Total cost to hire k workers](Solutions/T/total-cost-to-hire-k-workers)
 
@@ -1433,6 +1434,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Reward top k students](Solutions/R/reward-top-k-students)
 * [Sort the people](Solutions/S/sort-the-people)
 * [Sort the students by their kth score](Solutions/S/sort-the-students-by-their-kth-score)
+
+### <a name="Sorting-Implementation">Implementation</a>
+* [Sort an array](Solutions/S/sort-an-array)
 
 ### <a name="Sorting-Index_array">Index array</a>
 * [Best team with no conflicts](Solutions/B/best-team-with-no-conflicts)
