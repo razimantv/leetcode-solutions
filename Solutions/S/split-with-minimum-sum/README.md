@@ -1,0 +1,7 @@
+# Split with minimum sum
+
+[Problem link](https://leetcode.com/problems/split-with-minimum-sum/)
+
+## Tags
+
+* [Greedy](/README.md#Greedy)

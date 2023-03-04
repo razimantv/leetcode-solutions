@@ -474,6 +474,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Largest color value in a directed graph](Solutions/L/largest-color-value-in-a-directed-graph)
 
 ### <a name="Dynamic_programming-Trees">Trees</a>
+* [Count number of possible root nodes](Solutions/C/count-number-of-possible-root-nodes)
 * [Diameter of binary tree](Solutions/D/diameter-of-binary-tree)
 * [Difference between maximum and minimum price sum](Solutions/D/difference-between-maximum-and-minimum-price-sum)
 * [Employee importance](Solutions/E/employee-importance)
@@ -540,6 +541,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Graph_theory-Depth_first_search">Depth first search</a>
 * [Amount of time for binary tree to be infected](Solutions/A/amount-of-time-for-binary-tree-to-be-infected)
+* [Count number of possible root nodes](Solutions/C/count-number-of-possible-root-nodes)
 * [Create components with same value](Solutions/C/create-components-with-same-value)
 * [Critical connections in a network](Solutions/C/critical-connections-in-a-network)
 * [Delete nodes and return forest](Solutions/D/delete-nodes-and-return-forest)
@@ -681,6 +683,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Remove k digits](Solutions/R/remove-k-digits)
 * [Remove stones to minimize the total](Solutions/R/remove-stones-to-minimize-the-total)
 * [Split array largest sum](Solutions/S/split-array-largest-sum)
+* [Split with minimum sum](Solutions/S/split-with-minimum-sum)
 
 ## <a name="Hashmap">Hashmap</a>
 * [Array of doubled pairs](Solutions/A/array-of-doubled-pairs)
@@ -820,6 +823,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Intervals-Overlap">Overlap</a>
 * [Count days spent together](Solutions/C/count-days-spent-together)
+* [Count ways to group overlapping ranges](Solutions/C/count-ways-to-group-overlapping-ranges)
 * [Determine if two events have conflict](Solutions/D/determine-if-two-events-have-conflict)
 * [Divide intervals into minimum number of groups](Solutions/D/divide-intervals-into-minimum-number-of-groups)
 * [Interval list intersections](Solutions/I/interval-list-intersections)
@@ -884,6 +888,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Mathematics-Closed_form_expressions">Closed form expressions</a>
 * [Count anagrams](Solutions/C/count-anagrams)
+* [Count total number of colored cells](Solutions/C/count-total-number-of-colored-cells)
 * [Find the pivot integer](Solutions/F/find-the-pivot-integer)
 * [Maximum value at a given index in a bounded array](Solutions/M/maximum-value-at-a-given-index-in-a-bounded-array)
 * [Minimum operations to make array equal](Solutions/M/minimum-operations-to-make-array-equal)
@@ -906,6 +911,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count the number of fair pairs](Solutions/C/count-the-number-of-fair-pairs)
 * [Count the number of ideal arrays](Solutions/C/count-the-number-of-ideal-arrays)
 * [Count unreachable pairs of nodes in an undirected graph](Solutions/C/count-unreachable-pairs-of-nodes-in-an-undirected-graph)
+* [Count ways to group overlapping ranges](Solutions/C/count-ways-to-group-overlapping-ranges)
 * [Domino and tromino tiling](Solutions/D/domino-and-tromino-tiling)
 * [Find xor beauty of array](Solutions/F/find-xor-beauty-of-array)
 * [Iterator for combination](Solutions/I/iterator-for-combination)
