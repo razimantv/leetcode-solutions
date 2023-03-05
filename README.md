@@ -389,6 +389,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum total distance traveled](Solutions/M/minimum-total-distance-traveled)
 * [N th tribonacci number](Solutions/N/n-th-tribonacci-number)
 * [Number of great partitions](Solutions/N/number-of-great-partitions)
+* [Number of ways to earn points](Solutions/N/number-of-ways-to-earn-points)
 * [Partition equal subset sum](Solutions/P/partition-equal-subset-sum)
 * [Pascals triangle ii](Solutions/P/pascals-triangle-ii)
 * [Paths in matrix whose sum is divisible by k](Solutions/P/paths-in-matrix-whose-sum-is-divisible-by-k)
@@ -431,6 +432,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Coin change](Solutions/C/coin-change)
 * [Coin change 2](Solutions/C/coin-change-2)
 * [Number of great partitions](Solutions/N/number-of-great-partitions)
+* [Number of ways to earn points](Solutions/N/number-of-ways-to-earn-points)
 * [Ones and zeroes](Solutions/O/ones-and-zeroes)
 * [Partition equal subset sum](Solutions/P/partition-equal-subset-sum)
 
@@ -830,6 +832,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [My calendar iii](Solutions/M/my-calendar-iii)
 * [Non overlapping intervals](Solutions/N/non-overlapping-intervals)
 * [Remove covered intervals](Solutions/R/remove-covered-intervals)
+* [Split the array to make coprime products](Solutions/S/split-the-array-to-make-coprime-products)
 
 ### <a name="Intervals-Union">Union</a>
 * [Data stream as disjoint intervals](Solutions/D/data-stream-as-disjoint-intervals)
@@ -1001,6 +1004,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Distinct prime factors of product of array](Solutions/D/distinct-prime-factors-of-product-of-array)
 * [Largest component size by common factor](Solutions/L/largest-component-size-by-common-factor)
 * [Number of different subsequences gcds](Solutions/N/number-of-different-subsequences-gcds)
+* [Split the array to make coprime products](Solutions/S/split-the-array-to-make-coprime-products)
 
 #### <a name="Mathematics-Number_theory-Theorems">Theorems</a>
 * [Perfect squares](Solutions/P/perfect-squares)
@@ -1345,6 +1349,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Palindrome number](Solutions/P/palindrome-number)
 * [Pancake sorting](Solutions/P/pancake-sorting)
 * [Partitioning into minimum number of deci binary numbers](Solutions/P/partitioning-into-minimum-number-of-deci-binary-numbers)
+* [Pass the pillow](Solutions/P/pass-the-pillow)
 * [Perform string shifts](Solutions/P/perform-string-shifts)
 * [Power of three](Solutions/P/power-of-three)
 * [Powerful integers](Solutions/P/powerful-integers)
@@ -1456,6 +1461,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Sorting-Partial">Partial</a>
 * [K closest points to origin](Solutions/K/k-closest-points-to-origin)
+* [Kth largest sum in a binary tree](Solutions/K/kth-largest-sum-in-a-binary-tree)
 
 ### <a name="Sorting-Queries_and_updates_together">Queries and updates together</a>
 * [Minimum space wasted from packaging](Solutions/M/minimum-space-wasted-from-packaging)
@@ -1648,6 +1654,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [House robber iii](Solutions/H/house-robber-iii)
 * [Increasing order search tree](Solutions/I/increasing-order-search-tree)
 * [Invert binary tree](Solutions/I/invert-binary-tree)
+* [Kth largest sum in a binary tree](Solutions/K/kth-largest-sum-in-a-binary-tree)
 * [Kth smallest element in a bst](Solutions/K/kth-smallest-element-in-a-bst)
 * [Leaf similar trees](Solutions/L/leaf-similar-trees)
 * [Longest univalue path](Solutions/L/longest-univalue-path)
