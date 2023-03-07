@@ -148,6 +148,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimize maximum of array](Solutions/M/minimize-maximum-of-array)
 * [Minimum cost for tickets](Solutions/M/minimum-cost-for-tickets)
 * [Minimum speed to arrive on time](Solutions/M/minimum-speed-to-arrive-on-time)
+* [Minimum time to complete trips](Solutions/M/minimum-time-to-complete-trips)
 * [Nth magical number](Solutions/N/nth-magical-number)
 * [Partition array such that maximum difference is k](Solutions/P/partition-array-such-that-maximum-difference-is-k)
 * [Split array largest sum](Solutions/S/split-array-largest-sum)

@@ -137,6 +137,7 @@ Priority queue>K smallest/largest elements>Transfer between the two
 Priority queue>Key update using insert and remove on C++ set
 Process in unusual order
 Process multiple vectors together
+QuadTree
 Queue
 Quick Select
 Range updates using prefix sum
@@ -149,6 +150,7 @@ Sliding window>Monotonic deque
 Sliding window>String hashing
 Sorting
 Sorting>Custom
+Sorting>Implementation
 Sorting>Index array
 Sorting>Merge sort
 Sorting>Partial
@@ -175,6 +177,7 @@ Tree>Binary search tree>Traversal
 Tree>Binary tree
 Tree>Binary tree>Iteration
 Tree>Binary tree>Recursion
+Tree>Hashing
 Tree>Level-wise processing
 Tree>Order traversal
 Tree>Rerooting
