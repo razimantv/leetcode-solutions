@@ -1681,6 +1681,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Pseudo palindromic paths in a binary tree](Solutions/P/pseudo-palindromic-paths-in-a-binary-tree)
 * [Range sum of bst](Solutions/R/range-sum-of-bst)
 * [Recover binary search tree](Solutions/R/recover-binary-search-tree)
+* [Symmetric tree](Solutions/S/symmetric-tree)
 
 ### <a name="Tree-Hashing">Hashing</a>
 * [Find duplicate subtrees](Solutions/F/find-duplicate-subtrees)
