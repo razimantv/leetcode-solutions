@@ -1637,6 +1637,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Binary tree right side view](Solutions/B/binary-tree-right-side-view)
 * [Binary tree tilt](Solutions/B/binary-tree-tilt)
 * [Binary tree zigzag level order traversal](Solutions/B/binary-tree-zigzag-level-order-traversal)
+* [Check completeness of a binary tree](Solutions/C/check-completeness-of-a-binary-tree)
 * [Check if a string is a valid sequence from root to leaves path in a binary tree](Solutions/C/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree)
 * [Construct binary search tree from preorder traversal](Solutions/C/construct-binary-search-tree-from-preorder-traversal)
 * [Construct binary tree from inorder and postorder traversal](Solutions/C/construct-binary-tree-from-inorder-and-postorder-traversal)
