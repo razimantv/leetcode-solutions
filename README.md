@@ -283,6 +283,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Design a number container system](Solutions/D/design-a-number-container-system)
 * [Design add and search words data structure](Solutions/D/design-add-and-search-words-data-structure)
 * [Design authentication manager](Solutions/D/design-authentication-manager)
+* [Design browser history](Solutions/D/design-browser-history)
 * [Design circular queue](Solutions/D/design-circular-queue)
 * [Design hashmap](Solutions/D/design-hashmap)
 * [Design hashset](Solutions/D/design-hashset)
