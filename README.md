@@ -204,6 +204,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Non negative integers without consecutive ones](Solutions/N/non-negative-integers-without-consecutive-ones)
 * [Number complement](Solutions/N/number-complement)
 * [Number of 1 bits](Solutions/N/number-of-1-bits)
+* [Number of even and odd bits](Solutions/N/number-of-even-and-odd-bits)
 * [Number of excellent pairs](Solutions/N/number-of-excellent-pairs)
 * [Power of four](Solutions/P/power-of-four)
 * [Power of two](Solutions/P/power-of-two)
@@ -370,6 +371,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Pascals triangle](Solutions/P/pascals-triangle)
 * [Remove boxes](Solutions/R/remove-boxes)
 * [Restore ip addresses](Solutions/R/restore-ip-addresses)
+* [The number of beautiful subsets](Solutions/T/the-number-of-beautiful-subsets)
 
 ### <a name="Dynamic_programming-Array_reuse">Array reuse</a>
 * [Champagne tower](Solutions/C/champagne-tower)
@@ -691,6 +693,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Remove duplicate letters](Solutions/R/remove-duplicate-letters)
 * [Remove k digits](Solutions/R/remove-k-digits)
 * [Remove stones to minimize the total](Solutions/R/remove-stones-to-minimize-the-total)
+* [Smallest missing non negative integer after operations](Solutions/S/smallest-missing-non-negative-integer-after-operations)
 * [Split array largest sum](Solutions/S/split-array-largest-sum)
 * [Split with minimum sum](Solutions/S/split-with-minimum-sum)
 
@@ -935,6 +938,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Number of ways to rearrange sticks with k sticks visible](Solutions/N/number-of-ways-to-rearrange-sticks-with-k-sticks-visible)
 * [Permutation sequence](Solutions/P/permutation-sequence)
 * [Probability of a two boxes having the same number of distinct balls](Solutions/P/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls)
+* [The number of beautiful subsets](Solutions/T/the-number-of-beautiful-subsets)
 
 #### <a name="Mathematics-Combinatorics-Inclusion_exclusion">Inclusion-exclusion</a>
 * [Count increasing quadruplets](Solutions/C/count-increasing-quadruplets)
@@ -988,7 +992,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Number of subarrays with gcd equal to k](Solutions/N/number-of-subarrays-with-gcd-equal-to-k)
 * [Number of subarrays with lcm equal to k](Solutions/N/number-of-subarrays-with-lcm-equal-to-k)
 * [Range product queries of powers](Solutions/R/range-product-queries-of-powers)
+* [Smallest missing non negative integer after operations](Solutions/S/smallest-missing-non-negative-integer-after-operations)
 * [Subarray sums divisible by k](Solutions/S/subarray-sums-divisible-by-k)
+* [The number of beautiful subsets](Solutions/T/the-number-of-beautiful-subsets)
 
 #### <a name="Mathematics-Number_theory-Dynamic_programming">Dynamic programming</a>
 * [Count the number of square free subsets](Solutions/C/count-the-number-of-square-free-subsets)
@@ -1294,6 +1300,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Check if the sentence is pangram](Solutions/C/check-if-the-sentence-is-pangram)
 * [Check if two string arrays are equivalent](Solutions/C/check-if-two-string-arrays-are-equivalent)
 * [Check if word equals summation of two words](Solutions/C/check-if-word-equals-summation-of-two-words)
+* [Check knight tour configuration](Solutions/C/check-knight-tour-configuration)
 * [Convert the temperature](Solutions/C/convert-the-temperature)
 * [Count and say](Solutions/C/count-and-say)
 * [Count asterisks](Solutions/C/count-asterisks)
@@ -1427,6 +1434,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum number of operations to make arrays similar](Solutions/M/minimum-number-of-operations-to-make-arrays-similar)
 * [Number of distinct averages](Solutions/N/number-of-distinct-averages)
 * [Reduction operations to make the array elements equal](Solutions/R/reduction-operations-to-make-the-array-elements-equal)
+* [The number of beautiful subsets](Solutions/T/the-number-of-beautiful-subsets)
 * [The number of weak characters in the game](Solutions/T/the-number-of-weak-characters-in-the-game)
 
 ### <a name="Sorting-Custom">Custom</a>
