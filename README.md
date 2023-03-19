@@ -149,6 +149,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum cost for tickets](Solutions/M/minimum-cost-for-tickets)
 * [Minimum speed to arrive on time](Solutions/M/minimum-speed-to-arrive-on-time)
 * [Minimum time to complete trips](Solutions/M/minimum-time-to-complete-trips)
+* [Minimum time to repair cars](Solutions/M/minimum-time-to-repair-cars)
 * [Nth magical number](Solutions/N/nth-magical-number)
 * [Partition array such that maximum difference is k](Solutions/P/partition-array-such-that-maximum-difference-is-k)
 * [Split array largest sum](Solutions/S/split-array-largest-sum)
@@ -649,6 +650,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Largest number](Solutions/L/largest-number)
 * [Longest subsequence with limited sum](Solutions/L/longest-subsequence-with-limited-sum)
 * [Make array zero by subtracting equal amounts](Solutions/M/make-array-zero-by-subtracting-equal-amounts)
+* [Maximize greatness of an array](Solutions/M/maximize-greatness-of-an-array)
 * [Maximize the minimum powered city](Solutions/M/maximize-the-minimum-powered-city)
 * [Maximum bags with full capacity of rocks](Solutions/M/maximum-bags-with-full-capacity-of-rocks)
 * [Maximum element after decreasing and rearranging](Solutions/M/maximum-element-after-decreasing-and-rearranging)
@@ -891,6 +893,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Mathematics-Basic">Basic</a>
 * [Angle between hands of a clock](Solutions/A/angle-between-hands-of-a-clock)
+* [Distribute money to maximum children](Solutions/D/distribute-money-to-maximum-children)
 * [Fraction to recurring decimal](Solutions/F/fraction-to-recurring-decimal)
 * [Largest perimeter triangle](Solutions/L/largest-perimeter-triangle)
 * [Poor pigs](Solutions/P/poor-pigs)
@@ -1459,6 +1462,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Sorting-Index_array">Index array</a>
 * [Best team with no conflicts](Solutions/B/best-team-with-no-conflicts)
+* [Find score of an array after marking all elements](Solutions/F/find-score-of-an-array-after-marking-all-elements)
 * [Ipo](Solutions/I/ipo)
 * [Maximum subsequence score](Solutions/M/maximum-subsequence-score)
 
@@ -1711,6 +1715,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## <a name="Two_pointers">Two pointers</a>
 * [Find k closest elements](Solutions/F/find-k-closest-elements)
+* [Maximize greatness of an array](Solutions/M/maximize-greatness-of-an-array)
 * [Merge two 2d arrays by summing values](Solutions/M/merge-two-2d-arrays-by-summing-values)
 * [Minimum common value](Solutions/M/minimum-common-value)
 * [Reverse vowels of a string](Solutions/R/reverse-vowels-of-a-string)
