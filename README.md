@@ -570,6 +570,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Number of increasing paths in a grid](Solutions/N/number-of-increasing-paths-in-a-grid)
 * [Number of nodes in the sub tree with the same label](Solutions/N/number-of-nodes-in-the-sub-tree-with-the-same-label)
 * [Reachable nodes with restrictions](Solutions/R/reachable-nodes-with-restrictions)
+* [Reorder routes to make all paths lead to the city zero](Solutions/R/reorder-routes-to-make-all-paths-lead-to-the-city-zero)
 
 #### <a name="Graph_theory-Depth_first_search-Colouring">Colouring</a>
 * [Is graph bipartite](Solutions/I/is-graph-bipartite)
