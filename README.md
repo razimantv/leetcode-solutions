@@ -147,11 +147,13 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum xor of two numbers in an array](Solutions/M/maximum-xor-of-two-numbers-in-an-array)
 * [Minimize maximum of array](Solutions/M/minimize-maximum-of-array)
 * [Minimum cost for tickets](Solutions/M/minimum-cost-for-tickets)
+* [Minimum operations to make all array elements equal](Solutions/M/minimum-operations-to-make-all-array-elements-equal)
 * [Minimum speed to arrive on time](Solutions/M/minimum-speed-to-arrive-on-time)
 * [Minimum time to complete trips](Solutions/M/minimum-time-to-complete-trips)
 * [Minimum time to repair cars](Solutions/M/minimum-time-to-repair-cars)
 * [Nth magical number](Solutions/N/nth-magical-number)
 * [Partition array such that maximum difference is k](Solutions/P/partition-array-such-that-maximum-difference-is-k)
+* [Prime subtraction operation](Solutions/P/prime-subtraction-operation)
 * [Split array largest sum](Solutions/S/split-array-largest-sum)
 
 ### <a name="Binary_search-C___set">C++ set</a>
@@ -545,6 +547,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Graph_theory-Degree_counting">Degree counting</a>
 * [Add edges to make degrees of all nodes even](Solutions/A/add-edges-to-make-degrees-of-all-nodes-even)
+* [Collect coins in a tree](Solutions/C/collect-coins-in-a-tree)
 * [Find the town judge](Solutions/F/find-the-town-judge)
 
 ### <a name="Graph_theory-Depth_first_search">Depth first search</a>
@@ -606,6 +609,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Graph_theory-Directed_acyclic_graph">Directed acyclic graph</a>
 * [All paths from source to target](Solutions/A/all-paths-from-source-to-target)
+
+### <a name="Graph_theory-Iterative_leaf_removal">Iterative leaf removal</a>
+* [Collect coins in a tree](Solutions/C/collect-coins-in-a-tree)
 
 ### <a name="Graph_theory-Minimum_spanning_tree">Minimum spanning tree</a>
 * [Min cost to connect all points](Solutions/M/min-cost-to-connect-all-points)
@@ -685,6 +691,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Number of matching subsequences](Solutions/N/number-of-matching-subsequences)
 * [Partition labels](Solutions/P/partition-labels)
 * [Patching array](Solutions/P/patching-array)
+* [Prime subtraction operation](Solutions/P/prime-subtraction-operation)
 * [Put marbles in bags](Solutions/P/put-marbles-in-bags)
 * [Queue reconstruction by height](Solutions/Q/queue-reconstruction-by-height)
 * [Rearrange array to maximize prefix score](Solutions/R/rearrange-array-to-maximize-prefix-score)
@@ -1021,6 +1028,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Distinct prime factors of product of array](Solutions/D/distinct-prime-factors-of-product-of-array)
 * [Largest component size by common factor](Solutions/L/largest-component-size-by-common-factor)
 * [Number of different subsequences gcds](Solutions/N/number-of-different-subsequences-gcds)
+* [Prime subtraction operation](Solutions/P/prime-subtraction-operation)
 * [Split the array to make coprime products](Solutions/S/split-the-array-to-make-coprime-products)
 
 #### <a name="Mathematics-Number_theory-Theorems">Theorems</a>
@@ -1164,6 +1172,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum xor for each query](Solutions/M/maximum-xor-for-each-query)
 * [Minimum absolute difference queries](Solutions/M/minimum-absolute-difference-queries)
 * [Minimum amount of time to collect garbage](Solutions/M/minimum-amount-of-time-to-collect-garbage)
+* [Minimum operations to make all array elements equal](Solutions/M/minimum-operations-to-make-all-array-elements-equal)
 * [Minimum space wasted from packaging](Solutions/M/minimum-space-wasted-from-packaging)
 * [Minimum value to get positive step by step sum](Solutions/M/minimum-value-to-get-positive-step-by-step-sum)
 * [Random pick with weight](Solutions/R/random-pick-with-weight)
@@ -1338,6 +1347,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Incremental memory leak](Solutions/I/incremental-memory-leak)
 * [Integer replacement](Solutions/I/integer-replacement)
 * [Island perimeter](Solutions/I/island-perimeter)
+* [K items with the maximum sum](Solutions/K/k-items-with-the-maximum-sum)
 * [Largest local values in a matrix](Solutions/L/largest-local-values-in-a-matrix)
 * [Largest magic square](Solutions/L/largest-magic-square)
 * [Largest positive integer that exists with its negative](Solutions/L/largest-positive-integer-that-exists-with-its-negative)
