@@ -397,6 +397,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum total distance traveled](Solutions/M/minimum-total-distance-traveled)
 * [N th tribonacci number](Solutions/N/n-th-tribonacci-number)
 * [Number of great partitions](Solutions/N/number-of-great-partitions)
+* [Number of ways of cutting a pizza](Solutions/N/number-of-ways-of-cutting-a-pizza)
 * [Number of ways to earn points](Solutions/N/number-of-ways-to-earn-points)
 * [Partition equal subset sum](Solutions/P/partition-equal-subset-sum)
 * [Pascals triangle ii](Solutions/P/pascals-triangle-ii)
@@ -1187,6 +1188,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Increment submatrices by one](Solutions/I/increment-submatrices-by-one)
 * [Maximal square](Solutions/M/maximal-square)
 * [Number of submatrices that sum to target](Solutions/N/number-of-submatrices-that-sum-to-target)
+* [Number of ways of cutting a pizza](Solutions/N/number-of-ways-of-cutting-a-pizza)
 * [Range sum query 2d immutable](Solutions/R/range-sum-query-2d-immutable)
 
 #### <a name="Prefix-Sum-For_range_updates">For range updates</a>
