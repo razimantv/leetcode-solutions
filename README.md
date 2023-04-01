@@ -189,6 +189,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Divide two integers](Solutions/D/divide-two-integers)
 * [Find a value of a mysterious function closest to target](Solutions/F/find-a-value-of-a-mysterious-function-closest-to-target)
 * [Find xor sum of all pairs bitwise and](Solutions/F/find-xor-sum-of-all-pairs-bitwise-and)
+* [Form smallest number from two digit arrays](Solutions/F/form-smallest-number-from-two-digit-arrays)
 * [Gray code](Solutions/G/gray-code)
 * [Hamming distance](Solutions/H/hamming-distance)
 * [Longest uncommon subsequence ii](Solutions/L/longest-uncommon-subsequence-ii)
@@ -575,6 +576,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Number of nodes in the sub tree with the same label](Solutions/N/number-of-nodes-in-the-sub-tree-with-the-same-label)
 * [Reachable nodes with restrictions](Solutions/R/reachable-nodes-with-restrictions)
 * [Reorder routes to make all paths lead to the city zero](Solutions/R/reorder-routes-to-make-all-paths-lead-to-the-city-zero)
+* [Shortest cycle in a graph](Solutions/S/shortest-cycle-in-a-graph)
 
 #### <a name="Graph_theory-Depth_first_search-Colouring">Colouring</a>
 * [Is graph bipartite](Solutions/I/is-graph-bipartite)
@@ -626,6 +628,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Graph_theory-Reuse_visited_array">Reuse visited array</a>
 * [Divide nodes into the maximum number of groups](Solutions/D/divide-nodes-into-the-maximum-number-of-groups)
+* [Shortest cycle in a graph](Solutions/S/shortest-cycle-in-a-graph)
 
 ### <a name="Graph_theory-Single_outdegree_graphs">Single outdegree graphs</a>
 * [Find closest node to given two nodes](Solutions/F/find-closest-node-to-given-two-nodes)
@@ -991,6 +994,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find the student that will replace the chalk](Solutions/F/find-the-student-that-will-replace-the-chalk)
 * [Greatest common divisor of strings](Solutions/G/greatest-common-divisor-of-strings)
 * [Integer break](Solutions/I/integer-break)
+* [Make k subarray sums equal](Solutions/M/make-k-subarray-sums-equal)
 * [Minimize the maximum of two arrays](Solutions/M/minimize-the-maximum-of-two-arrays)
 * [Minimum cost to move chips to the same position](Solutions/M/minimum-cost-to-move-chips-to-the-same-position)
 * [Minimum deletions to make array divisible](Solutions/M/minimum-deletions-to-make-array-divisible)
@@ -1158,6 +1162,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count vowel strings in ranges](Solutions/C/count-vowel-strings-in-ranges)
 * [Delivering boxes from storage to ports](Solutions/D/delivering-boxes-from-storage-to-ports)
 * [Execution of all suffix instructions staying in a grid](Solutions/E/execution-of-all-suffix-instructions-staying-in-a-grid)
+* [Find the substring with maximum cost](Solutions/F/find-the-substring-with-maximum-cost)
 * [Gas station](Solutions/G/gas-station)
 * [Left and right sum differences](Solutions/L/left-and-right-sum-differences)
 * [Longest subsequence with limited sum](Solutions/L/longest-subsequence-with-limited-sum)
@@ -1495,6 +1500,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Sorting-Partial">Partial</a>
 * [K closest points to origin](Solutions/K/k-closest-points-to-origin)
 * [Kth largest sum in a binary tree](Solutions/K/kth-largest-sum-in-a-binary-tree)
+* [Make k subarray sums equal](Solutions/M/make-k-subarray-sums-equal)
 
 ### <a name="Sorting-Queries_and_updates_together">Queries and updates together</a>
 * [Minimum space wasted from packaging](Solutions/M/minimum-space-wasted-from-packaging)
