@@ -20,6 +20,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count binary substrings](Solutions/C/count-binary-substrings)
 * [Distribute candies](Solutions/D/distribute-candies)
 * [Find all good indices](Solutions/F/find-all-good-indices)
+* [Find the longest balanced substring of a binary string](Solutions/F/find-the-longest-balanced-substring-of-a-binary-string)
 * [Invalid transactions](Solutions/I/invalid-transactions)
 * [Length of the longest alphabetical continuous substring](Solutions/L/length-of-the-longest-alphabetical-continuous-substring)
 * [Longer contiguous segments of ones than zeros](Solutions/L/longer-contiguous-segments-of-ones-than-zeros)
@@ -163,6 +164,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count of range sum](Solutions/C/count-of-range-sum)
 * [Maximum number of points from grid queries](Solutions/M/maximum-number-of-points-from-grid-queries)
 * [Minimum absolute sum difference](Solutions/M/minimum-absolute-sum-difference)
+* [Minimum reverse operations](Solutions/M/minimum-reverse-operations)
 * [My calendar i](Solutions/M/my-calendar-i)
 * [Online majority element in subarray](Solutions/O/online-majority-element-in-subarray)
 * [Random pick with weight](Solutions/R/random-pick-with-weight)
@@ -535,6 +537,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Jump game iv](Solutions/J/jump-game-iv)
 * [Minimum genetic mutation](Solutions/M/minimum-genetic-mutation)
 * [Minimum operations to convert number](Solutions/M/minimum-operations-to-convert-number)
+* [Minimum reverse operations](Solutions/M/minimum-reverse-operations)
 * [Nearest exit from entrance in maze](Solutions/N/nearest-exit-from-entrance-in-maze)
 * [Open the lock](Solutions/O/open-the-lock)
 * [Pacific atlantic water flow](Solutions/P/pacific-atlantic-water-flow)
@@ -676,6 +679,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum tastiness of candy basket](Solutions/M/maximum-tastiness-of-candy-basket)
 * [Maximum units on a truck](Solutions/M/maximum-units-on-a-truck)
 * [Maximum value after insertion](Solutions/M/maximum-value-after-insertion)
+* [Mice and cheese](Solutions/M/mice-and-cheese)
 * [Minimize maximum pair sum in array](Solutions/M/minimize-maximum-pair-sum-in-array)
 * [Minimum amount of time to fill cups](Solutions/M/minimum-amount-of-time-to-fill-cups)
 * [Minimum cost to make array equal](Solutions/M/minimum-cost-to-make-array-equal)
@@ -719,6 +723,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Contains duplicate ii](Solutions/C/contains-duplicate-ii)
 * [Contiguous array](Solutions/C/contiguous-array)
 * [Continuous subarray sum](Solutions/C/continuous-subarray-sum)
+* [Convert an array into a 2d array with conditions](Solutions/C/convert-an-array-into-a-2d-array-with-conditions)
 * [Count anagrams](Solutions/C/count-anagrams)
 * [Count number of bad pairs](Solutions/C/count-number-of-bad-pairs)
 * [Count number of distinct integers after reverse operations](Solutions/C/count-number-of-distinct-integers-after-reverse-operations)
@@ -1038,6 +1043,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 #### <a name="Mathematics-Number_theory-Theorems">Theorems</a>
 * [Perfect squares](Solutions/P/perfect-squares)
+
+### <a name="Mathematics-Parity">Parity</a>
+* [Minimum reverse operations](Solutions/M/minimum-reverse-operations)
 
 ### <a name="Mathematics-Probability">Probability</a>
 * [Generate random point in a circle](Solutions/G/generate-random-point-in-a-circle)
@@ -1501,6 +1509,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [K closest points to origin](Solutions/K/k-closest-points-to-origin)
 * [Kth largest sum in a binary tree](Solutions/K/kth-largest-sum-in-a-binary-tree)
 * [Make k subarray sums equal](Solutions/M/make-k-subarray-sums-equal)
+* [Mice and cheese](Solutions/M/mice-and-cheese)
 
 ### <a name="Sorting-Queries_and_updates_together">Queries and updates together</a>
 * [Minimum space wasted from packaging](Solutions/M/minimum-space-wasted-from-packaging)
