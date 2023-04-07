@@ -599,6 +599,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Making a large island](Solutions/M/making-a-large-island)
 * [Max area of island](Solutions/M/max-area-of-island)
 * [Number of closed islands](Solutions/N/number-of-closed-islands)
+* [Number of enclaves](Solutions/N/number-of-enclaves)
 
 #### <a name="Graph_theory-Depth_first_search-Iterative">Iterative</a>
 * [Find eventual safe states](Solutions/F/find-eventual-safe-states)
