@@ -1,0 +1,7 @@
+# Prime in diagonal
+
+[Problem link](https://leetcode.com/problems/prime-in-diagonal/)
+
+## Tags
+
+* [Mathematics](/README.md#Mathematics) > [Number theory](/README.md#Mathematics-Number_theory) > [Basic](/README.md#Mathematics-Number_theory-Basic)

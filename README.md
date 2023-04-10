@@ -54,6 +54,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Partition array into disjoint intervals](Solutions/P/partition-array-into-disjoint-intervals)
 * [Product of array except self](Solutions/P/product-of-array-except-self)
 * [Subsequence with the minimum score](Solutions/S/subsequence-with-the-minimum-score)
+* [Sum of distances](Solutions/S/sum-of-distances)
 * [Take k of each character from left and right](Solutions/T/take-k-of-each-character-from-left-and-right)
 
 ### <a name="Array_scanning-In_place_modification">In-place modification</a>
@@ -147,6 +148,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum value at a given index in a bounded array](Solutions/M/maximum-value-at-a-given-index-in-a-bounded-array)
 * [Maximum xor of two numbers in an array](Solutions/M/maximum-xor-of-two-numbers-in-an-array)
 * [Minimize maximum of array](Solutions/M/minimize-maximum-of-array)
+* [Minimize the maximum difference of pairs](Solutions/M/minimize-the-maximum-difference-of-pairs)
 * [Minimum cost for tickets](Solutions/M/minimum-cost-for-tickets)
 * [Minimum operations to make all array elements equal](Solutions/M/minimum-operations-to-make-all-array-elements-equal)
 * [Minimum speed to arrive on time](Solutions/M/minimum-speed-to-arrive-on-time)
@@ -536,6 +538,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Divide nodes into the maximum number of groups](Solutions/D/divide-nodes-into-the-maximum-number-of-groups)
 * [Jump game iv](Solutions/J/jump-game-iv)
 * [Minimum genetic mutation](Solutions/M/minimum-genetic-mutation)
+* [Minimum number of visited cells in a grid](Solutions/M/minimum-number-of-visited-cells-in-a-grid)
 * [Minimum operations to convert number](Solutions/M/minimum-operations-to-convert-number)
 * [Minimum reverse operations](Solutions/M/minimum-reverse-operations)
 * [Nearest exit from entrance in maze](Solutions/N/nearest-exit-from-entrance-in-maze)
@@ -683,6 +686,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum value after insertion](Solutions/M/maximum-value-after-insertion)
 * [Mice and cheese](Solutions/M/mice-and-cheese)
 * [Minimize maximum pair sum in array](Solutions/M/minimize-maximum-pair-sum-in-array)
+* [Minimize the maximum difference of pairs](Solutions/M/minimize-the-maximum-difference-of-pairs)
 * [Minimum amount of time to fill cups](Solutions/M/minimum-amount-of-time-to-fill-cups)
 * [Minimum cost to make array equal](Solutions/M/minimum-cost-to-make-array-equal)
 * [Minimum money required before transactions](Solutions/M/minimum-money-required-before-transactions)
@@ -800,6 +804,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Smallest subarrays with maximum bitwise or](Solutions/S/smallest-subarrays-with-maximum-bitwise-or)
 * [Subarray sums divisible by k](Solutions/S/subarray-sums-divisible-by-k)
 * [Substring xor queries](Solutions/S/substring-xor-queries)
+* [Sum of distances](Solutions/S/sum-of-distances)
 * [Sum of prefix scores of strings](Solutions/S/sum-of-prefix-scores-of-strings)
 * [Take k of each character from left and right](Solutions/T/take-k-of-each-character-from-left-and-right)
 
@@ -1011,6 +1016,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Number of common factors](Solutions/N/number-of-common-factors)
 * [Number of subarrays with gcd equal to k](Solutions/N/number-of-subarrays-with-gcd-equal-to-k)
 * [Number of subarrays with lcm equal to k](Solutions/N/number-of-subarrays-with-lcm-equal-to-k)
+* [Prime in diagonal](Solutions/P/prime-in-diagonal)
 * [Range product queries of powers](Solutions/R/range-product-queries-of-powers)
 * [Smallest missing non negative integer after operations](Solutions/S/smallest-missing-non-negative-integer-after-operations)
 * [Subarray sums divisible by k](Solutions/S/subarray-sums-divisible-by-k)
