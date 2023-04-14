@@ -391,6 +391,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [K inverse pairs array](Solutions/K/k-inverse-pairs-array)
 * [Longest binary subsequence less than or equal to k](Solutions/L/longest-binary-subsequence-less-than-or-equal-to-k)
 * [Longest ideal subsequence](Solutions/L/longest-ideal-subsequence)
+* [Longest palindromic subsequence](Solutions/L/longest-palindromic-subsequence)
 * [Maximum length of repeated subarray](Solutions/M/maximum-length-of-repeated-subarray)
 * [Maximum number of points with cost](Solutions/M/maximum-number-of-points-with-cost)
 * [Maximum score from performing multiplication operations](Solutions/M/maximum-score-from-performing-multiplication-operations)
