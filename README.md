@@ -395,6 +395,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum length of repeated subarray](Solutions/M/maximum-length-of-repeated-subarray)
 * [Maximum number of points with cost](Solutions/M/maximum-number-of-points-with-cost)
 * [Maximum score from performing multiplication operations](Solutions/M/maximum-score-from-performing-multiplication-operations)
+* [Maximum value of k coins from piles](Solutions/M/maximum-value-of-k-coins-from-piles)
 * [Minimum falling path sum](Solutions/M/minimum-falling-path-sum)
 * [Minimum number of refueling stops](Solutions/M/minimum-number-of-refueling-stops)
 * [Minimum path cost in a grid](Solutions/M/minimum-path-cost-in-a-grid)
@@ -446,6 +447,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Dynamic_programming-Knapsack">Knapsack</a>
 * [Coin change](Solutions/C/coin-change)
 * [Coin change 2](Solutions/C/coin-change-2)
+* [Maximum value of k coins from piles](Solutions/M/maximum-value-of-k-coins-from-piles)
 * [Number of great partitions](Solutions/N/number-of-great-partitions)
 * [Number of ways to earn points](Solutions/N/number-of-ways-to-earn-points)
 * [Ones and zeroes](Solutions/O/ones-and-zeroes)
