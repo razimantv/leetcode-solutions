@@ -495,6 +495,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Dynamic_programming-Trees">Trees</a>
 * [Count number of possible root nodes](Solutions/C/count-number-of-possible-root-nodes)
+* [Cousins in binary tree ii](Solutions/C/cousins-in-binary-tree-ii)
 * [Diameter of binary tree](Solutions/D/diameter-of-binary-tree)
 * [Difference between maximum and minimum price sum](Solutions/D/difference-between-maximum-and-minimum-price-sum)
 * [Employee importance](Solutions/E/employee-importance)
@@ -615,6 +616,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum height trees](Solutions/M/minimum-height-trees)
 
 ### <a name="Graph_theory-Dijkstra_s_algorithm">Dijkstra's algorithm</a>
+* [Design graph with shortest path calculator](Solutions/D/design-graph-with-shortest-path-calculator)
 * [Minimum time to visit a cell in a grid](Solutions/M/minimum-time-to-visit-a-cell-in-a-grid)
 * [Network delay time](Solutions/N/network-delay-time)
 * [Number of ways to arrive at destination](Solutions/N/number-of-ways-to-arrive-at-destination)
@@ -1168,6 +1170,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Best time to buy and sell stock](Solutions/B/best-time-to-buy-and-sell-stock)
 * [Best time to buy and sell stock iii](Solutions/B/best-time-to-buy-and-sell-stock-iii)
 * [Count subarrays with fixed bounds](Solutions/C/count-subarrays-with-fixed-bounds)
+* [Find the score of all prefixes of an array](Solutions/F/find-the-score-of-all-prefixes-of-an-array)
 * [Global and local inversions](Solutions/G/global-and-local-inversions)
 * [Increasing triplet subsequence](Solutions/I/increasing-triplet-subsequence)
 * [Partition array into disjoint intervals](Solutions/P/partition-array-into-disjoint-intervals)
@@ -1182,6 +1185,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count vowel strings in ranges](Solutions/C/count-vowel-strings-in-ranges)
 * [Delivering boxes from storage to ports](Solutions/D/delivering-boxes-from-storage-to-ports)
 * [Execution of all suffix instructions staying in a grid](Solutions/E/execution-of-all-suffix-instructions-staying-in-a-grid)
+* [Find the score of all prefixes of an array](Solutions/F/find-the-score-of-all-prefixes-of-an-array)
 * [Find the substring with maximum cost](Solutions/F/find-the-substring-with-maximum-cost)
 * [Gas station](Solutions/G/gas-station)
 * [Left and right sum differences](Solutions/L/left-and-right-sum-differences)
@@ -1248,6 +1252,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Total cost to hire k workers](Solutions/T/total-cost-to-hire-k-workers)
 
 ### <a name="Priority_queue-Dijkstra_s_algorithm">Dijkstra's algorithm</a>
+* [Design graph with shortest path calculator](Solutions/D/design-graph-with-shortest-path-calculator)
 * [Minimum time to visit a cell in a grid](Solutions/M/minimum-time-to-visit-a-cell-in-a-grid)
 * [Network delay time](Solutions/N/network-delay-time)
 
@@ -1270,6 +1275,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Design a food rating system](Solutions/D/design-a-food-rating-system)
 * [Design a number container system](Solutions/D/design-a-number-container-system)
 * [Design authentication manager](Solutions/D/design-authentication-manager)
+* [Design graph with shortest path calculator](Solutions/D/design-graph-with-shortest-path-calculator)
 * [Lfu cache](Solutions/L/lfu-cache)
 * [Lru cache](Solutions/L/lru-cache)
 * [Minimum time to visit a cell in a grid](Solutions/M/minimum-time-to-visit-a-cell-in-a-grid)
@@ -1361,6 +1367,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find the distance value between two arrays](Solutions/F/find-the-distance-value-between-two-arrays)
 * [Find the pivot integer](Solutions/F/find-the-pivot-integer)
 * [Find the town judge](Solutions/F/find-the-town-judge)
+* [Find the width of columns of a grid](Solutions/F/find-the-width-of-columns-of-a-grid)
 * [Find the winner of the circular game](Solutions/F/find-the-winner-of-the-circular-game)
 * [Find winner on a tic tac toe game](Solutions/F/find-winner-on-a-tic-tac-toe-game)
 * [Fizz buzz](Solutions/F/fizz-buzz)
@@ -1701,6 +1708,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Convert sorted list to binary search tree](Solutions/C/convert-sorted-list-to-binary-search-tree)
 * [Count good nodes in binary tree](Solutions/C/count-good-nodes-in-binary-tree)
 * [Cousins in binary tree](Solutions/C/cousins-in-binary-tree)
+* [Cousins in binary tree ii](Solutions/C/cousins-in-binary-tree-ii)
 * [Deepest leaves sum](Solutions/D/deepest-leaves-sum)
 * [Delete node in a bst](Solutions/D/delete-node-in-a-bst)
 * [Delete nodes and return forest](Solutions/D/delete-nodes-and-return-forest)
