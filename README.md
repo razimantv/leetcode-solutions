@@ -396,6 +396,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum number of points with cost](Solutions/M/maximum-number-of-points-with-cost)
 * [Maximum score from performing multiplication operations](Solutions/M/maximum-score-from-performing-multiplication-operations)
 * [Maximum value of k coins from piles](Solutions/M/maximum-value-of-k-coins-from-piles)
+* [Minimum additions to make valid string](Solutions/M/minimum-additions-to-make-valid-string)
 * [Minimum falling path sum](Solutions/M/minimum-falling-path-sum)
 * [Minimum number of refueling stops](Solutions/M/minimum-number-of-refueling-stops)
 * [Minimum path cost in a grid](Solutions/M/minimum-path-cost-in-a-grid)
@@ -436,6 +437,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Dynamic_programming-Graph_like_state_transitions">Graph-like state transitions</a>
 * [Maximum number of non overlapping palindrome substrings](Solutions/M/maximum-number-of-non-overlapping-palindrome-substrings)
+* [Minimum additions to make valid string](Solutions/M/minimum-additions-to-make-valid-string)
 * [Number of ways to paint n 3 grid](Solutions/N/number-of-ways-to-paint-n-3-grid)
 
 ### <a name="Dynamic_programming-Grid">Grid</a>
@@ -504,6 +506,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [House robber iii](Solutions/H/house-robber-iii)
 * [Longest path with different adjacent characters](Solutions/L/longest-path-with-different-adjacent-characters)
 * [Longest univalue path](Solutions/L/longest-univalue-path)
+* [Minimize the total price of the trips](Solutions/M/minimize-the-total-price-of-the-trips)
 * [Minimum cost to change the final value of expression](Solutions/M/minimum-cost-to-change-the-final-value-of-expression)
 * [Minimum score after removals on a tree](Solutions/M/minimum-score-after-removals-on-a-tree)
 * [Most profitable path in a tree](Solutions/M/most-profitable-path-in-a-tree)
@@ -577,6 +580,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Keys and rooms](Solutions/K/keys-and-rooms)
 * [Longest increasing path in a matrix](Solutions/L/longest-increasing-path-in-a-matrix)
 * [Longest path with different adjacent characters](Solutions/L/longest-path-with-different-adjacent-characters)
+* [Minimize the total price of the trips](Solutions/M/minimize-the-total-price-of-the-trips)
 * [Minimum fuel cost to report to the capital](Solutions/M/minimum-fuel-cost-to-report-to-the-capital)
 * [Minimum number of operations to sort a binary tree by level](Solutions/M/minimum-number-of-operations-to-sort-a-binary-tree-by-level)
 * [Minimum score after removals on a tree](Solutions/M/minimum-score-after-removals-on-a-tree)
@@ -1365,6 +1369,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find subarrays with equal sum](Solutions/F/find-subarrays-with-equal-sum)
 * [Find the array concatenation value](Solutions/F/find-the-array-concatenation-value)
 * [Find the distance value between two arrays](Solutions/F/find-the-distance-value-between-two-arrays)
+* [Find the maximum divisibility score](Solutions/F/find-the-maximum-divisibility-score)
 * [Find the pivot integer](Solutions/F/find-the-pivot-integer)
 * [Find the town judge](Solutions/F/find-the-town-judge)
 * [Find the width of columns of a grid](Solutions/F/find-the-width-of-columns-of-a-grid)
@@ -1422,6 +1427,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Remove all occurrences of a substring](Solutions/R/remove-all-occurrences-of-a-substring)
 * [Remove one element to make the array strictly increasing](Solutions/R/remove-one-element-to-make-the-array-strictly-increasing)
 * [Remove palindromic subsequences](Solutions/R/remove-palindromic-subsequences)
+* [Row with maximum ones](Solutions/R/row-with-maximum-ones)
 * [Separate the digits in an array](Solutions/S/separate-the-digits-in-an-array)
 * [Shortest distance to target string in a circular array](Solutions/S/shortest-distance-to-target-string-in-a-circular-array)
 * [Shuffle the array](Solutions/S/shuffle-the-array)
