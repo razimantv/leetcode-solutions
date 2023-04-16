@@ -406,6 +406,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Number of great partitions](Solutions/N/number-of-great-partitions)
 * [Number of ways of cutting a pizza](Solutions/N/number-of-ways-of-cutting-a-pizza)
 * [Number of ways to earn points](Solutions/N/number-of-ways-to-earn-points)
+* [Number of ways to form a target string given a dictionary](Solutions/N/number-of-ways-to-form-a-target-string-given-a-dictionary)
 * [Partition equal subset sum](Solutions/P/partition-equal-subset-sum)
 * [Pascals triangle ii](Solutions/P/pascals-triangle-ii)
 * [Paths in matrix whose sum is divisible by k](Solutions/P/paths-in-matrix-whose-sum-is-divisible-by-k)
