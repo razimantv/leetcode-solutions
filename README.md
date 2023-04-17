@@ -1387,6 +1387,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Integer replacement](Solutions/I/integer-replacement)
 * [Island perimeter](Solutions/I/island-perimeter)
 * [K items with the maximum sum](Solutions/K/k-items-with-the-maximum-sum)
+* [Kids with the greatest number of candies](Solutions/K/kids-with-the-greatest-number-of-candies)
 * [Largest local values in a matrix](Solutions/L/largest-local-values-in-a-matrix)
 * [Largest magic square](Solutions/L/largest-magic-square)
 * [Largest positive integer that exists with its negative](Solutions/L/largest-positive-integer-that-exists-with-its-negative)
