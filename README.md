@@ -1401,6 +1401,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum star sum of a graph](Solutions/M/maximum-star-sum-of-a-graph)
 * [Maximum sum of an hourglass](Solutions/M/maximum-sum-of-an-hourglass)
 * [Maximum value of a string in an array](Solutions/M/maximum-value-of-a-string-in-an-array)
+* [Merge strings alternately](Solutions/M/merge-strings-alternately)
 * [Merge triplets to form target triplet](Solutions/M/merge-triplets-to-form-target-triplet)
 * [Min max game](Solutions/M/min-max-game)
 * [Minimum amount of time to fill cups](Solutions/M/minimum-amount-of-time-to-fill-cups)
