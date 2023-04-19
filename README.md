@@ -1735,6 +1735,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Kth smallest element in a bst](Solutions/K/kth-smallest-element-in-a-bst)
 * [Leaf similar trees](Solutions/L/leaf-similar-trees)
 * [Longest univalue path](Solutions/L/longest-univalue-path)
+* [Longest zigzag path in a binary tree](Solutions/L/longest-zigzag-path-in-a-binary-tree)
 * [Lowest common ancestor of a binary search tree](Solutions/L/lowest-common-ancestor-of-a-binary-search-tree)
 * [Lowest common ancestor of a binary tree](Solutions/L/lowest-common-ancestor-of-a-binary-tree)
 * [Maximum depth of binary tree](Solutions/M/maximum-depth-of-binary-tree)
