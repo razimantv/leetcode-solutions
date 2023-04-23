@@ -707,6 +707,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum money required before transactions](Solutions/M/minimum-money-required-before-transactions)
 * [Minimum number of arrows to burst balloons](Solutions/M/minimum-number-of-arrows-to-burst-balloons)
 * [Minimum number of increments on subarrays to form a target array](Solutions/M/minimum-number-of-increments-on-subarrays-to-form-a-target-array)
+* [Minimum number of operations to make all array elements equal to 1](Solutions/M/minimum-number-of-operations-to-make-all-array-elements-equal-to-1)
 * [Minimum number of operations to make arrays similar](Solutions/M/minimum-number-of-operations-to-make-arrays-similar)
 * [Minimum operations to make array equal ii](Solutions/M/minimum-operations-to-make-array-equal-ii)
 * [Minimum operations to make the array increasing](Solutions/M/minimum-operations-to-make-the-array-increasing)
@@ -817,6 +818,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Redistribute characters to make all strings equal](Solutions/R/redistribute-characters-to-make-all-strings-equal)
 * [Reduce array size to the half](Solutions/R/reduce-array-size-to-the-half)
 * [Reward top k students](Solutions/R/reward-top-k-students)
+* [Sliding subarray beauty](Solutions/S/sliding-subarray-beauty)
 * [Smallest subarrays with maximum bitwise or](Solutions/S/smallest-subarrays-with-maximum-bitwise-or)
 * [Subarray sums divisible by k](Solutions/S/subarray-sums-divisible-by-k)
 * [Substring xor queries](Solutions/S/substring-xor-queries)
@@ -1028,6 +1030,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimize the maximum of two arrays](Solutions/M/minimize-the-maximum-of-two-arrays)
 * [Minimum cost to move chips to the same position](Solutions/M/minimum-cost-to-move-chips-to-the-same-position)
 * [Minimum deletions to make array divisible](Solutions/M/minimum-deletions-to-make-array-divisible)
+* [Minimum number of operations to make all array elements equal to 1](Solutions/M/minimum-number-of-operations-to-make-all-array-elements-equal-to-1)
 * [Minimum rounds to complete all tasks](Solutions/M/minimum-rounds-to-complete-all-tasks)
 * [Mirror reflection](Solutions/M/mirror-reflection)
 * [Nth magical number](Solutions/N/nth-magical-number)
@@ -1038,6 +1041,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Range product queries of powers](Solutions/R/range-product-queries-of-powers)
 * [Smallest missing non negative integer after operations](Solutions/S/smallest-missing-non-negative-integer-after-operations)
 * [Subarray sums divisible by k](Solutions/S/subarray-sums-divisible-by-k)
+* [Sum multiples](Solutions/S/sum-multiples)
 * [The number of beautiful subsets](Solutions/T/the-number-of-beautiful-subsets)
 
 #### <a name="Mathematics-Number_theory-Dynamic_programming">Dynamic programming</a>
@@ -1348,6 +1352,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Best poker hand](Solutions/B/best-poker-hand)
 * [Bulls and cows](Solutions/B/bulls-and-cows)
 * [Calculate amount paid in taxes](Solutions/C/calculate-amount-paid-in-taxes)
+* [Calculate delayed arrival time](Solutions/C/calculate-delayed-arrival-time)
 * [Can place flowers](Solutions/C/can-place-flowers)
 * [Categorize box according to criteria](Solutions/C/categorize-box-according-to-criteria)
 * [Check distances between same letters](Solutions/C/check-distances-between-same-letters)
@@ -1476,6 +1481,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum recolors to get k consecutive black blocks](Solutions/M/minimum-recolors-to-get-k-consecutive-black-blocks)
 * [Minimum window substring](Solutions/M/minimum-window-substring)
 * [Permutation in string](Solutions/P/permutation-in-string)
+* [Sliding subarray beauty](Solutions/S/sliding-subarray-beauty)
 * [Subsequence with the minimum score](Solutions/S/subsequence-with-the-minimum-score)
 
 ### <a name="Sliding_window-Monotonic_deque">Monotonic deque</a>
