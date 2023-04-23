@@ -378,6 +378,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Pascals triangle](Solutions/P/pascals-triangle)
 * [Remove boxes](Solutions/R/remove-boxes)
 * [Restore ip addresses](Solutions/R/restore-ip-addresses)
+* [Restore the array](Solutions/R/restore-the-array)
 * [The number of beautiful subsets](Solutions/T/the-number-of-beautiful-subsets)
 
 ### <a name="Dynamic_programming-Array_reuse">Array reuse</a>
