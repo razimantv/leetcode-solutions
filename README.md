@@ -1008,6 +1008,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 #### <a name="Mathematics-Number_theory-Basic">Basic</a>
 * [Add digits](Solutions/A/add-digits)
+* [Bulb switcher](Solutions/B/bulb-switcher)
 * [Check if it is a good array](Solutions/C/check-if-it-is-a-good-array)
 * [Check if point is reachable](Solutions/C/check-if-point-is-reachable)
 * [Continuous subarray sum](Solutions/C/continuous-subarray-sum)
