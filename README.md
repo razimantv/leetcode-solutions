@@ -329,6 +329,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Rank transform of a matrix](Solutions/R/rank-transform-of-a-matrix)
 * [Redundant connection](Solutions/R/redundant-connection)
 * [Satisfiability of equality equations](Solutions/S/satisfiability-of-equality-equations)
+* [Similar string groups](Solutions/S/similar-string-groups)
 * [Sum of subarray minimums](Solutions/S/sum-of-subarray-minimums)
 
 ## <a name="Dynamic_programming">Dynamic programming</a>
