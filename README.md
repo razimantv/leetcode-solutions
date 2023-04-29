@@ -320,6 +320,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## <a name="Disjoint_set_union">Disjoint set union</a>
 * [Accounts merge](Solutions/A/accounts-merge)
+* [Checking existence of edge length limited paths](Solutions/C/checking-existence-of-edge-length-limited-paths)
 * [Largest component size by common factor](Solutions/L/largest-component-size-by-common-factor)
 * [Lexicographically smallest equivalent string](Solutions/L/lexicographically-smallest-equivalent-string)
 * [Maximum segment sum after removals](Solutions/M/maximum-segment-sum-after-removals)
@@ -1116,6 +1117,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Reach a number](Solutions/R/reach-a-number)
 
 ## <a name="Offline_query_processing">Offline query processing</a>
+* [Checking existence of edge length limited paths](Solutions/C/checking-existence-of-edge-length-limited-paths)
 * [Minimum absolute difference queries](Solutions/M/minimum-absolute-difference-queries)
 
 ## <a name="Palindrome">Palindrome</a>
@@ -1499,6 +1501,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Advantage shuffle](Solutions/A/advantage-shuffle)
 * [Array of doubled pairs](Solutions/A/array-of-doubled-pairs)
 * [Best team with no conflicts](Solutions/B/best-team-with-no-conflicts)
+* [Checking existence of edge length limited paths](Solutions/C/checking-existence-of-edge-length-limited-paths)
 * [Closest room](Solutions/C/closest-room)
 * [Concatenated words](Solutions/C/concatenated-words)
 * [Container with most water](Solutions/C/container-with-most-water)
@@ -1528,6 +1531,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Sorting-Index_array">Index array</a>
 * [Best team with no conflicts](Solutions/B/best-team-with-no-conflicts)
+* [Checking existence of edge length limited paths](Solutions/C/checking-existence-of-edge-length-limited-paths)
 * [Find score of an array after marking all elements](Solutions/F/find-score-of-an-array-after-marking-all-elements)
 * [Ipo](Solutions/I/ipo)
 * [Maximum subsequence score](Solutions/M/maximum-subsequence-score)
