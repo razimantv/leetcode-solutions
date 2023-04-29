@@ -614,6 +614,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Flood fill](Solutions/F/flood-fill)
 * [Making a large island](Solutions/M/making-a-large-island)
 * [Max area of island](Solutions/M/max-area-of-island)
+* [Maximum number of fish in a grid](Solutions/M/maximum-number-of-fish-in-a-grid)
 * [Number of closed islands](Solutions/N/number-of-closed-islands)
 * [Number of enclaves](Solutions/N/number-of-enclaves)
 
@@ -762,6 +763,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find duplicate file in system](Solutions/F/find-duplicate-file-in-system)
 * [Find players with zero or one losses](Solutions/F/find-players-with-zero-or-one-losses)
 * [Find subarrays with equal sum](Solutions/F/find-subarrays-with-equal-sum)
+* [Find the prefix common array of two arrays](Solutions/F/find-the-prefix-common-array-of-two-arrays)
 * [Finding the users active minutes](Solutions/F/finding-the-users-active-minutes)
 * [First letter to appear twice](Solutions/F/first-letter-to-appear-twice)
 * [First unique character in a string](Solutions/F/first-unique-character-in-a-string)
@@ -944,6 +946,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count anagrams](Solutions/C/count-anagrams)
 * [Count total number of colored cells](Solutions/C/count-total-number-of-colored-cells)
 * [Find the pivot integer](Solutions/F/find-the-pivot-integer)
+* [Maximum sum with exactly k elements](Solutions/M/maximum-sum-with-exactly-k-elements)
 * [Maximum value at a given index in a bounded array](Solutions/M/maximum-value-at-a-given-index-in-a-bounded-array)
 * [Minimum operations to make array equal](Solutions/M/minimum-operations-to-make-array-equal)
 
@@ -1328,6 +1331,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Fancy sequence](Solutions/F/fancy-sequence)
 * [Jump game vii](Solutions/J/jump-game-vii)
 * [Longest increasing subsequence ii](Solutions/L/longest-increasing-subsequence-ii)
+* [Make array empty](Solutions/M/make-array-empty)
 * [Next greater element iv](Solutions/N/next-greater-element-iv)
 * [Number of pairs satisfying inequality](Solutions/N/number-of-pairs-satisfying-inequality)
 * [Range sum query mutable](Solutions/R/range-sum-query-mutable)
@@ -1534,6 +1538,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Checking existence of edge length limited paths](Solutions/C/checking-existence-of-edge-length-limited-paths)
 * [Find score of an array after marking all elements](Solutions/F/find-score-of-an-array-after-marking-all-elements)
 * [Ipo](Solutions/I/ipo)
+* [Make array empty](Solutions/M/make-array-empty)
 * [Maximum subsequence score](Solutions/M/maximum-subsequence-score)
 
 ### <a name="Sorting-Merge_sort">Merge sort</a>

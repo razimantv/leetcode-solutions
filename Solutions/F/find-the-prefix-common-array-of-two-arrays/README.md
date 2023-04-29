@@ -1,0 +1,7 @@
+# Find the prefix common array of two arrays
+
+[Problem link](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/)
+
+## Tags
+
+* [Hashmap](/README.md#Hashmap)
