@@ -627,6 +627,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Graph_theory-Dijkstra_s_algorithm">Dijkstra's algorithm</a>
 * [Design graph with shortest path calculator](Solutions/D/design-graph-with-shortest-path-calculator)
+* [Minimum cost of a path with special roads](Solutions/M/minimum-cost-of-a-path-with-special-roads)
 * [Minimum time to visit a cell in a grid](Solutions/M/minimum-time-to-visit-a-cell-in-a-grid)
 * [Network delay time](Solutions/N/network-delay-time)
 * [Number of ways to arrive at destination](Solutions/N/number-of-ways-to-arrive-at-destination)
@@ -767,6 +768,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find subarrays with equal sum](Solutions/F/find-subarrays-with-equal-sum)
 * [Find the prefix common array of two arrays](Solutions/F/find-the-prefix-common-array-of-two-arrays)
 * [Finding the users active minutes](Solutions/F/finding-the-users-active-minutes)
+* [First completely painted row or column](Solutions/F/first-completely-painted-row-or-column)
 * [First letter to appear twice](Solutions/F/first-letter-to-appear-twice)
 * [First unique character in a string](Solutions/F/first-unique-character-in-a-string)
 * [Greatest english letter in upper and lower case](Solutions/G/greatest-english-letter-in-upper-and-lower-case)
@@ -1132,6 +1134,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Break a palindrome](Solutions/B/break-a-palindrome)
 * [Count palindromic subsequences](Solutions/C/count-palindromic-subsequences)
 * [Largest palindromic number](Solutions/L/largest-palindromic-number)
+* [Lexicographically smallest beautiful string](Solutions/L/lexicographically-smallest-beautiful-string)
 * [Longest palindrome](Solutions/L/longest-palindrome)
 * [Longest palindrome by concatenating two letter words](Solutions/L/longest-palindrome-by-concatenating-two-letter-words)
 * [Longest palindromic substring](Solutions/L/longest-palindromic-substring)
@@ -1272,6 +1275,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Priority_queue-Dijkstra_s_algorithm">Dijkstra's algorithm</a>
 * [Design graph with shortest path calculator](Solutions/D/design-graph-with-shortest-path-calculator)
+* [Minimum cost of a path with special roads](Solutions/M/minimum-cost-of-a-path-with-special-roads)
 * [Minimum time to visit a cell in a grid](Solutions/M/minimum-time-to-visit-a-cell-in-a-grid)
 * [Network delay time](Solutions/N/network-delay-time)
 
@@ -1297,6 +1301,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Design graph with shortest path calculator](Solutions/D/design-graph-with-shortest-path-calculator)
 * [Lfu cache](Solutions/L/lfu-cache)
 * [Lru cache](Solutions/L/lru-cache)
+* [Minimum cost of a path with special roads](Solutions/M/minimum-cost-of-a-path-with-special-roads)
 * [Minimum time to visit a cell in a grid](Solutions/M/minimum-time-to-visit-a-cell-in-a-grid)
 * [Network delay time](Solutions/N/network-delay-time)
 * [Number of ways to arrive at destination](Solutions/N/number-of-ways-to-arrive-at-destination)
@@ -1375,6 +1380,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Delete columns to make sorted](Solutions/D/delete-columns-to-make-sorted)
 * [Determine color of a chessboard square](Solutions/D/determine-color-of-a-chessboard-square)
 * [Determine if string halves are alike](Solutions/D/determine-if-string-halves-are-alike)
+* [Determine the winner of a bowling game](Solutions/D/determine-the-winner-of-a-bowling-game)
 * [Difference between element sum and digit sum of an array](Solutions/D/difference-between-element-sum-and-digit-sum-of-an-array)
 * [Difference between ones and zeros in row and column](Solutions/D/difference-between-ones-and-zeros-in-row-and-column)
 * [Distribute candies](Solutions/D/distribute-candies)

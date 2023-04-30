@@ -1,0 +1,7 @@
+# Determine the winner of a bowling game
+
+[Problem link](https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/)
+
+## Tags
+
+* [Simple implementation](/README.md#Simple_implementation)
