@@ -329,6 +329,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Number of islands](Solutions/N/number-of-islands)
 * [Rank transform of a matrix](Solutions/R/rank-transform-of-a-matrix)
 * [Redundant connection](Solutions/R/redundant-connection)
+* [Remove max number of edges to keep graph fully traversable](Solutions/R/remove-max-number-of-edges-to-keep-graph-fully-traversable)
 * [Satisfiability of equality equations](Solutions/S/satisfiability-of-equality-equations)
 * [Similar string groups](Solutions/S/similar-string-groups)
 * [Sum of subarray minimums](Solutions/S/sum-of-subarray-minimums)
