@@ -1354,6 +1354,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Alternating digit sum](Solutions/A/alternating-digit-sum)
 * [Apply operations to an array](Solutions/A/apply-operations-to-an-array)
 * [Arranging coins](Solutions/A/arranging-coins)
+* [Average salary excluding the minimum and maximum salary](Solutions/A/average-salary-excluding-the-minimum-and-maximum-salary)
 * [Average value of even numbers that are divisible by three](Solutions/A/average-value-of-even-numbers-that-are-divisible-by-three)
 * [Best poker hand](Solutions/B/best-poker-hand)
 * [Bulls and cows](Solutions/B/bulls-and-cows)
