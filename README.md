@@ -766,6 +766,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find duplicate file in system](Solutions/F/find-duplicate-file-in-system)
 * [Find players with zero or one losses](Solutions/F/find-players-with-zero-or-one-losses)
 * [Find subarrays with equal sum](Solutions/F/find-subarrays-with-equal-sum)
+* [Find the difference of two arrays](Solutions/F/find-the-difference-of-two-arrays)
 * [Find the prefix common array of two arrays](Solutions/F/find-the-prefix-common-array-of-two-arrays)
 * [Finding the users active minutes](Solutions/F/finding-the-users-active-minutes)
 * [First completely painted row or column](Solutions/F/first-completely-painted-row-or-column)
