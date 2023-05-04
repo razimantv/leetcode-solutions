@@ -10,6 +10,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 # Problems by tags (INCOMPLETE!)
 
 ## <a name="Array_scanning">Array scanning</a>
+* [Dota2 senate](Solutions/D/dota2-senate)
 * [Maximum enemy forts that can be captured](Solutions/M/maximum-enemy-forts-that-can-be-captured)
 * [The employee that worked on the longest task](Solutions/T/the-employee-that-worked-on-the-longest-task)
 
@@ -678,6 +679,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Boats to save people](Solutions/B/boats-to-save-people)
 * [Candy](Solutions/C/candy)
 * [Course schedule iii](Solutions/C/course-schedule-iii)
+* [Dota2 senate](Solutions/D/dota2-senate)
 * [Earliest possible day of full bloom](Solutions/E/earliest-possible-day-of-full-bloom)
 * [Eliminate maximum number of monsters](Solutions/E/eliminate-maximum-number-of-monsters)
 * [Find the maximum number of marked indices](Solutions/F/find-the-maximum-number-of-marked-indices)
