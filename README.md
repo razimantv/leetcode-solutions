@@ -1486,6 +1486,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Max consecutive ones iii](Solutions/M/max-consecutive-ones-iii)
 * [Maximize win from two segments](Solutions/M/maximize-win-from-two-segments)
 * [Maximum erasure value](Solutions/M/maximum-erasure-value)
+* [Maximum number of vowels in a substring of given length](Solutions/M/maximum-number-of-vowels-in-a-substring-of-given-length)
 * [Maximum points you can obtain from cards](Solutions/M/maximum-points-you-can-obtain-from-cards)
 * [Maximum sum of distinct subarrays with length k](Solutions/M/maximum-sum-of-distinct-subarrays-with-length-k)
 * [Minimum operations to reduce x to zero](Solutions/M/minimum-operations-to-reduce-x-to-zero)

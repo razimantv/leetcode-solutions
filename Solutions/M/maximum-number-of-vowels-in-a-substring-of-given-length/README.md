@@ -1,0 +1,7 @@
+# Maximum number of vowels in a substring of given length
+
+[Problem link](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)
+
+## Tags
+
+* [Sliding window](/README.md#Sliding_window)
