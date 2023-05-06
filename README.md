@@ -983,6 +983,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum number of operations to make string sorted](Solutions/M/minimum-number-of-operations-to-make-string-sorted)
 * [Naming a company](Solutions/N/naming-a-company)
 * [Number of good paths](Solutions/N/number-of-good-paths)
+* [Number of subsequences that satisfy the given sum condition](Solutions/N/number-of-subsequences-that-satisfy-the-given-sum-condition)
 * [Number of ways to reach a position after exactly k steps](Solutions/N/number-of-ways-to-reach-a-position-after-exactly-k-steps)
 * [Number of ways to rearrange sticks with k sticks visible](Solutions/N/number-of-ways-to-rearrange-sticks-with-k-sticks-visible)
 * [Permutation sequence](Solutions/P/permutation-sequence)
@@ -1066,6 +1067,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count the number of ideal arrays](Solutions/C/count-the-number-of-ideal-arrays)
 * [Maximize number of nice divisors](Solutions/M/maximize-number-of-nice-divisors)
 * [Minimum number of operations to make string sorted](Solutions/M/minimum-number-of-operations-to-make-string-sorted)
+* [Number of subsequences that satisfy the given sum condition](Solutions/N/number-of-subsequences-that-satisfy-the-given-sum-condition)
 
 #### <a name="Mathematics-Number_theory-Prime_sieving">Prime sieving</a>
 * [Closest prime numbers in range](Solutions/C/closest-prime-numbers-in-range)
@@ -1815,6 +1817,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximize greatness of an array](Solutions/M/maximize-greatness-of-an-array)
 * [Merge two 2d arrays by summing values](Solutions/M/merge-two-2d-arrays-by-summing-values)
 * [Minimum common value](Solutions/M/minimum-common-value)
+* [Number of subsequences that satisfy the given sum condition](Solutions/N/number-of-subsequences-that-satisfy-the-given-sum-condition)
 * [Reverse vowels of a string](Solutions/R/reverse-vowels-of-a-string)
 
 ## <a name="Unique_elements_in_subarray">Unique elements in subarray</a>
