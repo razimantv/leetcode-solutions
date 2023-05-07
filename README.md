@@ -130,6 +130,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find k closest elements](Solutions/F/find-k-closest-elements)
 * [Find right interval](Solutions/F/find-right-interval)
 * [Find the duplicate number](Solutions/F/find-the-duplicate-number)
+* [Find the longest valid obstacle course at each position](Solutions/F/find-the-longest-valid-obstacle-course-at-each-position)
 * [Find the maximum number of marked indices](Solutions/F/find-the-maximum-number-of-marked-indices)
 * [Find the smallest divisor given a threshold](Solutions/F/find-the-smallest-divisor-given-a-threshold)
 * [First bad version](Solutions/F/first-bad-version)
@@ -469,6 +470,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum length of repeated subarray](Solutions/M/maximum-length-of-repeated-subarray)
 
 ### <a name="Dynamic_programming-Longest_increasing_subsequence">Longest increasing subsequence</a>
+* [Find the longest valid obstacle course at each position](Solutions/F/find-the-longest-valid-obstacle-course-at-each-position)
 * [Longest increasing subsequence](Solutions/L/longest-increasing-subsequence)
 * [Number of longest increasing subsequence](Solutions/N/number-of-longest-increasing-subsequence)
 
