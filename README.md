@@ -43,6 +43,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Candy](Solutions/C/candy)
 * [Count palindromic subsequences](Solutions/C/count-palindromic-subsequences)
 * [Find all good indices](Solutions/F/find-all-good-indices)
+* [Find the distinct difference array](Solutions/F/find-the-distinct-difference-array)
 * [Largest plus sign](Solutions/L/largest-plus-sign)
 * [Left and right sum differences](Solutions/L/left-and-right-sum-differences)
 * [Maximize distance to closest person](Solutions/M/maximize-distance-to-closest-person)
@@ -303,6 +304,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Design underground system](Solutions/D/design-underground-system)
 * [Encode and decode tinyurl](Solutions/E/encode-and-decode-tinyurl)
 * [Find consecutive integers from a data stream](Solutions/F/find-consecutive-integers-from-a-data-stream)
+* [Frequency tracker](Solutions/F/frequency-tracker)
 * [Implement trie prefix tree](Solutions/I/implement-trie-prefix-tree)
 * [Insert delete getrandom o1](Solutions/I/insert-delete-getrandom-o1)
 * [Iterator for combination](Solutions/I/iterator-for-combination)
@@ -692,6 +694,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Largest number](Solutions/L/largest-number)
 * [Longest subsequence with limited sum](Solutions/L/longest-subsequence-with-limited-sum)
 * [Make array zero by subtracting equal amounts](Solutions/M/make-array-zero-by-subtracting-equal-amounts)
+* [Make costs of paths equal in a binary tree](Solutions/M/make-costs-of-paths-equal-in-a-binary-tree)
 * [Maximize greatness of an array](Solutions/M/maximize-greatness-of-an-array)
 * [Maximize the minimum powered city](Solutions/M/maximize-the-minimum-powered-city)
 * [Maximum bags with full capacity of rocks](Solutions/M/maximum-bags-with-full-capacity-of-rocks)
@@ -771,6 +774,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find players with zero or one losses](Solutions/F/find-players-with-zero-or-one-losses)
 * [Find subarrays with equal sum](Solutions/F/find-subarrays-with-equal-sum)
 * [Find the difference of two arrays](Solutions/F/find-the-difference-of-two-arrays)
+* [Find the distinct difference array](Solutions/F/find-the-distinct-difference-array)
 * [Find the prefix common array of two arrays](Solutions/F/find-the-prefix-common-array-of-two-arrays)
 * [Finding the users active minutes](Solutions/F/finding-the-users-active-minutes)
 * [First completely painted row or column](Solutions/F/first-completely-painted-row-or-column)
@@ -840,6 +844,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Hashmap-Forward_and_backward">Forward and backward</a>
 * [Find and replace pattern](Solutions/F/find-and-replace-pattern)
 * [First unique number](Solutions/F/first-unique-number)
+* [Frequency tracker](Solutions/F/frequency-tracker)
 * [Insert delete getrandom o1](Solutions/I/insert-delete-getrandom-o1)
 * [Isomorphic strings](Solutions/I/isomorphic-strings)
 
@@ -1189,6 +1194,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Copy list with random pointer](Solutions/C/copy-list-with-random-pointer)
 
 ## <a name="Precomputation_to_answer_queries_efficiently_with_delta">Precomputation to answer queries efficiently with delta</a>
+* [Number of adjacent elements with the same color](Solutions/N/number-of-adjacent-elements-with-the-same-color)
 * [Sum of even numbers after queries](Solutions/S/sum-of-even-numbers-after-queries)
 
 ## <a name="Prefix">Prefix</a>
@@ -1727,6 +1733,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 #### <a name="Tree-Binary_tree-Iteration">Iteration</a>
 * [Binary tree inorder traversal](Solutions/B/binary-tree-inorder-traversal)
+* [Make costs of paths equal in a binary tree](Solutions/M/make-costs-of-paths-equal-in-a-binary-tree)
 * [Populating next right pointers in each node ii](Solutions/P/populating-next-right-pointers-in-each-node-ii)
 
 #### <a name="Tree-Binary_tree-Recursion">Recursion</a>
