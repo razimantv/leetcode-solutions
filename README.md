@@ -1424,6 +1424,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Largest positive integer that exists with its negative](Solutions/L/largest-positive-integer-that-exists-with-its-negative)
 * [Largest time for given digits](Solutions/L/largest-time-for-given-digits)
 * [Match substring after replacement](Solutions/M/match-substring-after-replacement)
+* [Matrix diagonal sum](Solutions/M/matrix-diagonal-sum)
 * [Maximum 69 number](Solutions/M/maximum-69-number)
 * [Maximum count of positive integer and negative integer](Solutions/M/maximum-count-of-positive-integer-and-negative-integer)
 * [Maximum difference by remapping a digit](Solutions/M/maximum-difference-by-remapping-a-digit)
