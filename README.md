@@ -88,6 +88,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum replacements to sort the array](Solutions/M/minimum-replacements-to-sort-the-array)
 * [Plus one](Solutions/P/plus-one)
 * [Smallest subarrays with maximum bitwise or](Solutions/S/smallest-subarrays-with-maximum-bitwise-or)
+* [Solving questions with brainpower](Solutions/S/solving-questions-with-brainpower)
 * [The number of weak characters in the game](Solutions/T/the-number-of-weak-characters-in-the-game)
 * [Using a robot to print the lexicographically smallest string](Solutions/U/using-a-robot-to-print-the-lexicographically-smallest-string)
 
@@ -386,6 +387,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Remove boxes](Solutions/R/remove-boxes)
 * [Restore ip addresses](Solutions/R/restore-ip-addresses)
 * [Restore the array](Solutions/R/restore-the-array)
+* [Solving questions with brainpower](Solutions/S/solving-questions-with-brainpower)
 * [The number of beautiful subsets](Solutions/T/the-number-of-beautiful-subsets)
 
 ### <a name="Dynamic_programming-Array_reuse">Array reuse</a>
