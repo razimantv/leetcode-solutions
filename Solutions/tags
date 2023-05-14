@@ -1,6 +1,7 @@
 Array scanning
 Array scanning>Contiguous region
 Array scanning>From both ends of array
+Array scanning>From both ends of array>Element exclusion
 Array scanning>In-place modification
 Array scanning>Location of previous element with same value
 Array scanning>Modify element with index
@@ -126,6 +127,7 @@ Permutation>Next/Previous
 Permutation>Swaps
 Pointers
 Precomputation to answer queries efficiently with delta
+Prefix>Bitwise operation
 Prefix>Extremum
 Prefix>Sum
 Prefix>Sum>2D

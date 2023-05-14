@@ -59,6 +59,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Sum of distances](Solutions/S/sum-of-distances)
 * [Take k of each character from left and right](Solutions/T/take-k-of-each-character-from-left-and-right)
 
+#### <a name="Array_scanning-From_both_ends_of_array-Element_exclusion">Element exclusion</a>
+* [Maximum or](Solutions/M/maximum-or)
+
 ### <a name="Array_scanning-In_place_modification">In-place modification</a>
 * [Duplicate zeros](Solutions/D/duplicate-zeros)
 * [Find all duplicates in an array](Solutions/F/find-all-duplicates-in-an-array)
@@ -202,6 +205,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Hamming distance](Solutions/H/hamming-distance)
 * [Longest uncommon subsequence ii](Solutions/L/longest-uncommon-subsequence-ii)
 * [Maximum length of a concatenated string with unique characters](Solutions/M/maximum-length-of-a-concatenated-string-with-unique-characters)
+* [Maximum or](Solutions/M/maximum-or)
 * [Maximum product of word lengths](Solutions/M/maximum-product-of-word-lengths)
 * [Maximum rows covered by columns](Solutions/M/maximum-rows-covered-by-columns)
 * [Maximum xor after operations](Solutions/M/maximum-xor-after-operations)
@@ -430,6 +434,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Best time to buy and sell stock with transaction fee](Solutions/B/best-time-to-buy-and-sell-stock-with-transaction-fee)
 * [Number of beautiful partitions](Solutions/N/number-of-beautiful-partitions)
 * [Number of people aware of a secret](Solutions/N/number-of-people-aware-of-a-secret)
+
+### <a name="Dynamic_programming-Complexity_reduction_with_algebra">Complexity reduction with algebra</a>
+* [Power of heroes](Solutions/P/power-of-heroes)
 
 ### <a name="Dynamic_programming-Construction">Construction</a>
 * [Find the string with lcp](Solutions/F/find-the-string-with-lcp)
@@ -966,6 +973,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum sum with exactly k elements](Solutions/M/maximum-sum-with-exactly-k-elements)
 * [Maximum value at a given index in a bounded array](Solutions/M/maximum-value-at-a-given-index-in-a-bounded-array)
 * [Minimum operations to make array equal](Solutions/M/minimum-operations-to-make-array-equal)
+* [Power of heroes](Solutions/P/power-of-heroes)
 
 ### <a name="Mathematics-Combinatorics">Combinatorics</a>
 * [3sum with multiplicity](Solutions/0-9/3sum-with-multiplicity)
@@ -996,6 +1004,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Number of ways to reach a position after exactly k steps](Solutions/N/number-of-ways-to-reach-a-position-after-exactly-k-steps)
 * [Number of ways to rearrange sticks with k sticks visible](Solutions/N/number-of-ways-to-rearrange-sticks-with-k-sticks-visible)
 * [Permutation sequence](Solutions/P/permutation-sequence)
+* [Power of heroes](Solutions/P/power-of-heroes)
 * [Probability of a two boxes having the same number of distinct balls](Solutions/P/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls)
 * [The number of beautiful subsets](Solutions/T/the-number-of-beautiful-subsets)
 
@@ -1200,6 +1209,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Sum of even numbers after queries](Solutions/S/sum-of-even-numbers-after-queries)
 
 ## <a name="Prefix">Prefix</a>
+
+### <a name="Prefix-Bitwise_operation">Bitwise operation</a>
+* [Maximum or](Solutions/M/maximum-or)
 
 ### <a name="Prefix-Extremum">Extremum</a>
 * [132 pattern](Solutions/0-9/132-pattern)
@@ -1453,6 +1465,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Next greater element i](Solutions/N/next-greater-element-i)
 * [Non decreasing array](Solutions/N/non-decreasing-array)
 * [Number of arithmetic triplets](Solutions/N/number-of-arithmetic-triplets)
+* [Number of senior citizens](Solutions/N/number-of-senior-citizens)
 * [Number of steps to reduce a number to zero](Solutions/N/number-of-steps-to-reduce-a-number-to-zero)
 * [Number of unequal triplets in array](Solutions/N/number-of-unequal-triplets-in-array)
 * [Odd string difference](Solutions/O/odd-string-difference)
@@ -1529,6 +1542,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum number of operations to make arrays similar](Solutions/M/minimum-number-of-operations-to-make-arrays-similar)
 * [Number of distinct averages](Solutions/N/number-of-distinct-averages)
 * [Reduction operations to make the array elements equal](Solutions/R/reduction-operations-to-make-the-array-elements-equal)
+* [Sum in a matrix](Solutions/S/sum-in-a-matrix)
 * [The number of beautiful subsets](Solutions/T/the-number-of-beautiful-subsets)
 * [The number of weak characters in the game](Solutions/T/the-number-of-weak-characters-in-the-game)
 
