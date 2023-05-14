@@ -241,6 +241,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Bitwise xor of all pairings](Solutions/B/bitwise-xor-of-all-pairings)
 * [Count the number of beautiful subarrays](Solutions/C/count-the-number-of-beautiful-subarrays)
 * [Find the original array of prefix xor](Solutions/F/find-the-original-array-of-prefix-xor)
+* [Neighboring bitwise xor](Solutions/N/neighboring-bitwise-xor)
 * [Pseudo palindromic paths in a binary tree](Solutions/P/pseudo-palindromic-paths-in-a-binary-tree)
 * [Substring xor queries](Solutions/S/substring-xor-queries)
 
@@ -459,6 +460,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Number of ways to paint n 3 grid](Solutions/N/number-of-ways-to-paint-n-3-grid)
 
 ### <a name="Dynamic_programming-Grid">Grid</a>
+* [Maximum number of moves in a grid](Solutions/M/maximum-number-of-moves-in-a-grid)
 * [Paths in matrix whose sum is divisible by k](Solutions/P/paths-in-matrix-whose-sum-is-divisible-by-k)
 
 ### <a name="Dynamic_programming-Intervals">Intervals</a>
@@ -617,6 +619,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Possible bipartition](Solutions/P/possible-bipartition)
 
 #### <a name="Graph_theory-Depth_first_search-Component_decomposition">Component decomposition</a>
+* [Count the number of complete components](Solutions/C/count-the-number-of-complete-components)
 * [Count unreachable pairs of nodes in an undirected graph](Solutions/C/count-unreachable-pairs-of-nodes-in-an-undirected-graph)
 * [Divide nodes into the maximum number of groups](Solutions/D/divide-nodes-into-the-maximum-number-of-groups)
 * [Evaluate division](Solutions/E/evaluate-division)
@@ -1125,6 +1128,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Disconnect path in a binary matrix by at most one flip](Solutions/D/disconnect-path-in-a-binary-matrix-by-at-most-one-flip)
 * [Dungeon game](Solutions/D/dungeon-game)
 * [Longest increasing path in a matrix](Solutions/L/longest-increasing-path-in-a-matrix)
+* [Maximum number of moves in a grid](Solutions/M/maximum-number-of-moves-in-a-grid)
 * [Minimum falling path sum](Solutions/M/minimum-falling-path-sum)
 * [Minimum path sum](Solutions/M/minimum-path-sum)
 * [Paths in matrix whose sum is divisible by k](Solutions/P/paths-in-matrix-whose-sum-is-divisible-by-k)
@@ -1420,6 +1424,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find subarrays with equal sum](Solutions/F/find-subarrays-with-equal-sum)
 * [Find the array concatenation value](Solutions/F/find-the-array-concatenation-value)
 * [Find the distance value between two arrays](Solutions/F/find-the-distance-value-between-two-arrays)
+* [Find the losers of the circular game](Solutions/F/find-the-losers-of-the-circular-game)
 * [Find the maximum divisibility score](Solutions/F/find-the-maximum-divisibility-score)
 * [Find the pivot integer](Solutions/F/find-the-pivot-integer)
 * [Find the town judge](Solutions/F/find-the-town-judge)
