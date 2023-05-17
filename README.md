@@ -942,11 +942,13 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Delete the middle node of a linked list](Solutions/D/delete-the-middle-node-of-a-linked-list)
 * [Linked list cycle](Solutions/L/linked-list-cycle)
 * [Linked list cycle ii](Solutions/L/linked-list-cycle-ii)
+* [Maximum twin sum of a linked list](Solutions/M/maximum-twin-sum-of-a-linked-list)
 * [Middle of the linked list](Solutions/M/middle-of-the-linked-list)
 * [Remove nth node from end of list](Solutions/R/remove-nth-node-from-end-of-list)
 
 ### <a name="Linked_list-Recursion">Recursion</a>
 * [Flatten a multilevel doubly linked list](Solutions/F/flatten-a-multilevel-doubly-linked-list)
+* [Maximum twin sum of a linked list](Solutions/M/maximum-twin-sum-of-a-linked-list)
 * [Palindrome linked list](Solutions/P/palindrome-linked-list)
 * [Remove duplicates from sorted list ii](Solutions/R/remove-duplicates-from-sorted-list-ii)
 * [Remove linked list elements](Solutions/R/remove-linked-list-elements)
