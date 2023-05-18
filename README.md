@@ -586,6 +586,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Add edges to make degrees of all nodes even](Solutions/A/add-edges-to-make-degrees-of-all-nodes-even)
 * [Collect coins in a tree](Solutions/C/collect-coins-in-a-tree)
 * [Find the town judge](Solutions/F/find-the-town-judge)
+* [Minimum number of vertices to reach all nodes](Solutions/M/minimum-number-of-vertices-to-reach-all-nodes)
 
 ### <a name="Graph_theory-Depth_first_search">Depth first search</a>
 * [Amount of time for binary tree to be infected](Solutions/A/amount-of-time-for-binary-tree-to-be-infected)
