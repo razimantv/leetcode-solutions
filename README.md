@@ -573,6 +573,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Nearest exit from entrance in maze](Solutions/N/nearest-exit-from-entrance-in-maze)
 * [Open the lock](Solutions/O/open-the-lock)
 * [Pacific atlantic water flow](Solutions/P/pacific-atlantic-water-flow)
+* [Shortest bridge](Solutions/S/shortest-bridge)
 * [Shortest path with alternating colors](Solutions/S/shortest-path-with-alternating-colors)
 
 ### <a name="Graph_theory-Bridges_Articulation_points">Bridges/Articulation points</a>
@@ -636,6 +637,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum number of fish in a grid](Solutions/M/maximum-number-of-fish-in-a-grid)
 * [Number of closed islands](Solutions/N/number-of-closed-islands)
 * [Number of enclaves](Solutions/N/number-of-enclaves)
+* [Shortest bridge](Solutions/S/shortest-bridge)
 
 #### <a name="Graph_theory-Depth_first_search-Iterative">Iterative</a>
 * [Find eventual safe states](Solutions/F/find-eventual-safe-states)
@@ -664,6 +666,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Graph_theory-Multi_source_search">Multi source search</a>
 * [As far from land as possible](Solutions/A/as-far-from-land-as-possible)
+* [Shortest bridge](Solutions/S/shortest-bridge)
 * [Shortest path with alternating colors](Solutions/S/shortest-path-with-alternating-colors)
 
 ### <a name="Graph_theory-Prim_s_algorithm">Prim's algorithm</a>
