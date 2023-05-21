@@ -1,0 +1,7 @@
+# Find the punishment number of an integer
+
+[Problem link](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/)
+
+## Tags
+
+* [Backtracking](/README.md#Backtracking)

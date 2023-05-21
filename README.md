@@ -107,6 +107,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Combination sum](Solutions/C/combination-sum)
 * [Combination sum iii](Solutions/C/combination-sum-iii)
 * [Expression add operators](Solutions/E/expression-add-operators)
+* [Find the punishment number of an integer](Solutions/F/find-the-punishment-number-of-an-integer)
 * [Generate parentheses](Solutions/G/generate-parentheses)
 * [Maximum number of groups getting fresh donuts](Solutions/M/maximum-number-of-groups-getting-fresh-donuts)
 * [Maximum score words formed by letters](Solutions/M/maximum-score-words-formed-by-letters)
@@ -649,6 +650,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Design graph with shortest path calculator](Solutions/D/design-graph-with-shortest-path-calculator)
 * [Minimum cost of a path with special roads](Solutions/M/minimum-cost-of-a-path-with-special-roads)
 * [Minimum time to visit a cell in a grid](Solutions/M/minimum-time-to-visit-a-cell-in-a-grid)
+* [Modify graph edge weights](Solutions/M/modify-graph-edge-weights)
 * [Network delay time](Solutions/N/network-delay-time)
 * [Number of ways to arrive at destination](Solutions/N/number-of-ways-to-arrive-at-destination)
 * [Path with maximum probability](Solutions/P/path-with-maximum-probability)
@@ -1168,6 +1170,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count palindromic subsequences](Solutions/C/count-palindromic-subsequences)
 * [Largest palindromic number](Solutions/L/largest-palindromic-number)
 * [Lexicographically smallest beautiful string](Solutions/L/lexicographically-smallest-beautiful-string)
+* [Lexicographically smallest palindrome](Solutions/L/lexicographically-smallest-palindrome)
 * [Longest palindrome](Solutions/L/longest-palindrome)
 * [Longest palindrome by concatenating two letter words](Solutions/L/longest-palindrome-by-concatenating-two-letter-words)
 * [Longest palindromic substring](Solutions/L/longest-palindromic-substring)
@@ -1314,6 +1317,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Design graph with shortest path calculator](Solutions/D/design-graph-with-shortest-path-calculator)
 * [Minimum cost of a path with special roads](Solutions/M/minimum-cost-of-a-path-with-special-roads)
 * [Minimum time to visit a cell in a grid](Solutions/M/minimum-time-to-visit-a-cell-in-a-grid)
+* [Modify graph edge weights](Solutions/M/modify-graph-edge-weights)
 * [Network delay time](Solutions/N/network-delay-time)
 
 ### <a name="Priority_queue-Dijkstra_like_processing_of_subarrays">Dijkstra-like processing of subarrays</a>
@@ -1340,6 +1344,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Lru cache](Solutions/L/lru-cache)
 * [Minimum cost of a path with special roads](Solutions/M/minimum-cost-of-a-path-with-special-roads)
 * [Minimum time to visit a cell in a grid](Solutions/M/minimum-time-to-visit-a-cell-in-a-grid)
+* [Modify graph edge weights](Solutions/M/modify-graph-edge-weights)
 * [Network delay time](Solutions/N/network-delay-time)
 * [Number of ways to arrive at destination](Solutions/N/number-of-ways-to-arrive-at-destination)
 * [Path with maximum probability](Solutions/P/path-with-maximum-probability)
@@ -1635,6 +1640,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Asteroid collision](Solutions/A/asteroid-collision)
 * [Longest valid parentheses](Solutions/L/longest-valid-parentheses)
 * [Make the string great](Solutions/M/make-the-string-great)
+* [Minimum string length after removing substrings](Solutions/M/minimum-string-length-after-removing-substrings)
 * [Remove all adjacent duplicates in string ii](Solutions/R/remove-all-adjacent-duplicates-in-string-ii)
 * [Using a robot to print the lexicographically smallest string](Solutions/U/using-a-robot-to-print-the-lexicographically-smallest-string)
 
