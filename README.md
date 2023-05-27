@@ -209,6 +209,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum or](Solutions/M/maximum-or)
 * [Maximum product of word lengths](Solutions/M/maximum-product-of-word-lengths)
 * [Maximum rows covered by columns](Solutions/M/maximum-rows-covered-by-columns)
+* [Maximum strength of a group](Solutions/M/maximum-strength-of-a-group)
 * [Maximum xor after operations](Solutions/M/maximum-xor-after-operations)
 * [Maximum xor for each query](Solutions/M/maximum-xor-for-each-query)
 * [Minimize xor](Solutions/M/minimize-xor)
@@ -255,6 +256,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Matchsticks to square](Solutions/M/matchsticks-to-square)
 * [Maximum length of a concatenated string with unique characters](Solutions/M/maximum-length-of-a-concatenated-string-with-unique-characters)
 * [Maximum rows covered by columns](Solutions/M/maximum-rows-covered-by-columns)
+* [Maximum strength of a group](Solutions/M/maximum-strength-of-a-group)
 * [N queens](Solutions/N/n-queens)
 * [N queens ii](Solutions/N/n-queens-ii)
 * [Non decreasing subsequences](Solutions/N/non-decreasing-subsequences)
@@ -335,6 +337,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## <a name="Disjoint_set_union">Disjoint set union</a>
 * [Accounts merge](Solutions/A/accounts-merge)
 * [Checking existence of edge length limited paths](Solutions/C/checking-existence-of-edge-length-limited-paths)
+* [Greatest common divisor traversal](Solutions/G/greatest-common-divisor-traversal)
 * [Largest component size by common factor](Solutions/L/largest-component-size-by-common-factor)
 * [Lexicographically smallest equivalent string](Solutions/L/lexicographically-smallest-equivalent-string)
 * [Maximum segment sum after removals](Solutions/M/maximum-segment-sum-after-removals)
@@ -370,6 +373,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Delete and earn](Solutions/D/delete-and-earn)
 * [Domino and tromino tiling](Solutions/D/domino-and-tromino-tiling)
 * [Edit distance](Solutions/E/edit-distance)
+* [Extra characters in a string](Solutions/E/extra-characters-in-a-string)
 * [Fibonacci number](Solutions/F/fibonacci-number)
 * [House robber](Solutions/H/house-robber)
 * [Jump game](Solutions/J/jump-game)
@@ -561,6 +565,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Next permutation](Solutions/N/next-permutation)
 
 ## <a name="Graph_theory">Graph theory</a>
+
+### <a name="Graph_theory-Addition_of_auxiliary_vertices">Addition of auxiliary vertices</a>
+* [Greatest common divisor traversal](Solutions/G/greatest-common-divisor-traversal)
 
 ### <a name="Graph_theory-Bipartite_graph">Bipartite graph</a>
 * [Divide nodes into the maximum number of groups](Solutions/D/divide-nodes-into-the-maximum-number-of-groups)
@@ -793,6 +800,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Encode and decode tinyurl](Solutions/E/encode-and-decode-tinyurl)
 * [Equal row and column pairs](Solutions/E/equal-row-and-column-pairs)
 * [Evaluate the bracket pairs of a string](Solutions/E/evaluate-the-bracket-pairs-of-a-string)
+* [Extra characters in a string](Solutions/E/extra-characters-in-a-string)
 * [Find duplicate file in system](Solutions/F/find-duplicate-file-in-system)
 * [Find players with zero or one losses](Solutions/F/find-players-with-zero-or-one-losses)
 * [Find subarrays with equal sum](Solutions/F/find-subarrays-with-equal-sum)
@@ -1108,6 +1116,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count primes](Solutions/C/count-primes)
 * [Count the number of ideal arrays](Solutions/C/count-the-number-of-ideal-arrays)
 * [Distinct prime factors of product of array](Solutions/D/distinct-prime-factors-of-product-of-array)
+* [Greatest common divisor traversal](Solutions/G/greatest-common-divisor-traversal)
 * [Largest component size by common factor](Solutions/L/largest-component-size-by-common-factor)
 * [Number of different subsequences gcds](Solutions/N/number-of-different-subsequences-gcds)
 * [Prime subtraction operation](Solutions/P/prime-subtraction-operation)
@@ -1614,6 +1623,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Merge two sorted lists](Solutions/M/merge-two-sorted-lists)
 
 ### <a name="Sorting-Partial">Partial</a>
+* [Buy two chocolates](Solutions/B/buy-two-chocolates)
 * [K closest points to origin](Solutions/K/k-closest-points-to-origin)
 * [Kth largest sum in a binary tree](Solutions/K/kth-largest-sum-in-a-binary-tree)
 * [Make k subarray sums equal](Solutions/M/make-k-subarray-sums-equal)
@@ -1730,6 +1740,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Check if all the integers in a range are covered](Solutions/C/check-if-all-the-integers-in-a-range-are-covered)
 * [Check if two string arrays are equivalent](Solutions/C/check-if-two-string-arrays-are-equivalent)
 * [Counting bits](Solutions/C/counting-bits)
+* [Extra characters in a string](Solutions/E/extra-characters-in-a-string)
 * [Find all numbers disappeared in an array](Solutions/F/find-all-numbers-disappeared-in-an-array)
 * [Find the duplicate number](Solutions/F/find-the-duplicate-number)
 * [Flatten nested list iterator](Solutions/F/flatten-nested-list-iterator)
