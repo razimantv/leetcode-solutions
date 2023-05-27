@@ -270,6 +270,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## <a name="Case_by_case_analysis">Case-by-case analysis</a>
 * [Make number of distinct characters equal](Solutions/M/make-number-of-distinct-characters-equal)
 
+## <a name="ChatGPT">ChatGPT</a>
+* [Stone game iii](Solutions/S/stone-game-iii)
+
 ## <a name="Concurrency">Concurrency</a>
 * [Building h2o](Solutions/B/building-h2o)
 * [Fizz buzz multithreaded](Solutions/F/fizz-buzz-multithreaded)
@@ -395,6 +398,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Restore ip addresses](Solutions/R/restore-ip-addresses)
 * [Restore the array](Solutions/R/restore-the-array)
 * [Solving questions with brainpower](Solutions/S/solving-questions-with-brainpower)
+* [Stone game iii](Solutions/S/stone-game-iii)
 * [The number of beautiful subsets](Solutions/T/the-number-of-beautiful-subsets)
 
 ### <a name="Dynamic_programming-Array_reuse">Array reuse</a>
