@@ -383,6 +383,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum deletions on a string](Solutions/M/maximum-deletions-on-a-string)
 * [Min cost climbing stairs](Solutions/M/min-cost-climbing-stairs)
 * [Minimum cost for tickets](Solutions/M/minimum-cost-for-tickets)
+* [Minimum cost to cut a stick](Solutions/M/minimum-cost-to-cut-a-stick)
 * [Minimum cost to make array equal](Solutions/M/minimum-cost-to-make-array-equal)
 * [Minimum cost to split an array](Solutions/M/minimum-cost-to-split-an-array)
 * [Minimum difficulty of a job schedule](Solutions/M/minimum-difficulty-of-a-job-schedule)
