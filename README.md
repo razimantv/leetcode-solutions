@@ -33,6 +33,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximal rectangle](Solutions/M/maximal-rectangle)
 * [Maximum ascending subarray sum](Solutions/M/maximum-ascending-subarray-sum)
 * [Maximum product subarray](Solutions/M/maximum-product-subarray)
+* [Minimum cost to make all characters equal](Solutions/M/minimum-cost-to-make-all-characters-equal)
 * [Minimum time to make rope colorful](Solutions/M/minimum-time-to-make-rope-colorful)
 * [Number of zero filled subarrays](Solutions/N/number-of-zero-filled-subarrays)
 * [Reduce array size to the half](Solutions/R/reduce-array-size-to-the-half)
@@ -50,6 +51,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximize win from two segments](Solutions/M/maximize-win-from-two-segments)
 * [Maximum building height](Solutions/M/maximum-building-height)
 * [Minimum average difference](Solutions/M/minimum-average-difference)
+* [Minimum cost to make all characters equal](Solutions/M/minimum-cost-to-make-all-characters-equal)
 * [Minimum cost to make array equal](Solutions/M/minimum-cost-to-make-array-equal)
 * [Minimum number of flips to make the binary string alternating](Solutions/M/minimum-number-of-flips-to-make-the-binary-string-alternating)
 * [Minimum remove to make valid parentheses](Solutions/M/minimum-remove-to-make-valid-parentheses)
@@ -381,9 +383,11 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest string chain](Solutions/L/longest-string-chain)
 * [Maximum alternating subsequence sum](Solutions/M/maximum-alternating-subsequence-sum)
 * [Maximum deletions on a string](Solutions/M/maximum-deletions-on-a-string)
+* [Maximum strictly increasing cells in a matrix](Solutions/M/maximum-strictly-increasing-cells-in-a-matrix)
 * [Min cost climbing stairs](Solutions/M/min-cost-climbing-stairs)
 * [Minimum cost for tickets](Solutions/M/minimum-cost-for-tickets)
 * [Minimum cost to cut a stick](Solutions/M/minimum-cost-to-cut-a-stick)
+* [Minimum cost to make all characters equal](Solutions/M/minimum-cost-to-make-all-characters-equal)
 * [Minimum cost to make array equal](Solutions/M/minimum-cost-to-make-array-equal)
 * [Minimum cost to split an array](Solutions/M/minimum-cost-to-split-an-array)
 * [Minimum difficulty of a job schedule](Solutions/M/minimum-difficulty-of-a-job-schedule)
@@ -676,6 +680,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Graph_theory-Iterative_leaf_removal">Iterative leaf removal</a>
 * [Collect coins in a tree](Solutions/C/collect-coins-in-a-tree)
 
+### <a name="Graph_theory-Lewel_wise_processing">Lewel-wise processing</a>
+* [Maximum strictly increasing cells in a matrix](Solutions/M/maximum-strictly-increasing-cells-in-a-matrix)
+
 ### <a name="Graph_theory-Minimum_spanning_tree">Minimum spanning tree</a>
 * [Min cost to connect all points](Solutions/M/min-cost-to-connect-all-points)
 
@@ -702,6 +709,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Course schedule](Solutions/C/course-schedule)
 * [Course schedule ii](Solutions/C/course-schedule-ii)
 * [Find eventual safe states](Solutions/F/find-eventual-safe-states)
+* [Maximum strictly increasing cells in a matrix](Solutions/M/maximum-strictly-increasing-cells-in-a-matrix)
 
 #### <a name="Graph_theory-Topological_sort-Dynamic_Programming">Dynamic Programming</a>
 * [Largest color value in a directed graph](Solutions/L/largest-color-value-in-a-directed-graph)
@@ -797,6 +805,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Design hashmap](Solutions/D/design-hashmap)
 * [Destroy sequential targets](Solutions/D/destroy-sequential-targets)
 * [Determine if two strings are close](Solutions/D/determine-if-two-strings-are-close)
+* [Difference of number of distinct values on diagonals](Solutions/D/difference-of-number-of-distinct-values-on-diagonals)
 * [Distinct prime factors of product of array](Solutions/D/distinct-prime-factors-of-product-of-array)
 * [Encode and decode tinyurl](Solutions/E/encode-and-decode-tinyurl)
 * [Equal row and column pairs](Solutions/E/equal-row-and-column-pairs)
@@ -1141,7 +1150,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## <a name="Matrix">Matrix</a>
 * [Difference between ones and zeros in row and column](Solutions/D/difference-between-ones-and-zeros-in-row-and-column)
+* [Difference of number of distinct values on diagonals](Solutions/D/difference-of-number-of-distinct-values-on-diagonals)
 * [Increment submatrices by one](Solutions/I/increment-submatrices-by-one)
+* [Maximum strictly increasing cells in a matrix](Solutions/M/maximum-strictly-increasing-cells-in-a-matrix)
 
 ### <a name="Matrix-Geometric_transformation">Geometric transformation</a>
 * [Determine whether matrix can be obtained by rotation](Solutions/D/determine-whether-matrix-can-be-obtained-by-rotation)
@@ -1280,6 +1291,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum xor for each query](Solutions/M/maximum-xor-for-each-query)
 * [Minimum absolute difference queries](Solutions/M/minimum-absolute-difference-queries)
 * [Minimum amount of time to collect garbage](Solutions/M/minimum-amount-of-time-to-collect-garbage)
+* [Minimum cost to make all characters equal](Solutions/M/minimum-cost-to-make-all-characters-equal)
 * [Minimum operations to make all array elements equal](Solutions/M/minimum-operations-to-make-all-array-elements-equal)
 * [Minimum space wasted from packaging](Solutions/M/minimum-space-wasted-from-packaging)
 * [Minimum value to get positive step by step sum](Solutions/M/minimum-value-to-get-positive-step-by-step-sum)
@@ -1514,6 +1526,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Remove all occurrences of a substring](Solutions/R/remove-all-occurrences-of-a-substring)
 * [Remove one element to make the array strictly increasing](Solutions/R/remove-one-element-to-make-the-array-strictly-increasing)
 * [Remove palindromic subsequences](Solutions/R/remove-palindromic-subsequences)
+* [Remove trailing zeros from a string](Solutions/R/remove-trailing-zeros-from-a-string)
 * [Row with maximum ones](Solutions/R/row-with-maximum-ones)
 * [Separate the digits in an array](Solutions/S/separate-the-digits-in-an-array)
 * [Shortest distance to target string in a circular array](Solutions/S/shortest-distance-to-target-string-in-a-circular-array)
