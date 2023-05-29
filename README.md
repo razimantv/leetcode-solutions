@@ -275,6 +275,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Make number of distinct characters equal](Solutions/M/make-number-of-distinct-characters-equal)
 
 ## <a name="ChatGPT">ChatGPT</a>
+* [Design parking system](Solutions/D/design-parking-system)
 * [Stone game iii](Solutions/S/stone-game-iii)
 
 ## <a name="Concurrency">Concurrency</a>
@@ -315,6 +316,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Design hashset](Solutions/D/design-hashset)
 * [Design memory allocator](Solutions/D/design-memory-allocator)
 * [Design movie rental system](Solutions/D/design-movie-rental-system)
+* [Design parking system](Solutions/D/design-parking-system)
 * [Design underground system](Solutions/D/design-underground-system)
 * [Encode and decode tinyurl](Solutions/E/encode-and-decode-tinyurl)
 * [Find consecutive integers from a data stream](Solutions/F/find-consecutive-integers-from-a-data-stream)

@@ -19,6 +19,7 @@ Bitwise operation>Self-inverse property of xor
 Brute force enumeration>Combinatorial
 Brute force enumeration>Elementwise processing using a vector
 Case-by-case analysis
+ChatGPT
 Concurrency
 Construction
 Counting elements in array
@@ -50,6 +51,7 @@ Encoding and decoding
 Flattening
 Formatted output
 Fraud
+Graph theory>Addition of auxiliary vertices
 Graph theory>Bipartite graph
 Graph theory>Breadth first search
 Graph theory>Bridges/Articulation points
@@ -64,6 +66,7 @@ Graph theory>Depth first search>Tree diameter
 Graph theory>Dijkstra's algorithm
 Graph theory>Directed acyclic graph
 Graph theory>Iterative leaf removal
+Graph theory>Lewel-wise processing
 Graph theory>Minimum spanning tree
 Graph theory>Multi source search
 Graph theory>Prim's algorithm
