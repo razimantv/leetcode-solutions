@@ -2,6 +2,47 @@
 
 [Problem link](https://leetcode.com/problems/first-unique-number)
 
+## Solutions
+
+
+### Solution.cpp
+```cpp
+// https://leetcode.com/problems/first-unique-number
+
+class FirstUnique {
+ public:
+  map<int, int> postoval, valtopos;
+  int next = 0;
+  FirstUnique(vector<int>& nums) {
+    postoval.clear();
+    valtopos.clear();
+    next = 0;
+    for (auto n : nums) {
+      add(n);
+    }
+  }
+
+  int showFirstUnique() {
+    if (postoval.empty()) return -1;
+    return postoval.begin()->second;
+  }
+
+  void add(int n) {
+    if (valtopos.count(n)) {
+      if (postoval.count(valtopos[n])) postoval.erase(valtopos[n]);
+    } else {
+      postoval[valtopos[n] = next++] = n;
+    }
+  }
+};
+
+/**
+ * Your FirstUnique object will be instantiated and called as such:
+ * FirstUnique* obj = new FirstUnique(nums);
+ * int param_1 = obj->showFirstUnique();
+ * obj->add(value);
+ */
+```
 ## Tags
 
 * [Hashmap](/README.md#Hashmap) > [Forward and backward](/README.md#Hashmap-Forward_and_backward)

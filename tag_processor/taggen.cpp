@@ -50,11 +50,28 @@ void process_problem(const Dir& problem,
     copy_file(problem.path() / "README.md.base", problem.path() / "README.md",
               fs::copy_options::overwrite_existing);
 
+  std::ofstream readme(problem.path() / "README.md", std::ios::app);
+
+  readme << "\n## Solutions\n\n";
+  std::unordered_set<std::string> code_extensions{".cpp", ".py", ".sh"};
+  for (const auto& file : fs::directory_iterator{problem}) {
+    std::string ext;
+    if (!file.is_regular_file() or !file.path().has_extension() or
+        !code_extensions.count(ext = file.path().extension()))
+      continue;
+    readme << "\n### " << file.path().filename().string() << "\n";
+    readme << "```" << ext.substr(1) << "\n";
+    std::ifstream code_file (file.path());
+    for (std::string str; std::getline(code_file, str);) {
+      readme << str << "\n";
+    }
+    readme << "```";
+  }
+
   if (!exists(problem.path() / "tags")) {
     tag_map[{"Untagged"}].insert({problemname, problempath});
   } else {
     std::ifstream tags_file(problem.path() / "tags");
-    std::ofstream readme(problem.path() / "README.md", std::ios::app);
     readme << "\n## Tags\n\n";
     for (std::string tag_str; getline(tags_file, tag_str);) {
       if (tag_str.empty()) continue;
