@@ -4,12 +4,15 @@
 #include <map>
 #include <set>
 #include <sstream>
+#include <unordered_set>
 #include <vector>
 
-typedef std::vector<std::string> Tag;
-typedef std::pair<std::string, std::string> Problem;
+namespace fs = std::filesystem;
+using Dir = std::filesystem::directory_entry;
+using Tag = std::vector<std::string>;
+using Problem = std::pair<std::string, std::string>;
 
-Tag taghierarchy(std::string tag_str) {
+Tag get_tag_hierarchy(std::string tag_str) {
   std::istringstream iss(tag_str);
   Tag ret;
   std::string token;
@@ -23,82 +26,89 @@ std::string sanitize(std::string str) {
   return str;
 }
 
-std::string readmetagline(Tag& tag) {
-  std::string ret, taglabel;
-  for (auto t : tag) {
+std::string create_readme_tagline(Tag& tag) {
+  std::string ret;
+  for (std::string tag_label; auto t : tag) {
     if (!ret.empty()) {
       ret += " > ";
-      taglabel += "-";
+      tag_label += "-";
     }
-    taglabel += sanitize(t);
-    ret += "[" + t + "](/README.md#" + taglabel + ")";
+    tag_label += sanitize(t);
+    ret += "[" + t + "](/README.md#" + tag_label + ")";
   }
   return ret;
 }
 
-int main() {
-  using namespace std::filesystem;
-  current_path("../Solutions");
+void process_problem(const Dir& problem,
+                     std::map<Tag, std::set<Problem>>& tag_map) {
+  std::string problemname = problem.path().filename(),
+              problempath = problem.path().string();
+  for (char& c : problemname)
+    if (c == '-') c = ' ';
+  problemname[0] = toupper(problemname[0]);
+  if (exists(problem.path() / "README.md.base"))
+    copy_file(problem.path() / "README.md.base", problem.path() / "README.md",
+              fs::copy_options::overwrite_existing);
 
-  std::map<Tag, std::set<Problem>> tagmap;
-  for (auto const& collection : directory_iterator{"."}) {
-    if (!is_directory(collection)) continue;
-    for (auto const& problem : directory_iterator{collection}) {
-      if (!is_directory(problem)) continue;
-      std::string problemname = path(problem).filename();
-      std::string problempath =
-          path(collection).filename() / path(problem).filename();
-      for (char& c : problemname)
-        if (c == '-') c = ' ';
-      problemname[0] = toupper(problemname[0]);
-      if (exists(path(problem) / "README.md.base"))
-        copy_file(path(problem) / "README.md.base", path(problem) / "README.md",
-                  std::filesystem::copy_options::overwrite_existing);
-
-      if (!exists(path(problem) / "tags")) {
-        tagmap[{"Untagged"}].insert({problemname, problempath});
-        continue;
-      }
-      std::ifstream tagsfile(path(path(problem) / "tags"));
-      std::ofstream readme(path(path(problem) / "README.md"), std::ios::app);
-      readme << "\n## Tags\n\n";
-      for (std::string tag_str; getline(tagsfile, tag_str);) {
-        auto tag = taghierarchy(tag_str);
-        tagmap[tag].insert({problemname, problempath});
-        readme << "* " << readmetagline(tag) << "\n";
-      }
+  if (!exists(problem.path() / "tags")) {
+    tag_map[{"Untagged"}].insert({problemname, problempath});
+  } else {
+    std::ifstream tags_file(problem.path() / "tags");
+    std::ofstream readme(problem.path() / "README.md", std::ios::app);
+    readme << "\n## Tags\n\n";
+    for (std::string tag_str; getline(tags_file, tag_str);) {
+      if (tag_str.empty()) continue;
+      auto tag = get_tag_hierarchy(tag_str);
+      tag_map[tag].insert({problemname, problempath});
+      readme << "* " << create_readme_tagline(tag) << "\n";
     }
   }
+}
 
-  std::cout << "\n# Problems by tags (INCOMPLETE!)\n";
-  std::vector<std::string> prevtag;
-  for (auto& [tag, problemlist] : tagmap) {
-    if (tag[0] == "Untagged") continue;
-    int level = 0;
-    std::string taglabel;
-    for (auto& token : prevtag) {
+void print_tag_list(std::map<Tag, std::set<Problem>>& tag_map) {
+  std::cout << "\n# Problems by tags\n";
+  std::unordered_set<std::string> bad_tags{"Suboptimal solution", "Fraud",
+                                           "Untagged"};
+  for (std::vector<std::string> prev_tag; auto& [tag, problemlist] : tag_map) {
+    if (bad_tags.count(tag[0])) continue;
+    unsigned int level = 0;
+    std::string tag_label;
+    for (auto& token : prev_tag) {
       if (level == tag.size() or token != tag[level]) break;
-      if (!taglabel.empty()) taglabel += '-';
-      taglabel += sanitize(tag[level]);
+      if (!tag_label.empty()) tag_label += '-';
+      tag_label += sanitize(tag[level]);
       ++level;
     }
     while (level < tag.size()) {
-      if (!taglabel.empty()) taglabel += '-';
-      taglabel += sanitize(tag[level]);
+      if (!tag_label.empty()) tag_label += '-';
+      tag_label += sanitize(tag[level]);
       std::cout << "\n"
                 << std::string(level + 2, '#') << " "
-                << "<a name=\"" << taglabel << "\">" << tag[level] << "</a>\n";
+                << "<a name=\"" << tag_label << "\">" << tag[level] << "</a>\n";
       ++level;
     }
 
-    for (auto& [name, path] : problemlist) {
-      std::cout << "* [" << name << "](Solutions/" << path << ")\n";
+    for (auto& [name, path] : problemlist)
+      std::cout << "* [" << name << "](" << path << ")\n";
+    prev_tag = tag;
+  }
+  for (auto tag : bad_tags) {
+    std::cout << "\n## " << tag << "\n";
+    for (auto& [name, path] : tag_map[{tag}]) {
+      std::cout << "* [" << name << "](" << path << ")\n";
     }
-    prevtag = tag;
   }
-  std::cout << "\n## Untagged\n";
-  for (auto& [name, path] : tagmap[{"Untagged"}]) {
-    std::cout << "* [" << name << "](Solutions/" << path << ")\n";
+}
+
+int main() {
+  fs::current_path("..");
+  std::map<Tag, std::set<Problem>> tag_map;
+  for (const auto& collection : fs::directory_iterator{"Solutions"}) {
+    if (!is_directory(collection)) continue;
+    for (const auto& problem : fs::directory_iterator{collection})
+      if (is_directory(problem)) process_problem(problem, tag_map);
   }
+
+  print_tag_list(tag_map);
   return 0;
 }

@@ -7,7 +7,7 @@ My solutions to Leetcode Problems
 
 Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/world177/Leetcode-Downloader-for-Submissions) for bulk download.
 
-# Problems by tags (INCOMPLETE!)
+# Problems by tags
 
 ## <a name="Array_scanning">Array scanning</a>
 * [Dota2 senate](Solutions/D/dota2-senate)
@@ -561,15 +561,6 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Binary watch](Solutions/B/binary-watch)
 * [Integer to english words](Solutions/I/integer-to-english-words)
 * [Integer to roman](Solutions/I/integer-to-roman)
-
-## <a name="Fraud">Fraud</a>
-* [Add strings](Solutions/A/add-strings)
-* [Count complete tree nodes](Solutions/C/count-complete-tree-nodes)
-* [Find minimum in rotated sorted array](Solutions/F/find-minimum-in-rotated-sorted-array)
-* [Find minimum in rotated sorted array ii](Solutions/F/find-minimum-in-rotated-sorted-array-ii)
-* [Find peak element](Solutions/F/find-peak-element)
-* [Multiply strings](Solutions/M/multiply-strings)
-* [Next permutation](Solutions/N/next-permutation)
 
 ## <a name="Graph_theory">Graph theory</a>
 
@@ -1752,26 +1743,6 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Ambiguous coordinates](Solutions/A/ambiguous-coordinates)
 * [Number of valid clock times](Solutions/N/number-of-valid-clock-times)
 
-## <a name="Suboptimal_solution">Suboptimal solution</a>
-* [Check if all the integers in a range are covered](Solutions/C/check-if-all-the-integers-in-a-range-are-covered)
-* [Check if two string arrays are equivalent](Solutions/C/check-if-two-string-arrays-are-equivalent)
-* [Counting bits](Solutions/C/counting-bits)
-* [Extra characters in a string](Solutions/E/extra-characters-in-a-string)
-* [Find all numbers disappeared in an array](Solutions/F/find-all-numbers-disappeared-in-an-array)
-* [Find the duplicate number](Solutions/F/find-the-duplicate-number)
-* [Flatten nested list iterator](Solutions/F/flatten-nested-list-iterator)
-* [How many numbers are smaller than the current number](Solutions/H/how-many-numbers-are-smaller-than-the-current-number)
-* [Kth missing positive number](Solutions/K/kth-missing-positive-number)
-* [Longest increasing subsequence](Solutions/L/longest-increasing-subsequence)
-* [Longest palindromic substring](Solutions/L/longest-palindromic-substring)
-* [Longest substring with at least k repeating characters](Solutions/L/longest-substring-with-at-least-k-repeating-characters)
-* [Longest word in dictionary](Solutions/L/longest-word-in-dictionary)
-* [Majority element](Solutions/M/majority-element)
-* [Map sum pairs](Solutions/M/map-sum-pairs)
-* [Maximum distance between a pair of values](Solutions/M/maximum-distance-between-a-pair-of-values)
-* [Next greater element i](Solutions/N/next-greater-element-i)
-* [Split message based on limit](Solutions/S/split-message-based-on-limit)
-
 ## <a name="Time_reversed_simulation">Time reversed simulation</a>
 * [Backspace string compare](Solutions/B/backspace-string-compare)
 * [Construct target array with multiple sums](Solutions/C/construct-target-array-with-multiple-sums)
@@ -2125,3 +2096,32 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Word pattern](Solutions/W/word-pattern)
 * [Word search](Solutions/W/word-search)
 * [Word subsets](Solutions/W/word-subsets)
+
+## Fraud
+* [Add strings](Solutions/A/add-strings)
+* [Count complete tree nodes](Solutions/C/count-complete-tree-nodes)
+* [Find minimum in rotated sorted array](Solutions/F/find-minimum-in-rotated-sorted-array)
+* [Find minimum in rotated sorted array ii](Solutions/F/find-minimum-in-rotated-sorted-array-ii)
+* [Find peak element](Solutions/F/find-peak-element)
+* [Multiply strings](Solutions/M/multiply-strings)
+* [Next permutation](Solutions/N/next-permutation)
+
+## Suboptimal solution
+* [Check if all the integers in a range are covered](Solutions/C/check-if-all-the-integers-in-a-range-are-covered)
+* [Check if two string arrays are equivalent](Solutions/C/check-if-two-string-arrays-are-equivalent)
+* [Counting bits](Solutions/C/counting-bits)
+* [Extra characters in a string](Solutions/E/extra-characters-in-a-string)
+* [Find all numbers disappeared in an array](Solutions/F/find-all-numbers-disappeared-in-an-array)
+* [Find the duplicate number](Solutions/F/find-the-duplicate-number)
+* [Flatten nested list iterator](Solutions/F/flatten-nested-list-iterator)
+* [How many numbers are smaller than the current number](Solutions/H/how-many-numbers-are-smaller-than-the-current-number)
+* [Kth missing positive number](Solutions/K/kth-missing-positive-number)
+* [Longest increasing subsequence](Solutions/L/longest-increasing-subsequence)
+* [Longest palindromic substring](Solutions/L/longest-palindromic-substring)
+* [Longest substring with at least k repeating characters](Solutions/L/longest-substring-with-at-least-k-repeating-characters)
+* [Longest word in dictionary](Solutions/L/longest-word-in-dictionary)
+* [Majority element](Solutions/M/majority-element)
+* [Map sum pairs](Solutions/M/map-sum-pairs)
+* [Maximum distance between a pair of values](Solutions/M/maximum-distance-between-a-pair-of-values)
+* [Next greater element i](Solutions/N/next-greater-element-i)
+* [Split message based on limit](Solutions/S/split-message-based-on-limit)
