@@ -1,7 +1,6 @@
 # Encode and decode tinyurl
 
-[Problem link](https://leetcode.com/problems/encode-and-decode-tinyurl
-"http://tinyurl.com/";)
+[Problem link](https://leetcode.com/problems/encode-and-decode-tinyurl)
 
 ## Tags
 

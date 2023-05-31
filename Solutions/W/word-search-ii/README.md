@@ -1,6 +1,6 @@
 # Word search ii
 
-[Problem link](https://leetcode.com/problems/word-search-ii)
+[Problem link](https://leetcode.com/problems/word-search-ii/)
 
 ## Tags
 
