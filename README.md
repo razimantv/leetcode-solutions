@@ -575,6 +575,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Amount of time for binary tree to be infected](Solutions/A/amount-of-time-for-binary-tree-to-be-infected)
 * [As far from land as possible](Solutions/A/as-far-from-land-as-possible)
 * [Bus routes](Solutions/B/bus-routes)
+* [Detonate the maximum bombs](Solutions/D/detonate-the-maximum-bombs)
 * [Divide nodes into the maximum number of groups](Solutions/D/divide-nodes-into-the-maximum-number-of-groups)
 * [Jump game iv](Solutions/J/jump-game-iv)
 * [Minimum genetic mutation](Solutions/M/minimum-genetic-mutation)
