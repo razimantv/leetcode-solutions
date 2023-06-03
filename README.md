@@ -277,6 +277,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## <a name="ChatGPT">ChatGPT</a>
 * [Design parking system](Solutions/D/design-parking-system)
 * [Stone game iii](Solutions/S/stone-game-iii)
+* [Time needed to inform all employees](Solutions/T/time-needed-to-inform-all-employees)
 
 ## <a name="Concurrency">Concurrency</a>
 * [Building h2o](Solutions/B/building-h2o)
@@ -627,6 +628,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Reachable nodes with restrictions](Solutions/R/reachable-nodes-with-restrictions)
 * [Reorder routes to make all paths lead to the city zero](Solutions/R/reorder-routes-to-make-all-paths-lead-to-the-city-zero)
 * [Shortest cycle in a graph](Solutions/S/shortest-cycle-in-a-graph)
+* [Time needed to inform all employees](Solutions/T/time-needed-to-inform-all-employees)
 
 #### <a name="Graph_theory-Depth_first_search-Colouring">Colouring</a>
 * [Is graph bipartite](Solutions/I/is-graph-bipartite)
