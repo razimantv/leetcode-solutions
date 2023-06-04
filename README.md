@@ -276,6 +276,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## <a name="ChatGPT">ChatGPT</a>
 * [Design parking system](Solutions/D/design-parking-system)
+* [Number of provinces](Solutions/N/number-of-provinces)
 * [Stone game iii](Solutions/S/stone-game-iii)
 * [Time needed to inform all employees](Solutions/T/time-needed-to-inform-all-employees)
 
@@ -642,6 +643,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Most stones removed with same row or column](Solutions/M/most-stones-removed-with-same-row-or-column)
 * [Number of islands](Solutions/N/number-of-islands)
 * [Number of operations to make network connected](Solutions/N/number-of-operations-to-make-network-connected)
+* [Number of provinces](Solutions/N/number-of-provinces)
 
 #### <a name="Graph_theory-Depth_first_search-Flood_fill">Flood fill</a>
 * [Count sub islands](Solutions/C/count-sub-islands)
