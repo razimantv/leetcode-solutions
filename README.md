@@ -452,6 +452,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Dynamic_programming-Auxiliary_array">Auxiliary array</a>
 * [Best time to buy and sell stock iv](Solutions/B/best-time-to-buy-and-sell-stock-iv)
 * [Best time to buy and sell stock with transaction fee](Solutions/B/best-time-to-buy-and-sell-stock-with-transaction-fee)
+* [Count of integers](Solutions/C/count-of-integers)
 * [Number of beautiful partitions](Solutions/N/number-of-beautiful-partitions)
 * [Number of people aware of a secret](Solutions/N/number-of-people-aware-of-a-secret)
 
@@ -468,6 +469,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Pizza with 3n slices](Solutions/P/pizza-with-3n-slices)
 
 ### <a name="Dynamic_programming-Digits">Digits</a>
+* [Count of integers](Solutions/C/count-of-integers)
 * [Count special integers](Solutions/C/count-special-integers)
 * [Non negative integers without consecutive ones](Solutions/N/non-negative-integers-without-consecutive-ones)
 * [Number of digit one](Solutions/N/number-of-digit-one)
@@ -843,6 +845,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum population year](Solutions/M/maximum-population-year)
 * [Maximum sum of distinct subarrays with length k](Solutions/M/maximum-sum-of-distinct-subarrays-with-length-k)
 * [Merge similar items](Solutions/M/merge-similar-items)
+* [Minimize string length](Solutions/M/minimize-string-length)
 * [Minimum amount of time to collect garbage](Solutions/M/minimum-amount-of-time-to-collect-garbage)
 * [Minimum cost to split an array](Solutions/M/minimum-cost-to-split-an-array)
 * [Minimum deletions to make character frequencies unique](Solutions/M/minimum-deletions-to-make-character-frequencies-unique)
@@ -874,6 +877,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Subarray sums divisible by k](Solutions/S/subarray-sums-divisible-by-k)
 * [Substring xor queries](Solutions/S/substring-xor-queries)
 * [Sum of distances](Solutions/S/sum-of-distances)
+* [Sum of matrix after queries](Solutions/S/sum-of-matrix-after-queries)
 * [Sum of prefix scores of strings](Solutions/S/sum-of-prefix-scores-of-strings)
 * [Take k of each character from left and right](Solutions/T/take-k-of-each-character-from-left-and-right)
 
@@ -1237,6 +1241,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Permutation-Swaps">Swaps</a>
 * [Orderly queue](Solutions/O/orderly-queue)
+* [Semi ordered permutation](Solutions/S/semi-ordered-permutation)
 
 ## <a name="Pointers">Pointers</a>
 * [Clone graph](Solutions/C/clone-graph)
@@ -1752,6 +1757,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Backspace string compare](Solutions/B/backspace-string-compare)
 * [Construct target array with multiple sums](Solutions/C/construct-target-array-with-multiple-sums)
 * [Maximum segment sum after removals](Solutions/M/maximum-segment-sum-after-removals)
+* [Sum of matrix after queries](Solutions/S/sum-of-matrix-after-queries)
 
 ## <a name="Tree">Tree</a>
 
