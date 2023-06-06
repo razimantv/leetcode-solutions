@@ -275,6 +275,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Make number of distinct characters equal](Solutions/M/make-number-of-distinct-characters-equal)
 
 ## <a name="ChatGPT">ChatGPT</a>
+* [Can make arithmetic progression from sequence](Solutions/C/can-make-arithmetic-progression-from-sequence)
 * [Design parking system](Solutions/D/design-parking-system)
 * [Number of provinces](Solutions/N/number-of-provinces)
 * [Stone game iii](Solutions/S/stone-game-iii)
@@ -996,6 +997,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Mathematics-Basic">Basic</a>
 * [Angle between hands of a clock](Solutions/A/angle-between-hands-of-a-clock)
+* [Can make arithmetic progression from sequence](Solutions/C/can-make-arithmetic-progression-from-sequence)
 * [Distribute money to maximum children](Solutions/D/distribute-money-to-maximum-children)
 * [Fraction to recurring decimal](Solutions/F/fraction-to-recurring-decimal)
 * [Largest perimeter triangle](Solutions/L/largest-perimeter-triangle)
@@ -1577,6 +1579,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Implement strstr](Solutions/I/implement-strstr)
 
 ## <a name="Sorting">Sorting</a>
+* [Can make arithmetic progression from sequence](Solutions/C/can-make-arithmetic-progression-from-sequence)
 * [Count the number of fair pairs](Solutions/C/count-the-number-of-fair-pairs)
 * [Delete greatest value in each row](Solutions/D/delete-greatest-value-in-each-row)
 * [Divide players into teams of equal skill](Solutions/D/divide-players-into-teams-of-equal-skill)
