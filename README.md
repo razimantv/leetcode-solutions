@@ -215,6 +215,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum xor after operations](Solutions/M/maximum-xor-after-operations)
 * [Maximum xor for each query](Solutions/M/maximum-xor-for-each-query)
 * [Minimize xor](Solutions/M/minimize-xor)
+* [Minimum flips to make a or b equal to c](Solutions/M/minimum-flips-to-make-a-or-b-equal-to-c)
 * [Minimum impossible or](Solutions/M/minimum-impossible-or)
 * [Minimum operations to reduce an integer to 0](Solutions/M/minimum-operations-to-reduce-an-integer-to-0)
 * [Minimum xor sum of two arrays](Solutions/M/minimum-xor-sum-of-two-arrays)
@@ -277,6 +278,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## <a name="ChatGPT">ChatGPT</a>
 * [Can make arithmetic progression from sequence](Solutions/C/can-make-arithmetic-progression-from-sequence)
 * [Design parking system](Solutions/D/design-parking-system)
+* [Minimum flips to make a or b equal to c](Solutions/M/minimum-flips-to-make-a-or-b-equal-to-c)
 * [Number of provinces](Solutions/N/number-of-provinces)
 * [Stone game iii](Solutions/S/stone-game-iii)
 * [Time needed to inform all employees](Solutions/T/time-needed-to-inform-all-employees)
