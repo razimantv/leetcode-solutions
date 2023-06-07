@@ -1180,6 +1180,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Number of submatrices that sum to target](Solutions/N/number-of-submatrices-that-sum-to-target)
 
 ### <a name="Matrix-Traversal">Traversal</a>
+* [Count negative numbers in a sorted matrix](Solutions/C/count-negative-numbers-in-a-sorted-matrix)
 * [Diagonal traverse](Solutions/D/diagonal-traverse)
 * [Get biggest three rhombus sums in a grid](Solutions/G/get-biggest-three-rhombus-sums-in-a-grid)
 
