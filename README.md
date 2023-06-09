@@ -137,6 +137,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find first and last position of element in sorted array](Solutions/F/find-first-and-last-position-of-element-in-sorted-array)
 * [Find k closest elements](Solutions/F/find-k-closest-elements)
 * [Find right interval](Solutions/F/find-right-interval)
+* [Find smallest letter greater than target](Solutions/F/find-smallest-letter-greater-than-target)
 * [Find the duplicate number](Solutions/F/find-the-duplicate-number)
 * [Find the longest valid obstacle course at each position](Solutions/F/find-the-longest-valid-obstacle-course-at-each-position)
 * [Find the maximum number of marked indices](Solutions/F/find-the-maximum-number-of-marked-indices)
