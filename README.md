@@ -203,6 +203,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Cycle length queries in a tree](Solutions/C/cycle-length-queries-in-a-tree)
 * [Determine if string halves are alike](Solutions/D/determine-if-string-halves-are-alike)
 * [Divide two integers](Solutions/D/divide-two-integers)
+* [Find a good subset of the matrix](Solutions/F/find-a-good-subset-of-the-matrix)
 * [Find a value of a mysterious function closest to target](Solutions/F/find-a-value-of-a-mysterious-function-closest-to-target)
 * [Find xor sum of all pairs bitwise and](Solutions/F/find-xor-sum-of-all-pairs-bitwise-and)
 * [Form smallest number from two digit arrays](Solutions/F/form-smallest-number-from-two-digit-arrays)
@@ -1159,6 +1160,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Random pick with weight](Solutions/R/random-pick-with-weight)
 * [Random point in non overlapping rectangles](Solutions/R/random-point-in-non-overlapping-rectangles)
 
+### <a name="Mathematics-Reduce_problem_dimension_with_proofs">Reduce problem dimension with proofs</a>
+* [Find a good subset of the matrix](Solutions/F/find-a-good-subset-of-the-matrix)
+
 ## <a name="Matrix">Matrix</a>
 * [Difference between ones and zeros in row and column](Solutions/D/difference-between-ones-and-zeros-in-row-and-column)
 * [Difference of number of distinct values on diagonals](Solutions/D/difference-of-number-of-distinct-values-on-diagonals)
@@ -1308,6 +1312,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum operations to make all array elements equal](Solutions/M/minimum-operations-to-make-all-array-elements-equal)
 * [Minimum space wasted from packaging](Solutions/M/minimum-space-wasted-from-packaging)
 * [Minimum value to get positive step by step sum](Solutions/M/minimum-value-to-get-positive-step-by-step-sum)
+* [Movement of robots](Solutions/M/movement-of-robots)
 * [Random pick with weight](Solutions/R/random-pick-with-weight)
 * [Random point in non overlapping rectangles](Solutions/R/random-point-in-non-overlapping-rectangles)
 * [Range sum query immutable](Solutions/R/range-sum-query-immutable)
@@ -1588,6 +1593,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## <a name="Sorting">Sorting</a>
 * [Can make arithmetic progression from sequence](Solutions/C/can-make-arithmetic-progression-from-sequence)
+* [Check if the number is fascinating](Solutions/C/check-if-the-number-is-fascinating)
 * [Count the number of fair pairs](Solutions/C/count-the-number-of-fair-pairs)
 * [Delete greatest value in each row](Solutions/D/delete-greatest-value-in-each-row)
 * [Divide players into teams of equal skill](Solutions/D/divide-players-into-teams-of-equal-skill)
@@ -1599,6 +1605,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum star sum of a graph](Solutions/M/maximum-star-sum-of-a-graph)
 * [Minimum absolute difference](Solutions/M/minimum-absolute-difference)
 * [Minimum number of operations to make arrays similar](Solutions/M/minimum-number-of-operations-to-make-arrays-similar)
+* [Movement of robots](Solutions/M/movement-of-robots)
 * [Number of distinct averages](Solutions/N/number-of-distinct-averages)
 * [Reduction operations to make the array elements equal](Solutions/R/reduction-operations-to-make-the-array-elements-equal)
 * [Sum in a matrix](Solutions/S/sum-in-a-matrix)
@@ -1883,6 +1890,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## <a name="Two_pointers">Two pointers</a>
 * [Find k closest elements](Solutions/F/find-k-closest-elements)
+* [Find the longest semi repetitive substring](Solutions/F/find-the-longest-semi-repetitive-substring)
 * [Maximize greatness of an array](Solutions/M/maximize-greatness-of-an-array)
 * [Merge two 2d arrays by summing values](Solutions/M/merge-two-2d-arrays-by-summing-values)
 * [Minimum common value](Solutions/M/minimum-common-value)
