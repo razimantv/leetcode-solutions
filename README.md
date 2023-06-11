@@ -182,6 +182,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Online majority element in subarray](Solutions/O/online-majority-element-in-subarray)
 * [Random pick with weight](Solutions/R/random-pick-with-weight)
 * [Random point in non overlapping rectangles](Solutions/R/random-point-in-non-overlapping-rectangles)
+* [Snapshot array](Solutions/S/snapshot-array)
 
 ### <a name="Binary_search-Prefix_sum">Prefix sum</a>
 * [Delivering boxes from storage to ports](Solutions/D/delivering-boxes-from-storage-to-ports)
@@ -343,6 +344,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Design_data_structure-Interconversion">Interconversion</a>
 * [Implement queue using stacks](Solutions/I/implement-queue-using-stacks)
 * [Implement stack using queues](Solutions/I/implement-stack-using-queues)
+
+### <a name="Design_data_structure-Persistent">Persistent</a>
+* [Snapshot array](Solutions/S/snapshot-array)
 
 ## <a name="Disjoint_set_union">Disjoint set union</a>
 * [Accounts merge](Solutions/A/accounts-merge)
@@ -1988,7 +1992,6 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Smallest string with swaps](Solutions/S/smallest-string-with-swaps)
 * [Smallest subtree with all the deepest nodes](Solutions/S/smallest-subtree-with-all-the-deepest-nodes)
 * [Snakes and ladders](Solutions/S/snakes-and-ladders)
-* [Snapshot array](Solutions/S/snapshot-array)
 * [Sort array by increasing frequency](Solutions/S/sort-array-by-increasing-frequency)
 * [Sort array by parity](Solutions/S/sort-array-by-parity)
 * [Sort array by parity ii](Solutions/S/sort-array-by-parity-ii)
