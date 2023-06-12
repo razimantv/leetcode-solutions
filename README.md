@@ -176,6 +176,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Contains duplicate iii](Solutions/C/contains-duplicate-iii)
 * [Count of range sum](Solutions/C/count-of-range-sum)
 * [Maximum number of points from grid queries](Solutions/M/maximum-number-of-points-from-grid-queries)
+* [Maximum sum queries](Solutions/M/maximum-sum-queries)
 * [Minimum absolute sum difference](Solutions/M/minimum-absolute-sum-difference)
 * [Minimum reverse operations](Solutions/M/minimum-reverse-operations)
 * [My calendar i](Solutions/M/my-calendar-i)
@@ -472,6 +473,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find the string with lcp](Solutions/F/find-the-string-with-lcp)
 
 ### <a name="Dynamic_programming-Cyclic_array">Cyclic array</a>
+* [Collecting chocolates](Solutions/C/collecting-chocolates)
 * [House robber ii](Solutions/H/house-robber-ii)
 * [Maximum sum circular subarray](Solutions/M/maximum-sum-circular-subarray)
 * [Minimum number of flips to make the binary string alternating](Solutions/M/minimum-number-of-flips-to-make-the-binary-string-alternating)
@@ -740,6 +742,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Gas station](Solutions/G/gas-station)
 * [Is subsequence](Solutions/I/is-subsequence)
 * [Largest number](Solutions/L/largest-number)
+* [Lexicographically smallest string after substring operation](Solutions/L/lexicographically-smallest-string-after-substring-operation)
 * [Longest subsequence with limited sum](Solutions/L/longest-subsequence-with-limited-sum)
 * [Make array zero by subtracting equal amounts](Solutions/M/make-array-zero-by-subtracting-equal-amounts)
 * [Make costs of paths equal in a binary tree](Solutions/M/make-costs-of-paths-equal-in-a-binary-tree)
@@ -1206,6 +1209,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## <a name="Offline_query_processing">Offline query processing</a>
 * [Checking existence of edge length limited paths](Solutions/C/checking-existence-of-edge-length-limited-paths)
+* [Maximum sum queries](Solutions/M/maximum-sum-queries)
 * [Minimum absolute difference queries](Solutions/M/minimum-absolute-difference-queries)
 
 ## <a name="Palindrome">Palindrome</a>
@@ -1651,6 +1655,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Ipo](Solutions/I/ipo)
 * [Make array empty](Solutions/M/make-array-empty)
 * [Maximum subsequence score](Solutions/M/maximum-subsequence-score)
+* [Maximum sum queries](Solutions/M/maximum-sum-queries)
 
 ### <a name="Sorting-Merge_sort">Merge sort</a>
 * [Merge k sorted lists](Solutions/M/merge-k-sorted-lists)
@@ -1663,6 +1668,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Kth largest sum in a binary tree](Solutions/K/kth-largest-sum-in-a-binary-tree)
 * [Make k subarray sums equal](Solutions/M/make-k-subarray-sums-equal)
 * [Mice and cheese](Solutions/M/mice-and-cheese)
+* [Neither minimum nor maximum](Solutions/N/neither-minimum-nor-maximum)
 
 ### <a name="Sorting-Queries_and_updates_together">Queries and updates together</a>
 * [Minimum space wasted from packaging](Solutions/M/minimum-space-wasted-from-packaging)
@@ -1700,6 +1706,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Largest rectangle in histogram](Solutions/L/largest-rectangle-in-histogram)
 * [Maximum score of a good subarray](Solutions/M/maximum-score-of-a-good-subarray)
 * [Maximum subarray min product](Solutions/M/maximum-subarray-min-product)
+* [Maximum sum queries](Solutions/M/maximum-sum-queries)
 * [Next greater element ii](Solutions/N/next-greater-element-ii)
 * [Online stock span](Solutions/O/online-stock-span)
 
