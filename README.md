@@ -1789,6 +1789,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Tree-Binary_search_tree">Binary search tree</a>
 * [Insert into a binary search tree](Solutions/I/insert-into-a-binary-search-tree)
 * [Kth smallest element in a bst](Solutions/K/kth-smallest-element-in-a-bst)
+* [Minimum absolute difference in bst](Solutions/M/minimum-absolute-difference-in-bst)
 * [Minimum distance between bst nodes](Solutions/M/minimum-distance-between-bst-nodes)
 * [Range sum of bst](Solutions/R/range-sum-of-bst)
 * [Recover binary search tree](Solutions/R/recover-binary-search-tree)
@@ -1859,6 +1860,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum difference between node and ancestor](Solutions/M/maximum-difference-between-node-and-ancestor)
 * [Maximum product of splitted binary tree](Solutions/M/maximum-product-of-splitted-binary-tree)
 * [Maximum width of binary tree](Solutions/M/maximum-width-of-binary-tree)
+* [Minimum absolute difference in bst](Solutions/M/minimum-absolute-difference-in-bst)
 * [Minimum depth of binary tree](Solutions/M/minimum-depth-of-binary-tree)
 * [Minimum distance between bst nodes](Solutions/M/minimum-distance-between-bst-nodes)
 * [Minimum number of operations to sort a binary tree by level](Solutions/M/minimum-number-of-operations-to-sort-a-binary-tree-by-level)
