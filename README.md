@@ -282,6 +282,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## <a name="ChatGPT">ChatGPT</a>
 * [Can make arithmetic progression from sequence](Solutions/C/can-make-arithmetic-progression-from-sequence)
 * [Design parking system](Solutions/D/design-parking-system)
+* [Maximum level sum of a binary tree](Solutions/M/maximum-level-sum-of-a-binary-tree)
 * [Minimum flips to make a or b equal to c](Solutions/M/minimum-flips-to-make-a-or-b-equal-to-c)
 * [Number of provinces](Solutions/N/number-of-provinces)
 * [Stone game iii](Solutions/S/stone-game-iii)
@@ -593,6 +594,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Detonate the maximum bombs](Solutions/D/detonate-the-maximum-bombs)
 * [Divide nodes into the maximum number of groups](Solutions/D/divide-nodes-into-the-maximum-number-of-groups)
 * [Jump game iv](Solutions/J/jump-game-iv)
+* [Maximum level sum of a binary tree](Solutions/M/maximum-level-sum-of-a-binary-tree)
 * [Minimum genetic mutation](Solutions/M/minimum-genetic-mutation)
 * [Minimum number of visited cells in a grid](Solutions/M/minimum-number-of-visited-cells-in-a-grid)
 * [Minimum operations to convert number](Solutions/M/minimum-operations-to-convert-number)
@@ -1808,6 +1810,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 #### <a name="Tree-Binary_tree-Iteration">Iteration</a>
 * [Binary tree inorder traversal](Solutions/B/binary-tree-inorder-traversal)
 * [Make costs of paths equal in a binary tree](Solutions/M/make-costs-of-paths-equal-in-a-binary-tree)
+* [Maximum level sum of a binary tree](Solutions/M/maximum-level-sum-of-a-binary-tree)
 * [Populating next right pointers in each node ii](Solutions/P/populating-next-right-pointers-in-each-node-ii)
 
 #### <a name="Tree-Binary_tree-Recursion">Recursion</a>
@@ -1877,6 +1880,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find duplicate subtrees](Solutions/F/find-duplicate-subtrees)
 
 ### <a name="Tree-Level_wise_processing">Level-wise processing</a>
+* [Maximum level sum of a binary tree](Solutions/M/maximum-level-sum-of-a-binary-tree)
 * [Minimum number of operations to sort a binary tree by level](Solutions/M/minimum-number-of-operations-to-sort-a-binary-tree-by-level)
 
 ### <a name="Tree-Order_traversal">Order traversal</a>
