@@ -438,6 +438,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest binary subsequence less than or equal to k](Solutions/L/longest-binary-subsequence-less-than-or-equal-to-k)
 * [Longest ideal subsequence](Solutions/L/longest-ideal-subsequence)
 * [Longest palindromic subsequence](Solutions/L/longest-palindromic-subsequence)
+* [Make array strictly increasing](Solutions/M/make-array-strictly-increasing)
 * [Maximum length of repeated subarray](Solutions/M/maximum-length-of-repeated-subarray)
 * [Maximum number of points with cost](Solutions/M/maximum-number-of-points-with-cost)
 * [Maximum score from performing multiplication operations](Solutions/M/maximum-score-from-performing-multiplication-operations)
@@ -487,6 +488,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Non negative integers without consecutive ones](Solutions/N/non-negative-integers-without-consecutive-ones)
 * [Number of digit one](Solutions/N/number-of-digit-one)
 * [Numbers at most n given digit set](Solutions/N/numbers-at-most-n-given-digit-set)
+
+### <a name="Dynamic_programming-Element_with_special_meaning">Element with special meaning</a>
+* [Make array strictly increasing](Solutions/M/make-array-strictly-increasing)
 
 ### <a name="Dynamic_programming-Graph_like_state_transitions">Graph-like state transitions</a>
 * [Maximum number of non overlapping palindrome substrings](Solutions/M/maximum-number-of-non-overlapping-palindrome-substrings)
