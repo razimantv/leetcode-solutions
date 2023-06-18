@@ -238,6 +238,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Remove duplicate letters](Solutions/R/remove-duplicate-letters)
 * [Remove invalid parentheses](Solutions/R/remove-invalid-parentheses)
 * [Smallest subarrays with maximum bitwise or](Solutions/S/smallest-subarrays-with-maximum-bitwise-or)
+* [Special permutations](Solutions/S/special-permutations)
 * [String compression ii](Solutions/S/string-compression-ii)
 * [Utf 8 validation](Solutions/U/utf-8-validation)
 
@@ -456,6 +457,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Number of ways of cutting a pizza](Solutions/N/number-of-ways-of-cutting-a-pizza)
 * [Number of ways to earn points](Solutions/N/number-of-ways-to-earn-points)
 * [Number of ways to form a target string given a dictionary](Solutions/N/number-of-ways-to-form-a-target-string-given-a-dictionary)
+* [Painting the walls](Solutions/P/painting-the-walls)
 * [Partition equal subset sum](Solutions/P/partition-equal-subset-sum)
 * [Pascals triangle ii](Solutions/P/pascals-triangle-ii)
 * [Paths in matrix whose sum is divisible by k](Solutions/P/paths-in-matrix-whose-sum-is-divisible-by-k)
@@ -496,6 +498,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum number of non overlapping palindrome substrings](Solutions/M/maximum-number-of-non-overlapping-palindrome-substrings)
 * [Minimum additions to make valid string](Solutions/M/minimum-additions-to-make-valid-string)
 * [Number of ways to paint n 3 grid](Solutions/N/number-of-ways-to-paint-n-3-grid)
+* [Special permutations](Solutions/S/special-permutations)
 
 ### <a name="Dynamic_programming-Grid">Grid</a>
 * [Maximum number of moves in a grid](Solutions/M/maximum-number-of-moves-in-a-grid)
@@ -513,6 +516,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Number of ways to earn points](Solutions/N/number-of-ways-to-earn-points)
 * [Ones and zeroes](Solutions/O/ones-and-zeroes)
 * [Partition equal subset sum](Solutions/P/partition-equal-subset-sum)
+
+#### <a name="Dynamic_programming-Knapsack-State_modification">State modification</a>
+* [Painting the walls](Solutions/P/painting-the-walls)
 
 ### <a name="Dynamic_programming-Longest_common_subsequence">Longest common subsequence</a>
 * [Delete operation for two strings](Solutions/D/delete-operation-for-two-strings)
@@ -550,6 +556,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find the shortest superstring](Solutions/F/find-the-shortest-superstring)
 * [Maximize score after n operations](Solutions/M/maximize-score-after-n-operations)
 * [Minimum xor sum of two arrays](Solutions/M/minimum-xor-sum-of-two-arrays)
+* [Special permutations](Solutions/S/special-permutations)
 
 ### <a name="Dynamic_programming-Topological_sort">Topological sort</a>
 * [Largest color value in a directed graph](Solutions/L/largest-color-value-in-a-directed-graph)
@@ -609,6 +616,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Pacific atlantic water flow](Solutions/P/pacific-atlantic-water-flow)
 * [Shortest bridge](Solutions/S/shortest-bridge)
 * [Shortest path with alternating colors](Solutions/S/shortest-path-with-alternating-colors)
+* [Special permutations](Solutions/S/special-permutations)
 
 ### <a name="Graph_theory-Bridges_Articulation_points">Bridges/Articulation points</a>
 * [Critical connections in a network](Solutions/C/critical-connections-in-a-network)
@@ -744,6 +752,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Earliest possible day of full bloom](Solutions/E/earliest-possible-day-of-full-bloom)
 * [Eliminate maximum number of monsters](Solutions/E/eliminate-maximum-number-of-monsters)
 * [Find the maximum number of marked indices](Solutions/F/find-the-maximum-number-of-marked-indices)
+* [Find the value of the partition](Solutions/F/find-the-value-of-the-partition)
 * [Frog jump ii](Solutions/F/frog-jump-ii)
 * [Furthest building you can reach](Solutions/F/furthest-building-you-can-reach)
 * [Gas station](Solutions/G/gas-station)
@@ -1565,6 +1574,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Sum of number and its reverse](Solutions/S/sum-of-number-and-its-reverse)
 * [The employee that worked on the longest task](Solutions/T/the-employee-that-worked-on-the-longest-task)
 * [Toeplitz matrix](Solutions/T/toeplitz-matrix)
+* [Total distance traveled](Solutions/T/total-distance-traveled)
 * [Ugly number](Solutions/U/ugly-number)
 * [Zigzag conversion](Solutions/Z/zigzag-conversion)
 
