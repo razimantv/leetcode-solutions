@@ -40,6 +40,7 @@ Dynamic programming>Graph-like state transitions
 Dynamic programming>Grid
 Dynamic programming>Intervals
 Dynamic programming>Knapsack
+Dynamic programming>Knapsack>State modification
 Dynamic programming>Longest common subsequence
 Dynamic programming>Longest increasing subsequence
 Dynamic programming>Memoised recursion

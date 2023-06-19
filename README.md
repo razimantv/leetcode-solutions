@@ -1312,6 +1312,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count vowel strings in ranges](Solutions/C/count-vowel-strings-in-ranges)
 * [Delivering boxes from storage to ports](Solutions/D/delivering-boxes-from-storage-to-ports)
 * [Execution of all suffix instructions staying in a grid](Solutions/E/execution-of-all-suffix-instructions-staying-in-a-grid)
+* [Find the highest altitude](Solutions/F/find-the-highest-altitude)
 * [Find the score of all prefixes of an array](Solutions/F/find-the-score-of-all-prefixes-of-an-array)
 * [Find the substring with maximum cost](Solutions/F/find-the-substring-with-maximum-cost)
 * [Gas station](Solutions/G/gas-station)
