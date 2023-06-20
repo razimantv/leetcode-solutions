@@ -1592,6 +1592,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Frequency of the most frequent element](Solutions/F/frequency-of-the-most-frequent-element)
 * [Fruit into baskets](Solutions/F/fruit-into-baskets)
 * [Invalid transactions](Solutions/I/invalid-transactions)
+* [K radius subarray averages](Solutions/K/k-radius-subarray-averages)
 * [Longest duplicate substring](Solutions/L/longest-duplicate-substring)
 * [Longest harmonious subsequence](Solutions/L/longest-harmonious-subsequence)
 * [Longest substring without repeating characters](Solutions/L/longest-substring-without-repeating-characters)
