@@ -283,6 +283,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## <a name="ChatGPT">ChatGPT</a>
 * [Can make arithmetic progression from sequence](Solutions/C/can-make-arithmetic-progression-from-sequence)
 * [Design parking system](Solutions/D/design-parking-system)
+* [Longest arithmetic subsequence](Solutions/L/longest-arithmetic-subsequence)
 * [Maximum level sum of a binary tree](Solutions/M/maximum-level-sum-of-a-binary-tree)
 * [Minimum flips to make a or b equal to c](Solutions/M/minimum-flips-to-make-a-or-b-equal-to-c)
 * [Number of provinces](Solutions/N/number-of-provinces)
@@ -396,6 +397,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [House robber](Solutions/H/house-robber)
 * [Jump game](Solutions/J/jump-game)
 * [Jump game ii](Solutions/J/jump-game-ii)
+* [Longest arithmetic subsequence](Solutions/L/longest-arithmetic-subsequence)
 * [Longest string chain](Solutions/L/longest-string-chain)
 * [Maximum alternating subsequence sum](Solutions/M/maximum-alternating-subsequence-sum)
 * [Maximum deletions on a string](Solutions/M/maximum-deletions-on-a-string)
