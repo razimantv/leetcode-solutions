@@ -465,6 +465,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Paths in matrix whose sum is divisible by k](Solutions/P/paths-in-matrix-whose-sum-is-divisible-by-k)
 * [Prison cells after n days](Solutions/P/prison-cells-after-n-days)
 * [String compression ii](Solutions/S/string-compression-ii)
+* [Tallest billboard](Solutions/T/tallest-billboard)
 
 ### <a name="Dynamic_programming-Auxiliary_array">Auxiliary array</a>
 * [Best time to buy and sell stock iv](Solutions/B/best-time-to-buy-and-sell-stock-iv)
@@ -518,6 +519,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Number of ways to earn points](Solutions/N/number-of-ways-to-earn-points)
 * [Ones and zeroes](Solutions/O/ones-and-zeroes)
 * [Partition equal subset sum](Solutions/P/partition-equal-subset-sum)
+* [Tallest billboard](Solutions/T/tallest-billboard)
 
 #### <a name="Dynamic_programming-Knapsack-State_modification">State modification</a>
 * [Painting the walls](Solutions/P/painting-the-walls)
@@ -547,6 +549,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Dynamic_programming-Partial_bottom_up">Partial bottom-up</a>
 * [String compression ii](Solutions/S/string-compression-ii)
+* [Tallest billboard](Solutions/T/tallest-billboard)
 
 ### <a name="Dynamic_programming-Segment_tree">Segment tree</a>
 * [Count increasing quadruplets](Solutions/C/count-increasing-quadruplets)
