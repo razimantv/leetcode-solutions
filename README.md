@@ -79,6 +79,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count unique characters of all substrings of a given string](Solutions/C/count-unique-characters-of-all-substrings-of-a-given-string)
 * [Execution of all suffix instructions staying in a grid](Solutions/E/execution-of-all-suffix-instructions-staying-in-a-grid)
 * [Number of subarrays with bounded maximum](Solutions/N/number-of-subarrays-with-bounded-maximum)
+* [Ways to split array into good subarrays](Solutions/W/ways-to-split-array-into-good-subarrays)
 
 ### <a name="Array_scanning-Modify_element_with_index">Modify element with index</a>
 * [Best sightseeing pair](Solutions/B/best-sightseeing-pair)
@@ -221,6 +222,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimize xor](Solutions/M/minimize-xor)
 * [Minimum flips to make a or b equal to c](Solutions/M/minimum-flips-to-make-a-or-b-equal-to-c)
 * [Minimum impossible or](Solutions/M/minimum-impossible-or)
+* [Minimum operations to make the integer zero](Solutions/M/minimum-operations-to-make-the-integer-zero)
 * [Minimum operations to reduce an integer to 0](Solutions/M/minimum-operations-to-reduce-an-integer-to-0)
 * [Minimum xor sum of two arrays](Solutions/M/minimum-xor-sum-of-two-arrays)
 * [Missing number](Solutions/M/missing-number)
@@ -584,6 +586,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum cost to change the final value of expression](Solutions/M/minimum-cost-to-change-the-final-value-of-expression)
 * [Minimum score after removals on a tree](Solutions/M/minimum-score-after-removals-on-a-tree)
 * [Most profitable path in a tree](Solutions/M/most-profitable-path-in-a-tree)
+
+## <a name="Dynamic_update_of_left_and_right_neighbours">Dynamic update of left and right neighbours</a>
+* [Robot collisions](Solutions/R/robot-collisions)
 
 ## <a name="Encoding_and_decoding">Encoding and decoding</a>
 * [Encode and decode tinyurl](Solutions/E/encode-and-decode-tinyurl)
@@ -1084,6 +1089,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Power of heroes](Solutions/P/power-of-heroes)
 * [Probability of a two boxes having the same number of distinct balls](Solutions/P/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls)
 * [The number of beautiful subsets](Solutions/T/the-number-of-beautiful-subsets)
+* [Ways to split array into good subarrays](Solutions/W/ways-to-split-array-into-good-subarrays)
 
 #### <a name="Mathematics-Combinatorics-Inclusion_exclusion">Inclusion-exclusion</a>
 * [Count increasing quadruplets](Solutions/C/count-increasing-quadruplets)
@@ -1388,6 +1394,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Number of orders in the backlog](Solutions/N/number-of-orders-in-the-backlog)
 * [Process tasks using servers](Solutions/P/process-tasks-using-servers)
 * [Remove stones to minimize the total](Solutions/R/remove-stones-to-minimize-the-total)
+* [Robot collisions](Solutions/R/robot-collisions)
 * [Sort an array](Solutions/S/sort-an-array)
 * [Time to cross a bridge](Solutions/T/time-to-cross-a-bridge)
 * [Total cost to hire k workers](Solutions/T/total-cost-to-hire-k-workers)
@@ -1561,6 +1568,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Next greater element i](Solutions/N/next-greater-element-i)
 * [Non decreasing array](Solutions/N/non-decreasing-array)
 * [Number of arithmetic triplets](Solutions/N/number-of-arithmetic-triplets)
+* [Number of beautiful pairs](Solutions/N/number-of-beautiful-pairs)
 * [Number of senior citizens](Solutions/N/number-of-senior-citizens)
 * [Number of steps to reduce a number to zero](Solutions/N/number-of-steps-to-reduce-a-number-to-zero)
 * [Number of unequal triplets in array](Solutions/N/number-of-unequal-triplets-in-array)
@@ -1689,6 +1697,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Make array empty](Solutions/M/make-array-empty)
 * [Maximum subsequence score](Solutions/M/maximum-subsequence-score)
 * [Maximum sum queries](Solutions/M/maximum-sum-queries)
+* [Robot collisions](Solutions/R/robot-collisions)
 
 ### <a name="Sorting-Merge_sort">Merge sort</a>
 * [Merge k sorted lists](Solutions/M/merge-k-sorted-lists)
