@@ -434,6 +434,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Cherry pickup ii](Solutions/C/cherry-pickup-ii)
 * [Coin change](Solutions/C/coin-change)
 * [Coin change 2](Solutions/C/coin-change-2)
+* [Decremental string concatenation](Solutions/D/decremental-string-concatenation)
 * [Delete operation for two strings](Solutions/D/delete-operation-for-two-strings)
 * [Distinct subsequences](Solutions/D/distinct-subsequences)
 * [Interleaving string](Solutions/I/interleaving-string)
@@ -549,6 +550,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Largest divisible subset](Solutions/L/largest-divisible-subset)
 
 ### <a name="Dynamic_programming-Partial_bottom_up">Partial bottom-up</a>
+* [Decremental string concatenation](Solutions/D/decremental-string-concatenation)
 * [String compression ii](Solutions/S/string-compression-ii)
 * [Tallest billboard](Solutions/T/tallest-billboard)
 
@@ -846,6 +848,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Evaluate the bracket pairs of a string](Solutions/E/evaluate-the-bracket-pairs-of-a-string)
 * [Extra characters in a string](Solutions/E/extra-characters-in-a-string)
 * [Find duplicate file in system](Solutions/F/find-duplicate-file-in-system)
+* [Find maximum number of string pairs](Solutions/F/find-maximum-number-of-string-pairs)
 * [Find players with zero or one losses](Solutions/F/find-players-with-zero-or-one-losses)
 * [Find subarrays with equal sum](Solutions/F/find-subarrays-with-equal-sum)
 * [Find the difference of two arrays](Solutions/F/find-the-difference-of-two-arrays)
@@ -1031,6 +1034,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Mathematics-Basic">Basic</a>
 * [Angle between hands of a clock](Solutions/A/angle-between-hands-of-a-clock)
 * [Can make arithmetic progression from sequence](Solutions/C/can-make-arithmetic-progression-from-sequence)
+* [Construct the longest new string](Solutions/C/construct-the-longest-new-string)
 * [Distribute money to maximum children](Solutions/D/distribute-money-to-maximum-children)
 * [Fraction to recurring decimal](Solutions/F/fraction-to-recurring-decimal)
 * [Largest perimeter triangle](Solutions/L/largest-perimeter-triangle)
@@ -1411,6 +1415,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Finding mk average](Solutions/F/finding-mk-average)
 
 ### <a name="Priority_queue-Key_update_using_insert_and_remove_on_C___set">Key update using insert and remove on C++ set</a>
+* [Count zero request servers](Solutions/C/count-zero-request-servers)
 * [Design a food rating system](Solutions/D/design-a-food-rating-system)
 * [Design a number container system](Solutions/D/design-a-number-container-system)
 * [Design authentication manager](Solutions/D/design-authentication-manager)
@@ -1678,6 +1683,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Sorting-Index_array">Index array</a>
 * [Best team with no conflicts](Solutions/B/best-team-with-no-conflicts)
 * [Checking existence of edge length limited paths](Solutions/C/checking-existence-of-edge-length-limited-paths)
+* [Count zero request servers](Solutions/C/count-zero-request-servers)
 * [Find score of an array after marking all elements](Solutions/F/find-score-of-an-array-after-marking-all-elements)
 * [Ipo](Solutions/I/ipo)
 * [Make array empty](Solutions/M/make-array-empty)
@@ -1698,6 +1704,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Neither minimum nor maximum](Solutions/N/neither-minimum-nor-maximum)
 
 ### <a name="Sorting-Queries_and_updates_together">Queries and updates together</a>
+* [Count zero request servers](Solutions/C/count-zero-request-servers)
 * [Minimum space wasted from packaging](Solutions/M/minimum-space-wasted-from-packaging)
 * [Number of good paths](Solutions/N/number-of-good-paths)
 
