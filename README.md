@@ -514,6 +514,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Dynamic_programming-Knapsack">Knapsack</a>
 * [Coin change](Solutions/C/coin-change)
 * [Coin change 2](Solutions/C/coin-change-2)
+* [Count all possible routes](Solutions/C/count-all-possible-routes)
 * [Maximum value of k coins from piles](Solutions/M/maximum-value-of-k-coins-from-piles)
 * [Number of great partitions](Solutions/N/number-of-great-partitions)
 * [Number of ways to earn points](Solutions/N/number-of-ways-to-earn-points)
@@ -1049,6 +1050,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [3sum with multiplicity](Solutions/0-9/3sum-with-multiplicity)
 * [Arithmetic slices ii subsequence](Solutions/A/arithmetic-slices-ii-subsequence)
 * [Binary trees with factors](Solutions/B/binary-trees-with-factors)
+* [Count all possible routes](Solutions/C/count-all-possible-routes)
 * [Count all valid pickup and delivery options](Solutions/C/count-all-valid-pickup-and-delivery-options)
 * [Count anagrams](Solutions/C/count-anagrams)
 * [Count collisions of monkeys on a polygon](Solutions/C/count-collisions-of-monkeys-on-a-polygon)
