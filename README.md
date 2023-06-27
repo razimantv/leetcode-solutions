@@ -1410,6 +1410,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find the k sum of an array](Solutions/F/find-the-k-sum-of-an-array)
 
 ### <a name="Priority_queue-K_smallest_largest_elements">K smallest/largest elements</a>
+* [Find k pairs with smallest sums](Solutions/F/find-k-pairs-with-smallest-sums)
 * [Find the most competitive subsequence](Solutions/F/find-the-most-competitive-subsequence)
 * [Get biggest three rhombus sums in a grid](Solutions/G/get-biggest-three-rhombus-sums-in-a-grid)
 * [Kth largest element in a stream](Solutions/K/kth-largest-element-in-a-stream)
