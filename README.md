@@ -239,6 +239,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Range product queries of powers](Solutions/R/range-product-queries-of-powers)
 * [Remove duplicate letters](Solutions/R/remove-duplicate-letters)
 * [Remove invalid parentheses](Solutions/R/remove-invalid-parentheses)
+* [Shortest path to get all keys](Solutions/S/shortest-path-to-get-all-keys)
 * [Smallest subarrays with maximum bitwise or](Solutions/S/smallest-subarrays-with-maximum-bitwise-or)
 * [Special permutations](Solutions/S/special-permutations)
 * [String compression ii](Solutions/S/string-compression-ii)
@@ -607,6 +608,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Graph_theory-Addition_of_auxiliary_vertices">Addition of auxiliary vertices</a>
 * [Greatest common divisor traversal](Solutions/G/greatest-common-divisor-traversal)
+* [Shortest path to get all keys](Solutions/S/shortest-path-to-get-all-keys)
 
 ### <a name="Graph_theory-Bipartite_graph">Bipartite graph</a>
 * [Divide nodes into the maximum number of groups](Solutions/D/divide-nodes-into-the-maximum-number-of-groups)
@@ -628,6 +630,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Open the lock](Solutions/O/open-the-lock)
 * [Pacific atlantic water flow](Solutions/P/pacific-atlantic-water-flow)
 * [Shortest bridge](Solutions/S/shortest-bridge)
+* [Shortest path to get all keys](Solutions/S/shortest-path-to-get-all-keys)
 * [Shortest path with alternating colors](Solutions/S/shortest-path-with-alternating-colors)
 * [Special permutations](Solutions/S/special-permutations)
 
