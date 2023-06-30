@@ -361,6 +361,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Checking existence of edge length limited paths](Solutions/C/checking-existence-of-edge-length-limited-paths)
 * [Greatest common divisor traversal](Solutions/G/greatest-common-divisor-traversal)
 * [Largest component size by common factor](Solutions/L/largest-component-size-by-common-factor)
+* [Last day where you can still cross](Solutions/L/last-day-where-you-can-still-cross)
 * [Lexicographically smallest equivalent string](Solutions/L/lexicographically-smallest-equivalent-string)
 * [Maximum segment sum after removals](Solutions/M/maximum-segment-sum-after-removals)
 * [Min cost to connect all points](Solutions/M/min-cost-to-connect-all-points)
@@ -1217,6 +1218,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Matrix-Path">Path</a>
 * [Disconnect path in a binary matrix by at most one flip](Solutions/D/disconnect-path-in-a-binary-matrix-by-at-most-one-flip)
 * [Dungeon game](Solutions/D/dungeon-game)
+* [Last day where you can still cross](Solutions/L/last-day-where-you-can-still-cross)
 * [Longest increasing path in a matrix](Solutions/L/longest-increasing-path-in-a-matrix)
 * [Maximum number of moves in a grid](Solutions/M/maximum-number-of-moves-in-a-grid)
 * [Minimum falling path sum](Solutions/M/minimum-falling-path-sum)
