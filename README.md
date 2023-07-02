@@ -25,6 +25,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Invalid transactions](Solutions/I/invalid-transactions)
 * [Length of the longest alphabetical continuous substring](Solutions/L/length-of-the-longest-alphabetical-continuous-substring)
 * [Longer contiguous segments of ones than zeros](Solutions/L/longer-contiguous-segments-of-ones-than-zeros)
+* [Longest even odd subarray with threshold](Solutions/L/longest-even-odd-subarray-with-threshold)
 * [Longest mountain in array](Solutions/L/longest-mountain-in-array)
 * [Longest subarray with maximum bitwise and](Solutions/L/longest-subarray-with-maximum-bitwise-and)
 * [Longest substring of all vowels in order](Solutions/L/longest-substring-of-all-vowels-in-order)
@@ -593,6 +594,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## <a name="Dynamic_update_of_left_and_right_neighbours">Dynamic update of left and right neighbours</a>
 * [Robot collisions](Solutions/R/robot-collisions)
+* [Sum of imbalance numbers of all subarrays](Solutions/S/sum-of-imbalance-numbers-of-all-subarrays)
 
 ## <a name="Encoding_and_decoding">Encoding and decoding</a>
 * [Encode and decode tinyurl](Solutions/E/encode-and-decode-tinyurl)
@@ -1184,6 +1186,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Greatest common divisor traversal](Solutions/G/greatest-common-divisor-traversal)
 * [Largest component size by common factor](Solutions/L/largest-component-size-by-common-factor)
 * [Number of different subsequences gcds](Solutions/N/number-of-different-subsequences-gcds)
+* [Prime pairs with target sum](Solutions/P/prime-pairs-with-target-sum)
 * [Prime subtraction operation](Solutions/P/prime-subtraction-operation)
 * [Split the array to make coprime products](Solutions/S/split-the-array-to-make-coprime-products)
 
@@ -1416,6 +1419,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Priority_queue-Dijkstra_like_processing_of_subarrays">Dijkstra-like processing of subarrays</a>
 * [Find the k sum of an array](Solutions/F/find-the-k-sum-of-an-array)
 
+### <a name="Priority_queue-Dynamic_sorted_neighbour">Dynamic sorted neighbour</a>
+* [Sum of imbalance numbers of all subarrays](Solutions/S/sum-of-imbalance-numbers-of-all-subarrays)
+
 ### <a name="Priority_queue-K_smallest_largest_elements">K smallest/largest elements</a>
 * [Find k pairs with smallest sums](Solutions/F/find-k-pairs-with-smallest-sums)
 * [Find the most competitive subsequence](Solutions/F/find-the-most-competitive-subsequence)
@@ -1612,6 +1618,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [3sum closest](Solutions/0-9/3sum-closest)
 * [Binary trees with factors](Solutions/B/binary-trees-with-factors)
 * [Contains duplicate ii](Solutions/C/contains-duplicate-ii)
+* [Continuous subarrays](Solutions/C/continuous-subarrays)
 * [Count pairs of nodes](Solutions/C/count-pairs-of-nodes)
 * [Count the number of fair pairs](Solutions/C/count-the-number-of-fair-pairs)
 * [Count the number of good subarrays](Solutions/C/count-the-number-of-good-subarrays)
