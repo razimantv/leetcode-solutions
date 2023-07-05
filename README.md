@@ -1630,6 +1630,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [K radius subarray averages](Solutions/K/k-radius-subarray-averages)
 * [Longest duplicate substring](Solutions/L/longest-duplicate-substring)
 * [Longest harmonious subsequence](Solutions/L/longest-harmonious-subsequence)
+* [Longest subarray of 1s after deleting one element](Solutions/L/longest-subarray-of-1s-after-deleting-one-element)
 * [Longest substring without repeating characters](Solutions/L/longest-substring-without-repeating-characters)
 * [Max consecutive ones iii](Solutions/M/max-consecutive-ones-iii)
 * [Maximize win from two segments](Solutions/M/maximize-win-from-two-segments)

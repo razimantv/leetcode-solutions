@@ -145,6 +145,7 @@ Prefix>Sum>Valid brackets
 Priority queue
 Priority queue>Dijkstra's algorithm
 Priority queue>Dijkstra-like processing of subarrays
+Priority queue>Dynamic sorted neighbour
 Priority queue>K smallest/largest elements
 Priority queue>K smallest/largest elements>Transfer between the two
 Priority queue>Key update using insert and remove on C++ set
