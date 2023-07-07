@@ -1634,6 +1634,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest subarray of 1s after deleting one element](Solutions/L/longest-subarray-of-1s-after-deleting-one-element)
 * [Longest substring without repeating characters](Solutions/L/longest-substring-without-repeating-characters)
 * [Max consecutive ones iii](Solutions/M/max-consecutive-ones-iii)
+* [Maximize the confusion of an exam](Solutions/M/maximize-the-confusion-of-an-exam)
 * [Maximize win from two segments](Solutions/M/maximize-win-from-two-segments)
 * [Maximum erasure value](Solutions/M/maximum-erasure-value)
 * [Maximum number of vowels in a substring of given length](Solutions/M/maximum-number-of-vowels-in-a-substring-of-given-length)
