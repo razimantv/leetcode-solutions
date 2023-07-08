@@ -25,6 +25,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Invalid transactions](Solutions/I/invalid-transactions)
 * [Length of the longest alphabetical continuous substring](Solutions/L/length-of-the-longest-alphabetical-continuous-substring)
 * [Longer contiguous segments of ones than zeros](Solutions/L/longer-contiguous-segments-of-ones-than-zeros)
+* [Longest alternating subarray](Solutions/L/longest-alternating-subarray)
 * [Longest even odd subarray with threshold](Solutions/L/longest-even-odd-subarray-with-threshold)
 * [Longest mountain in array](Solutions/L/longest-mountain-in-array)
 * [Longest subarray with maximum bitwise and](Solutions/L/longest-subarray-with-maximum-bitwise-and)
@@ -551,6 +552,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Number of dice rolls with target sum](Solutions/N/number-of-dice-rolls-with-target-sum)
 * [Out of boundary paths](Solutions/O/out-of-boundary-paths)
 * [Palindrome partitioning](Solutions/P/palindrome-partitioning)
+* [Partition string into minimum beautiful substrings](Solutions/P/partition-string-into-minimum-beautiful-substrings)
 * [Partition to k equal sum subsets](Solutions/P/partition-to-k-equal-sum-subsets)
 
 ### <a name="Dynamic_programming-Number_theory">Number theory</a>
@@ -905,6 +907,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Most frequent even element](Solutions/M/most-frequent-even-element)
 * [Most popular video creator](Solutions/M/most-popular-video-creator)
 * [Number of atoms](Solutions/N/number-of-atoms)
+* [Number of black blocks](Solutions/N/number-of-black-blocks)
 * [Number of distinct averages](Solutions/N/number-of-distinct-averages)
 * [Number of excellent pairs](Solutions/N/number-of-excellent-pairs)
 * [Number of nodes in the sub tree with the same label](Solutions/N/number-of-nodes-in-the-sub-tree-with-the-same-label)
@@ -922,6 +925,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Reconstruct original digits from english](Solutions/R/reconstruct-original-digits-from-english)
 * [Redistribute characters to make all strings equal](Solutions/R/redistribute-characters-to-make-all-strings-equal)
 * [Reduce array size to the half](Solutions/R/reduce-array-size-to-the-half)
+* [Relocate marbles](Solutions/R/relocate-marbles)
 * [Reward top k students](Solutions/R/reward-top-k-students)
 * [Sliding subarray beauty](Solutions/S/sliding-subarray-beauty)
 * [Smallest subarrays with maximum bitwise or](Solutions/S/smallest-subarrays-with-maximum-bitwise-or)
