@@ -28,6 +28,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest alternating subarray](Solutions/L/longest-alternating-subarray)
 * [Longest even odd subarray with threshold](Solutions/L/longest-even-odd-subarray-with-threshold)
 * [Longest mountain in array](Solutions/L/longest-mountain-in-array)
+* [Longest non decreasing subarray from two arrays](Solutions/L/longest-non-decreasing-subarray-from-two-arrays)
 * [Longest subarray with maximum bitwise and](Solutions/L/longest-subarray-with-maximum-bitwise-and)
 * [Longest substring of all vowels in order](Solutions/L/longest-substring-of-all-vowels-in-order)
 * [Longest turbulent subarray](Solutions/L/longest-turbulent-subarray)
@@ -411,6 +412,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest string chain](Solutions/L/longest-string-chain)
 * [Maximum alternating subsequence sum](Solutions/M/maximum-alternating-subsequence-sum)
 * [Maximum deletions on a string](Solutions/M/maximum-deletions-on-a-string)
+* [Maximum number of jumps to reach the last index](Solutions/M/maximum-number-of-jumps-to-reach-the-last-index)
 * [Maximum strictly increasing cells in a matrix](Solutions/M/maximum-strictly-increasing-cells-in-a-matrix)
 * [Min cost climbing stairs](Solutions/M/min-cost-climbing-stairs)
 * [Minimum cost for tickets](Solutions/M/minimum-cost-for-tickets)
@@ -768,6 +770,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## <a name="Greedy">Greedy</a>
 * [Advantage shuffle](Solutions/A/advantage-shuffle)
 * [Append characters to string to make subsequence](Solutions/A/append-characters-to-string-to-make-subsequence)
+* [Apply operations to make all array elements equal to zero](Solutions/A/apply-operations-to-make-all-array-elements-equal-to-zero)
 * [Bag of tokens](Solutions/B/bag-of-tokens)
 * [Best time to buy and sell stock ii](Solutions/B/best-time-to-buy-and-sell-stock-ii)
 * [Boats to save people](Solutions/B/boats-to-save-people)
@@ -1055,6 +1058,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Can make arithmetic progression from sequence](Solutions/C/can-make-arithmetic-progression-from-sequence)
 * [Construct the longest new string](Solutions/C/construct-the-longest-new-string)
 * [Distribute money to maximum children](Solutions/D/distribute-money-to-maximum-children)
+* [Find the maximum achievable number](Solutions/F/find-the-maximum-achievable-number)
 * [Fraction to recurring decimal](Solutions/F/fraction-to-recurring-decimal)
 * [Largest perimeter triangle](Solutions/L/largest-perimeter-triangle)
 * [Poor pigs](Solutions/P/poor-pigs)
@@ -1385,6 +1389,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Range sum query 2d immutable](Solutions/R/range-sum-query-2d-immutable)
 
 #### <a name="Prefix-Sum-For_range_updates">For range updates</a>
+* [Apply operations to make all array elements equal to zero](Solutions/A/apply-operations-to-make-all-array-elements-equal-to-zero)
 * [Increment submatrices by one](Solutions/I/increment-submatrices-by-one)
 * [Invalid transactions](Solutions/I/invalid-transactions)
 * [Maximize the minimum powered city](Solutions/M/maximize-the-minimum-powered-city)
