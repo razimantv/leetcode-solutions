@@ -81,6 +81,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count unique characters of all substrings of a given string](Solutions/C/count-unique-characters-of-all-substrings-of-a-given-string)
 * [Execution of all suffix instructions staying in a grid](Solutions/E/execution-of-all-suffix-instructions-staying-in-a-grid)
 * [Number of subarrays with bounded maximum](Solutions/N/number-of-subarrays-with-bounded-maximum)
+* [Substring with largest variance](Solutions/S/substring-with-largest-variance)
 * [Ways to split array into good subarrays](Solutions/W/ways-to-split-array-into-good-subarrays)
 
 ### <a name="Array_scanning-Modify_element_with_index">Modify element with index</a>
@@ -1372,6 +1373,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Range sum query immutable](Solutions/R/range-sum-query-immutable)
 * [Reducing dishes](Solutions/R/reducing-dishes)
 * [Subarray sums divisible by k](Solutions/S/subarray-sums-divisible-by-k)
+* [Substring with largest variance](Solutions/S/substring-with-largest-variance)
 
 #### <a name="Prefix-Sum-2D">2D</a>
 * [Construct quad tree](Solutions/C/construct-quad-tree)
