@@ -246,6 +246,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Remove invalid parentheses](Solutions/R/remove-invalid-parentheses)
 * [Shortest path to get all keys](Solutions/S/shortest-path-to-get-all-keys)
 * [Smallest subarrays with maximum bitwise or](Solutions/S/smallest-subarrays-with-maximum-bitwise-or)
+* [Smallest sufficient team](Solutions/S/smallest-sufficient-team)
 * [Special permutations](Solutions/S/special-permutations)
 * [String compression ii](Solutions/S/string-compression-ii)
 * [Utf 8 validation](Solutions/U/utf-8-validation)
@@ -579,6 +580,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find the shortest superstring](Solutions/F/find-the-shortest-superstring)
 * [Maximize score after n operations](Solutions/M/maximize-score-after-n-operations)
 * [Minimum xor sum of two arrays](Solutions/M/minimum-xor-sum-of-two-arrays)
+* [Smallest sufficient team](Solutions/S/smallest-sufficient-team)
 * [Special permutations](Solutions/S/special-permutations)
 
 ### <a name="Dynamic_programming-Topological_sort">Topological sort</a>
