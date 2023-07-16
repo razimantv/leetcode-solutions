@@ -56,6 +56,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum average difference](Solutions/M/minimum-average-difference)
 * [Minimum cost to make all characters equal](Solutions/M/minimum-cost-to-make-all-characters-equal)
 * [Minimum cost to make array equal](Solutions/M/minimum-cost-to-make-array-equal)
+* [Minimum index of a valid split](Solutions/M/minimum-index-of-a-valid-split)
 * [Minimum number of flips to make the binary string alternating](Solutions/M/minimum-number-of-flips-to-make-the-binary-string-alternating)
 * [Minimum remove to make valid parentheses](Solutions/M/minimum-remove-to-make-valid-parentheses)
 * [Partition array into disjoint intervals](Solutions/P/partition-array-into-disjoint-intervals)
@@ -977,6 +978,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## <a name="Intervals">Intervals</a>
 * [Insert interval](Solutions/I/insert-interval)
+* [Length of the longest valid substring](Solutions/L/length-of-the-longest-valid-substring)
 * [Maximum number of events that can be attended](Solutions/M/maximum-number-of-events-that-can-be-attended)
 
 ### <a name="Intervals-2D">2D</a>
@@ -1052,6 +1054,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## <a name="Majority_element">Majority element</a>
 * [Majority element ii](Solutions/M/majority-element-ii)
+* [Minimum index of a valid split](Solutions/M/minimum-index-of-a-valid-split)
 
 ## <a name="Mathematics">Mathematics</a>
 * [Maximum number of consecutive values you can make](Solutions/M/maximum-number-of-consecutive-values-you-can-make)
@@ -1411,6 +1414,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Ipo](Solutions/I/ipo)
 * [Jump game vi](Solutions/J/jump-game-vi)
 * [Last stone weight](Solutions/L/last-stone-weight)
+* [Length of the longest valid substring](Solutions/L/length-of-the-longest-valid-substring)
 * [Maximal score after applying k operations](Solutions/M/maximal-score-after-applying-k-operations)
 * [Maximum frequency stack](Solutions/M/maximum-frequency-stack)
 * [Maximum number of events that can be attended](Solutions/M/maximum-number-of-events-that-can-be-attended)
@@ -1625,6 +1629,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Shuffle the array](Solutions/S/shuffle-the-array)
 * [Smallest even multiple](Solutions/S/smallest-even-multiple)
 * [Sum of number and its reverse](Solutions/S/sum-of-number-and-its-reverse)
+* [Sum of squares of special elements](Solutions/S/sum-of-squares-of-special-elements)
 * [The employee that worked on the longest task](Solutions/T/the-employee-that-worked-on-the-longest-task)
 * [Toeplitz matrix](Solutions/T/toeplitz-matrix)
 * [Total distance traveled](Solutions/T/total-distance-traveled)
@@ -1653,6 +1658,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Max consecutive ones iii](Solutions/M/max-consecutive-ones-iii)
 * [Maximize the confusion of an exam](Solutions/M/maximize-the-confusion-of-an-exam)
 * [Maximize win from two segments](Solutions/M/maximize-win-from-two-segments)
+* [Maximum beauty of an array after applying operation](Solutions/M/maximum-beauty-of-an-array-after-applying-operation)
 * [Maximum erasure value](Solutions/M/maximum-erasure-value)
 * [Maximum number of vowels in a substring of given length](Solutions/M/maximum-number-of-vowels-in-a-substring-of-given-length)
 * [Maximum points you can obtain from cards](Solutions/M/maximum-points-you-can-obtain-from-cards)
@@ -1839,6 +1845,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 #### <a name="String-Search-Prefix_Suffix">Prefix/Suffix</a>
 * [Prefix and suffix search](Solutions/P/prefix-and-suffix-search)
 
+#### <a name="String-Search-Trie">Trie</a>
+* [Length of the longest valid substring](Solutions/L/length-of-the-longest-valid-substring)
+
 ### <a name="String-Subsequence">Subsequence</a>
 * [Append characters to string to make subsequence](Solutions/A/append-characters-to-string-to-make-subsequence)
 * [Is subsequence](Solutions/I/is-subsequence)
@@ -1979,6 +1988,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## <a name="Trie">Trie</a>
 * [Design add and search words data structure](Solutions/D/design-add-and-search-words-data-structure)
 * [Implement trie prefix tree](Solutions/I/implement-trie-prefix-tree)
+* [Length of the longest valid substring](Solutions/L/length-of-the-longest-valid-substring)
 * [Word search ii](Solutions/W/word-search-ii)
 
 ## <a name="Two_pointers">Two pointers</a>
