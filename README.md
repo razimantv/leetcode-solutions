@@ -515,6 +515,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Make array strictly increasing](Solutions/M/make-array-strictly-increasing)
 
 ### <a name="Dynamic_programming-Graph_like_state_transitions">Graph-like state transitions</a>
+* [Knight probability in chessboard](Solutions/K/knight-probability-in-chessboard)
 * [Maximum number of non overlapping palindrome substrings](Solutions/M/maximum-number-of-non-overlapping-palindrome-substrings)
 * [Minimum additions to make valid string](Solutions/M/minimum-additions-to-make-valid-string)
 * [Number of ways to paint n 3 grid](Solutions/N/number-of-ways-to-paint-n-3-grid)
@@ -1219,6 +1220,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Generate random point in a circle](Solutions/G/generate-random-point-in-a-circle)
 * [Implement rand10 using rand7](Solutions/I/implement-rand10-using-rand7)
 * [Insert delete getrandom o1](Solutions/I/insert-delete-getrandom-o1)
+* [Knight probability in chessboard](Solutions/K/knight-probability-in-chessboard)
 * [Linked list random node](Solutions/L/linked-list-random-node)
 * [New 21 game](Solutions/N/new-21-game)
 * [Probability of a two boxes having the same number of distinct balls](Solutions/P/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls)
