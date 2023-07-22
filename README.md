@@ -102,6 +102,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Solving questions with brainpower](Solutions/S/solving-questions-with-brainpower)
 * [The number of weak characters in the game](Solutions/T/the-number-of-weak-characters-in-the-game)
 * [Using a robot to print the lexicographically smallest string](Solutions/U/using-a-robot-to-print-the-lexicographically-smallest-string)
+* [Visit array positions to maximize score](Solutions/V/visit-array-positions-to-maximize-score)
 
 ## <a name="Averaging_from_total_and_count">Averaging from total and count</a>
 * [Average of levels in binary tree](Solutions/A/average-of-levels-in-binary-tree)
@@ -444,6 +445,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Solving questions with brainpower](Solutions/S/solving-questions-with-brainpower)
 * [Stone game iii](Solutions/S/stone-game-iii)
 * [The number of beautiful subsets](Solutions/T/the-number-of-beautiful-subsets)
+* [Ways to express an integer as sum of powers](Solutions/W/ways-to-express-an-integer-as-sum-of-powers)
 
 ### <a name="Dynamic_programming-Array_reuse">Array reuse</a>
 * [Champagne tower](Solutions/C/champagne-tower)
@@ -483,6 +485,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Prison cells after n days](Solutions/P/prison-cells-after-n-days)
 * [String compression ii](Solutions/S/string-compression-ii)
 * [Tallest billboard](Solutions/T/tallest-billboard)
+* [Visit array positions to maximize score](Solutions/V/visit-array-positions-to-maximize-score)
 
 ### <a name="Dynamic_programming-Auxiliary_array">Auxiliary array</a>
 * [Best time to buy and sell stock iv](Solutions/B/best-time-to-buy-and-sell-stock-iv)
@@ -1630,6 +1633,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Shortest distance to target string in a circular array](Solutions/S/shortest-distance-to-target-string-in-a-circular-array)
 * [Shuffle the array](Solutions/S/shuffle-the-array)
 * [Smallest even multiple](Solutions/S/smallest-even-multiple)
+* [Sort vowels in a string](Solutions/S/sort-vowels-in-a-string)
 * [Sum of number and its reverse](Solutions/S/sum-of-number-and-its-reverse)
 * [Sum of squares of special elements](Solutions/S/sum-of-squares-of-special-elements)
 * [The employee that worked on the longest task](Solutions/T/the-employee-that-worked-on-the-longest-task)
@@ -1681,6 +1685,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## <a name="Sorting">Sorting</a>
 * [Can make arithmetic progression from sequence](Solutions/C/can-make-arithmetic-progression-from-sequence)
+* [Check if array is good](Solutions/C/check-if-array-is-good)
 * [Check if the number is fascinating](Solutions/C/check-if-the-number-is-fascinating)
 * [Count the number of fair pairs](Solutions/C/count-the-number-of-fair-pairs)
 * [Delete greatest value in each row](Solutions/D/delete-greatest-value-in-each-row)
