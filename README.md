@@ -112,6 +112,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## <a name="Backtracking">Backtracking</a>
 * [All paths from source to target](Solutions/A/all-paths-from-source-to-target)
+* [All possible full binary trees](Solutions/A/all-possible-full-binary-trees)
 * [Beautiful arrangement](Solutions/B/beautiful-arrangement)
 * [Combination sum](Solutions/C/combination-sum)
 * [Combination sum iii](Solutions/C/combination-sum-iii)
@@ -293,6 +294,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Make number of distinct characters equal](Solutions/M/make-number-of-distinct-characters-equal)
 
 ## <a name="ChatGPT">ChatGPT</a>
+* [All possible full binary trees](Solutions/A/all-possible-full-binary-trees)
 * [Can make arithmetic progression from sequence](Solutions/C/can-make-arithmetic-progression-from-sequence)
 * [Design parking system](Solutions/D/design-parking-system)
 * [Longest arithmetic subsequence](Solutions/L/longest-arithmetic-subsequence)
@@ -1910,6 +1912,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 #### <a name="Tree-Binary_tree-Recursion">Recursion</a>
 * [Add one row to tree](Solutions/A/add-one-row-to-tree)
 * [All nodes distance k in binary tree](Solutions/A/all-nodes-distance-k-in-binary-tree)
+* [All possible full binary trees](Solutions/A/all-possible-full-binary-trees)
 * [Average of levels in binary tree](Solutions/A/average-of-levels-in-binary-tree)
 * [Balanced binary tree](Solutions/B/balanced-binary-tree)
 * [Binary tree cameras](Solutions/B/binary-tree-cameras)
