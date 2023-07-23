@@ -94,6 +94,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find the original array of prefix xor](Solutions/F/find-the-original-array-of-prefix-xor)
 * [Jump game ii](Solutions/J/jump-game-ii)
 * [Jump game vi](Solutions/J/jump-game-vi)
+* [Largest element in an array after merge operations](Solutions/L/largest-element-in-an-array-after-merge-operations)
 * [Largest odd number in string](Solutions/L/largest-odd-number-in-string)
 * [Longest binary subsequence less than or equal to k](Solutions/L/longest-binary-subsequence-less-than-or-equal-to-k)
 * [Minimum replacements to sort the array](Solutions/M/minimum-replacements-to-sort-the-array)
@@ -261,6 +262,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Bitwise_operation-Self_inverse_property_of_xor">Self-inverse property of xor</a>
 * [Bitwise xor of all pairings](Solutions/B/bitwise-xor-of-all-pairings)
+* [Count paths that can form a palindrome in a tree](Solutions/C/count-paths-that-can-form-a-palindrome-in-a-tree)
 * [Count the number of beautiful subarrays](Solutions/C/count-the-number-of-beautiful-subarrays)
 * [Find the original array of prefix xor](Solutions/F/find-the-original-array-of-prefix-xor)
 * [Neighboring bitwise xor](Solutions/N/neighboring-bitwise-xor)
@@ -673,6 +675,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Graph_theory-Depth_first_search">Depth first search</a>
 * [Amount of time for binary tree to be infected](Solutions/A/amount-of-time-for-binary-tree-to-be-infected)
 * [Count number of possible root nodes](Solutions/C/count-number-of-possible-root-nodes)
+* [Count paths that can form a palindrome in a tree](Solutions/C/count-paths-that-can-form-a-palindrome-in-a-tree)
 * [Create components with same value](Solutions/C/create-components-with-same-value)
 * [Critical connections in a network](Solutions/C/critical-connections-in-a-network)
 * [Delete nodes and return forest](Solutions/D/delete-nodes-and-return-forest)
@@ -810,6 +813,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum matching of players with trainer](Solutions/M/maximum-matching-of-players-with-trainer)
 * [Maximum number of consecutive values you can make](Solutions/M/maximum-number-of-consecutive-values-you-can-make)
 * [Maximum number of groups entering a competition](Solutions/M/maximum-number-of-groups-entering-a-competition)
+* [Maximum number of groups with increasing length](Solutions/M/maximum-number-of-groups-with-increasing-length)
 * [Maximum number of integers to choose from a range i](Solutions/M/maximum-number-of-integers-to-choose-from-a-range-i)
 * [Maximum performance of a team](Solutions/M/maximum-performance-of-a-team)
 * [Maximum tastiness of candy basket](Solutions/M/maximum-tastiness-of-candy-basket)
@@ -1111,6 +1115,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Domino and tromino tiling](Solutions/D/domino-and-tromino-tiling)
 * [Find xor beauty of array](Solutions/F/find-xor-beauty-of-array)
 * [Iterator for combination](Solutions/I/iterator-for-combination)
+* [Maximum number of groups with increasing length](Solutions/M/maximum-number-of-groups-with-increasing-length)
 * [Minimum number of operations to make string sorted](Solutions/M/minimum-number-of-operations-to-make-string-sorted)
 * [Naming a company](Solutions/N/naming-a-company)
 * [Number of good paths](Solutions/N/number-of-good-paths)
@@ -1285,6 +1290,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## <a name="Palindrome">Palindrome</a>
 * [Break a palindrome](Solutions/B/break-a-palindrome)
 * [Count palindromic subsequences](Solutions/C/count-palindromic-subsequences)
+* [Count paths that can form a palindrome in a tree](Solutions/C/count-paths-that-can-form-a-palindrome-in-a-tree)
 * [Largest palindromic number](Solutions/L/largest-palindromic-number)
 * [Lexicographically smallest beautiful string](Solutions/L/lexicographically-smallest-beautiful-string)
 * [Lexicographically smallest palindrome](Solutions/L/lexicographically-smallest-palindrome)
@@ -1835,6 +1841,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Reverse words in a string iii](Solutions/R/reverse-words-in-a-string-iii)
 * [Reward top k students](Solutions/R/reward-top-k-students)
 * [Split message based on limit](Solutions/S/split-message-based-on-limit)
+* [Split strings by separator](Solutions/S/split-strings-by-separator)
 * [Utf 8 validation](Solutions/U/utf-8-validation)
 
 #### <a name="String-Parsing-Recursive">Recursive</a>
