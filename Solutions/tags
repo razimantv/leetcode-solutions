@@ -181,6 +181,7 @@ String>Parsing
 String>Parsing>Recursive
 String>Search>Hashing
 String>Search>Prefix/Suffix
+String>Search>Trie
 String>Subsequence
 String>Suffix array
 String>Validation

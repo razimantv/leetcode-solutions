@@ -176,6 +176,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum time to repair cars](Solutions/M/minimum-time-to-repair-cars)
 * [Nth magical number](Solutions/N/nth-magical-number)
 * [Partition array such that maximum difference is k](Solutions/P/partition-array-such-that-maximum-difference-is-k)
+* [Peak index in a mountain array](Solutions/P/peak-index-in-a-mountain-array)
 * [Prime subtraction operation](Solutions/P/prime-subtraction-operation)
 * [Split array largest sum](Solutions/S/split-array-largest-sum)
 
@@ -305,6 +306,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum flips to make a or b equal to c](Solutions/M/minimum-flips-to-make-a-or-b-equal-to-c)
 * [Minimum size subarray sum](Solutions/M/minimum-size-subarray-sum)
 * [Number of provinces](Solutions/N/number-of-provinces)
+* [Peak index in a mountain array](Solutions/P/peak-index-in-a-mountain-array)
 * [Stone game iii](Solutions/S/stone-game-iii)
 * [Time needed to inform all employees](Solutions/T/time-needed-to-inform-all-employees)
 
