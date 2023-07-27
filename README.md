@@ -164,6 +164,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum distance between a pair of values](Solutions/M/maximum-distance-between-a-pair-of-values)
 * [Maximum number of removable characters](Solutions/M/maximum-number-of-removable-characters)
 * [Maximum number of robots within budget](Solutions/M/maximum-number-of-robots-within-budget)
+* [Maximum running time of n computers](Solutions/M/maximum-running-time-of-n-computers)
 * [Maximum tastiness of candy basket](Solutions/M/maximum-tastiness-of-candy-basket)
 * [Maximum value at a given index in a bounded array](Solutions/M/maximum-value-at-a-given-index-in-a-bounded-array)
 * [Maximum xor of two numbers in an array](Solutions/M/maximum-xor-of-two-numbers-in-an-array)
