@@ -308,6 +308,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum size subarray sum](Solutions/M/minimum-size-subarray-sum)
 * [Number of provinces](Solutions/N/number-of-provinces)
 * [Peak index in a mountain array](Solutions/P/peak-index-in-a-mountain-array)
+* [Predict the winner](Solutions/P/predict-the-winner)
 * [Stone game iii](Solutions/S/stone-game-iii)
 * [Time needed to inform all employees](Solutions/T/time-needed-to-inform-all-employees)
 
@@ -572,6 +573,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Palindrome partitioning](Solutions/P/palindrome-partitioning)
 * [Partition string into minimum beautiful substrings](Solutions/P/partition-string-into-minimum-beautiful-substrings)
 * [Partition to k equal sum subsets](Solutions/P/partition-to-k-equal-sum-subsets)
+* [Predict the winner](Solutions/P/predict-the-winner)
 
 ### <a name="Dynamic_programming-Number_theory">Number theory</a>
 * [Count the number of ideal arrays](Solutions/C/count-the-number-of-ideal-arrays)
@@ -2010,6 +2012,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Implement trie prefix tree](Solutions/I/implement-trie-prefix-tree)
 * [Length of the longest valid substring](Solutions/L/length-of-the-longest-valid-substring)
 * [Word search ii](Solutions/W/word-search-ii)
+
+## <a name="Two_player_games">Two player games</a>
+* [Predict the winner](Solutions/P/predict-the-winner)
 
 ## <a name="Two_pointers">Two pointers</a>
 * [Find k closest elements](Solutions/F/find-k-closest-elements)
