@@ -451,6 +451,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Restore ip addresses](Solutions/R/restore-ip-addresses)
 * [Restore the array](Solutions/R/restore-the-array)
 * [Solving questions with brainpower](Solutions/S/solving-questions-with-brainpower)
+* [Soup servings](Solutions/S/soup-servings)
 * [Stone game iii](Solutions/S/stone-game-iii)
 * [The number of beautiful subsets](Solutions/T/the-number-of-beautiful-subsets)
 * [Ways to express an integer as sum of powers](Solutions/W/ways-to-express-an-integer-as-sum-of-powers)
@@ -1241,9 +1242,11 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Probability of a two boxes having the same number of distinct balls](Solutions/P/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls)
 * [Random pick with weight](Solutions/R/random-pick-with-weight)
 * [Random point in non overlapping rectangles](Solutions/R/random-point-in-non-overlapping-rectangles)
+* [Soup servings](Solutions/S/soup-servings)
 
 ### <a name="Mathematics-Reduce_problem_dimension_with_proofs">Reduce problem dimension with proofs</a>
 * [Find a good subset of the matrix](Solutions/F/find-a-good-subset-of-the-matrix)
+* [Soup servings](Solutions/S/soup-servings)
 
 ## <a name="Matrix">Matrix</a>
 * [Difference between ones and zeros in row and column](Solutions/D/difference-between-ones-and-zeros-in-row-and-column)
