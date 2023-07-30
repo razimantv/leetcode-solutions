@@ -287,6 +287,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Non decreasing subsequences](Solutions/N/non-decreasing-subsequences)
 * [Probability of a two boxes having the same number of distinct balls](Solutions/P/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls)
 * [Remove invalid parentheses](Solutions/R/remove-invalid-parentheses)
+* [Shortest string that contains three strings](Solutions/S/shortest-string-that-contains-three-strings)
 
 ### <a name="Brute_force_enumeration-Elementwise_processing_using_a_vector">Elementwise processing using a vector</a>
 * [Letter case permutation](Solutions/L/letter-case-permutation)
@@ -521,6 +522,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Dynamic_programming-Digits">Digits</a>
 * [Count of integers](Solutions/C/count-of-integers)
 * [Count special integers](Solutions/C/count-special-integers)
+* [Count stepping numbers in range](Solutions/C/count-stepping-numbers-in-range)
 * [Non negative integers without consecutive ones](Solutions/N/non-negative-integers-without-consecutive-ones)
 * [Number of digit one](Solutions/N/number-of-digit-one)
 * [Numbers at most n given digit set](Solutions/N/numbers-at-most-n-given-digit-set)
@@ -875,6 +877,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Continuous subarray sum](Solutions/C/continuous-subarray-sum)
 * [Convert an array into a 2d array with conditions](Solutions/C/convert-an-array-into-a-2d-array-with-conditions)
 * [Count anagrams](Solutions/C/count-anagrams)
+* [Count complete subarrays in an array](Solutions/C/count-complete-subarrays-in-an-array)
 * [Count number of bad pairs](Solutions/C/count-number-of-bad-pairs)
 * [Count number of distinct integers after reverse operations](Solutions/C/count-number-of-distinct-integers-after-reverse-operations)
 * [Count pairs of similar strings](Solutions/C/count-pairs-of-similar-strings)
@@ -1628,6 +1631,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Non decreasing array](Solutions/N/non-decreasing-array)
 * [Number of arithmetic triplets](Solutions/N/number-of-arithmetic-triplets)
 * [Number of beautiful pairs](Solutions/N/number-of-beautiful-pairs)
+* [Number of employees who met the target](Solutions/N/number-of-employees-who-met-the-target)
 * [Number of senior citizens](Solutions/N/number-of-senior-citizens)
 * [Number of steps to reduce a number to zero](Solutions/N/number-of-steps-to-reduce-a-number-to-zero)
 * [Number of unequal triplets in array](Solutions/N/number-of-unequal-triplets-in-array)
@@ -1870,6 +1874,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 #### <a name="String-Search-Prefix_Suffix">Prefix/Suffix</a>
 * [Prefix and suffix search](Solutions/P/prefix-and-suffix-search)
+* [Shortest string that contains three strings](Solutions/S/shortest-string-that-contains-three-strings)
 
 #### <a name="String-Search-Trie">Trie</a>
 * [Length of the longest valid substring](Solutions/L/length-of-the-longest-valid-substring)
