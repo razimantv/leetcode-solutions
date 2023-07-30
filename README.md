@@ -310,6 +310,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Peak index in a mountain array](Solutions/P/peak-index-in-a-mountain-array)
 * [Predict the winner](Solutions/P/predict-the-winner)
 * [Stone game iii](Solutions/S/stone-game-iii)
+* [Strange printer](Solutions/S/strange-printer)
 * [Time needed to inform all employees](Solutions/T/time-needed-to-inform-all-employees)
 
 ## <a name="Concurrency">Concurrency</a>
@@ -453,6 +454,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Solving questions with brainpower](Solutions/S/solving-questions-with-brainpower)
 * [Soup servings](Solutions/S/soup-servings)
 * [Stone game iii](Solutions/S/stone-game-iii)
+* [Strange printer](Solutions/S/strange-printer)
 * [The number of beautiful subsets](Solutions/T/the-number-of-beautiful-subsets)
 * [Ways to express an integer as sum of powers](Solutions/W/ways-to-express-an-integer-as-sum-of-powers)
 
