@@ -127,6 +127,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Partition to k equal sum subsets](Solutions/P/partition-to-k-equal-sum-subsets)
 
 ### <a name="Backtracking-Push_and_pop_for_efficient_state_update">Push and pop for efficient state update</a>
+* [Combinations](Solutions/C/combinations)
 * [Path sum ii](Solutions/P/path-sum-ii)
 * [Path sum iii](Solutions/P/path-sum-iii)
 * [Reconstruct itinerary](Solutions/R/reconstruct-itinerary)
@@ -301,6 +302,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## <a name="ChatGPT">ChatGPT</a>
 * [All possible full binary trees](Solutions/A/all-possible-full-binary-trees)
 * [Can make arithmetic progression from sequence](Solutions/C/can-make-arithmetic-progression-from-sequence)
+* [Combinations](Solutions/C/combinations)
 * [Design parking system](Solutions/D/design-parking-system)
 * [Longest arithmetic subsequence](Solutions/L/longest-arithmetic-subsequence)
 * [Longest arithmetic subsequence of given difference](Solutions/L/longest-arithmetic-subsequence-of-given-difference)
