@@ -286,6 +286,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [N queens](Solutions/N/n-queens)
 * [N queens ii](Solutions/N/n-queens-ii)
 * [Non decreasing subsequences](Solutions/N/non-decreasing-subsequences)
+* [Permutations](Solutions/P/permutations)
 * [Probability of a two boxes having the same number of distinct balls](Solutions/P/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls)
 * [Remove invalid parentheses](Solutions/R/remove-invalid-parentheses)
 * [Shortest string that contains three strings](Solutions/S/shortest-string-that-contains-three-strings)
