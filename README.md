@@ -488,6 +488,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum path cost in a grid](Solutions/M/minimum-path-cost-in-a-grid)
 * [Minimum path sum](Solutions/M/minimum-path-sum)
 * [Minimum skips to arrive at meeting on time](Solutions/M/minimum-skips-to-arrive-at-meeting-on-time)
+* [Minimum time to make array sum at most x](Solutions/M/minimum-time-to-make-array-sum-at-most-x)
 * [Minimum total distance traveled](Solutions/M/minimum-total-distance-traveled)
 * [N th tribonacci number](Solutions/N/n-th-tribonacci-number)
 * [Number of great partitions](Solutions/N/number-of-great-partitions)
@@ -850,6 +851,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum score by changing two elements](Solutions/M/minimum-score-by-changing-two-elements)
 * [Minimum sum of squared difference](Solutions/M/minimum-sum-of-squared-difference)
 * [Minimum time to complete all tasks](Solutions/M/minimum-time-to-complete-all-tasks)
+* [Minimum time to make array sum at most x](Solutions/M/minimum-time-to-make-array-sum-at-most-x)
 * [Minimum total cost to make arrays unequal](Solutions/M/minimum-total-cost-to-make-arrays-unequal)
 * [Minimum total distance traveled](Solutions/M/minimum-total-distance-traveled)
 * [Non overlapping intervals](Solutions/N/non-overlapping-intervals)
@@ -985,6 +987,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Hashmap-Group_items">Group items</a>
 * [Jump game iv](Solutions/J/jump-game-iv)
+* [Minimum seconds to equalize a circular array](Solutions/M/minimum-seconds-to-equalize-a-circular-array)
 * [Number of good paths](Solutions/N/number-of-good-paths)
 * [Remove letter to equalize frequency](Solutions/R/remove-letter-to-equalize-frequency)
 
@@ -1052,6 +1055,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Delete node in a linked list](Solutions/D/delete-node-in-a-linked-list)
 * [Flatten a multilevel doubly linked list](Solutions/F/flatten-a-multilevel-doubly-linked-list)
 * [Flatten binary tree to linked list](Solutions/F/flatten-binary-tree-to-linked-list)
+* [Insert greatest common divisors in linked list](Solutions/I/insert-greatest-common-divisors-in-linked-list)
 * [Insertion sort list](Solutions/I/insertion-sort-list)
 * [Intersection of two linked lists](Solutions/I/intersection-of-two-linked-lists)
 * [Linked list random node](Solutions/L/linked-list-random-node)
@@ -1546,6 +1550,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Handling sum queries after update](Solutions/H/handling-sum-queries-after-update)
 
 ## <a name="Simple_implementation">Simple implementation</a>
+* [Account balance after rounded purchase](Solutions/A/account-balance-after-rounded-purchase)
 * [Add to array form of integer](Solutions/A/add-to-array-form-of-integer)
 * [Alternating digit sum](Solutions/A/alternating-digit-sum)
 * [Apply operations to an array](Solutions/A/apply-operations-to-an-array)
@@ -1773,6 +1778,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Make array empty](Solutions/M/make-array-empty)
 * [Maximum subsequence score](Solutions/M/maximum-subsequence-score)
 * [Maximum sum queries](Solutions/M/maximum-sum-queries)
+* [Minimum time to make array sum at most x](Solutions/M/minimum-time-to-make-array-sum-at-most-x)
 * [Robot collisions](Solutions/R/robot-collisions)
 
 ### <a name="Sorting-Merge_sort">Merge sort</a>
