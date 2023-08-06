@@ -318,6 +318,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Strange printer](Solutions/S/strange-printer)
 * [Time needed to inform all employees](Solutions/T/time-needed-to-inform-all-employees)
 
+### <a name="ChatGPT-Fixed">Fixed</a>
+* [Number of music playlists](Solutions/N/number-of-music-playlists)
+
 ## <a name="Concurrency">Concurrency</a>
 * [Building h2o](Solutions/B/building-h2o)
 * [Fizz buzz multithreaded](Solutions/F/fizz-buzz-multithreaded)
@@ -445,6 +448,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum time to remove all cars containing illegal goods](Solutions/M/minimum-time-to-remove-all-cars-containing-illegal-goods)
 * [New 21 game](Solutions/N/new-21-game)
 * [Number of distinct roll sequences](Solutions/N/number-of-distinct-roll-sequences)
+* [Number of music playlists](Solutions/N/number-of-music-playlists)
 * [Number of ways to rearrange sticks with k sticks visible](Solutions/N/number-of-ways-to-rearrange-sticks-with-k-sticks-visible)
 * [Number of ways to reorder array to get same bst](Solutions/N/number-of-ways-to-reorder-array-to-get-same-bst)
 * [Paint house iii](Solutions/P/paint-house-iii)
@@ -1139,6 +1143,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum number of operations to make string sorted](Solutions/M/minimum-number-of-operations-to-make-string-sorted)
 * [Naming a company](Solutions/N/naming-a-company)
 * [Number of good paths](Solutions/N/number-of-good-paths)
+* [Number of music playlists](Solutions/N/number-of-music-playlists)
 * [Number of subsequences that satisfy the given sum condition](Solutions/N/number-of-subsequences-that-satisfy-the-given-sum-condition)
 * [Number of ways to reach a position after exactly k steps](Solutions/N/number-of-ways-to-reach-a-position-after-exactly-k-steps)
 * [Number of ways to rearrange sticks with k sticks visible](Solutions/N/number-of-ways-to-rearrange-sticks-with-k-sticks-visible)
