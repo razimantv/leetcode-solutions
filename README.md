@@ -387,6 +387,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## <a name="Disjoint_set_union">Disjoint set union</a>
 * [Accounts merge](Solutions/A/accounts-merge)
 * [Checking existence of edge length limited paths](Solutions/C/checking-existence-of-edge-length-limited-paths)
+* [Find the safest path in a grid](Solutions/F/find-the-safest-path-in-a-grid)
 * [Greatest common divisor traversal](Solutions/G/greatest-common-divisor-traversal)
 * [Largest component size by common factor](Solutions/L/largest-component-size-by-common-factor)
 * [Last day where you can still cross](Solutions/L/last-day-where-you-can-still-cross)
@@ -410,6 +411,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Binary trees with factors](Solutions/B/binary-trees-with-factors)
 * [Burst balloons](Solutions/B/burst-balloons)
 * [Cheapest flights within k stops](Solutions/C/cheapest-flights-within-k-stops)
+* [Check if it is possible to split array](Solutions/C/check-if-it-is-possible-to-split-array)
 * [Check if there is a valid partition for the array](Solutions/C/check-if-there-is-a-valid-partition-for-the-array)
 * [Climbing stairs](Solutions/C/climbing-stairs)
 * [Concatenated words](Solutions/C/concatenated-words)
@@ -665,6 +667,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Bus routes](Solutions/B/bus-routes)
 * [Detonate the maximum bombs](Solutions/D/detonate-the-maximum-bombs)
 * [Divide nodes into the maximum number of groups](Solutions/D/divide-nodes-into-the-maximum-number-of-groups)
+* [Find the safest path in a grid](Solutions/F/find-the-safest-path-in-a-grid)
 * [Jump game iv](Solutions/J/jump-game-iv)
 * [Maximum level sum of a binary tree](Solutions/M/maximum-level-sum-of-a-binary-tree)
 * [Minimum genetic mutation](Solutions/M/minimum-genetic-mutation)
@@ -776,6 +779,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Graph_theory-Multi_source_search">Multi source search</a>
 * [As far from land as possible](Solutions/A/as-far-from-land-as-possible)
+* [Find the safest path in a grid](Solutions/F/find-the-safest-path-in-a-grid)
 * [Shortest bridge](Solutions/S/shortest-bridge)
 * [Shortest path with alternating colors](Solutions/S/shortest-path-with-alternating-colors)
 
@@ -1490,6 +1494,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Get biggest three rhombus sums in a grid](Solutions/G/get-biggest-three-rhombus-sums-in-a-grid)
 * [Kth largest element in a stream](Solutions/K/kth-largest-element-in-a-stream)
 * [Lfu cache](Solutions/L/lfu-cache)
+* [Maximum elegance of a k length subsequence](Solutions/M/maximum-elegance-of-a-k-length-subsequence)
 * [Maximum performance of a team](Solutions/M/maximum-performance-of-a-team)
 * [Maximum subsequence score](Solutions/M/maximum-subsequence-score)
 
@@ -1594,6 +1599,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Distribute candies to people](Solutions/D/distribute-candies-to-people)
 * [Duplicate zeros](Solutions/D/duplicate-zeros)
 * [Excel sheet column number](Solutions/E/excel-sheet-column-number)
+* [Faulty keyboard](Solutions/F/faulty-keyboard)
 * [Find nearest point that has the same x or y coordinate](Solutions/F/find-nearest-point-that-has-the-same-x-or-y-coordinate)
 * [Find numbers with even number of digits](Solutions/F/find-numbers-with-even-number-of-digits)
 * [Find subarrays with equal sum](Solutions/F/find-subarrays-with-equal-sum)
@@ -1781,6 +1787,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find score of an array after marking all elements](Solutions/F/find-score-of-an-array-after-marking-all-elements)
 * [Ipo](Solutions/I/ipo)
 * [Make array empty](Solutions/M/make-array-empty)
+* [Maximum elegance of a k length subsequence](Solutions/M/maximum-elegance-of-a-k-length-subsequence)
 * [Maximum subsequence score](Solutions/M/maximum-subsequence-score)
 * [Maximum sum queries](Solutions/M/maximum-sum-queries)
 * [Minimum time to make array sum at most x](Solutions/M/minimum-time-to-make-array-sum-at-most-x)
