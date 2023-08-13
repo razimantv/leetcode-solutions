@@ -189,6 +189,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count of range sum](Solutions/C/count-of-range-sum)
 * [Maximum number of points from grid queries](Solutions/M/maximum-number-of-points-from-grid-queries)
 * [Maximum sum queries](Solutions/M/maximum-sum-queries)
+* [Minimum absolute difference between elements with constraint](Solutions/M/minimum-absolute-difference-between-elements-with-constraint)
 * [Minimum absolute sum difference](Solutions/M/minimum-absolute-sum-difference)
 * [Minimum reverse operations](Solutions/M/minimum-reverse-operations)
 * [My calendar i](Solutions/M/my-calendar-i)
@@ -810,6 +811,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Advantage shuffle](Solutions/A/advantage-shuffle)
 * [Append characters to string to make subsequence](Solutions/A/append-characters-to-string-to-make-subsequence)
 * [Apply operations to make all array elements equal to zero](Solutions/A/apply-operations-to-make-all-array-elements-equal-to-zero)
+* [Apply operations to maximize score](Solutions/A/apply-operations-to-maximize-score)
 * [Bag of tokens](Solutions/B/bag-of-tokens)
 * [Best time to buy and sell stock ii](Solutions/B/best-time-to-buy-and-sell-stock-ii)
 * [Boats to save people](Solutions/B/boats-to-save-people)
@@ -995,6 +997,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Hashmap-Group_items">Group items</a>
 * [Jump game iv](Solutions/J/jump-game-iv)
+* [Max pair sum in an array](Solutions/M/max-pair-sum-in-an-array)
 * [Minimum seconds to equalize a circular array](Solutions/M/minimum-seconds-to-equalize-a-circular-array)
 * [Number of good paths](Solutions/N/number-of-good-paths)
 * [Remove letter to equalize frequency](Solutions/R/remove-letter-to-equalize-frequency)
@@ -1083,6 +1086,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Remove nth node from end of list](Solutions/R/remove-nth-node-from-end-of-list)
 
 ### <a name="Linked_list-Recursion">Recursion</a>
+* [Double a number represented as a linked list](Solutions/D/double-a-number-represented-as-a-linked-list)
 * [Flatten a multilevel doubly linked list](Solutions/F/flatten-a-multilevel-doubly-linked-list)
 * [Maximum twin sum of a linked list](Solutions/M/maximum-twin-sum-of-a-linked-list)
 * [Palindrome linked list](Solutions/P/palindrome-linked-list)
@@ -1229,6 +1233,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Smallest value after replacing with sum of prime factors](Solutions/S/smallest-value-after-replacing-with-sum-of-prime-factors)
 
 #### <a name="Mathematics-Number_theory-Modular_exponentiation_inverse">Modular exponentiation/inverse</a>
+* [Apply operations to maximize score](Solutions/A/apply-operations-to-maximize-score)
 * [Count anagrams](Solutions/C/count-anagrams)
 * [Count collisions of monkeys on a polygon](Solutions/C/count-collisions-of-monkeys-on-a-polygon)
 * [Count good numbers](Solutions/C/count-good-numbers)
@@ -1238,6 +1243,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Number of subsequences that satisfy the given sum condition](Solutions/N/number-of-subsequences-that-satisfy-the-given-sum-condition)
 
 #### <a name="Mathematics-Number_theory-Prime_sieving">Prime sieving</a>
+* [Apply operations to maximize score](Solutions/A/apply-operations-to-maximize-score)
 * [Closest prime numbers in range](Solutions/C/closest-prime-numbers-in-range)
 * [Count primes](Solutions/C/count-primes)
 * [Count the number of ideal arrays](Solutions/C/count-the-number-of-ideal-arrays)
@@ -1781,6 +1787,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Sort an array](Solutions/S/sort-an-array)
 
 ### <a name="Sorting-Index_array">Index array</a>
+* [Apply operations to maximize score](Solutions/A/apply-operations-to-maximize-score)
 * [Best team with no conflicts](Solutions/B/best-team-with-no-conflicts)
 * [Checking existence of edge length limited paths](Solutions/C/checking-existence-of-edge-length-limited-paths)
 * [Count zero request servers](Solutions/C/count-zero-request-servers)
@@ -1839,6 +1846,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Using a robot to print the lexicographically smallest string](Solutions/U/using-a-robot-to-print-the-lexicographically-smallest-string)
 
 ### <a name="Stack-Monotonic_stack">Monotonic stack</a>
+* [Apply operations to maximize score](Solutions/A/apply-operations-to-maximize-score)
 * [Daily temperatures](Solutions/D/daily-temperatures)
 * [Largest rectangle in histogram](Solutions/L/largest-rectangle-in-histogram)
 * [Maximum score of a good subarray](Solutions/M/maximum-score-of-a-good-subarray)
