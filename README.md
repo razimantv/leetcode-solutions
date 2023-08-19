@@ -388,6 +388,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## <a name="Disjoint_set_union">Disjoint set union</a>
 * [Accounts merge](Solutions/A/accounts-merge)
 * [Checking existence of edge length limited paths](Solutions/C/checking-existence-of-edge-length-limited-paths)
+* [Find critical and pseudo critical edges in minimum spanning tree](Solutions/F/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree)
 * [Find the safest path in a grid](Solutions/F/find-the-safest-path-in-a-grid)
 * [Greatest common divisor traversal](Solutions/G/greatest-common-divisor-traversal)
 * [Largest component size by common factor](Solutions/L/largest-component-size-by-common-factor)
@@ -777,6 +778,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum strictly increasing cells in a matrix](Solutions/M/maximum-strictly-increasing-cells-in-a-matrix)
 
 ### <a name="Graph_theory-Minimum_spanning_tree">Minimum spanning tree</a>
+* [Find critical and pseudo critical edges in minimum spanning tree](Solutions/F/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree)
 * [Min cost to connect all points](Solutions/M/min-cost-to-connect-all-points)
 
 ### <a name="Graph_theory-Multi_source_search">Multi source search</a>
