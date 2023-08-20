@@ -557,6 +557,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Paths in matrix whose sum is divisible by k](Solutions/P/paths-in-matrix-whose-sum-is-divisible-by-k)
 
 ### <a name="Dynamic_programming-Intervals">Intervals</a>
+* [Maximize the profit as the salesman](Solutions/M/maximize-the-profit-as-the-salesman)
 * [Maximum number of events that can be attended ii](Solutions/M/maximum-number-of-events-that-can-be-attended-ii)
 * [Maximum profit in job scheduling](Solutions/M/maximum-profit-in-job-scheduling)
 
@@ -822,6 +823,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Boats to save people](Solutions/B/boats-to-save-people)
 * [Candy](Solutions/C/candy)
 * [Course schedule iii](Solutions/C/course-schedule-iii)
+* [Determine the minimum sum of a k avoiding array](Solutions/D/determine-the-minimum-sum-of-a-k-avoiding-array)
 * [Dota2 senate](Solutions/D/dota2-senate)
 * [Earliest possible day of full bloom](Solutions/E/earliest-possible-day-of-full-bloom)
 * [Eliminate maximum number of monsters](Solutions/E/eliminate-maximum-number-of-monsters)
@@ -996,12 +998,14 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Hashmap-Forward_and_backward">Forward and backward</a>
 * [Find and replace pattern](Solutions/F/find-and-replace-pattern)
+* [Find the longest equal subarray](Solutions/F/find-the-longest-equal-subarray)
 * [First unique number](Solutions/F/first-unique-number)
 * [Frequency tracker](Solutions/F/frequency-tracker)
 * [Insert delete getrandom o1](Solutions/I/insert-delete-getrandom-o1)
 * [Isomorphic strings](Solutions/I/isomorphic-strings)
 
 ### <a name="Hashmap-Group_items">Group items</a>
+* [Find the longest equal subarray](Solutions/F/find-the-longest-equal-subarray)
 * [Jump game iv](Solutions/J/jump-game-iv)
 * [Max pair sum in an array](Solutions/M/max-pair-sum-in-an-array)
 * [Minimum seconds to equalize a circular array](Solutions/M/minimum-seconds-to-equalize-a-circular-array)
@@ -1030,7 +1034,12 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Intervals-2D">2D</a>
 * [Rectangle area ii](Solutions/R/rectangle-area-ii)
 
-### <a name="Intervals-DP_with_binary_search">DP with binary search</a>
+### <a name="Intervals-Dynamic_Programming">Dynamic Programming</a>
+* [Maximize the profit as the salesman](Solutions/M/maximize-the-profit-as-the-salesman)
+
+### <a name="Intervals-Dynamic_programming">Dynamic programming</a>
+
+#### <a name="Intervals-Dynamic_programming-With_binary_search">With binary search</a>
 * [Maximum number of events that can be attended ii](Solutions/M/maximum-number-of-events-that-can-be-attended-ii)
 * [Maximum profit in job scheduling](Solutions/M/maximum-profit-in-job-scheduling)
 
@@ -1587,6 +1596,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Categorize box according to criteria](Solutions/C/categorize-box-according-to-criteria)
 * [Check distances between same letters](Solutions/C/check-distances-between-same-letters)
 * [Check if a string contains all binary codes of size k](Solutions/C/check-if-a-string-contains-all-binary-codes-of-size-k)
+* [Check if a string is an acronym of words](Solutions/C/check-if-a-string-is-an-acronym-of-words)
 * [Check if all the integers in a range are covered](Solutions/C/check-if-all-the-integers-in-a-range-are-covered)
 * [Check if matrix is x matrix](Solutions/C/check-if-matrix-is-x-matrix)
 * [Check if number is a sum of powers of three](Solutions/C/check-if-number-is-a-sum-of-powers-of-three)
@@ -1709,6 +1719,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count the number of good subarrays](Solutions/C/count-the-number-of-good-subarrays)
 * [Find a value of a mysterious function closest to target](Solutions/F/find-a-value-of-a-mysterious-function-closest-to-target)
 * [Find all anagrams in a string](Solutions/F/find-all-anagrams-in-a-string)
+* [Find the longest equal subarray](Solutions/F/find-the-longest-equal-subarray)
 * [Frequency of the most frequent element](Solutions/F/frequency-of-the-most-frequent-element)
 * [Fruit into baskets](Solutions/F/fruit-into-baskets)
 * [Invalid transactions](Solutions/I/invalid-transactions)
@@ -1778,6 +1789,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [K closest points to origin](Solutions/K/k-closest-points-to-origin)
 * [Largest number](Solutions/L/largest-number)
 * [Longest string chain](Solutions/L/longest-string-chain)
+* [Maximize the profit as the salesman](Solutions/M/maximize-the-profit-as-the-salesman)
 * [Maximum number of points from grid queries](Solutions/M/maximum-number-of-points-from-grid-queries)
 * [Maximum profit in job scheduling](Solutions/M/maximum-profit-in-job-scheduling)
 * [Maximum units on a truck](Solutions/M/maximum-units-on-a-truck)
