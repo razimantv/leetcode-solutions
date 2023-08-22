@@ -1215,6 +1215,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Continuous subarray sum](Solutions/C/continuous-subarray-sum)
 * [Count distinct numbers on board](Solutions/C/count-distinct-numbers-on-board)
 * [Destroy sequential targets](Solutions/D/destroy-sequential-targets)
+* [Excel sheet column title](Solutions/E/excel-sheet-column-title)
 * [Factorial trailing zeroes](Solutions/F/factorial-trailing-zeroes)
 * [Find the divisibility array of a string](Solutions/F/find-the-divisibility-array-of-a-string)
 * [Find the student that will replace the chalk](Solutions/F/find-the-student-that-will-replace-the-chalk)

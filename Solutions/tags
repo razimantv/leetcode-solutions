@@ -90,8 +90,8 @@ Heuristic optimisation
 Integer operations on strings
 Intervals
 Intervals>2D
-Intervals>DP with binary search
 Intervals>Dynamic Programming
+Intervals>Dynamic programming>With binary search
 Intervals>Endpoint sorting
 Intervals>Non-overlapping decomposition
 Intervals>Overlap
