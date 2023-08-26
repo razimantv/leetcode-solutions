@@ -320,6 +320,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Time needed to inform all employees](Solutions/T/time-needed-to-inform-all-employees)
 
 ### <a name="ChatGPT-Fixed">Fixed</a>
+* [Frog jump](Solutions/F/frog-jump)
 * [Number of music playlists](Solutions/N/number-of-music-playlists)
 
 ## <a name="Concurrency">Concurrency</a>
@@ -430,6 +431,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Edit distance](Solutions/E/edit-distance)
 * [Extra characters in a string](Solutions/E/extra-characters-in-a-string)
 * [Fibonacci number](Solutions/F/fibonacci-number)
+* [Frog jump](Solutions/F/frog-jump)
 * [House robber](Solutions/H/house-robber)
 * [Jump game](Solutions/J/jump-game)
 * [Jump game ii](Solutions/J/jump-game-ii)
