@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 exec 1>&2
 
@@ -11,7 +11,7 @@ fi
 
 set -o pipefail
 cd ../tag_processor || exit 1
-if ! ./taggen | cat README.md.base - > ../README.md 
+if ! ./taggen | cat README.md.base - > ../README.md
 then
 	echo "Readme generation failed"
 	exit 3
