@@ -134,6 +134,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Word search ii](Solutions/W/word-search-ii)
 
 ## <a name="Binary_lifting">Binary lifting</a>
+* [Maximize value of function in a ball passing game](Solutions/M/maximize-value-of-function-in-a-ball-passing-game)
 * [Prison cells after n days](Solutions/P/prison-cells-after-n-days)
 
 ## <a name="Binary_search">Binary search</a>
@@ -235,6 +236,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimize xor](Solutions/M/minimize-xor)
 * [Minimum flips to make a or b equal to c](Solutions/M/minimum-flips-to-make-a-or-b-equal-to-c)
 * [Minimum impossible or](Solutions/M/minimum-impossible-or)
+* [Minimum operations to form subsequence with target sum](Solutions/M/minimum-operations-to-form-subsequence-with-target-sum)
 * [Minimum operations to make the integer zero](Solutions/M/minimum-operations-to-make-the-integer-zero)
 * [Minimum operations to reduce an integer to 0](Solutions/M/minimum-operations-to-reduce-an-integer-to-0)
 * [Minimum xor sum of two arrays](Solutions/M/minimum-xor-sum-of-two-arrays)
@@ -521,6 +523,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count of integers](Solutions/C/count-of-integers)
 * [Number of beautiful partitions](Solutions/N/number-of-beautiful-partitions)
 * [Number of people aware of a secret](Solutions/N/number-of-people-aware-of-a-secret)
+
+### <a name="Dynamic_programming-Binary_lifting">Binary lifting</a>
+* [Maximize value of function in a ball passing game](Solutions/M/maximize-value-of-function-in-a-ball-passing-game)
 
 ### <a name="Dynamic_programming-Complexity_reduction_with_algebra">Complexity reduction with algebra</a>
 * [Power of heroes](Solutions/P/power-of-heroes)
@@ -830,9 +835,11 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Earliest possible day of full bloom](Solutions/E/earliest-possible-day-of-full-bloom)
 * [Eliminate maximum number of monsters](Solutions/E/eliminate-maximum-number-of-monsters)
 * [Find the maximum number of marked indices](Solutions/F/find-the-maximum-number-of-marked-indices)
+* [Find the minimum possible sum of a beautiful array](Solutions/F/find-the-minimum-possible-sum-of-a-beautiful-array)
 * [Find the value of the partition](Solutions/F/find-the-value-of-the-partition)
 * [Frog jump ii](Solutions/F/frog-jump-ii)
 * [Furthest building you can reach](Solutions/F/furthest-building-you-can-reach)
+* [Furthest point from origin](Solutions/F/furthest-point-from-origin)
 * [Gas station](Solutions/G/gas-station)
 * [Is subsequence](Solutions/I/is-subsequence)
 * [Largest number](Solutions/L/largest-number)
@@ -1493,6 +1500,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Merge k sorted lists](Solutions/M/merge-k-sorted-lists)
 * [Minimize deviation in array](Solutions/M/minimize-deviation-in-array)
 * [Minimum interval to include each query](Solutions/M/minimum-interval-to-include-each-query)
+* [Minimum operations to form subsequence with target sum](Solutions/M/minimum-operations-to-form-subsequence-with-target-sum)
 * [Number of orders in the backlog](Solutions/N/number-of-orders-in-the-backlog)
 * [Process tasks using servers](Solutions/P/process-tasks-using-servers)
 * [Remove stones to minimize the total](Solutions/R/remove-stones-to-minimize-the-total)
