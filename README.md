@@ -873,6 +873,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum number of increments on subarrays to form a target array](Solutions/M/minimum-number-of-increments-on-subarrays-to-form-a-target-array)
 * [Minimum number of operations to make all array elements equal to 1](Solutions/M/minimum-number-of-operations-to-make-all-array-elements-equal-to-1)
 * [Minimum number of operations to make arrays similar](Solutions/M/minimum-number-of-operations-to-make-arrays-similar)
+* [Minimum number of taps to open to water a garden](Solutions/M/minimum-number-of-taps-to-open-to-water-a-garden)
 * [Minimum operations to make array equal ii](Solutions/M/minimum-operations-to-make-array-equal-ii)
 * [Minimum operations to make the array increasing](Solutions/M/minimum-operations-to-make-the-array-increasing)
 * [Minimum replacements to sort the array](Solutions/M/minimum-replacements-to-sort-the-array)
@@ -1041,6 +1042,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Insert interval](Solutions/I/insert-interval)
 * [Length of the longest valid substring](Solutions/L/length-of-the-longest-valid-substring)
 * [Maximum number of events that can be attended](Solutions/M/maximum-number-of-events-that-can-be-attended)
+* [Minimum number of taps to open to water a garden](Solutions/M/minimum-number-of-taps-to-open-to-water-a-garden)
 
 ### <a name="Intervals-2D">2D</a>
 * [Rectangle area ii](Solutions/R/rectangle-area-ii)
@@ -1810,6 +1812,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum units on a truck](Solutions/M/maximum-units-on-a-truck)
 * [Merge k sorted lists](Solutions/M/merge-k-sorted-lists)
 * [Minimum number of arrows to burst balloons](Solutions/M/minimum-number-of-arrows-to-burst-balloons)
+* [Minimum number of taps to open to water a garden](Solutions/M/minimum-number-of-taps-to-open-to-water-a-garden)
 * [Minimum sum of squared difference](Solutions/M/minimum-sum-of-squared-difference)
 * [Next greater element iv](Solutions/N/next-greater-element-iv)
 * [Non overlapping intervals](Solutions/N/non-overlapping-intervals)
