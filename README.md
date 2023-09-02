@@ -1161,6 +1161,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count anagrams](Solutions/C/count-anagrams)
 * [Count collisions of monkeys on a polygon](Solutions/C/count-collisions-of-monkeys-on-a-polygon)
 * [Count good numbers](Solutions/C/count-good-numbers)
+* [Count k subsequences of a string with maximum beauty](Solutions/C/count-k-subsequences-of-a-string-with-maximum-beauty)
 * [Count nice pairs in an array](Solutions/C/count-nice-pairs-in-an-array)
 * [Count number of bad pairs](Solutions/C/count-number-of-bad-pairs)
 * [Count number of ways to place houses](Solutions/C/count-number-of-ways-to-place-houses)
@@ -1400,6 +1401,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Permutations ii](Solutions/P/permutations-ii)
 
 ### <a name="Permutation-Swaps">Swaps</a>
+* [Check if strings can be made equal with operations ii](Solutions/C/check-if-strings-can-be-made-equal-with-operations-ii)
 * [Orderly queue](Solutions/O/orderly-queue)
 * [Semi ordered permutation](Solutions/S/semi-ordered-permutation)
 
@@ -1616,6 +1618,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Check if all the integers in a range are covered](Solutions/C/check-if-all-the-integers-in-a-range-are-covered)
 * [Check if matrix is x matrix](Solutions/C/check-if-matrix-is-x-matrix)
 * [Check if number is a sum of powers of three](Solutions/C/check-if-number-is-a-sum-of-powers-of-three)
+* [Check if strings can be made equal with operations i](Solutions/C/check-if-strings-can-be-made-equal-with-operations-i)
 * [Check if the sentence is pangram](Solutions/C/check-if-the-sentence-is-pangram)
 * [Check if two string arrays are equivalent](Solutions/C/check-if-two-string-arrays-are-equivalent)
 * [Check if word equals summation of two words](Solutions/C/check-if-word-equals-summation-of-two-words)
@@ -1751,6 +1754,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum erasure value](Solutions/M/maximum-erasure-value)
 * [Maximum number of vowels in a substring of given length](Solutions/M/maximum-number-of-vowels-in-a-substring-of-given-length)
 * [Maximum points you can obtain from cards](Solutions/M/maximum-points-you-can-obtain-from-cards)
+* [Maximum sum of almost unique subarray](Solutions/M/maximum-sum-of-almost-unique-subarray)
 * [Maximum sum of distinct subarrays with length k](Solutions/M/maximum-sum-of-distinct-subarrays-with-length-k)
 * [Minimum operations to reduce x to zero](Solutions/M/minimum-operations-to-reduce-x-to-zero)
 * [Minimum recolors to get k consecutive black blocks](Solutions/M/minimum-recolors-to-get-k-consecutive-black-blocks)
