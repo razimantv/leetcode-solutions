@@ -97,6 +97,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Largest element in an array after merge operations](Solutions/L/largest-element-in-an-array-after-merge-operations)
 * [Largest odd number in string](Solutions/L/largest-odd-number-in-string)
 * [Longest binary subsequence less than or equal to k](Solutions/L/longest-binary-subsequence-less-than-or-equal-to-k)
+* [Minimum operations to make a special number](Solutions/M/minimum-operations-to-make-a-special-number)
 * [Minimum replacements to sort the array](Solutions/M/minimum-replacements-to-sort-the-array)
 * [Plus one](Solutions/P/plus-one)
 * [Smallest subarrays with maximum bitwise or](Solutions/S/smallest-subarrays-with-maximum-bitwise-or)
@@ -135,6 +136,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## <a name="Binary_lifting">Binary lifting</a>
 * [Maximize value of function in a ball passing game](Solutions/M/maximize-value-of-function-in-a-ball-passing-game)
+* [Minimum edge weight equilibrium queries in a tree](Solutions/M/minimum-edge-weight-equilibrium-queries-in-a-tree)
 * [Prison cells after n days](Solutions/P/prison-cells-after-n-days)
 
 ## <a name="Binary_search">Binary search</a>
@@ -724,6 +726,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest increasing path in a matrix](Solutions/L/longest-increasing-path-in-a-matrix)
 * [Longest path with different adjacent characters](Solutions/L/longest-path-with-different-adjacent-characters)
 * [Minimize the total price of the trips](Solutions/M/minimize-the-total-price-of-the-trips)
+* [Minimum edge weight equilibrium queries in a tree](Solutions/M/minimum-edge-weight-equilibrium-queries-in-a-tree)
 * [Minimum fuel cost to report to the capital](Solutions/M/minimum-fuel-cost-to-report-to-the-capital)
 * [Minimum number of operations to sort a binary tree by level](Solutions/M/minimum-number-of-operations-to-sort-a-binary-tree-by-level)
 * [Minimum score after removals on a tree](Solutions/M/minimum-score-after-removals-on-a-tree)
@@ -786,6 +789,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Graph_theory-Lewel_wise_processing">Lewel-wise processing</a>
 * [Maximum strictly increasing cells in a matrix](Solutions/M/maximum-strictly-increasing-cells-in-a-matrix)
+
+### <a name="Graph_theory-Lowest_common_ancestor">Lowest common ancestor</a>
+* [Minimum edge weight equilibrium queries in a tree](Solutions/M/minimum-edge-weight-equilibrium-queries-in-a-tree)
 
 ### <a name="Graph_theory-Minimum_spanning_tree">Minimum spanning tree</a>
 * [Find critical and pseudo critical edges in minimum spanning tree](Solutions/F/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree)
@@ -874,6 +880,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum number of operations to make all array elements equal to 1](Solutions/M/minimum-number-of-operations-to-make-all-array-elements-equal-to-1)
 * [Minimum number of operations to make arrays similar](Solutions/M/minimum-number-of-operations-to-make-arrays-similar)
 * [Minimum number of taps to open to water a garden](Solutions/M/minimum-number-of-taps-to-open-to-water-a-garden)
+* [Minimum operations to make a special number](Solutions/M/minimum-operations-to-make-a-special-number)
 * [Minimum operations to make array equal ii](Solutions/M/minimum-operations-to-make-array-equal-ii)
 * [Minimum operations to make the array increasing](Solutions/M/minimum-operations-to-make-the-array-increasing)
 * [Minimum replacements to sort the array](Solutions/M/minimum-replacements-to-sort-the-array)
@@ -1228,6 +1235,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Check if point is reachable](Solutions/C/check-if-point-is-reachable)
 * [Continuous subarray sum](Solutions/C/continuous-subarray-sum)
 * [Count distinct numbers on board](Solutions/C/count-distinct-numbers-on-board)
+* [Count of interesting subarrays](Solutions/C/count-of-interesting-subarrays)
 * [Destroy sequential targets](Solutions/D/destroy-sequential-targets)
 * [Excel sheet column title](Solutions/E/excel-sheet-column-title)
 * [Factorial trailing zeroes](Solutions/F/factorial-trailing-zeroes)
@@ -1434,6 +1442,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Contiguous array](Solutions/C/contiguous-array)
 * [Continuous subarray sum](Solutions/C/continuous-subarray-sum)
 * [Count days spent together](Solutions/C/count-days-spent-together)
+* [Count of interesting subarrays](Solutions/C/count-of-interesting-subarrays)
 * [Count subarrays with median k](Solutions/C/count-subarrays-with-median-k)
 * [Count subarrays with score less than k](Solutions/C/count-subarrays-with-score-less-than-k)
 * [Count vowel strings in ranges](Solutions/C/count-vowel-strings-in-ranges)
@@ -1458,6 +1467,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum absolute difference queries](Solutions/M/minimum-absolute-difference-queries)
 * [Minimum amount of time to collect garbage](Solutions/M/minimum-amount-of-time-to-collect-garbage)
 * [Minimum cost to make all characters equal](Solutions/M/minimum-cost-to-make-all-characters-equal)
+* [Minimum edge weight equilibrium queries in a tree](Solutions/M/minimum-edge-weight-equilibrium-queries-in-a-tree)
 * [Minimum operations to make all array elements equal](Solutions/M/minimum-operations-to-make-all-array-elements-equal)
 * [Minimum space wasted from packaging](Solutions/M/minimum-space-wasted-from-packaging)
 * [Minimum value to get positive step by step sum](Solutions/M/minimum-value-to-get-positive-step-by-step-sum)
@@ -1629,6 +1639,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count number of distinct integers after reverse operations](Solutions/C/count-number-of-distinct-integers-after-reverse-operations)
 * [Count odd numbers in an interval range](Solutions/C/count-odd-numbers-in-an-interval-range)
 * [Count pairs whose sum is less than target](Solutions/C/count-pairs-whose-sum-is-less-than-target)
+* [Count symmetric integers](Solutions/C/count-symmetric-integers)
 * [Count the digits that divide a number](Solutions/C/count-the-digits-that-divide-a-number)
 * [Count the number of vowel strings in range](Solutions/C/count-the-number-of-vowel-strings-in-range)
 * [Delete columns to make sorted](Solutions/D/delete-columns-to-make-sorted)
