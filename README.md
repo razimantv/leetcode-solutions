@@ -288,6 +288,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum number of achievable transfer requests](Solutions/M/maximum-number-of-achievable-transfer-requests)
 * [Maximum rows covered by columns](Solutions/M/maximum-rows-covered-by-columns)
 * [Maximum strength of a group](Solutions/M/maximum-strength-of-a-group)
+* [Minimum moves to spread stones over grid](Solutions/M/minimum-moves-to-spread-stones-over-grid)
 * [N queens](Solutions/N/n-queens)
 * [N queens ii](Solutions/N/n-queens-ii)
 * [Non decreasing subsequences](Solutions/N/non-decreasing-subsequences)
@@ -595,6 +596,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find the longest valid obstacle course at each position](Solutions/F/find-the-longest-valid-obstacle-course-at-each-position)
 * [Longest increasing subsequence](Solutions/L/longest-increasing-subsequence)
 * [Number of longest increasing subsequence](Solutions/N/number-of-longest-increasing-subsequence)
+
+### <a name="Dynamic_programming-Matrix_exponentiation">Matrix exponentiation</a>
+* [String transformation](Solutions/S/string-transformation)
 
 ### <a name="Dynamic_programming-Memoised_recursion">Memoised recursion</a>
 * [Combination sum iv](Solutions/C/combination-sum-iv)
@@ -1212,6 +1216,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Mathematics-Geometry">Geometry</a>
 * [Check if it is a straight line](Solutions/C/check-if-it-is-a-straight-line)
+* [Determine if a cell is reachable at a given time](Solutions/D/determine-if-a-cell-is-reachable-at-a-given-time)
 * [Max points on a line](Solutions/M/max-points-on-a-line)
 * [Minimum cuts to divide a circle](Solutions/M/minimum-cuts-to-divide-a-circle)
 * [Rectangle area](Solutions/R/rectangle-area)
@@ -1279,6 +1284,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximize number of nice divisors](Solutions/M/maximize-number-of-nice-divisors)
 * [Minimum number of operations to make string sorted](Solutions/M/minimum-number-of-operations-to-make-string-sorted)
 * [Number of subsequences that satisfy the given sum condition](Solutions/N/number-of-subsequences-that-satisfy-the-given-sum-condition)
+* [String transformation](Solutions/S/string-transformation)
 
 #### <a name="Mathematics-Number_theory-Prime_sieving">Prime sieving</a>
 * [Apply operations to maximize score](Solutions/A/apply-operations-to-maximize-score)
@@ -1715,6 +1721,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Partitioning into minimum number of deci binary numbers](Solutions/P/partitioning-into-minimum-number-of-deci-binary-numbers)
 * [Pass the pillow](Solutions/P/pass-the-pillow)
 * [Perform string shifts](Solutions/P/perform-string-shifts)
+* [Points that intersect with cars](Solutions/P/points-that-intersect-with-cars)
 * [Power of three](Solutions/P/power-of-three)
 * [Powerful integers](Solutions/P/powerful-integers)
 * [Push dominoes](Solutions/P/push-dominoes)
@@ -1953,6 +1960,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest duplicate substring](Solutions/L/longest-duplicate-substring)
 * [Maximum deletions on a string](Solutions/M/maximum-deletions-on-a-string)
 * [Palindrome pairs](Solutions/P/palindrome-pairs)
+* [String transformation](Solutions/S/string-transformation)
 * [Sum of prefix scores of strings](Solutions/S/sum-of-prefix-scores-of-strings)
 
 #### <a name="String-Search-Prefix_Suffix">Prefix/Suffix</a>
