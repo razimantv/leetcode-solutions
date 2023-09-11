@@ -1029,6 +1029,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Hashmap-Group_items">Group items</a>
 * [Find the longest equal subarray](Solutions/F/find-the-longest-equal-subarray)
+* [Group the people given the group size they belong to](Solutions/G/group-the-people-given-the-group-size-they-belong-to)
 * [Jump game iv](Solutions/J/jump-game-iv)
 * [Max pair sum in an array](Solutions/M/max-pair-sum-in-an-array)
 * [Minimum seconds to equalize a circular array](Solutions/M/minimum-seconds-to-equalize-a-circular-array)
