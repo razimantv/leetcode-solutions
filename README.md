@@ -12,6 +12,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## <a name="Array_scanning">Array scanning</a>
 * [Dota2 senate](Solutions/D/dota2-senate)
 * [Maximum enemy forts that can be captured](Solutions/M/maximum-enemy-forts-that-can-be-captured)
+* [Minimum right shifts to sort the array](Solutions/M/minimum-right-shifts-to-sort-the-array)
 * [The employee that worked on the longest task](Solutions/T/the-employee-that-worked-on-the-longest-task)
 
 ### <a name="Array_scanning-Contiguous_region">Contiguous region</a>
@@ -270,6 +271,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Bitwise_operation-Self_inverse_property_of_xor">Self-inverse property of xor</a>
 * [Bitwise xor of all pairings](Solutions/B/bitwise-xor-of-all-pairings)
+* [Count pairs of points with distance k](Solutions/C/count-pairs-of-points-with-distance-k)
 * [Count paths that can form a palindrome in a tree](Solutions/C/count-paths-that-can-form-a-palindrome-in-a-tree)
 * [Count the number of beautiful subarrays](Solutions/C/count-the-number-of-beautiful-subarrays)
 * [Find the original array of prefix xor](Solutions/F/find-the-original-array-of-prefix-xor)
@@ -649,6 +651,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest univalue path](Solutions/L/longest-univalue-path)
 * [Minimize the total price of the trips](Solutions/M/minimize-the-total-price-of-the-trips)
 * [Minimum cost to change the final value of expression](Solutions/M/minimum-cost-to-change-the-final-value-of-expression)
+* [Minimum edge reversals so every node is reachable](Solutions/M/minimum-edge-reversals-so-every-node-is-reachable)
 * [Minimum score after removals on a tree](Solutions/M/minimum-score-after-removals-on-a-tree)
 * [Most profitable path in a tree](Solutions/M/most-profitable-path-in-a-tree)
 
@@ -730,6 +733,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest increasing path in a matrix](Solutions/L/longest-increasing-path-in-a-matrix)
 * [Longest path with different adjacent characters](Solutions/L/longest-path-with-different-adjacent-characters)
 * [Minimize the total price of the trips](Solutions/M/minimize-the-total-price-of-the-trips)
+* [Minimum edge reversals so every node is reachable](Solutions/M/minimum-edge-reversals-so-every-node-is-reachable)
 * [Minimum edge weight equilibrium queries in a tree](Solutions/M/minimum-edge-weight-equilibrium-queries-in-a-tree)
 * [Minimum fuel cost to report to the capital](Solutions/M/minimum-fuel-cost-to-report-to-the-capital)
 * [Minimum number of operations to sort a binary tree by level](Solutions/M/minimum-number-of-operations-to-sort-a-binary-tree-by-level)
@@ -877,6 +881,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimize maximum pair sum in array](Solutions/M/minimize-maximum-pair-sum-in-array)
 * [Minimize the maximum difference of pairs](Solutions/M/minimize-the-maximum-difference-of-pairs)
 * [Minimum amount of time to fill cups](Solutions/M/minimum-amount-of-time-to-fill-cups)
+* [Minimum array length after pair removals](Solutions/M/minimum-array-length-after-pair-removals)
 * [Minimum cost to make array equal](Solutions/M/minimum-cost-to-make-array-equal)
 * [Minimum money required before transactions](Solutions/M/minimum-money-required-before-transactions)
 * [Minimum number of arrows to burst balloons](Solutions/M/minimum-number-of-arrows-to-burst-balloons)
@@ -928,6 +933,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count complete subarrays in an array](Solutions/C/count-complete-subarrays-in-an-array)
 * [Count number of bad pairs](Solutions/C/count-number-of-bad-pairs)
 * [Count number of distinct integers after reverse operations](Solutions/C/count-number-of-distinct-integers-after-reverse-operations)
+* [Count pairs of points with distance k](Solutions/C/count-pairs-of-points-with-distance-k)
 * [Count pairs of similar strings](Solutions/C/count-pairs-of-similar-strings)
 * [Count subarrays with median k](Solutions/C/count-subarrays-with-median-k)
 * [Count the number of beautiful subarrays](Solutions/C/count-the-number-of-beautiful-subarrays)
@@ -980,6 +986,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Merge similar items](Solutions/M/merge-similar-items)
 * [Minimize string length](Solutions/M/minimize-string-length)
 * [Minimum amount of time to collect garbage](Solutions/M/minimum-amount-of-time-to-collect-garbage)
+* [Minimum array length after pair removals](Solutions/M/minimum-array-length-after-pair-removals)
 * [Minimum cost to split an array](Solutions/M/minimum-cost-to-split-an-array)
 * [Minimum deletions to make character frequencies unique](Solutions/M/minimum-deletions-to-make-character-frequencies-unique)
 * [Minimum rounds to complete all tasks](Solutions/M/minimum-rounds-to-complete-all-tasks)
