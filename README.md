@@ -174,6 +174,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum tastiness of candy basket](Solutions/M/maximum-tastiness-of-candy-basket)
 * [Maximum value at a given index in a bounded array](Solutions/M/maximum-value-at-a-given-index-in-a-bounded-array)
 * [Maximum xor of two numbers in an array](Solutions/M/maximum-xor-of-two-numbers-in-an-array)
+* [Median of two sorted arrays](Solutions/M/median-of-two-sorted-arrays)
 * [Minimize maximum of array](Solutions/M/minimize-maximum-of-array)
 * [Minimize the maximum difference of pairs](Solutions/M/minimize-the-maximum-difference-of-pairs)
 * [Minimum cost for tickets](Solutions/M/minimum-cost-for-tickets)
