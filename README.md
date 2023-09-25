@@ -13,6 +13,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Dota2 senate](Solutions/D/dota2-senate)
 * [Maximum enemy forts that can be captured](Solutions/M/maximum-enemy-forts-that-can-be-captured)
 * [Minimum right shifts to sort the array](Solutions/M/minimum-right-shifts-to-sort-the-array)
+* [Monotonic array](Solutions/M/monotonic-array)
 * [The employee that worked on the longest task](Solutions/T/the-employee-that-worked-on-the-longest-task)
 
 ### <a name="Array_scanning-Contiguous_region">Contiguous region</a>
