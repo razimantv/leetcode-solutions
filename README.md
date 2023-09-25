@@ -44,6 +44,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [The number of weak characters in the game](Solutions/T/the-number-of-weak-characters-in-the-game)
 
 ### <a name="Array_scanning-From_both_ends_of_array">From both ends of array</a>
+* [Beautiful towers ii](Solutions/B/beautiful-towers-ii)
 * [Best time to buy and sell stock iii](Solutions/B/best-time-to-buy-and-sell-stock-iii)
 * [Candy](Solutions/C/candy)
 * [Count palindromic subsequences](Solutions/C/count-palindromic-subsequences)
@@ -418,6 +419,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## <a name="Dynamic_programming">Dynamic programming</a>
 * [Arithmetic slices ii subsequence](Solutions/A/arithmetic-slices-ii-subsequence)
+* [Beautiful towers ii](Solutions/B/beautiful-towers-ii)
 * [Best team with no conflicts](Solutions/B/best-team-with-no-conflicts)
 * [Best time to buy and sell stock iii](Solutions/B/best-time-to-buy-and-sell-stock-iii)
 * [Best time to buy and sell stock with cooldown](Solutions/B/best-time-to-buy-and-sell-stock-with-cooldown)
@@ -643,6 +645,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Dynamic_programming-Trees">Trees</a>
 * [All nodes distance k in binary tree](Solutions/A/all-nodes-distance-k-in-binary-tree)
 * [Count number of possible root nodes](Solutions/C/count-number-of-possible-root-nodes)
+* [Count valid paths in a tree](Solutions/C/count-valid-paths-in-a-tree)
 * [Cousins in binary tree ii](Solutions/C/cousins-in-binary-tree-ii)
 * [Diameter of binary tree](Solutions/D/diameter-of-binary-tree)
 * [Difference between maximum and minimum price sum](Solutions/D/difference-between-maximum-and-minimum-price-sum)
@@ -724,6 +727,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Amount of time for binary tree to be infected](Solutions/A/amount-of-time-for-binary-tree-to-be-infected)
 * [Count number of possible root nodes](Solutions/C/count-number-of-possible-root-nodes)
 * [Count paths that can form a palindrome in a tree](Solutions/C/count-paths-that-can-form-a-palindrome-in-a-tree)
+* [Count valid paths in a tree](Solutions/C/count-valid-paths-in-a-tree)
 * [Create components with same value](Solutions/C/create-components-with-same-value)
 * [Critical connections in a network](Solutions/C/critical-connections-in-a-network)
 * [Delete nodes and return forest](Solutions/D/delete-nodes-and-return-forest)
@@ -877,6 +881,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum number of groups entering a competition](Solutions/M/maximum-number-of-groups-entering-a-competition)
 * [Maximum number of groups with increasing length](Solutions/M/maximum-number-of-groups-with-increasing-length)
 * [Maximum number of integers to choose from a range i](Solutions/M/maximum-number-of-integers-to-choose-from-a-range-i)
+* [Maximum odd binary number](Solutions/M/maximum-odd-binary-number)
 * [Maximum performance of a team](Solutions/M/maximum-performance-of-a-team)
 * [Maximum tastiness of candy basket](Solutions/M/maximum-tastiness-of-candy-basket)
 * [Maximum units on a truck](Solutions/M/maximum-units-on-a-truck)
@@ -1304,6 +1309,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Closest prime numbers in range](Solutions/C/closest-prime-numbers-in-range)
 * [Count primes](Solutions/C/count-primes)
 * [Count the number of ideal arrays](Solutions/C/count-the-number-of-ideal-arrays)
+* [Count valid paths in a tree](Solutions/C/count-valid-paths-in-a-tree)
 * [Distinct prime factors of product of array](Solutions/D/distinct-prime-factors-of-product-of-array)
 * [Greatest common divisor traversal](Solutions/G/greatest-common-divisor-traversal)
 * [Largest component size by common factor](Solutions/L/largest-component-size-by-common-factor)
@@ -1636,6 +1642,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Arranging coins](Solutions/A/arranging-coins)
 * [Average salary excluding the minimum and maximum salary](Solutions/A/average-salary-excluding-the-minimum-and-maximum-salary)
 * [Average value of even numbers that are divisible by three](Solutions/A/average-value-of-even-numbers-that-are-divisible-by-three)
+* [Beautiful towers i](Solutions/B/beautiful-towers-i)
 * [Best poker hand](Solutions/B/best-poker-hand)
 * [Bulls and cows](Solutions/B/bulls-and-cows)
 * [Calculate amount paid in taxes](Solutions/C/calculate-amount-paid-in-taxes)
@@ -1920,6 +1927,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Stack-Monotonic_stack">Monotonic stack</a>
 * [Apply operations to maximize score](Solutions/A/apply-operations-to-maximize-score)
+* [Beautiful towers ii](Solutions/B/beautiful-towers-ii)
 * [Daily temperatures](Solutions/D/daily-temperatures)
 * [Largest rectangle in histogram](Solutions/L/largest-rectangle-in-histogram)
 * [Maximum score of a good subarray](Solutions/M/maximum-score-of-a-good-subarray)
