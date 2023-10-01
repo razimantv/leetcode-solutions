@@ -12,6 +12,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## <a name="Array_scanning">Array scanning</a>
 * [Dota2 senate](Solutions/D/dota2-senate)
 * [Maximum enemy forts that can be captured](Solutions/M/maximum-enemy-forts-that-can-be-captured)
+* [Maximum value of an ordered triplet i](Solutions/M/maximum-value-of-an-ordered-triplet-i)
+* [Maximum value of an ordered triplet ii](Solutions/M/maximum-value-of-an-ordered-triplet-ii)
 * [Minimum right shifts to sort the array](Solutions/M/minimum-right-shifts-to-sort-the-array)
 * [Monotonic array](Solutions/M/monotonic-array)
 * [The employee that worked on the longest task](Solutions/T/the-employee-that-worked-on-the-longest-task)
@@ -553,6 +555,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [House robber ii](Solutions/H/house-robber-ii)
 * [Maximum sum circular subarray](Solutions/M/maximum-sum-circular-subarray)
 * [Minimum number of flips to make the binary string alternating](Solutions/M/minimum-number-of-flips-to-make-the-binary-string-alternating)
+* [Minimum size subarray in infinite array](Solutions/M/minimum-size-subarray-in-infinite-array)
 * [Pizza with 3n slices](Solutions/P/pizza-with-3n-slices)
 
 ### <a name="Dynamic_programming-Digits">Digits</a>
@@ -833,6 +836,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Shortest cycle in a graph](Solutions/S/shortest-cycle-in-a-graph)
 
 ### <a name="Graph_theory-Single_outdegree_graphs">Single outdegree graphs</a>
+* [Count visited nodes in a directed graph](Solutions/C/count-visited-nodes-in-a-directed-graph)
 * [Find closest node to given two nodes](Solutions/F/find-closest-node-to-given-two-nodes)
 * [Longest cycle in a graph](Solutions/L/longest-cycle-in-a-graph)
 * [Node with highest edge score](Solutions/N/node-with-highest-edge-score)
@@ -1506,6 +1510,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum cost to make all characters equal](Solutions/M/minimum-cost-to-make-all-characters-equal)
 * [Minimum edge weight equilibrium queries in a tree](Solutions/M/minimum-edge-weight-equilibrium-queries-in-a-tree)
 * [Minimum operations to make all array elements equal](Solutions/M/minimum-operations-to-make-all-array-elements-equal)
+* [Minimum size subarray in infinite array](Solutions/M/minimum-size-subarray-in-infinite-array)
 * [Minimum space wasted from packaging](Solutions/M/minimum-space-wasted-from-packaging)
 * [Minimum value to get positive step by step sum](Solutions/M/minimum-value-to-get-positive-step-by-step-sum)
 * [Movement of robots](Solutions/M/movement-of-robots)
