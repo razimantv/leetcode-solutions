@@ -16,6 +16,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum value of an ordered triplet ii](Solutions/M/maximum-value-of-an-ordered-triplet-ii)
 * [Minimum right shifts to sort the array](Solutions/M/minimum-right-shifts-to-sort-the-array)
 * [Monotonic array](Solutions/M/monotonic-array)
+* [Remove colored pieces if both neighbors are the same color](Solutions/R/remove-colored-pieces-if-both-neighbors-are-the-same-color)
 * [The employee that worked on the longest task](Solutions/T/the-employee-that-worked-on-the-longest-task)
 
 ### <a name="Array_scanning-Contiguous_region">Contiguous region</a>
