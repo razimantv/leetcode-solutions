@@ -1020,6 +1020,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Number of black blocks](Solutions/N/number-of-black-blocks)
 * [Number of distinct averages](Solutions/N/number-of-distinct-averages)
 * [Number of excellent pairs](Solutions/N/number-of-excellent-pairs)
+* [Number of good pairs](Solutions/N/number-of-good-pairs)
 * [Number of nodes in the sub tree with the same label](Solutions/N/number-of-nodes-in-the-sub-tree-with-the-same-label)
 * [Odd string difference](Solutions/O/odd-string-difference)
 * [Optimal partition of string](Solutions/O/optimal-partition-of-string)
