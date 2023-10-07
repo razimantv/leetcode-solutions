@@ -617,6 +617,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [String transformation](Solutions/S/string-transformation)
 
 ### <a name="Dynamic_programming-Memoised_recursion">Memoised recursion</a>
+* [Build array where you can find the maximum exactly k comparisons](Solutions/B/build-array-where-you-can-find-the-maximum-exactly-k-comparisons)
 * [Combination sum iv](Solutions/C/combination-sum-iv)
 * [Minimum number of days to eat n oranges](Solutions/M/minimum-number-of-days-to-eat-n-oranges)
 * [Number of dice rolls with target sum](Solutions/N/number-of-dice-rolls-with-target-sum)
@@ -1200,6 +1201,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [3sum with multiplicity](Solutions/0-9/3sum-with-multiplicity)
 * [Arithmetic slices ii subsequence](Solutions/A/arithmetic-slices-ii-subsequence)
 * [Binary trees with factors](Solutions/B/binary-trees-with-factors)
+* [Build array where you can find the maximum exactly k comparisons](Solutions/B/build-array-where-you-can-find-the-maximum-exactly-k-comparisons)
 * [Count all possible routes](Solutions/C/count-all-possible-routes)
 * [Count all valid pickup and delivery options](Solutions/C/count-all-valid-pickup-and-delivery-options)
 * [Count anagrams](Solutions/C/count-anagrams)
