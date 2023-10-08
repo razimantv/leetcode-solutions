@@ -219,6 +219,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## <a name="Bitwise_operation">Bitwise operation</a>
 * [Apply bitwise operations to make strings equal](Solutions/A/apply-bitwise-operations-to-make-strings-equal)
+* [Apply operations on array to maximize sum of squares](Solutions/A/apply-operations-on-array-to-maximize-sum-of-squares)
 * [Binary watch](Solutions/B/binary-watch)
 * [Bitwise and of numbers range](Solutions/B/bitwise-and-of-numbers-range)
 * [Check if a string contains all binary codes of size k](Solutions/C/check-if-a-string-contains-all-binary-codes-of-size-k)
@@ -601,6 +602,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 #### <a name="Dynamic_programming-Knapsack-State_modification">State modification</a>
 * [Painting the walls](Solutions/P/painting-the-walls)
 
+### <a name="Dynamic_programming-Length_wise_processing">Length-wise processing</a>
+* [Apply operations to make two strings equal](Solutions/A/apply-operations-to-make-two-strings-equal)
+
 ### <a name="Dynamic_programming-Longest_common_subsequence">Longest common subsequence</a>
 * [Delete operation for two strings](Solutions/D/delete-operation-for-two-strings)
 * [Longest common subsequence](Solutions/L/longest-common-subsequence)
@@ -857,6 +861,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## <a name="Greedy">Greedy</a>
 * [Advantage shuffle](Solutions/A/advantage-shuffle)
 * [Append characters to string to make subsequence](Solutions/A/append-characters-to-string-to-make-subsequence)
+* [Apply operations on array to maximize sum of squares](Solutions/A/apply-operations-on-array-to-maximize-sum-of-squares)
 * [Apply operations to make all array elements equal to zero](Solutions/A/apply-operations-to-make-all-array-elements-equal-to-zero)
 * [Apply operations to maximize score](Solutions/A/apply-operations-to-maximize-score)
 * [Bag of tokens](Solutions/B/bag-of-tokens)
@@ -914,6 +919,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum operations to make a special number](Solutions/M/minimum-operations-to-make-a-special-number)
 * [Minimum operations to make array equal ii](Solutions/M/minimum-operations-to-make-array-equal-ii)
 * [Minimum operations to make the array increasing](Solutions/M/minimum-operations-to-make-the-array-increasing)
+* [Minimum processing time](Solutions/M/minimum-processing-time)
 * [Minimum replacements to sort the array](Solutions/M/minimum-replacements-to-sort-the-array)
 * [Minimum score by changing two elements](Solutions/M/minimum-score-by-changing-two-elements)
 * [Minimum sum of squared difference](Solutions/M/minimum-sum-of-squared-difference)
@@ -1697,6 +1703,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Difference between ones and zeros in row and column](Solutions/D/difference-between-ones-and-zeros-in-row-and-column)
 * [Distribute candies](Solutions/D/distribute-candies)
 * [Distribute candies to people](Solutions/D/distribute-candies-to-people)
+* [Divisible and non divisible sums difference](Solutions/D/divisible-and-non-divisible-sums-difference)
 * [Duplicate zeros](Solutions/D/duplicate-zeros)
 * [Excel sheet column number](Solutions/E/excel-sheet-column-number)
 * [Faulty keyboard](Solutions/F/faulty-keyboard)
