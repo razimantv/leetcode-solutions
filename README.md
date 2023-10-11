@@ -1111,6 +1111,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Divide intervals into minimum number of groups](Solutions/D/divide-intervals-into-minimum-number-of-groups)
 * [Minimum interval to include each query](Solutions/M/minimum-interval-to-include-each-query)
 * [My calendar iii](Solutions/M/my-calendar-iii)
+* [Number of flowers in full bloom](Solutions/N/number-of-flowers-in-full-bloom)
 * [Rectangle area ii](Solutions/R/rectangle-area-ii)
 
 ### <a name="Intervals-Non_overlapping_decomposition">Non-overlapping decomposition</a>
@@ -1126,6 +1127,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum time to complete all tasks](Solutions/M/minimum-time-to-complete-all-tasks)
 * [My calendar iii](Solutions/M/my-calendar-iii)
 * [Non overlapping intervals](Solutions/N/non-overlapping-intervals)
+* [Number of flowers in full bloom](Solutions/N/number-of-flowers-in-full-bloom)
 * [Remove covered intervals](Solutions/R/remove-covered-intervals)
 * [Split the array to make coprime products](Solutions/S/split-the-array-to-make-coprime-products)
 
@@ -1925,6 +1927,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Sorting-Queries_and_updates_together">Queries and updates together</a>
 * [Count zero request servers](Solutions/C/count-zero-request-servers)
 * [Minimum space wasted from packaging](Solutions/M/minimum-space-wasted-from-packaging)
+* [Number of flowers in full bloom](Solutions/N/number-of-flowers-in-full-bloom)
 * [Number of good paths](Solutions/N/number-of-good-paths)
 
 ### <a name="Sorting-Remembering_index">Remembering index</a>
