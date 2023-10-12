@@ -156,6 +156,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Design movie rental system](Solutions/D/design-movie-rental-system)
 * [Dungeon game](Solutions/D/dungeon-game)
 * [Find first and last position of element in sorted array](Solutions/F/find-first-and-last-position-of-element-in-sorted-array)
+* [Find in mountain array](Solutions/F/find-in-mountain-array)
 * [Find k closest elements](Solutions/F/find-k-closest-elements)
 * [Find right interval](Solutions/F/find-right-interval)
 * [Find smallest letter greater than target](Solutions/F/find-smallest-letter-greater-than-target)
