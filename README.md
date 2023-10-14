@@ -459,6 +459,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest arithmetic subsequence](Solutions/L/longest-arithmetic-subsequence)
 * [Longest arithmetic subsequence of given difference](Solutions/L/longest-arithmetic-subsequence-of-given-difference)
 * [Longest string chain](Solutions/L/longest-string-chain)
+* [Longest unequal adjacent groups subsequence i](Solutions/L/longest-unequal-adjacent-groups-subsequence-i)
 * [Maximum alternating subsequence sum](Solutions/M/maximum-alternating-subsequence-sum)
 * [Maximum deletions on a string](Solutions/M/maximum-deletions-on-a-string)
 * [Maximum number of jumps to reach the last index](Solutions/M/maximum-number-of-jumps-to-reach-the-last-index)
@@ -593,6 +594,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Coin change](Solutions/C/coin-change)
 * [Coin change 2](Solutions/C/coin-change-2)
 * [Count all possible routes](Solutions/C/count-all-possible-routes)
+* [Count of sub multisets with bounded sum](Solutions/C/count-of-sub-multisets-with-bounded-sum)
 * [Maximum value of k coins from piles](Solutions/M/maximum-value-of-k-coins-from-piles)
 * [Number of great partitions](Solutions/N/number-of-great-partitions)
 * [Number of ways to earn points](Solutions/N/number-of-ways-to-earn-points)
@@ -640,6 +642,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Decremental string concatenation](Solutions/D/decremental-string-concatenation)
 * [String compression ii](Solutions/S/string-compression-ii)
 * [Tallest billboard](Solutions/T/tallest-billboard)
+
+### <a name="Dynamic_programming-Reconstructing_optimal_solution">Reconstructing optimal solution</a>
+* [Longest unequal adjacent groups subsequence ii](Solutions/L/longest-unequal-adjacent-groups-subsequence-ii)
 
 ### <a name="Dynamic_programming-Segment_tree">Segment tree</a>
 * [Count increasing quadruplets](Solutions/C/count-increasing-quadruplets)
@@ -1739,6 +1744,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Largest magic square](Solutions/L/largest-magic-square)
 * [Largest positive integer that exists with its negative](Solutions/L/largest-positive-integer-that-exists-with-its-negative)
 * [Largest time for given digits](Solutions/L/largest-time-for-given-digits)
+* [Last visited integers](Solutions/L/last-visited-integers)
 * [Match substring after replacement](Solutions/M/match-substring-after-replacement)
 * [Matrix diagonal sum](Solutions/M/matrix-diagonal-sum)
 * [Maximum 69 number](Solutions/M/maximum-69-number)
