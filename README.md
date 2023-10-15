@@ -72,6 +72,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Take k of each character from left and right](Solutions/T/take-k-of-each-character-from-left-and-right)
 
 #### <a name="Array_scanning-From_both_ends_of_array-Element_exclusion">Element exclusion</a>
+* [Construct product matrix](Solutions/C/construct-product-matrix)
 * [Maximum or](Solutions/M/maximum-or)
 
 ### <a name="Array_scanning-In_place_modification">In-place modification</a>
@@ -1397,6 +1398,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Paths in matrix whose sum is divisible by k](Solutions/P/paths-in-matrix-whose-sum-is-divisible-by-k)
 * [Where will the ball fall](Solutions/W/where-will-the-ball-fall)
 
+### <a name="Matrix-Prefix">Prefix</a>
+* [Construct product matrix](Solutions/C/construct-product-matrix)
+
 ### <a name="Matrix-Row_pair_processing">Row pair processing</a>
 * [Max sum of rectangle no larger than k](Solutions/M/max-sum-of-rectangle-no-larger-than-k)
 * [Number of submatrices that sum to target](Solutions/N/number-of-submatrices-that-sum-to-target)
@@ -1541,6 +1545,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Substring with largest variance](Solutions/S/substring-with-largest-variance)
 
 #### <a name="Prefix-Sum-2D">2D</a>
+* [Construct product matrix](Solutions/C/construct-product-matrix)
 * [Construct quad tree](Solutions/C/construct-quad-tree)
 * [Disconnect path in a binary matrix by at most one flip](Solutions/D/disconnect-path-in-a-binary-matrix-by-at-most-one-flip)
 * [Increment submatrices by one](Solutions/I/increment-submatrices-by-one)
@@ -1791,6 +1796,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Remove trailing zeros from a string](Solutions/R/remove-trailing-zeros-from-a-string)
 * [Row with maximum ones](Solutions/R/row-with-maximum-ones)
 * [Separate the digits in an array](Solutions/S/separate-the-digits-in-an-array)
+* [Shortest and lexicographically smallest beautiful string](Solutions/S/shortest-and-lexicographically-smallest-beautiful-string)
 * [Shortest distance to target string in a circular array](Solutions/S/shortest-distance-to-target-string-in-a-circular-array)
 * [Shuffle the array](Solutions/S/shuffle-the-array)
 * [Smallest even multiple](Solutions/S/smallest-even-multiple)
@@ -2181,6 +2187,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Predict the winner](Solutions/P/predict-the-winner)
 
 ## <a name="Two_pointers">Two pointers</a>
+* [Find indices with index and value difference i](Solutions/F/find-indices-with-index-and-value-difference-i)
+* [Find indices with index and value difference ii](Solutions/F/find-indices-with-index-and-value-difference-ii)
 * [Find k closest elements](Solutions/F/find-k-closest-elements)
 * [Find the longest semi repetitive substring](Solutions/F/find-the-longest-semi-repetitive-substring)
 * [Maximize greatness of an array](Solutions/M/maximize-greatness-of-an-array)
