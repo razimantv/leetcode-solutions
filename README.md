@@ -745,6 +745,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Collect coins in a tree](Solutions/C/collect-coins-in-a-tree)
 * [Find the town judge](Solutions/F/find-the-town-judge)
 * [Minimum number of vertices to reach all nodes](Solutions/M/minimum-number-of-vertices-to-reach-all-nodes)
+* [Validate binary tree nodes](Solutions/V/validate-binary-tree-nodes)
 
 ### <a name="Graph_theory-Depth_first_search">Depth first search</a>
 * [Amount of time for binary tree to be infected](Solutions/A/amount-of-time-for-binary-tree-to-be-infected)
@@ -778,6 +779,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Reorder routes to make all paths lead to the city zero](Solutions/R/reorder-routes-to-make-all-paths-lead-to-the-city-zero)
 * [Shortest cycle in a graph](Solutions/S/shortest-cycle-in-a-graph)
 * [Time needed to inform all employees](Solutions/T/time-needed-to-inform-all-employees)
+* [Validate binary tree nodes](Solutions/V/validate-binary-tree-nodes)
 
 #### <a name="Graph_theory-Depth_first_search-Colouring">Colouring</a>
 * [Is graph bipartite](Solutions/I/is-graph-bipartite)
@@ -2156,6 +2158,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Range sum of bst](Solutions/R/range-sum-of-bst)
 * [Recover binary search tree](Solutions/R/recover-binary-search-tree)
 * [Symmetric tree](Solutions/S/symmetric-tree)
+* [Validate binary tree nodes](Solutions/V/validate-binary-tree-nodes)
 
 ### <a name="Tree-Hashing">Hashing</a>
 * [Find duplicate subtrees](Solutions/F/find-duplicate-subtrees)
