@@ -867,6 +867,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 #### <a name="Graph_theory-Topological_sort-Dynamic_Programming">Dynamic Programming</a>
 * [Largest color value in a directed graph](Solutions/L/largest-color-value-in-a-directed-graph)
+* [Parallel courses iii](Solutions/P/parallel-courses-iii)
 
 ## <a name="Greedy">Greedy</a>
 * [Advantage shuffle](Solutions/A/advantage-shuffle)
@@ -1584,6 +1585,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum interval to include each query](Solutions/M/minimum-interval-to-include-each-query)
 * [Minimum operations to form subsequence with target sum](Solutions/M/minimum-operations-to-form-subsequence-with-target-sum)
 * [Number of orders in the backlog](Solutions/N/number-of-orders-in-the-backlog)
+* [Parallel courses iii](Solutions/P/parallel-courses-iii)
 * [Process tasks using servers](Solutions/P/process-tasks-using-servers)
 * [Remove stones to minimize the total](Solutions/R/remove-stones-to-minimize-the-total)
 * [Reorganize string](Solutions/R/reorganize-string)
