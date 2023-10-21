@@ -1568,6 +1568,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Remove invalid parentheses](Solutions/R/remove-invalid-parentheses)
 
 ## <a name="Priority_queue">Priority queue</a>
+* [Constrained subsequence sum](Solutions/C/constrained-subsequence-sum)
 * [Find original array from doubled array](Solutions/F/find-original-array-from-doubled-array)
 * [First unique character in a string](Solutions/F/first-unique-character-in-a-string)
 * [Furthest building you can reach](Solutions/F/furthest-building-you-can-reach)
@@ -1817,6 +1818,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [3sum](Solutions/0-9/3sum)
 * [3sum closest](Solutions/0-9/3sum-closest)
 * [Binary trees with factors](Solutions/B/binary-trees-with-factors)
+* [Constrained subsequence sum](Solutions/C/constrained-subsequence-sum)
 * [Contains duplicate ii](Solutions/C/contains-duplicate-ii)
 * [Continuous subarrays](Solutions/C/continuous-subarrays)
 * [Count pairs of nodes](Solutions/C/count-pairs-of-nodes)
