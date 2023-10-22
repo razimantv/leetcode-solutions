@@ -639,6 +639,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Partition to k equal sum subsets](Solutions/P/partition-to-k-equal-sum-subsets)
 * [Predict the winner](Solutions/P/predict-the-winner)
 
+### <a name="Dynamic_programming-Monotonic_stack_deque">Monotonic stack/deque</a>
+* [Minimum difficulty of a job schedule](Solutions/M/minimum-difficulty-of-a-job-schedule)
+
 ### <a name="Dynamic_programming-Number_theory">Number theory</a>
 * [Count the number of ideal arrays](Solutions/C/count-the-number-of-ideal-arrays)
 * [Largest divisible subset](Solutions/L/largest-divisible-subset)
@@ -1992,6 +1995,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum score of a good subarray](Solutions/M/maximum-score-of-a-good-subarray)
 * [Maximum subarray min product](Solutions/M/maximum-subarray-min-product)
 * [Maximum sum queries](Solutions/M/maximum-sum-queries)
+* [Minimum difficulty of a job schedule](Solutions/M/minimum-difficulty-of-a-job-schedule)
 * [Next greater element ii](Solutions/N/next-greater-element-ii)
 * [Online stock span](Solutions/O/online-stock-span)
 
