@@ -2143,6 +2143,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Evaluate boolean binary tree](Solutions/E/evaluate-boolean-binary-tree)
 * [Find a corresponding node of a binary tree in a clone of that tree](Solutions/F/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree)
 * [Find duplicate subtrees](Solutions/F/find-duplicate-subtrees)
+* [Find largest value in each tree row](Solutions/F/find-largest-value-in-each-tree-row)
 * [Flatten binary tree to linked list](Solutions/F/flatten-binary-tree-to-linked-list)
 * [Flip binary tree to match preorder traversal](Solutions/F/flip-binary-tree-to-match-preorder-traversal)
 * [Height of binary tree after subtree removal queries](Solutions/H/height-of-binary-tree-after-subtree-removal-queries)
