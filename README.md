@@ -241,6 +241,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Form smallest number from two digit arrays](Solutions/F/form-smallest-number-from-two-digit-arrays)
 * [Gray code](Solutions/G/gray-code)
 * [Hamming distance](Solutions/H/hamming-distance)
+* [K th symbol in grammar](Solutions/K/k-th-symbol-in-grammar)
 * [Longest uncommon subsequence ii](Solutions/L/longest-uncommon-subsequence-ii)
 * [Maximum length of a concatenated string with unique characters](Solutions/M/maximum-length-of-a-concatenated-string-with-unique-characters)
 * [Maximum number of achievable transfer requests](Solutions/M/maximum-number-of-achievable-transfer-requests)
