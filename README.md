@@ -93,6 +93,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Execution of all suffix instructions staying in a grid](Solutions/E/execution-of-all-suffix-instructions-staying-in-a-grid)
 * [Number of subarrays with bounded maximum](Solutions/N/number-of-subarrays-with-bounded-maximum)
 * [Split array into maximum number of subarrays](Solutions/S/split-array-into-maximum-number-of-subarrays)
+* [Subarrays distinct element sum of squares i](Solutions/S/subarrays-distinct-element-sum-of-squares-i)
+* [Subarrays distinct element sum of squares ii](Solutions/S/subarrays-distinct-element-sum-of-squares-ii)
 * [Substring with largest variance](Solutions/S/substring-with-largest-variance)
 * [Ways to split array into good subarrays](Solutions/W/ways-to-split-array-into-good-subarrays)
 
@@ -511,6 +513,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Distinct subsequences](Solutions/D/distinct-subsequences)
 * [Interleaving string](Solutions/I/interleaving-string)
 * [K inverse pairs array](Solutions/K/k-inverse-pairs-array)
+* [Length of the longest subsequence that sums to target](Solutions/L/length-of-the-longest-subsequence-that-sums-to-target)
 * [Longest binary subsequence less than or equal to k](Solutions/L/longest-binary-subsequence-less-than-or-equal-to-k)
 * [Longest ideal subsequence](Solutions/L/longest-ideal-subsequence)
 * [Longest palindromic subsequence](Solutions/L/longest-palindromic-subsequence)
@@ -601,6 +604,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Coin change 2](Solutions/C/coin-change-2)
 * [Count all possible routes](Solutions/C/count-all-possible-routes)
 * [Count of sub multisets with bounded sum](Solutions/C/count-of-sub-multisets-with-bounded-sum)
+* [Length of the longest subsequence that sums to target](Solutions/L/length-of-the-longest-subsequence-that-sums-to-target)
 * [Maximum value of k coins from piles](Solutions/M/maximum-value-of-k-coins-from-piles)
 * [Number of great partitions](Solutions/N/number-of-great-partitions)
 * [Number of ways to earn points](Solutions/N/number-of-ways-to-earn-points)
@@ -930,6 +934,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum cost to make array equal](Solutions/M/minimum-cost-to-make-array-equal)
 * [Minimum money required before transactions](Solutions/M/minimum-money-required-before-transactions)
 * [Minimum number of arrows to burst balloons](Solutions/M/minimum-number-of-arrows-to-burst-balloons)
+* [Minimum number of changes to make binary string beautiful](Solutions/M/minimum-number-of-changes-to-make-binary-string-beautiful)
 * [Minimum number of groups to create a valid assignment](Solutions/M/minimum-number-of-groups-to-create-a-valid-assignment)
 * [Minimum number of increments on subarrays to form a target array](Solutions/M/minimum-number-of-increments-on-subarrays-to-form-a-target-array)
 * [Minimum number of operations to make all array elements equal to 1](Solutions/M/minimum-number-of-operations-to-make-all-array-elements-equal-to-1)
@@ -1689,6 +1694,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Segment_tree-Lazy_propagation">Lazy propagation</a>
 * [Handling sum queries after update](Solutions/H/handling-sum-queries-after-update)
+* [Subarrays distinct element sum of squares i](Solutions/S/subarrays-distinct-element-sum-of-squares-i)
+* [Subarrays distinct element sum of squares ii](Solutions/S/subarrays-distinct-element-sum-of-squares-ii)
 
 ## <a name="Simple_implementation">Simple implementation</a>
 * [Account balance after rounded purchase](Solutions/A/account-balance-after-rounded-purchase)
