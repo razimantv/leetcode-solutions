@@ -121,6 +121,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## <a name="Averaging_from_total_and_count">Averaging from total and count</a>
 * [Average of levels in binary tree](Solutions/A/average-of-levels-in-binary-tree)
+* [Count nodes equal to average of subtree](Solutions/C/count-nodes-equal-to-average-of-subtree)
 * [Design underground system](Solutions/D/design-underground-system)
 * [Finding mk average](Solutions/F/finding-mk-average)
 * [Minimum average difference](Solutions/M/minimum-average-difference)
@@ -2148,6 +2149,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Convert sorted array to binary search tree](Solutions/C/convert-sorted-array-to-binary-search-tree)
 * [Convert sorted list to binary search tree](Solutions/C/convert-sorted-list-to-binary-search-tree)
 * [Count good nodes in binary tree](Solutions/C/count-good-nodes-in-binary-tree)
+* [Count nodes equal to average of subtree](Solutions/C/count-nodes-equal-to-average-of-subtree)
 * [Cousins in binary tree](Solutions/C/cousins-in-binary-tree)
 * [Cousins in binary tree ii](Solutions/C/cousins-in-binary-tree-ii)
 * [Deepest leaves sum](Solutions/D/deepest-leaves-sum)
