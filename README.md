@@ -1988,6 +1988,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## <a name="Stack">Stack</a>
 * [Binary search tree iterator](Solutions/B/binary-search-tree-iterator)
+* [Build an array with stack operations](Solutions/B/build-an-array-with-stack-operations)
 * [Min stack](Solutions/M/min-stack)
 * [Removing stars from a string](Solutions/R/removing-stars-from-a-string)
 
