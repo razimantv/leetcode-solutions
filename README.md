@@ -1385,6 +1385,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Mathematics-Parity">Parity</a>
 * [Minimum reverse operations](Solutions/M/minimum-reverse-operations)
 
+### <a name="Mathematics-Physics_observation">Physics observation</a>
+* [Last moment before all ants fall out of a plank](Solutions/L/last-moment-before-all-ants-fall-out-of-a-plank)
+
 ### <a name="Mathematics-Probability">Probability</a>
 * [Generate random point in a circle](Solutions/G/generate-random-point-in-a-circle)
 * [Implement rand10 using rand7](Solutions/I/implement-rand10-using-rand7)
