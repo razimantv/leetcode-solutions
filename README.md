@@ -207,6 +207,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Closest room](Solutions/C/closest-room)
 * [Contains duplicate iii](Solutions/C/contains-duplicate-iii)
 * [Count of range sum](Solutions/C/count-of-range-sum)
+* [Maximum balanced subsequence sum](Solutions/M/maximum-balanced-subsequence-sum)
 * [Maximum number of points from grid queries](Solutions/M/maximum-number-of-points-from-grid-queries)
 * [Maximum sum queries](Solutions/M/maximum-sum-queries)
 * [Minimum absolute difference between elements with constraint](Solutions/M/minimum-absolute-difference-between-elements-with-constraint)
@@ -469,6 +470,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest string chain](Solutions/L/longest-string-chain)
 * [Longest unequal adjacent groups subsequence i](Solutions/L/longest-unequal-adjacent-groups-subsequence-i)
 * [Maximum alternating subsequence sum](Solutions/M/maximum-alternating-subsequence-sum)
+* [Maximum balanced subsequence sum](Solutions/M/maximum-balanced-subsequence-sum)
 * [Maximum deletions on a string](Solutions/M/maximum-deletions-on-a-string)
 * [Maximum number of jumps to reach the last index](Solutions/M/maximum-number-of-jumps-to-reach-the-last-index)
 * [Maximum strictly increasing cells in a matrix](Solutions/M/maximum-strictly-increasing-cells-in-a-matrix)
@@ -693,6 +695,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest univalue path](Solutions/L/longest-univalue-path)
 * [Maximum number of k divisible components](Solutions/M/maximum-number-of-k-divisible-components)
 * [Maximum points after collecting coins from all nodes](Solutions/M/maximum-points-after-collecting-coins-from-all-nodes)
+* [Maximum score after applying operations on a tree](Solutions/M/maximum-score-after-applying-operations-on-a-tree)
 * [Minimize the total price of the trips](Solutions/M/minimize-the-total-price-of-the-trips)
 * [Minimum cost to change the final value of expression](Solutions/M/minimum-cost-to-change-the-final-value-of-expression)
 * [Minimum edge reversals so every node is reachable](Solutions/M/minimum-edge-reversals-so-every-node-is-reachable)
@@ -758,6 +761,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Graph_theory-Degree_counting">Degree counting</a>
 * [Add edges to make degrees of all nodes even](Solutions/A/add-edges-to-make-degrees-of-all-nodes-even)
 * [Collect coins in a tree](Solutions/C/collect-coins-in-a-tree)
+* [Find champion i](Solutions/F/find-champion-i)
+* [Find champion ii](Solutions/F/find-champion-ii)
 * [Find the town judge](Solutions/F/find-the-town-judge)
 * [Minimum number of vertices to reach all nodes](Solutions/M/minimum-number-of-vertices-to-reach-all-nodes)
 * [Validate binary tree nodes](Solutions/V/validate-binary-tree-nodes)
@@ -780,6 +785,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest path with different adjacent characters](Solutions/L/longest-path-with-different-adjacent-characters)
 * [Maximum number of k divisible components](Solutions/M/maximum-number-of-k-divisible-components)
 * [Maximum points after collecting coins from all nodes](Solutions/M/maximum-points-after-collecting-coins-from-all-nodes)
+* [Maximum score after applying operations on a tree](Solutions/M/maximum-score-after-applying-operations-on-a-tree)
 * [Minimize the total price of the trips](Solutions/M/minimize-the-total-price-of-the-trips)
 * [Minimum edge reversals so every node is reachable](Solutions/M/minimum-edge-reversals-so-every-node-is-reachable)
 * [Minimum edge weight equilibrium queries in a tree](Solutions/M/minimum-edge-weight-equilibrium-queries-in-a-tree)
@@ -840,6 +846,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Graph_theory-Directed_acyclic_graph">Directed acyclic graph</a>
 * [All paths from source to target](Solutions/A/all-paths-from-source-to-target)
+* [Find champion i](Solutions/F/find-champion-i)
+* [Find champion ii](Solutions/F/find-champion-ii)
 
 ### <a name="Graph_theory-Iterative_leaf_removal">Iterative leaf removal</a>
 * [Collect coins in a tree](Solutions/C/collect-coins-in-a-tree)
@@ -1286,6 +1294,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Handling sum queries after update](Solutions/H/handling-sum-queries-after-update)
 
 ### <a name="Mathematics-Expression_rearrangement">Expression rearrangement</a>
+* [Maximum balanced subsequence sum](Solutions/M/maximum-balanced-subsequence-sum)
 * [Number of pairs satisfying inequality](Solutions/N/number-of-pairs-satisfying-inequality)
 
 ### <a name="Mathematics-Geometry">Geometry</a>
