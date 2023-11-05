@@ -1764,6 +1764,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find the pivot integer](Solutions/F/find-the-pivot-integer)
 * [Find the town judge](Solutions/F/find-the-town-judge)
 * [Find the width of columns of a grid](Solutions/F/find-the-width-of-columns-of-a-grid)
+* [Find the winner of an array game](Solutions/F/find-the-winner-of-an-array-game)
 * [Find the winner of the circular game](Solutions/F/find-the-winner-of-the-circular-game)
 * [Find winner on a tic tac toe game](Solutions/F/find-winner-on-a-tic-tac-toe-game)
 * [Fizz buzz](Solutions/F/fizz-buzz)
