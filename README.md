@@ -766,6 +766,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find champion ii](Solutions/F/find-champion-ii)
 * [Find the town judge](Solutions/F/find-the-town-judge)
 * [Minimum number of vertices to reach all nodes](Solutions/M/minimum-number-of-vertices-to-reach-all-nodes)
+* [Restore the array from adjacent pairs](Solutions/R/restore-the-array-from-adjacent-pairs)
 * [Validate binary tree nodes](Solutions/V/validate-binary-tree-nodes)
 
 ### <a name="Graph_theory-Depth_first_search">Depth first search</a>
