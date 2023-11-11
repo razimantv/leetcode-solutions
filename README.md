@@ -539,6 +539,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum total distance traveled](Solutions/M/minimum-total-distance-traveled)
 * [N th tribonacci number](Solutions/N/n-th-tribonacci-number)
 * [Number of great partitions](Solutions/N/number-of-great-partitions)
+* [Number of strings which can be rearranged to contain substring](Solutions/N/number-of-strings-which-can-be-rearranged-to-contain-substring)
 * [Number of ways of cutting a pizza](Solutions/N/number-of-ways-of-cutting-a-pizza)
 * [Number of ways to earn points](Solutions/N/number-of-ways-to-earn-points)
 * [Number of ways to form a target string given a dictionary](Solutions/N/number-of-ways-to-form-a-target-string-given-a-dictionary)
@@ -593,6 +594,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Knight probability in chessboard](Solutions/K/knight-probability-in-chessboard)
 * [Maximum number of non overlapping palindrome substrings](Solutions/M/maximum-number-of-non-overlapping-palindrome-substrings)
 * [Minimum additions to make valid string](Solutions/M/minimum-additions-to-make-valid-string)
+* [Number of strings which can be rearranged to contain substring](Solutions/N/number-of-strings-which-can-be-rearranged-to-contain-substring)
 * [Number of ways to paint n 3 grid](Solutions/N/number-of-ways-to-paint-n-3-grid)
 * [Special permutations](Solutions/S/special-permutations)
 
@@ -938,6 +940,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum number of integers to choose from a range i](Solutions/M/maximum-number-of-integers-to-choose-from-a-range-i)
 * [Maximum odd binary number](Solutions/M/maximum-odd-binary-number)
 * [Maximum performance of a team](Solutions/M/maximum-performance-of-a-team)
+* [Maximum spending after buying items](Solutions/M/maximum-spending-after-buying-items)
 * [Maximum tastiness of candy basket](Solutions/M/maximum-tastiness-of-candy-basket)
 * [Maximum units on a truck](Solutions/M/maximum-units-on-a-truck)
 * [Maximum value after insertion](Solutions/M/maximum-value-after-insertion)
@@ -1240,6 +1243,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Mathematics-Closed_form_expressions">Closed form expressions</a>
 * [Count anagrams](Solutions/C/count-anagrams)
 * [Count total number of colored cells](Solutions/C/count-total-number-of-colored-cells)
+* [Distribute candies among children i](Solutions/D/distribute-candies-among-children-i)
+* [Distribute candies among children ii](Solutions/D/distribute-candies-among-children-ii)
 * [Find the pivot integer](Solutions/F/find-the-pivot-integer)
 * [Maximum sum with exactly k elements](Solutions/M/maximum-sum-with-exactly-k-elements)
 * [Maximum value at a given index in a bounded array](Solutions/M/maximum-value-at-a-given-index-in-a-bounded-array)
@@ -1277,6 +1282,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Naming a company](Solutions/N/naming-a-company)
 * [Number of good paths](Solutions/N/number-of-good-paths)
 * [Number of music playlists](Solutions/N/number-of-music-playlists)
+* [Number of strings which can be rearranged to contain substring](Solutions/N/number-of-strings-which-can-be-rearranged-to-contain-substring)
 * [Number of subsequences that satisfy the given sum condition](Solutions/N/number-of-subsequences-that-satisfy-the-given-sum-condition)
 * [Number of ways to reach a position after exactly k steps](Solutions/N/number-of-ways-to-reach-a-position-after-exactly-k-steps)
 * [Number of ways to rearrange sticks with k sticks visible](Solutions/N/number-of-ways-to-rearrange-sticks-with-k-sticks-visible)
@@ -1289,6 +1295,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 #### <a name="Mathematics-Combinatorics-Inclusion_exclusion">Inclusion-exclusion</a>
 * [Count increasing quadruplets](Solutions/C/count-increasing-quadruplets)
+* [Distribute candies among children i](Solutions/D/distribute-candies-among-children-i)
+* [Distribute candies among children ii](Solutions/D/distribute-candies-among-children-ii)
 
 ### <a name="Mathematics-Composition_of_operations">Composition of operations</a>
 * [Bitwise xor of all pairings](Solutions/B/bitwise-xor-of-all-pairings)
@@ -1618,6 +1626,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum frequency stack](Solutions/M/maximum-frequency-stack)
 * [Maximum number of events that can be attended](Solutions/M/maximum-number-of-events-that-can-be-attended)
 * [Maximum number of points from grid queries](Solutions/M/maximum-number-of-points-from-grid-queries)
+* [Maximum spending after buying items](Solutions/M/maximum-spending-after-buying-items)
 * [Meeting rooms iii](Solutions/M/meeting-rooms-iii)
 * [Merge k sorted lists](Solutions/M/merge-k-sorted-lists)
 * [Minimize deviation in array](Solutions/M/minimize-deviation-in-array)
@@ -2111,6 +2120,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Backspace string compare](Solutions/B/backspace-string-compare)
 * [Construct target array with multiple sums](Solutions/C/construct-target-array-with-multiple-sums)
 * [Maximum segment sum after removals](Solutions/M/maximum-segment-sum-after-removals)
+* [Maximum spending after buying items](Solutions/M/maximum-spending-after-buying-items)
 * [Sum of matrix after queries](Solutions/S/sum-of-matrix-after-queries)
 
 ## <a name="Tree">Tree</a>
