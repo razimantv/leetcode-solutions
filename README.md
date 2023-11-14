@@ -74,6 +74,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Subsequence with the minimum score](Solutions/S/subsequence-with-the-minimum-score)
 * [Sum of distances](Solutions/S/sum-of-distances)
 * [Take k of each character from left and right](Solutions/T/take-k-of-each-character-from-left-and-right)
+* [Unique length 3 palindromic subsequences](Solutions/U/unique-length-3-palindromic-subsequences)
 
 #### <a name="Array_scanning-From_both_ends_of_array-Element_exclusion">Element exclusion</a>
 * [Construct product matrix](Solutions/C/construct-product-matrix)
@@ -288,6 +289,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Split array into maximum number of subarrays](Solutions/S/split-array-into-maximum-number-of-subarrays)
 * [String compression ii](Solutions/S/string-compression-ii)
 * [Sum of values at indices with k set bits](Solutions/S/sum-of-values-at-indices-with-k-set-bits)
+* [Unique length 3 palindromic subsequences](Solutions/U/unique-length-3-palindromic-subsequences)
 * [Utf 8 validation](Solutions/U/utf-8-validation)
 
 ### <a name="Bitwise_operation-Build_result_bit_by_bit">Build result bit-by-bit</a>
@@ -1497,6 +1499,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Palindrome partitioning iv](Solutions/P/palindrome-partitioning-iv)
 * [Palindromic substrings](Solutions/P/palindromic-substrings)
 * [Remove palindromic subsequences](Solutions/R/remove-palindromic-subsequences)
+* [Unique length 3 palindromic subsequences](Solutions/U/unique-length-3-palindromic-subsequences)
 
 ### <a name="Palindrome-Hashing">Hashing</a>
 * [Palindrome pairs](Solutions/P/palindrome-pairs)
@@ -1541,6 +1544,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Prefix-Bitwise_operation">Bitwise operation</a>
 * [Maximum or](Solutions/M/maximum-or)
+* [Unique length 3 palindromic subsequences](Solutions/U/unique-length-3-palindromic-subsequences)
 
 ### <a name="Prefix-Extremum">Extremum</a>
 * [132 pattern](Solutions/0-9/132-pattern)
