@@ -1429,6 +1429,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find a good subset of the matrix](Solutions/F/find-a-good-subset-of-the-matrix)
 * [Soup servings](Solutions/S/soup-servings)
 
+### <a name="Mathematics-Set_theory">Set theory</a>
+* [Find unique binary string](Solutions/F/find-unique-binary-string)
+
 ## <a name="Matrix">Matrix</a>
 * [Difference between ones and zeros in row and column](Solutions/D/difference-between-ones-and-zeros-in-row-and-column)
 * [Difference of number of distinct values on diagonals](Solutions/D/difference-of-number-of-distinct-values-on-diagonals)
