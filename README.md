@@ -18,6 +18,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum right shifts to sort the array](Solutions/M/minimum-right-shifts-to-sort-the-array)
 * [Monotonic array](Solutions/M/monotonic-array)
 * [Remove colored pieces if both neighbors are the same color](Solutions/R/remove-colored-pieces-if-both-neighbors-are-the-same-color)
+* [Separate black and white balls](Solutions/S/separate-black-and-white-balls)
 * [The employee that worked on the longest task](Solutions/T/the-employee-that-worked-on-the-longest-task)
 
 ### <a name="Array_scanning-Contiguous_region">Contiguous region</a>
@@ -164,6 +165,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Data stream as disjoint intervals](Solutions/D/data-stream-as-disjoint-intervals)
 * [Design movie rental system](Solutions/D/design-movie-rental-system)
 * [Dungeon game](Solutions/D/dungeon-game)
+* [Find building where alice and bob can meet](Solutions/F/find-building-where-alice-and-bob-can-meet)
 * [Find first and last position of element in sorted array](Solutions/F/find-first-and-last-position-of-element-in-sorted-array)
 * [Find in mountain array](Solutions/F/find-in-mountain-array)
 * [Find k closest elements](Solutions/F/find-k-closest-elements)
@@ -303,6 +305,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count paths that can form a palindrome in a tree](Solutions/C/count-paths-that-can-form-a-palindrome-in-a-tree)
 * [Count the number of beautiful subarrays](Solutions/C/count-the-number-of-beautiful-subarrays)
 * [Find the original array of prefix xor](Solutions/F/find-the-original-array-of-prefix-xor)
+* [Maximum xor product](Solutions/M/maximum-xor-product)
 * [Neighboring bitwise xor](Solutions/N/neighboring-bitwise-xor)
 * [Pseudo palindromic paths in a binary tree](Solutions/P/pseudo-palindromic-paths-in-a-binary-tree)
 * [Substring xor queries](Solutions/S/substring-xor-queries)
@@ -949,6 +952,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum tastiness of candy basket](Solutions/M/maximum-tastiness-of-candy-basket)
 * [Maximum units on a truck](Solutions/M/maximum-units-on-a-truck)
 * [Maximum value after insertion](Solutions/M/maximum-value-after-insertion)
+* [Maximum xor product](Solutions/M/maximum-xor-product)
 * [Mice and cheese](Solutions/M/mice-and-cheese)
 * [Minimize maximum pair sum in array](Solutions/M/minimize-maximum-pair-sum-in-array)
 * [Minimize the maximum difference of pairs](Solutions/M/minimize-the-maximum-difference-of-pairs)
@@ -1479,6 +1483,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## <a name="Offline_query_processing">Offline query processing</a>
 * [Checking existence of edge length limited paths](Solutions/C/checking-existence-of-edge-length-limited-paths)
+* [Find building where alice and bob can meet](Solutions/F/find-building-where-alice-and-bob-can-meet)
 * [Maximum sum queries](Solutions/M/maximum-sum-queries)
 * [Minimum absolute difference queries](Solutions/M/minimum-absolute-difference-queries)
 
@@ -1816,6 +1821,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Largest positive integer that exists with its negative](Solutions/L/largest-positive-integer-that-exists-with-its-negative)
 * [Largest time for given digits](Solutions/L/largest-time-for-given-digits)
 * [Last visited integers](Solutions/L/last-visited-integers)
+* [Make three strings equal](Solutions/M/make-three-strings-equal)
 * [Match substring after replacement](Solutions/M/match-substring-after-replacement)
 * [Matrix diagonal sum](Solutions/M/matrix-diagonal-sum)
 * [Maximum 69 number](Solutions/M/maximum-69-number)
@@ -2046,6 +2052,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Apply operations to maximize score](Solutions/A/apply-operations-to-maximize-score)
 * [Beautiful towers ii](Solutions/B/beautiful-towers-ii)
 * [Daily temperatures](Solutions/D/daily-temperatures)
+* [Find building where alice and bob can meet](Solutions/F/find-building-where-alice-and-bob-can-meet)
 * [Largest rectangle in histogram](Solutions/L/largest-rectangle-in-histogram)
 * [Maximum score of a good subarray](Solutions/M/maximum-score-of-a-good-subarray)
 * [Maximum subarray min product](Solutions/M/maximum-subarray-min-product)
