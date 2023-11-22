@@ -1962,6 +1962,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Course schedule iii](Solutions/C/course-schedule-iii)
 * [Custom sort string](Solutions/C/custom-sort-string)
 * [Design a food rating system](Solutions/D/design-a-food-rating-system)
+* [Diagonal traverse ii](Solutions/D/diagonal-traverse-ii)
 * [Divide intervals into minimum number of groups](Solutions/D/divide-intervals-into-minimum-number-of-groups)
 * [Earliest possible day of full bloom](Solutions/E/earliest-possible-day-of-full-bloom)
 * [Eliminate maximum number of monsters](Solutions/E/eliminate-maximum-number-of-monsters)
