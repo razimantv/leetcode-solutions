@@ -1748,6 +1748,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Add to array form of integer](Solutions/A/add-to-array-form-of-integer)
 * [Alternating digit sum](Solutions/A/alternating-digit-sum)
 * [Apply operations to an array](Solutions/A/apply-operations-to-an-array)
+* [Arithmetic subarrays](Solutions/A/arithmetic-subarrays)
 * [Arranging coins](Solutions/A/arranging-coins)
 * [Average salary excluding the minimum and maximum salary](Solutions/A/average-salary-excluding-the-minimum-and-maximum-salary)
 * [Average value of even numbers that are divisible by three](Solutions/A/average-value-of-even-numbers-that-are-divisible-by-three)
