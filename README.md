@@ -942,6 +942,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum ice cream bars](Solutions/M/maximum-ice-cream-bars)
 * [Maximum length of pair chain](Solutions/M/maximum-length-of-pair-chain)
 * [Maximum matching of players with trainer](Solutions/M/maximum-matching-of-players-with-trainer)
+* [Maximum number of coins you can get](Solutions/M/maximum-number-of-coins-you-can-get)
 * [Maximum number of consecutive values you can make](Solutions/M/maximum-number-of-consecutive-values-you-can-make)
 * [Maximum number of groups entering a competition](Solutions/M/maximum-number-of-groups-entering-a-competition)
 * [Maximum number of groups with increasing length](Solutions/M/maximum-number-of-groups-with-increasing-length)
