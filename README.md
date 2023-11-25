@@ -19,6 +19,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Monotonic array](Solutions/M/monotonic-array)
 * [Remove colored pieces if both neighbors are the same color](Solutions/R/remove-colored-pieces-if-both-neighbors-are-the-same-color)
 * [Separate black and white balls](Solutions/S/separate-black-and-white-balls)
+* [Sum of absolute differences in a sorted array](Solutions/S/sum-of-absolute-differences-in-a-sorted-array)
 * [The employee that worked on the longest task](Solutions/T/the-employee-that-worked-on-the-longest-task)
 
 ### <a name="Array_scanning-Contiguous_region">Contiguous region</a>
@@ -1249,6 +1250,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum number of operations to make array empty](Solutions/M/minimum-number-of-operations-to-make-array-empty)
 * [Poor pigs](Solutions/P/poor-pigs)
 * [Strictly palindromic number](Solutions/S/strictly-palindromic-number)
+* [Sum of absolute differences in a sorted array](Solutions/S/sum-of-absolute-differences-in-a-sorted-array)
 
 ### <a name="Mathematics-Closed_form_expressions">Closed form expressions</a>
 * [Count anagrams](Solutions/C/count-anagrams)
@@ -1608,6 +1610,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Reducing dishes](Solutions/R/reducing-dishes)
 * [Subarray sums divisible by k](Solutions/S/subarray-sums-divisible-by-k)
 * [Substring with largest variance](Solutions/S/substring-with-largest-variance)
+* [Sum of absolute differences in a sorted array](Solutions/S/sum-of-absolute-differences-in-a-sorted-array)
 
 #### <a name="Prefix-Sum-2D">2D</a>
 * [Construct product matrix](Solutions/C/construct-product-matrix)
