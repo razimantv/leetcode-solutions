@@ -32,6 +32,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find all good indices](Solutions/F/find-all-good-indices)
 * [Find the longest balanced substring of a binary string](Solutions/F/find-the-longest-balanced-substring-of-a-binary-string)
 * [Invalid transactions](Solutions/I/invalid-transactions)
+* [Largest submatrix with rearrangements](Solutions/L/largest-submatrix-with-rearrangements)
 * [Length of the longest alphabetical continuous substring](Solutions/L/length-of-the-longest-alphabetical-continuous-substring)
 * [Longer contiguous segments of ones than zeros](Solutions/L/longer-contiguous-segments-of-ones-than-zeros)
 * [Longest alternating subarray](Solutions/L/longest-alternating-subarray)
@@ -1443,6 +1444,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Difference between ones and zeros in row and column](Solutions/D/difference-between-ones-and-zeros-in-row-and-column)
 * [Difference of number of distinct values on diagonals](Solutions/D/difference-of-number-of-distinct-values-on-diagonals)
 * [Increment submatrices by one](Solutions/I/increment-submatrices-by-one)
+* [Largest submatrix with rearrangements](Solutions/L/largest-submatrix-with-rearrangements)
 * [Maximum strictly increasing cells in a matrix](Solutions/M/maximum-strictly-increasing-cells-in-a-matrix)
 
 ### <a name="Matrix-Geometric_transformation">Geometric transformation</a>
@@ -1941,6 +1943,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Divide players into teams of equal skill](Solutions/D/divide-players-into-teams-of-equal-skill)
 * [High access employees](Solutions/H/high-access-employees)
 * [Largest perimeter triangle](Solutions/L/largest-perimeter-triangle)
+* [Largest submatrix with rearrangements](Solutions/L/largest-submatrix-with-rearrangements)
 * [Longest square streak in an array](Solutions/L/longest-square-streak-in-an-array)
 * [Majority element](Solutions/M/majority-element)
 * [Maximum area of a piece of cake after horizontal and vertical cuts](Solutions/M/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts)
