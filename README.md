@@ -44,6 +44,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest turbulent subarray](Solutions/L/longest-turbulent-subarray)
 * [Max consecutive ones](Solutions/M/max-consecutive-ones)
 * [Maximal rectangle](Solutions/M/maximal-rectangle)
+* [Maximize area of square hole in grid](Solutions/M/maximize-area-of-square-hole-in-grid)
 * [Maximum ascending subarray sum](Solutions/M/maximum-ascending-subarray-sum)
 * [Maximum product subarray](Solutions/M/maximum-product-subarray)
 * [Minimum cost to make all characters equal](Solutions/M/minimum-cost-to-make-all-characters-equal)
@@ -386,6 +387,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## <a name="Deque">Deque</a>
 
 ### <a name="Deque-Monotonic_deque">Monotonic deque</a>
+* [Find maximum non decreasing array length](Solutions/F/find-maximum-non-decreasing-array-length)
 * [Maximum number of robots within budget](Solutions/M/maximum-number-of-robots-within-budget)
 
 ## <a name="Design_data_structure">Design data structure</a>
@@ -541,6 +543,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum additions to make valid string](Solutions/M/minimum-additions-to-make-valid-string)
 * [Minimum falling path sum](Solutions/M/minimum-falling-path-sum)
 * [Minimum insertion steps to make a string palindrome](Solutions/M/minimum-insertion-steps-to-make-a-string-palindrome)
+* [Minimum number of coins for fruits](Solutions/M/minimum-number-of-coins-for-fruits)
 * [Minimum number of refueling stops](Solutions/M/minimum-number-of-refueling-stops)
 * [Minimum path cost in a grid](Solutions/M/minimum-path-cost-in-a-grid)
 * [Minimum path sum](Solutions/M/minimum-path-sum)
@@ -663,6 +666,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Predict the winner](Solutions/P/predict-the-winner)
 
 ### <a name="Dynamic_programming-Monotonic_stack_deque">Monotonic stack/deque</a>
+* [Find maximum non decreasing array length](Solutions/F/find-maximum-non-decreasing-array-length)
 * [Minimum difficulty of a job schedule](Solutions/M/minimum-difficulty-of-a-job-schedule)
 
 ### <a name="Dynamic_programming-Number_theory">Number theory</a>
@@ -1318,6 +1322,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Handling sum queries after update](Solutions/H/handling-sum-queries-after-update)
 
 ### <a name="Mathematics-Expression_rearrangement">Expression rearrangement</a>
+* [Find maximum non decreasing array length](Solutions/F/find-maximum-non-decreasing-array-length)
 * [Maximum balanced subsequence sum](Solutions/M/maximum-balanced-subsequence-sum)
 * [Number of pairs satisfying inequality](Solutions/N/number-of-pairs-satisfying-inequality)
 
@@ -1581,6 +1586,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count vowel strings in ranges](Solutions/C/count-vowel-strings-in-ranges)
 * [Delivering boxes from storage to ports](Solutions/D/delivering-boxes-from-storage-to-ports)
 * [Execution of all suffix instructions staying in a grid](Solutions/E/execution-of-all-suffix-instructions-staying-in-a-grid)
+* [Find maximum non decreasing array length](Solutions/F/find-maximum-non-decreasing-array-length)
 * [Find the highest altitude](Solutions/F/find-the-highest-altitude)
 * [Find the score of all prefixes of an array](Solutions/F/find-the-score-of-all-prefixes-of-an-array)
 * [Find the substring with maximum cost](Solutions/F/find-the-substring-with-maximum-cost)
@@ -1810,6 +1816,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find the winner of an array game](Solutions/F/find-the-winner-of-an-array-game)
 * [Find the winner of the circular game](Solutions/F/find-the-winner-of-the-circular-game)
 * [Find winner on a tic tac toe game](Solutions/F/find-winner-on-a-tic-tac-toe-game)
+* [Find words containing character](Solutions/F/find-words-containing-character)
 * [Fizz buzz](Solutions/F/fizz-buzz)
 * [Flipping an image](Solutions/F/flipping-an-image)
 * [Game of life](Solutions/G/game-of-life)
@@ -1946,6 +1953,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Largest submatrix with rearrangements](Solutions/L/largest-submatrix-with-rearrangements)
 * [Longest square streak in an array](Solutions/L/longest-square-streak-in-an-array)
 * [Majority element](Solutions/M/majority-element)
+* [Maximize area of square hole in grid](Solutions/M/maximize-area-of-square-hole-in-grid)
 * [Maximum area of a piece of cake after horizontal and vertical cuts](Solutions/M/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts)
 * [Maximum gap](Solutions/M/maximum-gap)
 * [Maximum star sum of a graph](Solutions/M/maximum-star-sum-of-a-graph)
