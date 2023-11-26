@@ -1017,6 +1017,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Continuous subarray sum](Solutions/C/continuous-subarray-sum)
 * [Convert an array into a 2d array with conditions](Solutions/C/convert-an-array-into-a-2d-array-with-conditions)
 * [Count anagrams](Solutions/C/count-anagrams)
+* [Count beautiful substrings i](Solutions/C/count-beautiful-substrings-i)
+* [Count beautiful substrings ii](Solutions/C/count-beautiful-substrings-ii)
 * [Count complete subarrays in an array](Solutions/C/count-complete-subarrays-in-an-array)
 * [Count number of bad pairs](Solutions/C/count-number-of-bad-pairs)
 * [Count number of distinct integers after reverse operations](Solutions/C/count-number-of-distinct-integers-after-reverse-operations)
@@ -1276,6 +1278,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count all possible routes](Solutions/C/count-all-possible-routes)
 * [Count all valid pickup and delivery options](Solutions/C/count-all-valid-pickup-and-delivery-options)
 * [Count anagrams](Solutions/C/count-anagrams)
+* [Count beautiful substrings i](Solutions/C/count-beautiful-substrings-i)
+* [Count beautiful substrings ii](Solutions/C/count-beautiful-substrings-ii)
 * [Count collisions of monkeys on a polygon](Solutions/C/count-collisions-of-monkeys-on-a-polygon)
 * [Count good numbers](Solutions/C/count-good-numbers)
 * [Count k subsequences of a string with maximum beauty](Solutions/C/count-k-subsequences-of-a-string-with-maximum-beauty)
@@ -1351,6 +1355,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Check if it is a good array](Solutions/C/check-if-it-is-a-good-array)
 * [Check if point is reachable](Solutions/C/check-if-point-is-reachable)
 * [Continuous subarray sum](Solutions/C/continuous-subarray-sum)
+* [Count beautiful substrings i](Solutions/C/count-beautiful-substrings-i)
+* [Count beautiful substrings ii](Solutions/C/count-beautiful-substrings-ii)
 * [Count distinct numbers on board](Solutions/C/count-distinct-numbers-on-board)
 * [Count of interesting subarrays](Solutions/C/count-of-interesting-subarrays)
 * [Destroy sequential targets](Solutions/D/destroy-sequential-targets)
@@ -1547,6 +1553,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Permutation-Swaps">Swaps</a>
 * [Check if strings can be made equal with operations ii](Solutions/C/check-if-strings-can-be-made-equal-with-operations-ii)
+* [Make lexicographically smallest array by swapping elements](Solutions/M/make-lexicographically-smallest-array-by-swapping-elements)
 * [Orderly queue](Solutions/O/orderly-queue)
 * [Semi ordered permutation](Solutions/S/semi-ordered-permutation)
 
@@ -1579,6 +1586,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Prefix-Sum">Sum</a>
 * [Contiguous array](Solutions/C/contiguous-array)
 * [Continuous subarray sum](Solutions/C/continuous-subarray-sum)
+* [Count beautiful substrings i](Solutions/C/count-beautiful-substrings-i)
+* [Count beautiful substrings ii](Solutions/C/count-beautiful-substrings-ii)
 * [Count days spent together](Solutions/C/count-days-spent-together)
 * [Count of interesting subarrays](Solutions/C/count-of-interesting-subarrays)
 * [Count subarrays with median k](Solutions/C/count-subarrays-with-median-k)
@@ -1838,6 +1847,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Make three strings equal](Solutions/M/make-three-strings-equal)
 * [Match substring after replacement](Solutions/M/match-substring-after-replacement)
 * [Matrix diagonal sum](Solutions/M/matrix-diagonal-sum)
+* [Matrix similarity after cyclic shifts](Solutions/M/matrix-similarity-after-cyclic-shifts)
 * [Maximum 69 number](Solutions/M/maximum-69-number)
 * [Maximum count of positive integer and negative integer](Solutions/M/maximum-count-of-positive-integer-and-negative-integer)
 * [Maximum difference by remapping a digit](Solutions/M/maximum-difference-by-remapping-a-digit)
@@ -2041,6 +2051,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Closest nodes queries in a binary search tree](Solutions/C/closest-nodes-queries-in-a-binary-search-tree)
 * [Find right interval](Solutions/F/find-right-interval)
 * [Invalid transactions](Solutions/I/invalid-transactions)
+* [Make lexicographically smallest array by swapping elements](Solutions/M/make-lexicographically-smallest-array-by-swapping-elements)
 * [Sum of subarray minimums](Solutions/S/sum-of-subarray-minimums)
 
 ### <a name="Sorting-Stable">Stable</a>
@@ -2294,6 +2305,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find indices with index and value difference ii](Solutions/F/find-indices-with-index-and-value-difference-ii)
 * [Find k closest elements](Solutions/F/find-k-closest-elements)
 * [Find the longest semi repetitive substring](Solutions/F/find-the-longest-semi-repetitive-substring)
+* [Make lexicographically smallest array by swapping elements](Solutions/M/make-lexicographically-smallest-array-by-swapping-elements)
 * [Maximize greatness of an array](Solutions/M/maximize-greatness-of-an-array)
 * [Merge two 2d arrays by summing values](Solutions/M/merge-two-2d-arrays-by-summing-values)
 * [Minimum common value](Solutions/M/minimum-common-value)
