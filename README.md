@@ -531,6 +531,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Distinct subsequences](Solutions/D/distinct-subsequences)
 * [Interleaving string](Solutions/I/interleaving-string)
 * [K inverse pairs array](Solutions/K/k-inverse-pairs-array)
+* [Knight dialer](Solutions/K/knight-dialer)
 * [Length of the longest subsequence that sums to target](Solutions/L/length-of-the-longest-subsequence-that-sums-to-target)
 * [Longest binary subsequence less than or equal to k](Solutions/L/longest-binary-subsequence-less-than-or-equal-to-k)
 * [Longest ideal subsequence](Solutions/L/longest-ideal-subsequence)
@@ -604,6 +605,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Make array strictly increasing](Solutions/M/make-array-strictly-increasing)
 
 ### <a name="Dynamic_programming-Graph_like_state_transitions">Graph-like state transitions</a>
+* [Knight dialer](Solutions/K/knight-dialer)
 * [Knight probability in chessboard](Solutions/K/knight-probability-in-chessboard)
 * [Maximum number of non overlapping palindrome substrings](Solutions/M/maximum-number-of-non-overlapping-palindrome-substrings)
 * [Minimum additions to make valid string](Solutions/M/minimum-additions-to-make-valid-string)
