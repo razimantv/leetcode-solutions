@@ -270,6 +270,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimize xor](Solutions/M/minimize-xor)
 * [Minimum flips to make a or b equal to c](Solutions/M/minimum-flips-to-make-a-or-b-equal-to-c)
 * [Minimum impossible or](Solutions/M/minimum-impossible-or)
+* [Minimum one bit operations to make integers zero](Solutions/M/minimum-one-bit-operations-to-make-integers-zero)
 * [Minimum operations to form subsequence with target sum](Solutions/M/minimum-operations-to-form-subsequence-with-target-sum)
 * [Minimum operations to make the integer zero](Solutions/M/minimum-operations-to-make-the-integer-zero)
 * [Minimum operations to reduce an integer to 0](Solutions/M/minimum-operations-to-reduce-an-integer-to-0)
@@ -573,6 +574,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Best time to buy and sell stock with transaction fee](Solutions/B/best-time-to-buy-and-sell-stock-with-transaction-fee)
 * [Count of integers](Solutions/C/count-of-integers)
 * [Minimum changes to make k semi palindromes](Solutions/M/minimum-changes-to-make-k-semi-palindromes)
+* [Minimum one bit operations to make integers zero](Solutions/M/minimum-one-bit-operations-to-make-integers-zero)
 * [Number of beautiful partitions](Solutions/N/number-of-beautiful-partitions)
 * [Number of people aware of a secret](Solutions/N/number-of-people-aware-of-a-secret)
 
