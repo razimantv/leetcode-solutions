@@ -1050,6 +1050,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find the difference of two arrays](Solutions/F/find-the-difference-of-two-arrays)
 * [Find the distinct difference array](Solutions/F/find-the-distinct-difference-array)
 * [Find the prefix common array of two arrays](Solutions/F/find-the-prefix-common-array-of-two-arrays)
+* [Find words that can be formed by characters](Solutions/F/find-words-that-can-be-formed-by-characters)
 * [Finding the users active minutes](Solutions/F/finding-the-users-active-minutes)
 * [First completely painted row or column](Solutions/F/first-completely-painted-row-or-column)
 * [First letter to appear twice](Solutions/F/first-letter-to-appear-twice)
