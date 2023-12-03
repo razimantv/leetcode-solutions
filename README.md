@@ -1871,6 +1871,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum domino rotations for equal row](Solutions/M/minimum-domino-rotations-for-equal-row)
 * [Minimum hours of training to win a competition](Solutions/M/minimum-hours-of-training-to-win-a-competition)
 * [Minimum number of swaps to make the binary string alternating](Solutions/M/minimum-number-of-swaps-to-make-the-binary-string-alternating)
+* [Minimum time visiting all points](Solutions/M/minimum-time-visiting-all-points)
 * [Most frequent even element](Solutions/M/most-frequent-even-element)
 * [Next greater element i](Solutions/N/next-greater-element-i)
 * [Non decreasing array](Solutions/N/non-decreasing-array)
