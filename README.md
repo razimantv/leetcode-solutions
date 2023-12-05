@@ -1257,6 +1257,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Angle between hands of a clock](Solutions/A/angle-between-hands-of-a-clock)
 * [Can make arithmetic progression from sequence](Solutions/C/can-make-arithmetic-progression-from-sequence)
 * [Construct the longest new string](Solutions/C/construct-the-longest-new-string)
+* [Count of matches in tournament](Solutions/C/count-of-matches-in-tournament)
 * [Distribute money to maximum children](Solutions/D/distribute-money-to-maximum-children)
 * [Find the maximum achievable number](Solutions/F/find-the-maximum-achievable-number)
 * [Fraction to recurring decimal](Solutions/F/fraction-to-recurring-decimal)
