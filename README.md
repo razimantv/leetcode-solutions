@@ -1268,6 +1268,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Sum of absolute differences in a sorted array](Solutions/S/sum-of-absolute-differences-in-a-sorted-array)
 
 ### <a name="Mathematics-Closed_form_expressions">Closed form expressions</a>
+* [Calculate money in leetcode bank](Solutions/C/calculate-money-in-leetcode-bank)
 * [Count anagrams](Solutions/C/count-anagrams)
 * [Count total number of colored cells](Solutions/C/count-total-number-of-colored-cells)
 * [Distribute candies among children i](Solutions/D/distribute-candies-among-children-i)
