@@ -282,6 +282,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Number of 1 bits](Solutions/N/number-of-1-bits)
 * [Number of even and odd bits](Solutions/N/number-of-even-and-odd-bits)
 * [Number of excellent pairs](Solutions/N/number-of-excellent-pairs)
+* [Number of possible sets of closing branches](Solutions/N/number-of-possible-sets-of-closing-branches)
 * [Power of four](Solutions/P/power-of-four)
 * [Power of two](Solutions/P/power-of-two)
 * [Powx n](Solutions/P/powx-n)
@@ -330,6 +331,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [N queens](Solutions/N/n-queens)
 * [N queens ii](Solutions/N/n-queens-ii)
 * [Non decreasing subsequences](Solutions/N/non-decreasing-subsequences)
+* [Number of possible sets of closing branches](Solutions/N/number-of-possible-sets-of-closing-branches)
 * [Permutations](Solutions/P/permutations)
 * [Probability of a two boxes having the same number of distinct balls](Solutions/P/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls)
 * [Remove invalid parentheses](Solutions/R/remove-invalid-parentheses)
@@ -872,6 +874,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find champion i](Solutions/F/find-champion-i)
 * [Find champion ii](Solutions/F/find-champion-ii)
 
+### <a name="Graph_theory-Floyd_Warshall_algorithm">Floyd-Warshall algorithm</a>
+* [Number of possible sets of closing branches](Solutions/N/number-of-possible-sets-of-closing-branches)
+
 ### <a name="Graph_theory-Iterative_leaf_removal">Iterative leaf removal</a>
 * [Collect coins in a tree](Solutions/C/collect-coins-in-a-tree)
 
@@ -1003,6 +1008,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Rearranging fruits](Solutions/R/rearranging-fruits)
 * [Reduce array size to the half](Solutions/R/reduce-array-size-to-the-half)
 * [Reducing dishes](Solutions/R/reducing-dishes)
+* [Remove adjacent almost equal characters](Solutions/R/remove-adjacent-almost-equal-characters)
 * [Remove duplicate letters](Solutions/R/remove-duplicate-letters)
 * [Remove k digits](Solutions/R/remove-k-digits)
 * [Remove stones to minimize the total](Solutions/R/remove-stones-to-minimize-the-total)
@@ -1063,6 +1069,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Jewels and stones](Solutions/J/jewels-and-stones)
 * [K diff pairs in an array](Solutions/K/k-diff-pairs-in-an-array)
 * [Largest positive integer that exists with its negative](Solutions/L/largest-positive-integer-that-exists-with-its-negative)
+* [Length of longest subarray with at most k frequency](Solutions/L/length-of-longest-subarray-with-at-most-k-frequency)
 * [Longest arithmetic subsequence of given difference](Solutions/L/longest-arithmetic-subsequence-of-given-difference)
 * [Longest consecutive sequence](Solutions/L/longest-consecutive-sequence)
 * [Longest nice subarray](Solutions/L/longest-nice-subarray)
@@ -1825,6 +1832,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Duplicate zeros](Solutions/D/duplicate-zeros)
 * [Excel sheet column number](Solutions/E/excel-sheet-column-number)
 * [Faulty keyboard](Solutions/F/faulty-keyboard)
+* [Find common elements between two arrays](Solutions/F/find-common-elements-between-two-arrays)
 * [Find nearest point that has the same x or y coordinate](Solutions/F/find-nearest-point-that-has-the-same-x-or-y-coordinate)
 * [Find numbers with even number of digits](Solutions/F/find-numbers-with-even-number-of-digits)
 * [Find subarrays with equal sum](Solutions/F/find-subarrays-with-equal-sum)
@@ -1937,6 +1945,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Fruit into baskets](Solutions/F/fruit-into-baskets)
 * [Invalid transactions](Solutions/I/invalid-transactions)
 * [K radius subarray averages](Solutions/K/k-radius-subarray-averages)
+* [Length of longest subarray with at most k frequency](Solutions/L/length-of-longest-subarray-with-at-most-k-frequency)
 * [Longest duplicate substring](Solutions/L/longest-duplicate-substring)
 * [Longest harmonious subsequence](Solutions/L/longest-harmonious-subsequence)
 * [Longest subarray of 1s after deleting one element](Solutions/L/longest-subarray-of-1s-after-deleting-one-element)
