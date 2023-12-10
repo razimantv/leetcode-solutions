@@ -96,6 +96,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Reverse vowels of a string](Solutions/R/reverse-vowels-of-a-string)
 
 ### <a name="Array_scanning-Location_of_previous_element_with_same_value">Location of previous element with same value</a>
+* [Count the number of good partitions](Solutions/C/count-the-number-of-good-partitions)
 * [Count unique characters of all substrings of a given string](Solutions/C/count-unique-characters-of-all-substrings-of-a-given-string)
 * [Execution of all suffix instructions staying in a grid](Solutions/E/execution-of-all-suffix-instructions-staying-in-a-grid)
 * [Number of subarrays with bounded maximum](Solutions/N/number-of-subarrays-with-bounded-maximum)
@@ -1308,6 +1309,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count sorted vowel strings](Solutions/C/count-sorted-vowel-strings)
 * [Count special integers](Solutions/C/count-special-integers)
 * [Count the number of fair pairs](Solutions/C/count-the-number-of-fair-pairs)
+* [Count the number of good partitions](Solutions/C/count-the-number-of-good-partitions)
 * [Count the number of ideal arrays](Solutions/C/count-the-number-of-ideal-arrays)
 * [Count the number of infection sequences](Solutions/C/count-the-number-of-infection-sequences)
 * [Count unreachable pairs of nodes in an undirected graph](Solutions/C/count-unreachable-pairs-of-nodes-in-an-undirected-graph)
@@ -1421,6 +1423,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count good numbers](Solutions/C/count-good-numbers)
 * [Count the number of ideal arrays](Solutions/C/count-the-number-of-ideal-arrays)
 * [Count the number of infection sequences](Solutions/C/count-the-number-of-infection-sequences)
+* [Double modular exponentiation](Solutions/D/double-modular-exponentiation)
 * [Maximize number of nice divisors](Solutions/M/maximize-number-of-nice-divisors)
 * [Minimum number of operations to make string sorted](Solutions/M/minimum-number-of-operations-to-make-string-sorted)
 * [Number of subsequences that satisfy the given sum condition](Solutions/N/number-of-subsequences-that-satisfy-the-given-sum-condition)
@@ -1610,8 +1613,10 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count complete substrings](Solutions/C/count-complete-substrings)
 * [Count days spent together](Solutions/C/count-days-spent-together)
 * [Count of interesting subarrays](Solutions/C/count-of-interesting-subarrays)
+* [Count subarrays where max element appears at least k times](Solutions/C/count-subarrays-where-max-element-appears-at-least-k-times)
 * [Count subarrays with median k](Solutions/C/count-subarrays-with-median-k)
 * [Count subarrays with score less than k](Solutions/C/count-subarrays-with-score-less-than-k)
+* [Count tested devices after test operations](Solutions/C/count-tested-devices-after-test-operations)
 * [Count vowel strings in ranges](Solutions/C/count-vowel-strings-in-ranges)
 * [Delivering boxes from storage to ports](Solutions/D/delivering-boxes-from-storage-to-ports)
 * [Execution of all suffix instructions staying in a grid](Solutions/E/execution-of-all-suffix-instructions-staying-in-a-grid)
@@ -1661,6 +1666,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 #### <a name="Prefix-Sum-For_range_updates">For range updates</a>
 * [Apply operations to make all array elements equal to zero](Solutions/A/apply-operations-to-make-all-array-elements-equal-to-zero)
+* [Count the number of good partitions](Solutions/C/count-the-number-of-good-partitions)
 * [Increment submatrices by one](Solutions/I/increment-submatrices-by-one)
 * [Invalid transactions](Solutions/I/invalid-transactions)
 * [Maximize the minimum powered city](Solutions/M/maximize-the-minimum-powered-city)
