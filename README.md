@@ -2585,6 +2585,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Check if all the integers in a range are covered](Solutions/C/check-if-all-the-integers-in-a-range-are-covered)
 * [Check if two string arrays are equivalent](Solutions/C/check-if-two-string-arrays-are-equivalent)
 * [Counting bits](Solutions/C/counting-bits)
+* [Element appearing more than 25 in sorted array](Solutions/E/element-appearing-more-than-25-in-sorted-array)
 * [Extra characters in a string](Solutions/E/extra-characters-in-a-string)
 * [Find all numbers disappeared in an array](Solutions/F/find-all-numbers-disappeared-in-an-array)
 * [Find the duplicate number](Solutions/F/find-the-duplicate-number)
