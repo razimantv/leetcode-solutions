@@ -1927,6 +1927,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Shuffle the array](Solutions/S/shuffle-the-array)
 * [Smallest even multiple](Solutions/S/smallest-even-multiple)
 * [Sort vowels in a string](Solutions/S/sort-vowels-in-a-string)
+* [Special positions in a binary matrix](Solutions/S/special-positions-in-a-binary-matrix)
 * [Sum of number and its reverse](Solutions/S/sum-of-number-and-its-reverse)
 * [Sum of squares of special elements](Solutions/S/sum-of-squares-of-special-elements)
 * [The employee that worked on the longest task](Solutions/T/the-employee-that-worked-on-the-longest-task)
