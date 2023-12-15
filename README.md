@@ -906,6 +906,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Graph_theory-Single_outdegree_graphs">Single outdegree graphs</a>
 * [Count visited nodes in a directed graph](Solutions/C/count-visited-nodes-in-a-directed-graph)
+* [Destination city](Solutions/D/destination-city)
 * [Find closest node to given two nodes](Solutions/F/find-closest-node-to-given-two-nodes)
 * [Longest cycle in a graph](Solutions/L/longest-cycle-in-a-graph)
 * [Node with highest edge score](Solutions/N/node-with-highest-edge-score)
