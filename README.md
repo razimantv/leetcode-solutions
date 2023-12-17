@@ -935,6 +935,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Candy](Solutions/C/candy)
 * [Course schedule iii](Solutions/C/course-schedule-iii)
 * [Determine the minimum sum of a k avoiding array](Solutions/D/determine-the-minimum-sum-of-a-k-avoiding-array)
+* [Divide array into arrays with max difference](Solutions/D/divide-array-into-arrays-with-max-difference)
 * [Dota2 senate](Solutions/D/dota2-senate)
 * [Earliest possible day of full bloom](Solutions/E/earliest-possible-day-of-full-bloom)
 * [Eliminate maximum number of monsters](Solutions/E/eliminate-maximum-number-of-monsters)
@@ -1054,6 +1055,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Extra characters in a string](Solutions/E/extra-characters-in-a-string)
 * [Find duplicate file in system](Solutions/F/find-duplicate-file-in-system)
 * [Find maximum number of string pairs](Solutions/F/find-maximum-number-of-string-pairs)
+* [Find missing and repeated values](Solutions/F/find-missing-and-repeated-values)
 * [Find mode in binary search tree](Solutions/F/find-mode-in-binary-search-tree)
 * [Find players with zero or one losses](Solutions/F/find-players-with-zero-or-one-losses)
 * [Find subarrays with equal sum](Solutions/F/find-subarrays-with-equal-sum)
@@ -1369,6 +1371,10 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Mathematics-Invariants">Invariants</a>
 * [Minimum operations to make array equal ii](Solutions/M/minimum-operations-to-make-array-equal-ii)
 
+### <a name="Mathematics-Median">Median</a>
+* [Apply operations to maximize frequency score](Solutions/A/apply-operations-to-maximize-frequency-score)
+* [Minimum cost to make array equalindromic](Solutions/M/minimum-cost-to-make-array-equalindromic)
+
 ### <a name="Mathematics-Number_theory">Number theory</a>
 
 #### <a name="Mathematics-Number_theory-Basic">Basic</a>
@@ -1539,6 +1545,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest palindromic substring](Solutions/L/longest-palindromic-substring)
 * [Maximum number of non overlapping palindrome substrings](Solutions/M/maximum-number-of-non-overlapping-palindrome-substrings)
 * [Minimum changes to make k semi palindromes](Solutions/M/minimum-changes-to-make-k-semi-palindromes)
+* [Minimum cost to make array equalindromic](Solutions/M/minimum-cost-to-make-array-equalindromic)
 * [Minimum insertion steps to make a string palindrome](Solutions/M/minimum-insertion-steps-to-make-a-string-palindrome)
 * [Palindrome linked list](Solutions/P/palindrome-linked-list)
 * [Palindrome partitioning](Solutions/P/palindrome-partitioning)
@@ -1608,6 +1615,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Using a robot to print the lexicographically smallest string](Solutions/U/using-a-robot-to-print-the-lexicographically-smallest-string)
 
 ### <a name="Prefix-Sum">Sum</a>
+* [Apply operations to maximize frequency score](Solutions/A/apply-operations-to-maximize-frequency-score)
 * [Contiguous array](Solutions/C/contiguous-array)
 * [Continuous subarray sum](Solutions/C/continuous-subarray-sum)
 * [Count beautiful substrings i](Solutions/C/count-beautiful-substrings-i)
@@ -1940,6 +1948,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## <a name="Sliding_window">Sliding window</a>
 * [3sum](Solutions/0-9/3sum)
 * [3sum closest](Solutions/0-9/3sum-closest)
+* [Apply operations to maximize frequency score](Solutions/A/apply-operations-to-maximize-frequency-score)
 * [Binary trees with factors](Solutions/B/binary-trees-with-factors)
 * [Constrained subsequence sum](Solutions/C/constrained-subsequence-sum)
 * [Contains duplicate ii](Solutions/C/contains-duplicate-ii)
@@ -2356,6 +2365,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## <a name="Unique_duplicate_element_finding_with_bizarro_algorithms">Unique/duplicate element finding with bizarro algorithms</a>
 * [Find all duplicates in an array](Solutions/F/find-all-duplicates-in-an-array)
 * [Find all numbers disappeared in an array](Solutions/F/find-all-numbers-disappeared-in-an-array)
+* [Find missing and repeated values](Solutions/F/find-missing-and-repeated-values)
 * [Find the difference](Solutions/F/find-the-difference)
 * [First missing positive](Solutions/F/first-missing-positive)
 * [Missing number](Solutions/M/missing-number)
