@@ -968,6 +968,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum number of integers to choose from a range i](Solutions/M/maximum-number-of-integers-to-choose-from-a-range-i)
 * [Maximum odd binary number](Solutions/M/maximum-odd-binary-number)
 * [Maximum performance of a team](Solutions/M/maximum-performance-of-a-team)
+* [Maximum product difference between two pairs](Solutions/M/maximum-product-difference-between-two-pairs)
 * [Maximum product of two elements in an array](Solutions/M/maximum-product-of-two-elements-in-an-array)
 * [Maximum spending after buying items](Solutions/M/maximum-spending-after-buying-items)
 * [Maximum tastiness of candy basket](Solutions/M/maximum-tastiness-of-candy-basket)
