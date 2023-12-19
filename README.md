@@ -1873,6 +1873,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Greatest english letter in upper and lower case](Solutions/G/greatest-english-letter-in-upper-and-lower-case)
 * [How many numbers are smaller than the current number](Solutions/H/how-many-numbers-are-smaller-than-the-current-number)
 * [Image overlap](Solutions/I/image-overlap)
+* [Image smoother](Solutions/I/image-smoother)
 * [Incremental memory leak](Solutions/I/incremental-memory-leak)
 * [Integer replacement](Solutions/I/integer-replacement)
 * [Island perimeter](Solutions/I/island-perimeter)
