@@ -2021,6 +2021,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Sum in a matrix](Solutions/S/sum-in-a-matrix)
 * [The number of beautiful subsets](Solutions/T/the-number-of-beautiful-subsets)
 * [The number of weak characters in the game](Solutions/T/the-number-of-weak-characters-in-the-game)
+* [Widest vertical area between two points containing no points](Solutions/W/widest-vertical-area-between-two-points-containing-no-points)
 
 ### <a name="Sorting-Custom">Custom</a>
 * [Advantage shuffle](Solutions/A/advantage-shuffle)
