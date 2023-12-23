@@ -1115,6 +1115,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Optimal partition of string](Solutions/O/optimal-partition-of-string)
 * [Pairs of songs with total durations divisible by 60](Solutions/P/pairs-of-songs-with-total-durations-divisible-by-60)
 * [Partition labels](Solutions/P/partition-labels)
+* [Path crossing](Solutions/P/path-crossing)
 * [Path sum iii](Solutions/P/path-sum-iii)
 * [Permutation in string](Solutions/P/permutation-in-string)
 * [Powerful integers](Solutions/P/powerful-integers)
