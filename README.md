@@ -1908,6 +1908,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Merge triplets to form target triplet](Solutions/M/merge-triplets-to-form-target-triplet)
 * [Min max game](Solutions/M/min-max-game)
 * [Minimum amount of time to fill cups](Solutions/M/minimum-amount-of-time-to-fill-cups)
+* [Minimum changes to make alternating binary string](Solutions/M/minimum-changes-to-make-alternating-binary-string)
 * [Minimum distance to the target element](Solutions/M/minimum-distance-to-the-target-element)
 * [Minimum domino rotations for equal row](Solutions/M/minimum-domino-rotations-for-equal-row)
 * [Minimum hours of training to win a competition](Solutions/M/minimum-hours-of-training-to-win-a-competition)
