@@ -496,6 +496,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum strictly increasing cells in a matrix](Solutions/M/maximum-strictly-increasing-cells-in-a-matrix)
 * [Min cost climbing stairs](Solutions/M/min-cost-climbing-stairs)
 * [Minimum cost for tickets](Solutions/M/minimum-cost-for-tickets)
+* [Minimum cost to convert string ii](Solutions/M/minimum-cost-to-convert-string-ii)
 * [Minimum cost to cut a stick](Solutions/M/minimum-cost-to-cut-a-stick)
 * [Minimum cost to make all characters equal](Solutions/M/minimum-cost-to-make-all-characters-equal)
 * [Minimum cost to make array equal](Solutions/M/minimum-cost-to-make-array-equal)
@@ -880,6 +881,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find champion ii](Solutions/F/find-champion-ii)
 
 ### <a name="Graph_theory-Floyd_Warshall_algorithm">Floyd-Warshall algorithm</a>
+* [Minimum cost to convert string i](Solutions/M/minimum-cost-to-convert-string-i)
+* [Minimum cost to convert string ii](Solutions/M/minimum-cost-to-convert-string-ii)
 * [Number of possible sets of closing branches](Solutions/N/number-of-possible-sets-of-closing-branches)
 
 ### <a name="Graph_theory-Iterative_leaf_removal">Iterative leaf removal</a>
@@ -1097,11 +1100,13 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum number of integers to choose from a range i](Solutions/M/maximum-number-of-integers-to-choose-from-a-range-i)
 * [Maximum number of pairs in array](Solutions/M/maximum-number-of-pairs-in-array)
 * [Maximum population year](Solutions/M/maximum-population-year)
+* [Maximum square area by removing fences from a field](Solutions/M/maximum-square-area-by-removing-fences-from-a-field)
 * [Maximum sum of distinct subarrays with length k](Solutions/M/maximum-sum-of-distinct-subarrays-with-length-k)
 * [Merge similar items](Solutions/M/merge-similar-items)
 * [Minimize string length](Solutions/M/minimize-string-length)
 * [Minimum amount of time to collect garbage](Solutions/M/minimum-amount-of-time-to-collect-garbage)
 * [Minimum array length after pair removals](Solutions/M/minimum-array-length-after-pair-removals)
+* [Minimum cost to convert string ii](Solutions/M/minimum-cost-to-convert-string-ii)
 * [Minimum cost to split an array](Solutions/M/minimum-cost-to-split-an-array)
 * [Minimum deletions to make character frequencies unique](Solutions/M/minimum-deletions-to-make-character-frequencies-unique)
 * [Minimum number of operations to make array empty](Solutions/M/minimum-number-of-operations-to-make-array-empty)
@@ -1912,6 +1917,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum distance to the target element](Solutions/M/minimum-distance-to-the-target-element)
 * [Minimum domino rotations for equal row](Solutions/M/minimum-domino-rotations-for-equal-row)
 * [Minimum hours of training to win a competition](Solutions/M/minimum-hours-of-training-to-win-a-competition)
+* [Minimum number game](Solutions/M/minimum-number-game)
 * [Minimum number of swaps to make the binary string alternating](Solutions/M/minimum-number-of-swaps-to-make-the-binary-string-alternating)
 * [Minimum time visiting all points](Solutions/M/minimum-time-visiting-all-points)
 * [Most frequent even element](Solutions/M/most-frequent-even-element)
