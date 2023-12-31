@@ -101,6 +101,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count the number of good partitions](Solutions/C/count-the-number-of-good-partitions)
 * [Count unique characters of all substrings of a given string](Solutions/C/count-unique-characters-of-all-substrings-of-a-given-string)
 * [Execution of all suffix instructions staying in a grid](Solutions/E/execution-of-all-suffix-instructions-staying-in-a-grid)
+* [Largest substring between two equal characters](Solutions/L/largest-substring-between-two-equal-characters)
 * [Number of subarrays with bounded maximum](Solutions/N/number-of-subarrays-with-bounded-maximum)
 * [Number of ways to divide a long corridor](Solutions/N/number-of-ways-to-divide-a-long-corridor)
 * [Split array into maximum number of subarrays](Solutions/S/split-array-into-maximum-number-of-subarrays)
