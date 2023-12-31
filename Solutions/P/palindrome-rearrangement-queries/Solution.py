@@ -2,16 +2,16 @@
 
 class Solution:
     def canMakePalindromeQueries(self, s: str, queries: List[List[int]]) -> List[bool]:
-        n, cnt, bad = len(s), {}, []
+        n, bad = len(s), []
         m = n // 2
-        psum1, psum2 = [[0] * 26], [[0] * 26]
         p1, p2 = [0] * 26, [0] * 26
+        psum1, psum2 = [p1.copy()], [p2.copy()]
         for i in range(m):
             c, d = s[i], s[n-1-i]
             p1[ord(c) - ord('a')] += 1
             p2[ord(d) - ord('a')] += 1
-            psum1.append([x for x in p1])
-            psum2.append([x for x in p2])
+            psum1.append(p1.copy())
+            psum2.append(p2.copy())
             for x in range(26):
                 if p1[x] != p2[x]:
                     bad.append(i)
@@ -19,13 +19,10 @@ class Solution:
 
         if not bad:
             return [True for q in queries]
-        elif bad[-1] == m - 1:
-            return [False for q in queries]
         bd = set(bad)
 
         def simplify(a, b, c, d):
-            r1 = [a, b, 1]
-            r2 = [n - 1 - d, n - 1 - c, 2]
+            r1, r2 = [a, b, 1], [n - 1 - d, n - 1 - c, 2]
             if r1[0] > r2[0] or (r1[0] == r2[0] and r1[1] < r2[1]):
                 r1, r2 = r2, r1
             return [r1, r1] if r1[1] >= r2[1] else [r1, r2]
@@ -47,7 +44,7 @@ class Solution:
             if bad[0] < r1[0] or bad[-1] >= r2[1]:
                 queries[i] = False
                 continue
-            if not r2:
+            if r1 == r2:
                 queries[i] = True
             elif r1[1] < r2[0]:
                 queries[i] = r1[1] not in bd and (
