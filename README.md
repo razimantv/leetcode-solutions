@@ -940,6 +940,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Apply operations on array to maximize sum of squares](Solutions/A/apply-operations-on-array-to-maximize-sum-of-squares)
 * [Apply operations to make all array elements equal to zero](Solutions/A/apply-operations-to-make-all-array-elements-equal-to-zero)
 * [Apply operations to maximize score](Solutions/A/apply-operations-to-maximize-score)
+* [Assign cookies](Solutions/A/assign-cookies)
 * [Bag of tokens](Solutions/B/bag-of-tokens)
 * [Best time to buy and sell stock ii](Solutions/B/best-time-to-buy-and-sell-stock-ii)
 * [Boats to save people](Solutions/B/boats-to-save-people)
@@ -2372,6 +2373,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Predict the winner](Solutions/P/predict-the-winner)
 
 ## <a name="Two_pointers">Two pointers</a>
+* [Assign cookies](Solutions/A/assign-cookies)
 * [Find indices with index and value difference i](Solutions/F/find-indices-with-index-and-value-difference-i)
 * [Find indices with index and value difference ii](Solutions/F/find-indices-with-index-and-value-difference-ii)
 * [Find k closest elements](Solutions/F/find-k-closest-elements)
