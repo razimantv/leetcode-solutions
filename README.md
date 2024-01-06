@@ -20,6 +20,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Number of laser beams in a bank](Solutions/N/number-of-laser-beams-in-a-bank)
 * [Remove colored pieces if both neighbors are the same color](Solutions/R/remove-colored-pieces-if-both-neighbors-are-the-same-color)
 * [Separate black and white balls](Solutions/S/separate-black-and-white-balls)
+* [Smallest missing integer greater than sequential prefix sum](Solutions/S/smallest-missing-integer-greater-than-sequential-prefix-sum)
 * [Sum of absolute differences in a sorted array](Solutions/S/sum-of-absolute-differences-in-a-sorted-array)
 * [The employee that worked on the longest task](Solutions/T/the-employee-that-worked-on-the-longest-task)
 
@@ -320,6 +321,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count the number of beautiful subarrays](Solutions/C/count-the-number-of-beautiful-subarrays)
 * [Find the original array of prefix xor](Solutions/F/find-the-original-array-of-prefix-xor)
 * [Maximum xor product](Solutions/M/maximum-xor-product)
+* [Minimum number of operations to make array xor equal to k](Solutions/M/minimum-number-of-operations-to-make-array-xor-equal-to-k)
 * [Neighboring bitwise xor](Solutions/N/neighboring-bitwise-xor)
 * [Pseudo palindromic paths in a binary tree](Solutions/P/pseudo-palindromic-paths-in-a-binary-tree)
 * [Substring xor queries](Solutions/S/substring-xor-queries)
@@ -610,6 +612,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count of integers](Solutions/C/count-of-integers)
 * [Count special integers](Solutions/C/count-special-integers)
 * [Count stepping numbers in range](Solutions/C/count-stepping-numbers-in-range)
+* [Count the number of powerful integers](Solutions/C/count-the-number-of-powerful-integers)
 * [Non negative integers without consecutive ones](Solutions/N/non-negative-integers-without-consecutive-ones)
 * [Number of beautiful integers in the range](Solutions/N/number-of-beautiful-integers-in-the-range)
 * [Number of digit one](Solutions/N/number-of-digit-one)
@@ -1545,6 +1548,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## <a name="Number_transformations_based_on_mathematical_rules">Number transformations based on mathematical rules</a>
 * [Minimum addition to make integer beautiful](Solutions/M/minimum-addition-to-make-integer-beautiful)
+* [Minimum number of operations to make x and y equal](Solutions/M/minimum-number-of-operations-to-make-x-and-y-equal)
 * [Minimum operations to reduce an integer to 0](Solutions/M/minimum-operations-to-reduce-an-integer-to-0)
 * [Reach a number](Solutions/R/reach-a-number)
 
