@@ -106,6 +106,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count unique characters of all substrings of a given string](Solutions/C/count-unique-characters-of-all-substrings-of-a-given-string)
 * [Execution of all suffix instructions staying in a grid](Solutions/E/execution-of-all-suffix-instructions-staying-in-a-grid)
 * [Largest substring between two equal characters](Solutions/L/largest-substring-between-two-equal-characters)
+* [Maximize the number of partitions after operations](Solutions/M/maximize-the-number-of-partitions-after-operations)
 * [Number of subarrays with bounded maximum](Solutions/N/number-of-subarrays-with-bounded-maximum)
 * [Number of ways to divide a long corridor](Solutions/N/number-of-ways-to-divide-a-long-corridor)
 * [Split array into maximum number of subarrays](Solutions/S/split-array-into-maximum-number-of-subarrays)
@@ -125,6 +126,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Largest element in an array after merge operations](Solutions/L/largest-element-in-an-array-after-merge-operations)
 * [Largest odd number in string](Solutions/L/largest-odd-number-in-string)
 * [Longest binary subsequence less than or equal to k](Solutions/L/longest-binary-subsequence-less-than-or-equal-to-k)
+* [Maximize the number of partitions after operations](Solutions/M/maximize-the-number-of-partitions-after-operations)
 * [Minimum operations to collect elements](Solutions/M/minimum-operations-to-collect-elements)
 * [Minimum operations to make a special number](Solutions/M/minimum-operations-to-make-a-special-number)
 * [Minimum replacements to sort the array](Solutions/M/minimum-replacements-to-sort-the-array)
@@ -496,6 +498,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest arithmetic subsequence of given difference](Solutions/L/longest-arithmetic-subsequence-of-given-difference)
 * [Longest string chain](Solutions/L/longest-string-chain)
 * [Longest unequal adjacent groups subsequence i](Solutions/L/longest-unequal-adjacent-groups-subsequence-i)
+* [Maximize the number of partitions after operations](Solutions/M/maximize-the-number-of-partitions-after-operations)
 * [Maximum alternating subsequence sum](Solutions/M/maximum-alternating-subsequence-sum)
 * [Maximum balanced subsequence sum](Solutions/M/maximum-balanced-subsequence-sum)
 * [Maximum deletions on a string](Solutions/M/maximum-deletions-on-a-string)
@@ -777,6 +780,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Jump game iv](Solutions/J/jump-game-iv)
 * [Maximum level sum of a binary tree](Solutions/M/maximum-level-sum-of-a-binary-tree)
 * [Minimum genetic mutation](Solutions/M/minimum-genetic-mutation)
+* [Minimum moves to capture the queen](Solutions/M/minimum-moves-to-capture-the-queen)
 * [Minimum number of visited cells in a grid](Solutions/M/minimum-number-of-visited-cells-in-a-grid)
 * [Minimum operations to convert number](Solutions/M/minimum-operations-to-convert-number)
 * [Minimum reverse operations](Solutions/M/minimum-reverse-operations)
@@ -1382,6 +1386,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Check if it is a straight line](Solutions/C/check-if-it-is-a-straight-line)
 * [Determine if a cell is reachable at a given time](Solutions/D/determine-if-a-cell-is-reachable-at-a-given-time)
 * [Max points on a line](Solutions/M/max-points-on-a-line)
+* [Maximum area of longest diagonal rectangle](Solutions/M/maximum-area-of-longest-diagonal-rectangle)
 * [Minimum cuts to divide a circle](Solutions/M/minimum-cuts-to-divide-a-circle)
 * [Rectangle area](Solutions/R/rectangle-area)
 
@@ -1504,6 +1509,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Mathematics-Set_theory">Set theory</a>
 * [Find unique binary string](Solutions/F/find-unique-binary-string)
+* [Maximum size of a set after removals](Solutions/M/maximum-size-of-a-set-after-removals)
 
 ## <a name="Matrix">Matrix</a>
 * [Difference between ones and zeros in row and column](Solutions/D/difference-between-ones-and-zeros-in-row-and-column)
