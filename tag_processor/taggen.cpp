@@ -8,7 +8,7 @@
 #include <vector>
 
 namespace fs = std::filesystem;
-using Dir = std::filesystem::directory_entry;
+using Dir = fs::directory_entry;
 using Tag = std::vector<std::string>;
 using Problem = std::pair<std::string, std::string>;
 
@@ -39,6 +39,18 @@ std::string create_readme_tagline(Tag& tag) {
   return ret;
 }
 
+auto get_code_files(const Dir& problem) {
+  std::set<std::pair<std::string, fs::path>> codefiles;
+  const std::unordered_set<std::string> code_extensions{".cpp", ".py", ".sh"};
+  for (const auto& file : fs::directory_iterator{problem}) {
+    std::string ext;
+    if (file.is_regular_file() and file.path().has_extension() and
+        code_extensions.count(ext = file.path().extension()))
+      codefiles.insert({ext, file.path()});
+  }
+  return codefiles;
+}
+
 void process_problem(const Dir& problem,
                      std::map<Tag, std::set<Problem>>& tag_map) {
   std::string problemname = problem.path().filename(),
@@ -53,15 +65,10 @@ void process_problem(const Dir& problem,
   std::ofstream readme(problem.path() / "README.md", std::ios::app);
 
   readme << "\n## Solutions\n\n";
-  std::unordered_set<std::string> code_extensions{".cpp", ".py", ".sh"};
-  for (const auto& file : fs::directory_iterator{problem}) {
-    std::string ext;
-    if (!file.is_regular_file() or !file.path().has_extension() or
-        !code_extensions.count(ext = file.path().extension()))
-      continue;
-    readme << "\n### " << file.path().filename().string() << "\n";
+  for (const auto& [ext, file] : get_code_files(problem)) {
+    readme << "\n### " << file.filename().string() << "\n";
     readme << "```" << ext.substr(1) << "\n";
-    std::ifstream code_file (file.path());
+    std::ifstream code_file (file);
     for (std::string str; std::getline(code_file, str);) {
       readme << str << "\n";
     }
