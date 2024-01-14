@@ -238,6 +238,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Random point in non overlapping rectangles](Solutions/R/random-point-in-non-overlapping-rectangles)
 * [Snapshot array](Solutions/S/snapshot-array)
 
+### <a name="Binary_search-Exponential_binary_search">Exponential-binary search</a>
+* [Maximum number that sum of the prices is less than or equal to k](Solutions/M/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k)
+
 ### <a name="Binary_search-Prefix_sum">Prefix sum</a>
 * [Delivering boxes from storage to ports](Solutions/D/delivering-boxes-from-storage-to-ports)
 * [Max sum of rectangle no larger than k](Solutions/M/max-sum-of-rectangle-no-larger-than-k)
@@ -616,6 +619,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count special integers](Solutions/C/count-special-integers)
 * [Count stepping numbers in range](Solutions/C/count-stepping-numbers-in-range)
 * [Count the number of powerful integers](Solutions/C/count-the-number-of-powerful-integers)
+* [Maximum number that sum of the prices is less than or equal to k](Solutions/M/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k)
 * [Non negative integers without consecutive ones](Solutions/N/non-negative-integers-without-consecutive-ones)
 * [Number of beautiful integers in the range](Solutions/N/number-of-beautiful-integers-in-the-range)
 * [Number of digit one](Solutions/N/number-of-digit-one)
@@ -1165,6 +1169,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Hashmap-Coordinate_compression">Coordinate compression</a>
 * [Design underground system](Solutions/D/design-underground-system)
+
+### <a name="Hashmap-Counter">Counter</a>
+* [Count elements with maximum frequency](Solutions/C/count-elements-with-maximum-frequency)
 
 ### <a name="Hashmap-Forward_and_backward">Forward and backward</a>
 * [Find and replace pattern](Solutions/F/find-and-replace-pattern)
@@ -2032,6 +2039,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum number of robots within budget](Solutions/M/maximum-number-of-robots-within-budget)
 
 ### <a name="Sliding_window-String_hashing">String hashing</a>
+* [Find beautiful indices in the given array i](Solutions/F/find-beautiful-indices-in-the-given-array-i)
+* [Find beautiful indices in the given array ii](Solutions/F/find-beautiful-indices-in-the-given-array-ii)
 * [Implement strstr](Solutions/I/implement-strstr)
 
 ## <a name="Sorting">Sorting</a>
@@ -2215,6 +2224,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 #### <a name="String-Search-Hashing">Hashing</a>
 * [Concatenated words](Solutions/C/concatenated-words)
+* [Find beautiful indices in the given array i](Solutions/F/find-beautiful-indices-in-the-given-array-i)
+* [Find beautiful indices in the given array ii](Solutions/F/find-beautiful-indices-in-the-given-array-ii)
 * [Implement strstr](Solutions/I/implement-strstr)
 * [Longest duplicate substring](Solutions/L/longest-duplicate-substring)
 * [Maximum deletions on a string](Solutions/M/maximum-deletions-on-a-string)
