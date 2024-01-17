@@ -1172,6 +1172,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Hashmap-Counter">Counter</a>
 * [Count elements with maximum frequency](Solutions/C/count-elements-with-maximum-frequency)
+* [Unique number of occurrences](Solutions/U/unique-number-of-occurrences)
 
 ### <a name="Hashmap-Forward_and_backward">Forward and backward</a>
 * [Find and replace pattern](Solutions/F/find-and-replace-pattern)
@@ -2606,7 +2607,6 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Unique binary search trees ii](Solutions/U/unique-binary-search-trees-ii)
 * [Unique email addresses](Solutions/U/unique-email-addresses)
 * [Unique morse code words](Solutions/U/unique-morse-code-words)
-* [Unique number of occurrences](Solutions/U/unique-number-of-occurrences)
 * [Unique paths](Solutions/U/unique-paths)
 * [Unique paths ii](Solutions/U/unique-paths-ii)
 * [Unique paths iii](Solutions/U/unique-paths-iii)

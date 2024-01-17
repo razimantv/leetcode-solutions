@@ -12,6 +12,7 @@ Backtracking>Push and pop for efficient state update
 Binary lifting
 Binary search
 Binary search>C++ set
+Binary search>Exponential-binary search
 Binary search>Prefix sum
 Bitwise operation
 Bitwise operation>Build result bit-by-bit
@@ -90,6 +91,7 @@ Graph theory>Topological sort>Dynamic Programming
 Greedy
 Hashmap
 Hashmap>Coordinate compression
+Hashmap>Counter
 Hashmap>Forward and backward
 Hashmap>Group items
 Hashmap>Update using insert and delete
