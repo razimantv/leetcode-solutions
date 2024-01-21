@@ -32,6 +32,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count number of homogenous substrings](Solutions/C/count-number-of-homogenous-substrings)
 * [Distribute candies](Solutions/D/distribute-candies)
 * [Find all good indices](Solutions/F/find-all-good-indices)
+* [Find if array can be sorted](Solutions/F/find-if-array-can-be-sorted)
 * [Find longest special substring that occurs thrice i](Solutions/F/find-longest-special-substring-that-occurs-thrice-i)
 * [Find longest special substring that occurs thrice ii](Solutions/F/find-longest-special-substring-that-occurs-thrice-ii)
 * [Find the longest balanced substring of a binary string](Solutions/F/find-the-longest-balanced-substring-of-a-binary-string)
@@ -264,6 +265,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Divide two integers](Solutions/D/divide-two-integers)
 * [Find a good subset of the matrix](Solutions/F/find-a-good-subset-of-the-matrix)
 * [Find a value of a mysterious function closest to target](Solutions/F/find-a-value-of-a-mysterious-function-closest-to-target)
+* [Find if array can be sorted](Solutions/F/find-if-array-can-be-sorted)
 * [Find the k or of an array](Solutions/F/find-the-k-or-of-an-array)
 * [Find xor sum of all pairs bitwise and](Solutions/F/find-xor-sum-of-all-pairs-bitwise-and)
 * [Form smallest number from two digit arrays](Solutions/F/form-smallest-number-from-two-digit-arrays)
@@ -1172,6 +1174,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Hashmap-Counter">Counter</a>
 * [Count elements with maximum frequency](Solutions/C/count-elements-with-maximum-frequency)
+* [Minimize length of array using operations](Solutions/M/minimize-length-of-array-using-operations)
 * [Unique number of occurrences](Solutions/U/unique-number-of-occurrences)
 
 ### <a name="Hashmap-Forward_and_backward">Forward and backward</a>
@@ -1435,6 +1438,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Make k subarray sums equal](Solutions/M/make-k-subarray-sums-equal)
 * [Maximum element sum of a complete subset of indices](Solutions/M/maximum-element-sum-of-a-complete-subset-of-indices)
 * [Maximum number of k divisible components](Solutions/M/maximum-number-of-k-divisible-components)
+* [Minimize length of array using operations](Solutions/M/minimize-length-of-array-using-operations)
 * [Minimize the maximum of two arrays](Solutions/M/minimize-the-maximum-of-two-arrays)
 * [Minimum cost to move chips to the same position](Solutions/M/minimum-cost-to-move-chips-to-the-same-position)
 * [Minimum deletions to make array divisible](Solutions/M/minimum-deletions-to-make-array-divisible)
@@ -1780,6 +1784,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum subsequence score](Solutions/M/maximum-subsequence-score)
 
 #### <a name="Priority_queue-K_smallest_largest_elements-Transfer_between_the_two">Transfer between the two</a>
+* [Divide an array into subarrays with minimum cost i](Solutions/D/divide-an-array-into-subarrays-with-minimum-cost-i)
+* [Divide an array into subarrays with minimum cost ii](Solutions/D/divide-an-array-into-subarrays-with-minimum-cost-ii)
 * [Find median from data stream](Solutions/F/find-median-from-data-stream)
 * [Finding mk average](Solutions/F/finding-mk-average)
 
@@ -2004,6 +2010,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count the number of good subarrays](Solutions/C/count-the-number-of-good-subarrays)
 * [Count the number of incremovable subarrays i](Solutions/C/count-the-number-of-incremovable-subarrays-i)
 * [Count the number of incremovable subarrays ii](Solutions/C/count-the-number-of-incremovable-subarrays-ii)
+* [Divide an array into subarrays with minimum cost i](Solutions/D/divide-an-array-into-subarrays-with-minimum-cost-i)
+* [Divide an array into subarrays with minimum cost ii](Solutions/D/divide-an-array-into-subarrays-with-minimum-cost-ii)
 * [Find a value of a mysterious function closest to target](Solutions/F/find-a-value-of-a-mysterious-function-closest-to-target)
 * [Find all anagrams in a string](Solutions/F/find-all-anagrams-in-a-string)
 * [Find the longest equal subarray](Solutions/F/find-the-longest-equal-subarray)
