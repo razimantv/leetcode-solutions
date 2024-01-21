@@ -929,6 +929,10 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Divide nodes into the maximum number of groups](Solutions/D/divide-nodes-into-the-maximum-number-of-groups)
 * [Shortest cycle in a graph](Solutions/S/shortest-cycle-in-a-graph)
 
+### <a name="Graph_theory-Single_cycle_graphs">Single cycle graphs</a>
+* [Count the number of houses at a certain distance i](Solutions/C/count-the-number-of-houses-at-a-certain-distance-i)
+* [Count the number of houses at a certain distance ii](Solutions/C/count-the-number-of-houses-at-a-certain-distance-ii)
+
 ### <a name="Graph_theory-Single_outdegree_graphs">Single outdegree graphs</a>
 * [Count visited nodes in a directed graph](Solutions/C/count-visited-nodes-in-a-directed-graph)
 * [Destination city](Solutions/D/destination-city)
@@ -1017,6 +1021,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum number of increments on subarrays to form a target array](Solutions/M/minimum-number-of-increments-on-subarrays-to-form-a-target-array)
 * [Minimum number of operations to make all array elements equal to 1](Solutions/M/minimum-number-of-operations-to-make-all-array-elements-equal-to-1)
 * [Minimum number of operations to make arrays similar](Solutions/M/minimum-number-of-operations-to-make-arrays-similar)
+* [Minimum number of pushes to type word i](Solutions/M/minimum-number-of-pushes-to-type-word-i)
+* [Minimum number of pushes to type word ii](Solutions/M/minimum-number-of-pushes-to-type-word-ii)
 * [Minimum number of taps to open to water a garden](Solutions/M/minimum-number-of-taps-to-open-to-water-a-garden)
 * [Minimum operations to make a special number](Solutions/M/minimum-operations-to-make-a-special-number)
 * [Minimum operations to make array equal ii](Solutions/M/minimum-operations-to-make-array-equal-ii)
@@ -1175,6 +1181,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Hashmap-Counter">Counter</a>
 * [Count elements with maximum frequency](Solutions/C/count-elements-with-maximum-frequency)
 * [Minimize length of array using operations](Solutions/M/minimize-length-of-array-using-operations)
+* [Minimum number of pushes to type word i](Solutions/M/minimum-number-of-pushes-to-type-word-i)
+* [Minimum number of pushes to type word ii](Solutions/M/minimum-number-of-pushes-to-type-word-ii)
 * [Unique number of occurrences](Solutions/U/unique-number-of-occurrences)
 
 ### <a name="Hashmap-Forward_and_backward">Forward and backward</a>
@@ -1354,6 +1362,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count special integers](Solutions/C/count-special-integers)
 * [Count the number of fair pairs](Solutions/C/count-the-number-of-fair-pairs)
 * [Count the number of good partitions](Solutions/C/count-the-number-of-good-partitions)
+* [Count the number of houses at a certain distance i](Solutions/C/count-the-number-of-houses-at-a-certain-distance-i)
+* [Count the number of houses at a certain distance ii](Solutions/C/count-the-number-of-houses-at-a-certain-distance-ii)
 * [Count the number of ideal arrays](Solutions/C/count-the-number-of-ideal-arrays)
 * [Count the number of infection sequences](Solutions/C/count-the-number-of-infection-sequences)
 * [Count unreachable pairs of nodes in an undirected graph](Solutions/C/count-unreachable-pairs-of-nodes-in-an-undirected-graph)
@@ -1723,6 +1733,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 #### <a name="Prefix-Sum-For_range_updates">For range updates</a>
 * [Apply operations to make all array elements equal to zero](Solutions/A/apply-operations-to-make-all-array-elements-equal-to-zero)
 * [Count the number of good partitions](Solutions/C/count-the-number-of-good-partitions)
+* [Count the number of houses at a certain distance i](Solutions/C/count-the-number-of-houses-at-a-certain-distance-i)
+* [Count the number of houses at a certain distance ii](Solutions/C/count-the-number-of-houses-at-a-certain-distance-ii)
 * [Increment submatrices by one](Solutions/I/increment-submatrices-by-one)
 * [Invalid transactions](Solutions/I/invalid-transactions)
 * [Maximize the minimum powered city](Solutions/M/maximize-the-minimum-powered-city)
