@@ -319,6 +319,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Bitwise_operation-Build_result_bit_by_bit">Build result bit-by-bit</a>
 * [Find xor beauty of array](Solutions/F/find-xor-beauty-of-array)
 * [Maximum xor of two numbers in an array](Solutions/M/maximum-xor-of-two-numbers-in-an-array)
+* [Minimize or of remaining elements using operations](Solutions/M/minimize-or-of-remaining-elements-using-operations)
 * [Minimum number of flips to convert binary matrix to zero matrix](Solutions/M/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix)
 
 ### <a name="Bitwise_operation-Self_inverse_property_of_xor">Self-inverse property of xor</a>
@@ -1180,6 +1181,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Hashmap-Counter">Counter</a>
 * [Count elements with maximum frequency](Solutions/C/count-elements-with-maximum-frequency)
+* [Find the maximum number of elements in subset](Solutions/F/find-the-maximum-number-of-elements-in-subset)
 * [Minimize length of array using operations](Solutions/M/minimize-length-of-array-using-operations)
 * [Minimum number of pushes to type word i](Solutions/M/minimum-number-of-pushes-to-type-word-i)
 * [Minimum number of pushes to type word ii](Solutions/M/minimum-number-of-pushes-to-type-word-ii)
@@ -1314,6 +1316,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Best position for a service centre](Solutions/B/best-position-for-a-service-centre)
 
 ### <a name="Mathematics-Basic">Basic</a>
+* [Alice and bob playing flower game](Solutions/A/alice-and-bob-playing-flower-game)
 * [Angle between hands of a clock](Solutions/A/angle-between-hands-of-a-clock)
 * [Can make arithmetic progression from sequence](Solutions/C/can-make-arithmetic-progression-from-sequence)
 * [Construct the longest new string](Solutions/C/construct-the-longest-new-string)
@@ -1973,6 +1976,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Non decreasing array](Solutions/N/non-decreasing-array)
 * [Number of arithmetic triplets](Solutions/N/number-of-arithmetic-triplets)
 * [Number of beautiful pairs](Solutions/N/number-of-beautiful-pairs)
+* [Number of changing keys](Solutions/N/number-of-changing-keys)
 * [Number of employees who met the target](Solutions/N/number-of-employees-who-met-the-target)
 * [Number of senior citizens](Solutions/N/number-of-senior-citizens)
 * [Number of steps to reduce a number to zero](Solutions/N/number-of-steps-to-reduce-a-number-to-zero)
