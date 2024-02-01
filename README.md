@@ -2419,6 +2419,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## <a name="Two_player_games">Two player games</a>
 * [Predict the winner](Solutions/P/predict-the-winner)
+* [Stone game iii](Solutions/S/stone-game-iii)
 
 ## <a name="Two_pointers">Two pointers</a>
 * [Assign cookies](Solutions/A/assign-cookies)
