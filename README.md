@@ -531,6 +531,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Palindrome partitioning ii](Solutions/P/palindrome-partitioning-ii)
 * [Palindrome partitioning iii](Solutions/P/palindrome-partitioning-iii)
 * [Palindrome partitioning iv](Solutions/P/palindrome-partitioning-iv)
+* [Partition array for maximum sum](Solutions/P/partition-array-for-maximum-sum)
 * [Partition string into substrings with values at most k](Solutions/P/partition-string-into-substrings-with-values-at-most-k)
 * [Pascals triangle](Solutions/P/pascals-triangle)
 * [Remove boxes](Solutions/R/remove-boxes)
