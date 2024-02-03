@@ -1126,6 +1126,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Max number of k sum pairs](Solutions/M/max-number-of-k-sum-pairs)
 * [Max points on a line](Solutions/M/max-points-on-a-line)
 * [Max sum of a pair with equal sum of digits](Solutions/M/max-sum-of-a-pair-with-equal-sum-of-digits)
+* [Maximum good subarray sum](Solutions/M/maximum-good-subarray-sum)
 * [Maximum number of integers to choose from a range i](Solutions/M/maximum-number-of-integers-to-choose-from-a-range-i)
 * [Maximum number of pairs in array](Solutions/M/maximum-number-of-pairs-in-array)
 * [Maximum population year](Solutions/M/maximum-population-year)
@@ -1415,6 +1416,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum area of longest diagonal rectangle](Solutions/M/maximum-area-of-longest-diagonal-rectangle)
 * [Minimum cuts to divide a circle](Solutions/M/minimum-cuts-to-divide-a-circle)
 * [Rectangle area](Solutions/R/rectangle-area)
+* [Type of triangle ii](Solutions/T/type-of-triangle-ii)
 
 #### <a name="Mathematics-Geometry-Convex_hull">Convex hull</a>
 * [Erect the fence](Solutions/E/erect-the-fence)
@@ -1651,6 +1653,10 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Clone graph](Solutions/C/clone-graph)
 * [Copy list with random pointer](Solutions/C/copy-list-with-random-pointer)
 
+## <a name="Points_in_2D_plane">Points in 2D plane</a>
+* [Find the number of ways to place people i](Solutions/F/find-the-number-of-ways-to-place-people-i)
+* [Find the number of ways to place people ii](Solutions/F/find-the-number-of-ways-to-place-people-ii)
+
 ## <a name="Precomputation_to_answer_queries_efficiently_with_delta">Precomputation to answer queries efficiently with delta</a>
 * [Number of adjacent elements with the same color](Solutions/N/number-of-adjacent-elements-with-the-same-color)
 * [Sum of even numbers after queries](Solutions/S/sum-of-even-numbers-after-queries)
@@ -1699,6 +1705,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest valid parentheses](Solutions/L/longest-valid-parentheses)
 * [Max sum of rectangle no larger than k](Solutions/M/max-sum-of-rectangle-no-larger-than-k)
 * [Maximal rectangle](Solutions/M/maximal-rectangle)
+* [Maximum good subarray sum](Solutions/M/maximum-good-subarray-sum)
 * [Maximum nesting depth of two valid parentheses strings](Solutions/M/maximum-nesting-depth-of-two-valid-parentheses-strings)
 * [Maximum product subarray](Solutions/M/maximum-product-subarray)
 * [Maximum score of spliced array](Solutions/M/maximum-score-of-spliced-array)
@@ -2111,6 +2118,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Divide intervals into minimum number of groups](Solutions/D/divide-intervals-into-minimum-number-of-groups)
 * [Earliest possible day of full bloom](Solutions/E/earliest-possible-day-of-full-bloom)
 * [Eliminate maximum number of monsters](Solutions/E/eliminate-maximum-number-of-monsters)
+* [Find the number of ways to place people i](Solutions/F/find-the-number-of-ways-to-place-people-i)
+* [Find the number of ways to place people ii](Solutions/F/find-the-number-of-ways-to-place-people-ii)
 * [K closest points to origin](Solutions/K/k-closest-points-to-origin)
 * [Largest number](Solutions/L/largest-number)
 * [Longest string chain](Solutions/L/longest-string-chain)
