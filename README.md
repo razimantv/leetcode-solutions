@@ -142,6 +142,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Average of levels in binary tree](Solutions/A/average-of-levels-in-binary-tree)
 * [Count nodes equal to average of subtree](Solutions/C/count-nodes-equal-to-average-of-subtree)
 * [Design underground system](Solutions/D/design-underground-system)
+* [Find the grid of region average](Solutions/F/find-the-grid-of-region-average)
 * [Finding mk average](Solutions/F/finding-mk-average)
 * [Minimum average difference](Solutions/M/minimum-average-difference)
 
@@ -1543,6 +1544,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## <a name="Matrix">Matrix</a>
 * [Difference between ones and zeros in row and column](Solutions/D/difference-between-ones-and-zeros-in-row-and-column)
 * [Difference of number of distinct values on diagonals](Solutions/D/difference-of-number-of-distinct-values-on-diagonals)
+* [Find the grid of region average](Solutions/F/find-the-grid-of-region-average)
 * [Increment submatrices by one](Solutions/I/increment-submatrices-by-one)
 * [Largest submatrix with rearrangements](Solutions/L/largest-submatrix-with-rearrangements)
 * [Maximum strictly increasing cells in a matrix](Solutions/M/maximum-strictly-increasing-cells-in-a-matrix)
@@ -1875,6 +1877,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Account balance after rounded purchase](Solutions/A/account-balance-after-rounded-purchase)
 * [Add to array form of integer](Solutions/A/add-to-array-form-of-integer)
 * [Alternating digit sum](Solutions/A/alternating-digit-sum)
+* [Ant on the boundary](Solutions/A/ant-on-the-boundary)
 * [Apply operations to an array](Solutions/A/apply-operations-to-an-array)
 * [Arithmetic subarrays](Solutions/A/arithmetic-subarrays)
 * [Arranging coins](Solutions/A/arranging-coins)
@@ -2264,6 +2267,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Implement strstr](Solutions/I/implement-strstr)
 * [Longest duplicate substring](Solutions/L/longest-duplicate-substring)
 * [Maximum deletions on a string](Solutions/M/maximum-deletions-on-a-string)
+* [Minimum time to revert word to initial state i](Solutions/M/minimum-time-to-revert-word-to-initial-state-i)
+* [Minimum time to revert word to initial state ii](Solutions/M/minimum-time-to-revert-word-to-initial-state-ii)
 * [Palindrome pairs](Solutions/P/palindrome-pairs)
 * [String transformation](Solutions/S/string-transformation)
 * [Sum of prefix scores of strings](Solutions/S/sum-of-prefix-scores-of-strings)
