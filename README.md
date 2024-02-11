@@ -1001,6 +1001,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum number of groups with increasing length](Solutions/M/maximum-number-of-groups-with-increasing-length)
 * [Maximum number of integers to choose from a range i](Solutions/M/maximum-number-of-integers-to-choose-from-a-range-i)
 * [Maximum odd binary number](Solutions/M/maximum-odd-binary-number)
+* [Maximum palindromes after operations](Solutions/M/maximum-palindromes-after-operations)
 * [Maximum performance of a team](Solutions/M/maximum-performance-of-a-team)
 * [Maximum product difference between two pairs](Solutions/M/maximum-product-difference-between-two-pairs)
 * [Maximum product of two elements in an array](Solutions/M/maximum-product-of-two-elements-in-an-array)
@@ -1185,6 +1186,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Hashmap-Counter">Counter</a>
 * [Count elements with maximum frequency](Solutions/C/count-elements-with-maximum-frequency)
 * [Find the maximum number of elements in subset](Solutions/F/find-the-maximum-number-of-elements-in-subset)
+* [Maximum palindromes after operations](Solutions/M/maximum-palindromes-after-operations)
 * [Minimize length of array using operations](Solutions/M/minimize-length-of-array-using-operations)
 * [Minimum number of pushes to type word i](Solutions/M/minimum-number-of-pushes-to-type-word-i)
 * [Minimum number of pushes to type word ii](Solutions/M/minimum-number-of-pushes-to-type-word-ii)
@@ -1548,6 +1550,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Increment submatrices by one](Solutions/I/increment-submatrices-by-one)
 * [Largest submatrix with rearrangements](Solutions/L/largest-submatrix-with-rearrangements)
 * [Maximum strictly increasing cells in a matrix](Solutions/M/maximum-strictly-increasing-cells-in-a-matrix)
+* [Modify the matrix](Solutions/M/modify-the-matrix)
 
 ### <a name="Matrix-Geometric_transformation">Geometric transformation</a>
 * [Determine whether matrix can be obtained by rotation](Solutions/D/determine-whether-matrix-can-be-obtained-by-rotation)
@@ -1606,6 +1609,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest palindrome by concatenating two letter words](Solutions/L/longest-palindrome-by-concatenating-two-letter-words)
 * [Longest palindromic substring](Solutions/L/longest-palindromic-substring)
 * [Maximum number of non overlapping palindrome substrings](Solutions/M/maximum-number-of-non-overlapping-palindrome-substrings)
+* [Maximum palindromes after operations](Solutions/M/maximum-palindromes-after-operations)
 * [Minimum changes to make k semi palindromes](Solutions/M/minimum-changes-to-make-k-semi-palindromes)
 * [Minimum cost to make array equalindromic](Solutions/M/minimum-cost-to-make-array-equalindromic)
 * [Minimum insertion steps to make a string palindrome](Solutions/M/minimum-insertion-steps-to-make-a-string-palindrome)
@@ -1982,6 +1986,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum number game](Solutions/M/minimum-number-game)
 * [Minimum number of swaps to make the binary string alternating](Solutions/M/minimum-number-of-swaps-to-make-the-binary-string-alternating)
 * [Minimum time visiting all points](Solutions/M/minimum-time-visiting-all-points)
+* [Modify the matrix](Solutions/M/modify-the-matrix)
 * [Most frequent even element](Solutions/M/most-frequent-even-element)
 * [Next greater element i](Solutions/N/next-greater-element-i)
 * [Non decreasing array](Solutions/N/non-decreasing-array)
@@ -2269,6 +2274,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum deletions on a string](Solutions/M/maximum-deletions-on-a-string)
 * [Minimum time to revert word to initial state i](Solutions/M/minimum-time-to-revert-word-to-initial-state-i)
 * [Minimum time to revert word to initial state ii](Solutions/M/minimum-time-to-revert-word-to-initial-state-ii)
+* [Number of subarrays that match a pattern i](Solutions/N/number-of-subarrays-that-match-a-pattern-i)
+* [Number of subarrays that match a pattern ii](Solutions/N/number-of-subarrays-that-match-a-pattern-ii)
 * [Palindrome pairs](Solutions/P/palindrome-pairs)
 * [String transformation](Solutions/S/string-transformation)
 * [Sum of prefix scores of strings](Solutions/S/sum-of-prefix-scores-of-strings)
