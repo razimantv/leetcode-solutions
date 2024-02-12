@@ -1311,6 +1311,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Remove nodes from linked list](Solutions/R/remove-nodes-from-linked-list)
 
 ## <a name="Majority_element">Majority element</a>
+* [Majority element](Solutions/M/majority-element)
 * [Majority element ii](Solutions/M/majority-element-ii)
 * [Minimum index of a valid split](Solutions/M/minimum-index-of-a-valid-split)
 
@@ -2709,7 +2710,6 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest palindromic substring](Solutions/L/longest-palindromic-substring)
 * [Longest substring with at least k repeating characters](Solutions/L/longest-substring-with-at-least-k-repeating-characters)
 * [Longest word in dictionary](Solutions/L/longest-word-in-dictionary)
-* [Majority element](Solutions/M/majority-element)
 * [Map sum pairs](Solutions/M/map-sum-pairs)
 * [Maximum distance between a pair of values](Solutions/M/maximum-distance-between-a-pair-of-values)
 * [Maximum score after splitting a string](Solutions/M/maximum-score-after-splitting-a-string)
