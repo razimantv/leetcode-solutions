@@ -2457,6 +2457,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Merge two 2d arrays by summing values](Solutions/M/merge-two-2d-arrays-by-summing-values)
 * [Minimum common value](Solutions/M/minimum-common-value)
 * [Number of subsequences that satisfy the given sum condition](Solutions/N/number-of-subsequences-that-satisfy-the-given-sum-condition)
+* [Rearrange array elements by sign](Solutions/R/rearrange-array-elements-by-sign)
 * [Reverse vowels of a string](Solutions/R/reverse-vowels-of-a-string)
 
 ## <a name="Unique_elements_in_subarray">Unique elements in subarray</a>
