@@ -983,6 +983,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Happy students](Solutions/H/happy-students)
 * [Is subsequence](Solutions/I/is-subsequence)
 * [Largest number](Solutions/L/largest-number)
+* [Least number of unique integers after k removals](Solutions/L/least-number-of-unique-integers-after-k-removals)
 * [Lexicographically smallest string after substring operation](Solutions/L/lexicographically-smallest-string-after-substring-operation)
 * [Longest subsequence with limited sum](Solutions/L/longest-subsequence-with-limited-sum)
 * [Make array zero by subtracting equal amounts](Solutions/M/make-array-zero-by-subtracting-equal-amounts)
@@ -1186,6 +1187,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Hashmap-Counter">Counter</a>
 * [Count elements with maximum frequency](Solutions/C/count-elements-with-maximum-frequency)
 * [Find the maximum number of elements in subset](Solutions/F/find-the-maximum-number-of-elements-in-subset)
+* [Least number of unique integers after k removals](Solutions/L/least-number-of-unique-integers-after-k-removals)
 * [Maximum palindromes after operations](Solutions/M/maximum-palindromes-after-operations)
 * [Minimize length of array using operations](Solutions/M/minimize-length-of-array-using-operations)
 * [Minimum number of pushes to type word i](Solutions/M/minimum-number-of-pushes-to-type-word-i)
