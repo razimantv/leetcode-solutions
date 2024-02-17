@@ -10,6 +10,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 # Problems by tags
 
 ## <a name="Array_scanning">Array scanning</a>
+* [Apply operations to make string empty](Solutions/A/apply-operations-to-make-string-empty)
 * [Dota2 senate](Solutions/D/dota2-senate)
 * [Maximum enemy forts that can be captured](Solutions/M/maximum-enemy-forts-that-can-be-captured)
 * [Maximum value of an ordered triplet i](Solutions/M/maximum-value-of-an-ordered-triplet-i)
@@ -563,6 +564,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest ideal subsequence](Solutions/L/longest-ideal-subsequence)
 * [Longest palindromic subsequence](Solutions/L/longest-palindromic-subsequence)
 * [Make array strictly increasing](Solutions/M/make-array-strictly-increasing)
+* [Maximize consecutive elements in an array after modification](Solutions/M/maximize-consecutive-elements-in-an-array-after-modification)
 * [Maximum length of repeated subarray](Solutions/M/maximum-length-of-repeated-subarray)
 * [Maximum number of points with cost](Solutions/M/maximum-number-of-points-with-cost)
 * [Maximum score from performing multiplication operations](Solutions/M/maximum-score-from-performing-multiplication-operations)
@@ -688,6 +690,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Dynamic_programming-Memoised_recursion">Memoised recursion</a>
 * [Build array where you can find the maximum exactly k comparisons](Solutions/B/build-array-where-you-can-find-the-maximum-exactly-k-comparisons)
 * [Combination sum iv](Solutions/C/combination-sum-iv)
+* [Maximum number of operations with the same score ii](Solutions/M/maximum-number-of-operations-with-the-same-score-ii)
 * [Minimum number of days to eat n oranges](Solutions/M/minimum-number-of-days-to-eat-n-oranges)
 * [Number of dice rolls with target sum](Solutions/N/number-of-dice-rolls-with-target-sum)
 * [Out of boundary paths](Solutions/O/out-of-boundary-paths)
@@ -1185,6 +1188,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Design underground system](Solutions/D/design-underground-system)
 
 ### <a name="Hashmap-Counter">Counter</a>
+* [Apply operations to make string empty](Solutions/A/apply-operations-to-make-string-empty)
 * [Count elements with maximum frequency](Solutions/C/count-elements-with-maximum-frequency)
 * [Find the maximum number of elements in subset](Solutions/F/find-the-maximum-number-of-elements-in-subset)
 * [Least number of unique integers after k removals](Solutions/L/least-number-of-unique-integers-after-k-removals)
@@ -1975,6 +1979,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum count of positive integer and negative integer](Solutions/M/maximum-count-of-positive-integer-and-negative-integer)
 * [Maximum difference by remapping a digit](Solutions/M/maximum-difference-by-remapping-a-digit)
 * [Maximum number of balloons](Solutions/M/maximum-number-of-balloons)
+* [Maximum number of operations with the same score i](Solutions/M/maximum-number-of-operations-with-the-same-score-i)
 * [Maximum number of pairs in array](Solutions/M/maximum-number-of-pairs-in-array)
 * [Maximum score after splitting a string](Solutions/M/maximum-score-after-splitting-a-string)
 * [Maximum star sum of a graph](Solutions/M/maximum-star-sum-of-a-graph)
