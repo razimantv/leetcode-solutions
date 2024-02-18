@@ -1105,6 +1105,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find subarrays with equal sum](Solutions/F/find-subarrays-with-equal-sum)
 * [Find the difference of two arrays](Solutions/F/find-the-difference-of-two-arrays)
 * [Find the distinct difference array](Solutions/F/find-the-distinct-difference-array)
+* [Find the length of the longest common prefix](Solutions/F/find-the-length-of-the-longest-common-prefix)
 * [Find the prefix common array of two arrays](Solutions/F/find-the-prefix-common-array-of-two-arrays)
 * [Find words that can be formed by characters](Solutions/F/find-words-that-can-be-formed-by-characters)
 * [Finding the users active minutes](Solutions/F/finding-the-users-active-minutes)
@@ -1472,6 +1473,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum number of operations to make all array elements equal to 1](Solutions/M/minimum-number-of-operations-to-make-all-array-elements-equal-to-1)
 * [Minimum rounds to complete all tasks](Solutions/M/minimum-rounds-to-complete-all-tasks)
 * [Mirror reflection](Solutions/M/mirror-reflection)
+* [Most frequent prime](Solutions/M/most-frequent-prime)
 * [Nth magical number](Solutions/N/nth-magical-number)
 * [Number of common factors](Solutions/N/number-of-common-factors)
 * [Number of subarrays with gcd equal to k](Solutions/N/number-of-subarrays-with-gcd-equal-to-k)
@@ -1572,6 +1574,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum number of moves in a grid](Solutions/M/maximum-number-of-moves-in-a-grid)
 * [Minimum falling path sum](Solutions/M/minimum-falling-path-sum)
 * [Minimum path sum](Solutions/M/minimum-path-sum)
+* [Most frequent prime](Solutions/M/most-frequent-prime)
 * [Paths in matrix whose sum is divisible by k](Solutions/P/paths-in-matrix-whose-sum-is-divisible-by-k)
 * [Where will the ball fall](Solutions/W/where-will-the-ball-fall)
 
@@ -2277,6 +2280,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 #### <a name="String-Search-Hashing">Hashing</a>
 * [Concatenated words](Solutions/C/concatenated-words)
+* [Count prefix and suffix pairs i](Solutions/C/count-prefix-and-suffix-pairs-i)
+* [Count prefix and suffix pairs ii](Solutions/C/count-prefix-and-suffix-pairs-ii)
 * [Find beautiful indices in the given array i](Solutions/F/find-beautiful-indices-in-the-given-array-i)
 * [Find beautiful indices in the given array ii](Solutions/F/find-beautiful-indices-in-the-given-array-ii)
 * [Implement strstr](Solutions/I/implement-strstr)
