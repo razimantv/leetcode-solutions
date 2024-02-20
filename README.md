@@ -200,6 +200,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Koko eating bananas](Solutions/K/koko-eating-bananas)
 * [Kth smallest element in a sorted matrix](Solutions/K/kth-smallest-element-in-a-sorted-matrix)
 * [Kth smallest number in multiplication table](Solutions/K/kth-smallest-number-in-multiplication-table)
+* [Longest palindromic substring](Solutions/L/longest-palindromic-substring)
 * [Longest subsequence with limited sum](Solutions/L/longest-subsequence-with-limited-sum)
 * [Maximize the minimum powered city](Solutions/M/maximize-the-minimum-powered-city)
 * [Maximum distance between a pair of values](Solutions/M/maximum-distance-between-a-pair-of-values)
@@ -1618,7 +1619,6 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Lexicographically smallest palindrome](Solutions/L/lexicographically-smallest-palindrome)
 * [Longest palindrome](Solutions/L/longest-palindrome)
 * [Longest palindrome by concatenating two letter words](Solutions/L/longest-palindrome-by-concatenating-two-letter-words)
-* [Longest palindromic substring](Solutions/L/longest-palindromic-substring)
 * [Maximum number of non overlapping palindrome substrings](Solutions/M/maximum-number-of-non-overlapping-palindrome-substrings)
 * [Maximum palindromes after operations](Solutions/M/maximum-palindromes-after-operations)
 * [Minimum changes to make k semi palindromes](Solutions/M/minimum-changes-to-make-k-semi-palindromes)
@@ -1635,6 +1635,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Unique length 3 palindromic subsequences](Solutions/U/unique-length-3-palindromic-subsequences)
 
 ### <a name="Palindrome-Hashing">Hashing</a>
+* [Longest palindromic substring](Solutions/L/longest-palindromic-substring)
 * [Palindrome pairs](Solutions/P/palindrome-pairs)
 
 ## <a name="Permutation">Permutation</a>
@@ -2722,7 +2723,6 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [How many numbers are smaller than the current number](Solutions/H/how-many-numbers-are-smaller-than-the-current-number)
 * [Kth missing positive number](Solutions/K/kth-missing-positive-number)
 * [Longest increasing subsequence](Solutions/L/longest-increasing-subsequence)
-* [Longest palindromic substring](Solutions/L/longest-palindromic-substring)
 * [Longest substring with at least k repeating characters](Solutions/L/longest-substring-with-at-least-k-repeating-characters)
 * [Longest word in dictionary](Solutions/L/longest-word-in-dictionary)
 * [Map sum pairs](Solutions/M/map-sum-pairs)
