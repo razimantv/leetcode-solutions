@@ -456,6 +456,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## <a name="Disjoint_set_union">Disjoint set union</a>
 * [Accounts merge](Solutions/A/accounts-merge)
 * [Checking existence of edge length limited paths](Solutions/C/checking-existence-of-edge-length-limited-paths)
+* [Find all people with secret](Solutions/F/find-all-people-with-secret)
 * [Find critical and pseudo critical edges in minimum spanning tree](Solutions/F/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree)
 * [Find the safest path in a grid](Solutions/F/find-the-safest-path-in-a-grid)
 * [Greatest common divisor traversal](Solutions/G/greatest-common-divisor-traversal)
@@ -2105,6 +2106,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count the number of fair pairs](Solutions/C/count-the-number-of-fair-pairs)
 * [Delete greatest value in each row](Solutions/D/delete-greatest-value-in-each-row)
 * [Divide players into teams of equal skill](Solutions/D/divide-players-into-teams-of-equal-skill)
+* [Find all people with secret](Solutions/F/find-all-people-with-secret)
 * [High access employees](Solutions/H/high-access-employees)
 * [Largest perimeter triangle](Solutions/L/largest-perimeter-triangle)
 * [Largest submatrix with rearrangements](Solutions/L/largest-submatrix-with-rearrangements)
@@ -2461,6 +2463,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## <a name="Two_pointers">Two pointers</a>
 * [Assign cookies](Solutions/A/assign-cookies)
+* [Find all people with secret](Solutions/F/find-all-people-with-secret)
 * [Find indices with index and value difference i](Solutions/F/find-indices-with-index-and-value-difference-i)
 * [Find indices with index and value difference ii](Solutions/F/find-indices-with-index-and-value-difference-ii)
 * [Find k closest elements](Solutions/F/find-k-closest-elements)
