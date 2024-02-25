@@ -182,6 +182,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Data stream as disjoint intervals](Solutions/D/data-stream-as-disjoint-intervals)
 * [Design movie rental system](Solutions/D/design-movie-rental-system)
 * [Dungeon game](Solutions/D/dungeon-game)
+* [Earliest second to mark indices i](Solutions/E/earliest-second-to-mark-indices-i)
+* [Earliest second to mark indices ii](Solutions/E/earliest-second-to-mark-indices-ii)
 * [Find building where alice and bob can meet](Solutions/F/find-building-where-alice-and-bob-can-meet)
 * [Find first and last position of element in sorted array](Solutions/F/find-first-and-last-position-of-element-in-sorted-array)
 * [Find in mountain array](Solutions/F/find-in-mountain-array)
@@ -976,6 +978,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Divide array into arrays with max difference](Solutions/D/divide-array-into-arrays-with-max-difference)
 * [Dota2 senate](Solutions/D/dota2-senate)
 * [Earliest possible day of full bloom](Solutions/E/earliest-possible-day-of-full-bloom)
+* [Earliest second to mark indices i](Solutions/E/earliest-second-to-mark-indices-i)
+* [Earliest second to mark indices ii](Solutions/E/earliest-second-to-mark-indices-ii)
 * [Eliminate maximum number of monsters](Solutions/E/eliminate-maximum-number-of-monsters)
 * [Find polygon with the largest perimeter](Solutions/F/find-polygon-with-the-largest-perimeter)
 * [Find the maximum number of marked indices](Solutions/F/find-the-maximum-number-of-marked-indices)
@@ -1199,6 +1203,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimize length of array using operations](Solutions/M/minimize-length-of-array-using-operations)
 * [Minimum number of pushes to type word i](Solutions/M/minimum-number-of-pushes-to-type-word-i)
 * [Minimum number of pushes to type word ii](Solutions/M/minimum-number-of-pushes-to-type-word-ii)
+* [Split the array](Solutions/S/split-the-array)
 * [Unique number of occurrences](Solutions/U/unique-number-of-occurrences)
 
 ### <a name="Hashmap-Forward_and_backward">Forward and backward</a>
@@ -1267,6 +1272,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count ways to group overlapping ranges](Solutions/C/count-ways-to-group-overlapping-ranges)
 * [Determine if two events have conflict](Solutions/D/determine-if-two-events-have-conflict)
 * [Divide intervals into minimum number of groups](Solutions/D/divide-intervals-into-minimum-number-of-groups)
+* [Find the largest area of square inside two rectangles](Solutions/F/find-the-largest-area-of-square-inside-two-rectangles)
 * [Interval list intersections](Solutions/I/interval-list-intersections)
 * [Minimum time to complete all tasks](Solutions/M/minimum-time-to-complete-all-tasks)
 * [My calendar iii](Solutions/M/my-calendar-iii)
@@ -1775,6 +1781,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## <a name="Priority_queue">Priority queue</a>
 * [Constrained subsequence sum](Solutions/C/constrained-subsequence-sum)
+* [Earliest second to mark indices ii](Solutions/E/earliest-second-to-mark-indices-ii)
 * [Find original array from doubled array](Solutions/F/find-original-array-from-doubled-array)
 * [First unique character in a string](Solutions/F/first-unique-character-in-a-string)
 * [Furthest building you can reach](Solutions/F/furthest-building-you-can-reach)
