@@ -1200,6 +1200,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Hashmap-Coordinate_compression">Coordinate compression</a>
 * [Design underground system](Solutions/D/design-underground-system)
+* [Distribute elements into two arrays ii](Solutions/D/distribute-elements-into-two-arrays-ii)
 
 ### <a name="Hashmap-Counter">Counter</a>
 * [Apply operations to make string empty](Solutions/A/apply-operations-to-make-string-empty)
@@ -1210,6 +1211,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimize length of array using operations](Solutions/M/minimize-length-of-array-using-operations)
 * [Minimum number of pushes to type word i](Solutions/M/minimum-number-of-pushes-to-type-word-i)
 * [Minimum number of pushes to type word ii](Solutions/M/minimum-number-of-pushes-to-type-word-ii)
+* [Minimum operations to write the letter y on a grid](Solutions/M/minimum-operations-to-write-the-letter-y-on-a-grid)
 * [Split the array](Solutions/S/split-the-array)
 * [Unique number of occurrences](Solutions/U/unique-number-of-occurrences)
 
@@ -1767,6 +1769,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 #### <a name="Prefix-Sum-2D">2D</a>
 * [Construct product matrix](Solutions/C/construct-product-matrix)
 * [Construct quad tree](Solutions/C/construct-quad-tree)
+* [Count submatrices with top left element and sum less than k](Solutions/C/count-submatrices-with-top-left-element-and-sum-less-than-k)
 * [Disconnect path in a binary matrix by at most one flip](Solutions/D/disconnect-path-in-a-binary-matrix-by-at-most-one-flip)
 * [Increment submatrices by one](Solutions/I/increment-submatrices-by-one)
 * [Maximal square](Solutions/M/maximal-square)
@@ -1893,6 +1896,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count pairs with xor in a range](Solutions/C/count-pairs-with-xor-in-a-range)
 * [Create sorted array through instructions](Solutions/C/create-sorted-array-through-instructions)
 * [Delivering boxes from storage to ports](Solutions/D/delivering-boxes-from-storage-to-ports)
+* [Distribute elements into two arrays ii](Solutions/D/distribute-elements-into-two-arrays-ii)
 * [Fancy sequence](Solutions/F/fancy-sequence)
 * [Jump game vii](Solutions/J/jump-game-vii)
 * [Longest increasing subsequence ii](Solutions/L/longest-increasing-subsequence-ii)
@@ -1951,6 +1955,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Difference between ones and zeros in row and column](Solutions/D/difference-between-ones-and-zeros-in-row-and-column)
 * [Distribute candies](Solutions/D/distribute-candies)
 * [Distribute candies to people](Solutions/D/distribute-candies-to-people)
+* [Distribute elements into two arrays i](Solutions/D/distribute-elements-into-two-arrays-i)
 * [Divisible and non divisible sums difference](Solutions/D/divisible-and-non-divisible-sums-difference)
 * [Duplicate zeros](Solutions/D/duplicate-zeros)
 * [Excel sheet column number](Solutions/E/excel-sheet-column-number)
