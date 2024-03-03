@@ -332,6 +332,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count pairs of points with distance k](Solutions/C/count-pairs-of-points-with-distance-k)
 * [Count paths that can form a palindrome in a tree](Solutions/C/count-paths-that-can-form-a-palindrome-in-a-tree)
 * [Count the number of beautiful subarrays](Solutions/C/count-the-number-of-beautiful-subarrays)
+* [Find the maximum sum of node values](Solutions/F/find-the-maximum-sum-of-node-values)
 * [Find the original array of prefix xor](Solutions/F/find-the-original-array-of-prefix-xor)
 * [Maximum xor product](Solutions/M/maximum-xor-product)
 * [Minimum number of operations to make array xor equal to k](Solutions/M/minimum-number-of-operations-to-make-array-xor-equal-to-k)
@@ -758,6 +759,10 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum score after removals on a tree](Solutions/M/minimum-score-after-removals-on-a-tree)
 * [Most profitable path in a tree](Solutions/M/most-profitable-path-in-a-tree)
 
+#### <a name="Dynamic_programming-Trees-DP_over_children">DP over children</a>
+* [Count pairs of connectable servers in a weighted tree network](Solutions/C/count-pairs-of-connectable-servers-in-a-weighted-tree-network)
+* [Find the maximum sum of node values](Solutions/F/find-the-maximum-sum-of-node-values)
+
 ## <a name="Dynamic_update_of_left_and_right_neighbours">Dynamic update of left and right neighbours</a>
 * [Robot collisions](Solutions/R/robot-collisions)
 * [Sum of imbalance numbers of all subarrays](Solutions/S/sum-of-imbalance-numbers-of-all-subarrays)
@@ -828,6 +833,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Graph_theory-Depth_first_search">Depth first search</a>
 * [Amount of time for binary tree to be infected](Solutions/A/amount-of-time-for-binary-tree-to-be-infected)
 * [Count number of possible root nodes](Solutions/C/count-number-of-possible-root-nodes)
+* [Count pairs of connectable servers in a weighted tree network](Solutions/C/count-pairs-of-connectable-servers-in-a-weighted-tree-network)
 * [Count paths that can form a palindrome in a tree](Solutions/C/count-paths-that-can-form-a-palindrome-in-a-tree)
 * [Count valid paths in a tree](Solutions/C/count-valid-paths-in-a-tree)
 * [Create components with same value](Solutions/C/create-components-with-same-value)
@@ -838,6 +844,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Employee importance](Solutions/E/employee-importance)
 * [Find if path exists in graph](Solutions/F/find-if-path-exists-in-graph)
 * [Find number of coins to place in tree nodes](Solutions/F/find-number-of-coins-to-place-in-tree-nodes)
+* [Find the maximum sum of node values](Solutions/F/find-the-maximum-sum-of-node-values)
 * [Jump game iii](Solutions/J/jump-game-iii)
 * [Keys and rooms](Solutions/K/keys-and-rooms)
 * [Longest increasing path in a matrix](Solutions/L/longest-increasing-path-in-a-matrix)
@@ -1463,6 +1470,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count beautiful substrings ii](Solutions/C/count-beautiful-substrings-ii)
 * [Count distinct numbers on board](Solutions/C/count-distinct-numbers-on-board)
 * [Count of interesting subarrays](Solutions/C/count-of-interesting-subarrays)
+* [Count pairs of connectable servers in a weighted tree network](Solutions/C/count-pairs-of-connectable-servers-in-a-weighted-tree-network)
 * [Destroy sequential targets](Solutions/D/destroy-sequential-targets)
 * [Excel sheet column title](Solutions/E/excel-sheet-column-title)
 * [Factorial trailing zeroes](Solutions/F/factorial-trailing-zeroes)
@@ -1798,6 +1806,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Merge k sorted lists](Solutions/M/merge-k-sorted-lists)
 * [Minimize deviation in array](Solutions/M/minimize-deviation-in-array)
 * [Minimum interval to include each query](Solutions/M/minimum-interval-to-include-each-query)
+* [Minimum operations to exceed threshold value ii](Solutions/M/minimum-operations-to-exceed-threshold-value-ii)
 * [Minimum operations to form subsequence with target sum](Solutions/M/minimum-operations-to-form-subsequence-with-target-sum)
 * [Number of orders in the backlog](Solutions/N/number-of-orders-in-the-backlog)
 * [Parallel courses iii](Solutions/P/parallel-courses-iii)
@@ -2007,6 +2016,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum hours of training to win a competition](Solutions/M/minimum-hours-of-training-to-win-a-competition)
 * [Minimum number game](Solutions/M/minimum-number-game)
 * [Minimum number of swaps to make the binary string alternating](Solutions/M/minimum-number-of-swaps-to-make-the-binary-string-alternating)
+* [Minimum operations to exceed threshold value i](Solutions/M/minimum-operations-to-exceed-threshold-value-i)
 * [Minimum time visiting all points](Solutions/M/minimum-time-visiting-all-points)
 * [Modify the matrix](Solutions/M/modify-the-matrix)
 * [Most frequent even element](Solutions/M/most-frequent-even-element)
