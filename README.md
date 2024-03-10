@@ -573,6 +573,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum length of repeated subarray](Solutions/M/maximum-length-of-repeated-subarray)
 * [Maximum number of points with cost](Solutions/M/maximum-number-of-points-with-cost)
 * [Maximum score from performing multiplication operations](Solutions/M/maximum-score-from-performing-multiplication-operations)
+* [Maximum strength of k disjoint subarrays](Solutions/M/maximum-strength-of-k-disjoint-subarrays)
 * [Maximum value of k coins from piles](Solutions/M/maximum-value-of-k-coins-from-piles)
 * [Minimum additions to make valid string](Solutions/M/minimum-additions-to-make-valid-string)
 * [Minimum falling path sum](Solutions/M/minimum-falling-path-sum)
@@ -972,6 +973,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## <a name="Greedy">Greedy</a>
 * [Advantage shuffle](Solutions/A/advantage-shuffle)
 * [Append characters to string to make subsequence](Solutions/A/append-characters-to-string-to-make-subsequence)
+* [Apple redistribution into boxes](Solutions/A/apple-redistribution-into-boxes)
 * [Apply operations on array to maximize sum of squares](Solutions/A/apply-operations-on-array-to-maximize-sum-of-squares)
 * [Apply operations to make all array elements equal to zero](Solutions/A/apply-operations-to-make-all-array-elements-equal-to-zero)
 * [Apply operations to maximize score](Solutions/A/apply-operations-to-maximize-score)
@@ -1006,6 +1008,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Make costs of paths equal in a binary tree](Solutions/M/make-costs-of-paths-equal-in-a-binary-tree)
 * [Make string a subsequence using cyclic increments](Solutions/M/make-string-a-subsequence-using-cyclic-increments)
 * [Maximize greatness of an array](Solutions/M/maximize-greatness-of-an-array)
+* [Maximize happiness of selected children](Solutions/M/maximize-happiness-of-selected-children)
 * [Maximize the minimum powered city](Solutions/M/maximize-the-minimum-powered-city)
 * [Maximum bags with full capacity of rocks](Solutions/M/maximum-bags-with-full-capacity-of-rocks)
 * [Maximum element after decreasing and rearranging](Solutions/M/maximum-element-after-decreasing-and-rearranging)
@@ -1190,6 +1193,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Reduce array size to the half](Solutions/R/reduce-array-size-to-the-half)
 * [Relocate marbles](Solutions/R/relocate-marbles)
 * [Reward top k students](Solutions/R/reward-top-k-students)
+* [Shortest uncommon substring in an array](Solutions/S/shortest-uncommon-substring-in-an-array)
 * [Sliding subarray beauty](Solutions/S/sliding-subarray-beauty)
 * [Smallest subarrays with maximum bitwise or](Solutions/S/smallest-subarrays-with-maximum-bitwise-or)
 * [Subarray sums divisible by k](Solutions/S/subarray-sums-divisible-by-k)
@@ -2303,6 +2307,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Number of atoms](Solutions/N/number-of-atoms)
 
 ### <a name="String-Search">Search</a>
+* [Shortest uncommon substring in an array](Solutions/S/shortest-uncommon-substring-in-an-array)
 
 #### <a name="String-Search-Hashing">Hashing</a>
 * [Concatenated words](Solutions/C/concatenated-words)
