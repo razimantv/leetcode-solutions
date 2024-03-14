@@ -1081,6 +1081,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## <a name="Hashmap">Hashmap</a>
 * [Array of doubled pairs](Solutions/A/array-of-doubled-pairs)
+* [Binary subarrays with sum](Solutions/B/binary-subarrays-with-sum)
 * [Brick wall](Solutions/B/brick-wall)
 * [Check array formation through concatenation](Solutions/C/check-array-formation-through-concatenation)
 * [Check distances between same letters](Solutions/C/check-distances-between-same-letters)
@@ -1723,6 +1724,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Prefix-Sum">Sum</a>
 * [Apply operations to maximize frequency score](Solutions/A/apply-operations-to-maximize-frequency-score)
+* [Binary subarrays with sum](Solutions/B/binary-subarrays-with-sum)
 * [Contiguous array](Solutions/C/contiguous-array)
 * [Continuous subarray sum](Solutions/C/continuous-subarray-sum)
 * [Count beautiful substrings i](Solutions/C/count-beautiful-substrings-i)
