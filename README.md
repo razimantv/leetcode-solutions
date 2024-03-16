@@ -561,6 +561,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Decremental string concatenation](Solutions/D/decremental-string-concatenation)
 * [Delete operation for two strings](Solutions/D/delete-operation-for-two-strings)
 * [Distinct subsequences](Solutions/D/distinct-subsequences)
+* [Find the sum of the power of all subsequences](Solutions/F/find-the-sum-of-the-power-of-all-subsequences)
 * [Interleaving string](Solutions/I/interleaving-string)
 * [K inverse pairs array](Solutions/K/k-inverse-pairs-array)
 * [Knight dialer](Solutions/K/knight-dialer)
@@ -664,6 +665,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Coin change 2](Solutions/C/coin-change-2)
 * [Count all possible routes](Solutions/C/count-all-possible-routes)
 * [Count of sub multisets with bounded sum](Solutions/C/count-of-sub-multisets-with-bounded-sum)
+* [Find the sum of the power of all subsequences](Solutions/F/find-the-sum-of-the-power-of-all-subsequences)
 * [Length of the longest subsequence that sums to target](Solutions/L/length-of-the-longest-subsequence-that-sums-to-target)
 * [Maximum value of k coins from piles](Solutions/M/maximum-value-of-k-coins-from-piles)
 * [Number of great partitions](Solutions/N/number-of-great-partitions)
@@ -1075,6 +1077,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Remove k digits](Solutions/R/remove-k-digits)
 * [Remove stones to minimize the total](Solutions/R/remove-stones-to-minimize-the-total)
 * [Reorganize string](Solutions/R/reorganize-string)
+* [Replace question marks in string to minimize its value](Solutions/R/replace-question-marks-in-string-to-minimize-its-value)
 * [Smallest missing non negative integer after operations](Solutions/S/smallest-missing-non-negative-integer-after-operations)
 * [Split array largest sum](Solutions/S/split-array-largest-sum)
 * [Split with minimum sum](Solutions/S/split-with-minimum-sum)
@@ -1219,6 +1222,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum number of pushes to type word i](Solutions/M/minimum-number-of-pushes-to-type-word-i)
 * [Minimum number of pushes to type word ii](Solutions/M/minimum-number-of-pushes-to-type-word-ii)
 * [Minimum operations to write the letter y on a grid](Solutions/M/minimum-operations-to-write-the-letter-y-on-a-grid)
+* [Replace question marks in string to minimize its value](Solutions/R/replace-question-marks-in-string-to-minimize-its-value)
 * [Split the array](Solutions/S/split-the-array)
 * [Unique number of occurrences](Solutions/U/unique-number-of-occurrences)
 
@@ -1365,6 +1369,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Largest perimeter triangle](Solutions/L/largest-perimeter-triangle)
 * [Minimum number of operations to make array empty](Solutions/M/minimum-number-of-operations-to-make-array-empty)
 * [Poor pigs](Solutions/P/poor-pigs)
+* [Replace question marks in string to minimize its value](Solutions/R/replace-question-marks-in-string-to-minimize-its-value)
 * [Strictly palindromic number](Solutions/S/strictly-palindromic-number)
 * [Sum of absolute differences in a sorted array](Solutions/S/sum-of-absolute-differences-in-a-sorted-array)
 
@@ -1410,6 +1415,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count unreachable pairs of nodes in an undirected graph](Solutions/C/count-unreachable-pairs-of-nodes-in-an-undirected-graph)
 * [Count ways to group overlapping ranges](Solutions/C/count-ways-to-group-overlapping-ranges)
 * [Domino and tromino tiling](Solutions/D/domino-and-tromino-tiling)
+* [Find the sum of the power of all subsequences](Solutions/F/find-the-sum-of-the-power-of-all-subsequences)
 * [Find xor beauty of array](Solutions/F/find-xor-beauty-of-array)
 * [Iterator for combination](Solutions/I/iterator-for-combination)
 * [Maximum number of groups with increasing length](Solutions/M/maximum-number-of-groups-with-increasing-length)
@@ -1981,6 +1987,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find the maximum divisibility score](Solutions/F/find-the-maximum-divisibility-score)
 * [Find the peaks](Solutions/F/find-the-peaks)
 * [Find the pivot integer](Solutions/F/find-the-pivot-integer)
+* [Find the sum of encrypted integers](Solutions/F/find-the-sum-of-encrypted-integers)
 * [Find the town judge](Solutions/F/find-the-town-judge)
 * [Find the width of columns of a grid](Solutions/F/find-the-width-of-columns-of-a-grid)
 * [Find the winner of an array game](Solutions/F/find-the-winner-of-an-array-game)
@@ -2236,6 +2243,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find right interval](Solutions/F/find-right-interval)
 * [Invalid transactions](Solutions/I/invalid-transactions)
 * [Make lexicographically smallest array by swapping elements](Solutions/M/make-lexicographically-smallest-array-by-swapping-elements)
+* [Mark elements on array by performing queries](Solutions/M/mark-elements-on-array-by-performing-queries)
 * [Sum of subarray minimums](Solutions/S/sum-of-subarray-minimums)
 
 ### <a name="Sorting-Stable">Stable</a>
