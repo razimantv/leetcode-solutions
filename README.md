@@ -1219,6 +1219,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count substrings starting and ending with given character](Solutions/C/count-substrings-starting-and-ending-with-given-character)
 * [Find the maximum number of elements in subset](Solutions/F/find-the-maximum-number-of-elements-in-subset)
 * [Least number of unique integers after k removals](Solutions/L/least-number-of-unique-integers-after-k-removals)
+* [Maximum length substring with two occurrences](Solutions/M/maximum-length-substring-with-two-occurrences)
 * [Maximum palindromes after operations](Solutions/M/maximum-palindromes-after-operations)
 * [Minimize length of array using operations](Solutions/M/minimize-length-of-array-using-operations)
 * [Minimum deletions to make string k special](Solutions/M/minimum-deletions-to-make-string-k-special)
@@ -1236,6 +1237,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Frequency tracker](Solutions/F/frequency-tracker)
 * [Insert delete getrandom o1](Solutions/I/insert-delete-getrandom-o1)
 * [Isomorphic strings](Solutions/I/isomorphic-strings)
+* [Most frequent ids](Solutions/M/most-frequent-ids)
 
 ### <a name="Hashmap-Group_items">Group items</a>
 * [Find the longest equal subarray](Solutions/F/find-the-longest-equal-subarray)
@@ -1363,6 +1365,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Mathematics-Basic">Basic</a>
 * [Alice and bob playing flower game](Solutions/A/alice-and-bob-playing-flower-game)
 * [Angle between hands of a clock](Solutions/A/angle-between-hands-of-a-clock)
+* [Apply operations to make sum of array greater than or equal to k](Solutions/A/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k)
 * [Can make arithmetic progression from sequence](Solutions/C/can-make-arithmetic-progression-from-sequence)
 * [Construct the longest new string](Solutions/C/construct-the-longest-new-string)
 * [Count of matches in tournament](Solutions/C/count-of-matches-in-tournament)
@@ -2353,6 +2356,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 #### <a name="String-Search-Trie">Trie</a>
 * [Length of the longest valid substring](Solutions/L/length-of-the-longest-valid-substring)
+* [Longest common suffix queries](Solutions/L/longest-common-suffix-queries)
 
 ### <a name="String-Subsequence">Subsequence</a>
 * [Append characters to string to make subsequence](Solutions/A/append-characters-to-string-to-make-subsequence)
@@ -2504,6 +2508,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Design add and search words data structure](Solutions/D/design-add-and-search-words-data-structure)
 * [Implement trie prefix tree](Solutions/I/implement-trie-prefix-tree)
 * [Length of the longest valid substring](Solutions/L/length-of-the-longest-valid-substring)
+* [Longest common suffix queries](Solutions/L/longest-common-suffix-queries)
 * [Maximum strong pair xor i](Solutions/M/maximum-strong-pair-xor-i)
 * [Maximum strong pair xor ii](Solutions/M/maximum-strong-pair-xor-ii)
 * [Word search ii](Solutions/W/word-search-ii)
@@ -2767,6 +2772,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Next permutation](Solutions/N/next-permutation)
 
 ## Suboptimal solution
+* [Apply operations to make sum of array greater than or equal to k](Solutions/A/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k)
 * [Check if all the integers in a range are covered](Solutions/C/check-if-all-the-integers-in-a-range-are-covered)
 * [Check if two string arrays are equivalent](Solutions/C/check-if-two-string-arrays-are-equivalent)
 * [Counting bits](Solutions/C/counting-bits)
@@ -2782,6 +2788,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest word in dictionary](Solutions/L/longest-word-in-dictionary)
 * [Map sum pairs](Solutions/M/map-sum-pairs)
 * [Maximum distance between a pair of values](Solutions/M/maximum-distance-between-a-pair-of-values)
+* [Maximum length substring with two occurrences](Solutions/M/maximum-length-substring-with-two-occurrences)
 * [Maximum score after splitting a string](Solutions/M/maximum-score-after-splitting-a-string)
 * [Next greater element i](Solutions/N/next-greater-element-i)
 * [Split message based on limit](Solutions/S/split-message-based-on-limit)
