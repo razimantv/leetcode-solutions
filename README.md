@@ -1228,6 +1228,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum operations to write the letter y on a grid](Solutions/M/minimum-operations-to-write-the-letter-y-on-a-grid)
 * [Replace question marks in string to minimize its value](Solutions/R/replace-question-marks-in-string-to-minimize-its-value)
 * [Split the array](Solutions/S/split-the-array)
+* [Subarrays with k different integers](Solutions/S/subarrays-with-k-different-integers)
 * [Unique number of occurrences](Solutions/U/unique-number-of-occurrences)
 
 ### <a name="Hashmap-Forward_and_backward">Forward and backward</a>
@@ -2139,6 +2140,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum window substring](Solutions/M/minimum-window-substring)
 * [Permutation in string](Solutions/P/permutation-in-string)
 * [Sliding subarray beauty](Solutions/S/sliding-subarray-beauty)
+* [Subarrays with k different integers](Solutions/S/subarrays-with-k-different-integers)
 * [Subsequence with the minimum score](Solutions/S/subsequence-with-the-minimum-score)
 
 ### <a name="Sliding_window-Monotonic_deque">Monotonic deque</a>
