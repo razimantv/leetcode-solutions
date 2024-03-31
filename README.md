@@ -29,6 +29,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Arithmetic slices](Solutions/A/arithmetic-slices)
 * [Check if all 1s are at least length k places away](Solutions/C/check-if-all-1s-are-at-least-length-k-places-away)
 * [Consecutive characters](Solutions/C/consecutive-characters)
+* [Count alternating subarrays](Solutions/C/count-alternating-subarrays)
 * [Count binary substrings](Solutions/C/count-binary-substrings)
 * [Count number of homogenous substrings](Solutions/C/count-number-of-homogenous-substrings)
 * [Distribute candies](Solutions/D/distribute-candies)
@@ -1472,6 +1473,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Determine if a cell is reachable at a given time](Solutions/D/determine-if-a-cell-is-reachable-at-a-given-time)
 * [Max points on a line](Solutions/M/max-points-on-a-line)
 * [Maximum area of longest diagonal rectangle](Solutions/M/maximum-area-of-longest-diagonal-rectangle)
+* [Minimize manhattan distances](Solutions/M/minimize-manhattan-distances)
 * [Minimum cuts to divide a circle](Solutions/M/minimum-cuts-to-divide-a-circle)
 * [Rectangle area](Solutions/R/rectangle-area)
 * [Type of triangle ii](Solutions/T/type-of-triangle-ii)
@@ -2018,6 +2020,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Get biggest three rhombus sums in a grid](Solutions/G/get-biggest-three-rhombus-sums-in-a-grid)
 * [Get maximum in generated array](Solutions/G/get-maximum-in-generated-array)
 * [Greatest english letter in upper and lower case](Solutions/G/greatest-english-letter-in-upper-and-lower-case)
+* [Harshad number](Solutions/H/harshad-number)
 * [How many numbers are smaller than the current number](Solutions/H/how-many-numbers-are-smaller-than-the-current-number)
 * [Image overlap](Solutions/I/image-overlap)
 * [Image smoother](Solutions/I/image-smoother)
@@ -2099,6 +2102,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Toeplitz matrix](Solutions/T/toeplitz-matrix)
 * [Total distance traveled](Solutions/T/total-distance-traveled)
 * [Ugly number](Solutions/U/ugly-number)
+* [Water bottles ii](Solutions/W/water-bottles-ii)
 * [Zigzag conversion](Solutions/Z/zigzag-conversion)
 
 ## <a name="Sliding_window">Sliding window</a>
