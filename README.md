@@ -197,6 +197,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find the longest valid obstacle course at each position](Solutions/F/find-the-longest-valid-obstacle-course-at-each-position)
 * [Find the maximum number of marked indices](Solutions/F/find-the-maximum-number-of-marked-indices)
 * [Find the smallest divisor given a threshold](Solutions/F/find-the-smallest-divisor-given-a-threshold)
+* [Find the sum of subsequence powers](Solutions/F/find-the-sum-of-subsequence-powers)
 * [First bad version](Solutions/F/first-bad-version)
 * [Guess number higher or lower](Solutions/G/guess-number-higher-or-lower)
 * [H index](Solutions/H/h-index)
@@ -508,7 +509,6 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Edit distance](Solutions/E/edit-distance)
 * [Extra characters in a string](Solutions/E/extra-characters-in-a-string)
 * [Fibonacci number](Solutions/F/fibonacci-number)
-* [Find the sum of subsequence powers](Solutions/F/find-the-sum-of-subsequence-powers)
 * [Frog jump](Solutions/F/frog-jump)
 * [House robber](Solutions/H/house-robber)
 * [Jump game](Solutions/J/jump-game)
@@ -567,6 +567,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Decremental string concatenation](Solutions/D/decremental-string-concatenation)
 * [Delete operation for two strings](Solutions/D/delete-operation-for-two-strings)
 * [Distinct subsequences](Solutions/D/distinct-subsequences)
+* [Find the sum of subsequence powers](Solutions/F/find-the-sum-of-subsequence-powers)
 * [Find the sum of the power of all subsequences](Solutions/F/find-the-sum-of-the-power-of-all-subsequences)
 * [Interleaving string](Solutions/I/interleaving-string)
 * [K inverse pairs array](Solutions/K/k-inverse-pairs-array)
@@ -1456,6 +1457,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count increasing quadruplets](Solutions/C/count-increasing-quadruplets)
 * [Distribute candies among children i](Solutions/D/distribute-candies-among-children-i)
 * [Distribute candies among children ii](Solutions/D/distribute-candies-among-children-ii)
+* [Find the sum of subsequence powers](Solutions/F/find-the-sum-of-subsequence-powers)
 
 ### <a name="Mathematics-Composition_of_operations">Composition of operations</a>
 * [Bitwise xor of all pairings](Solutions/B/bitwise-xor-of-all-pairings)
