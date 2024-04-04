@@ -1824,6 +1824,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximize the minimum powered city](Solutions/M/maximize-the-minimum-powered-city)
 
 #### <a name="Prefix-Sum-Valid_brackets">Valid brackets</a>
+* [Maximum nesting depth of the parentheses](Solutions/M/maximum-nesting-depth-of-the-parentheses)
 * [Minimum remove to make valid parentheses](Solutions/M/minimum-remove-to-make-valid-parentheses)
 * [Remove invalid parentheses](Solutions/R/remove-invalid-parentheses)
 
