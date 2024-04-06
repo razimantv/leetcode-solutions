@@ -165,6 +165,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Number of valid clock times](Solutions/N/number-of-valid-clock-times)
 * [Partition to k equal sum subsets](Solutions/P/partition-to-k-equal-sum-subsets)
 
+### <a name="Backtracking-Minimum_option_optimisation">Minimum option optimisation</a>
+* [Sudoku solver](Solutions/S/sudoku-solver)
+
 ### <a name="Backtracking-Push_and_pop_for_efficient_state_update">Push and pop for efficient state update</a>
 * [Combinations](Solutions/C/combinations)
 * [Path sum ii](Solutions/P/path-sum-ii)
@@ -2691,7 +2694,6 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Substrings of size three with distinct characters](Solutions/S/substrings-of-size-three-with-distinct-characters)
 * [Subtree of another tree](Solutions/S/subtree-of-another-tree)
 * [Successful pairs of spells and potions](Solutions/S/successful-pairs-of-spells-and-potions)
-* [Sudoku solver](Solutions/S/sudoku-solver)
 * [Sum of all subset xor totals](Solutions/S/sum-of-all-subset-xor-totals)
 * [Sum of beauty of all substrings](Solutions/S/sum-of-beauty-of-all-substrings)
 * [Sum of digits in base k](Solutions/S/sum-of-digits-in-base-k)
