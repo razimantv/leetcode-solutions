@@ -477,6 +477,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Lexicographically smallest equivalent string](Solutions/L/lexicographically-smallest-equivalent-string)
 * [Maximum segment sum after removals](Solutions/M/maximum-segment-sum-after-removals)
 * [Min cost to connect all points](Solutions/M/min-cost-to-connect-all-points)
+* [Minimum cost walk in weighted graph](Solutions/M/minimum-cost-walk-in-weighted-graph)
 * [Number of good paths](Solutions/N/number-of-good-paths)
 * [Number of islands](Solutions/N/number-of-islands)
 * [Rank transform of a matrix](Solutions/R/rank-transform-of-a-matrix)
@@ -1014,6 +1015,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Is subsequence](Solutions/I/is-subsequence)
 * [Largest number](Solutions/L/largest-number)
 * [Least number of unique integers after k removals](Solutions/L/least-number-of-unique-integers-after-k-removals)
+* [Lexicographically smallest string after operations with constraint](Solutions/L/lexicographically-smallest-string-after-operations-with-constraint)
 * [Lexicographically smallest string after substring operation](Solutions/L/lexicographically-smallest-string-after-substring-operation)
 * [Longest subsequence with limited sum](Solutions/L/longest-subsequence-with-limited-sum)
 * [Make array zero by subtracting equal amounts](Solutions/M/make-array-zero-by-subtracting-equal-amounts)
@@ -1064,6 +1066,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum number of taps to open to water a garden](Solutions/M/minimum-number-of-taps-to-open-to-water-a-garden)
 * [Minimum operations to make a special number](Solutions/M/minimum-operations-to-make-a-special-number)
 * [Minimum operations to make array equal ii](Solutions/M/minimum-operations-to-make-array-equal-ii)
+* [Minimum operations to make median of array equal to k](Solutions/M/minimum-operations-to-make-median-of-array-equal-to-k)
 * [Minimum operations to make the array increasing](Solutions/M/minimum-operations-to-make-the-array-increasing)
 * [Minimum processing time](Solutions/M/minimum-processing-time)
 * [Minimum replacements to sort the array](Solutions/M/minimum-replacements-to-sort-the-array)
@@ -1496,6 +1499,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Mathematics-Median">Median</a>
 * [Apply operations to maximize frequency score](Solutions/A/apply-operations-to-maximize-frequency-score)
 * [Minimum cost to make array equalindromic](Solutions/M/minimum-cost-to-make-array-equalindromic)
+* [Minimum operations to make median of array equal to k](Solutions/M/minimum-operations-to-make-median-of-array-equal-to-k)
 
 ### <a name="Mathematics-Number_theory">Number theory</a>
 
@@ -2041,6 +2045,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Largest positive integer that exists with its negative](Solutions/L/largest-positive-integer-that-exists-with-its-negative)
 * [Largest time for given digits](Solutions/L/largest-time-for-given-digits)
 * [Last visited integers](Solutions/L/last-visited-integers)
+* [Longest strictly increasing or strictly decreasing subarray](Solutions/L/longest-strictly-increasing-or-strictly-decreasing-subarray)
 * [Make three strings equal](Solutions/M/make-three-strings-equal)
 * [Match substring after replacement](Solutions/M/match-substring-after-replacement)
 * [Matrix diagonal sum](Solutions/M/matrix-diagonal-sum)
@@ -2802,6 +2807,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [How many numbers are smaller than the current number](Solutions/H/how-many-numbers-are-smaller-than-the-current-number)
 * [Kth missing positive number](Solutions/K/kth-missing-positive-number)
 * [Longest increasing subsequence](Solutions/L/longest-increasing-subsequence)
+* [Longest strictly increasing or strictly decreasing subarray](Solutions/L/longest-strictly-increasing-or-strictly-decreasing-subarray)
 * [Longest substring with at least k repeating characters](Solutions/L/longest-substring-with-at-least-k-repeating-characters)
 * [Longest word in dictionary](Solutions/L/longest-word-in-dictionary)
 * [Map sum pairs](Solutions/M/map-sum-pairs)
