@@ -1241,6 +1241,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum number of pushes to type word i](Solutions/M/minimum-number-of-pushes-to-type-word-i)
 * [Minimum number of pushes to type word ii](Solutions/M/minimum-number-of-pushes-to-type-word-ii)
 * [Minimum operations to write the letter y on a grid](Solutions/M/minimum-operations-to-write-the-letter-y-on-a-grid)
+* [Number of students unable to eat lunch](Solutions/N/number-of-students-unable-to-eat-lunch)
 * [Replace question marks in string to minimize its value](Solutions/R/replace-question-marks-in-string-to-minimize-its-value)
 * [Split the array](Solutions/S/split-the-array)
 * [Subarrays with k different integers](Solutions/S/subarrays-with-k-different-integers)
