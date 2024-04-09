@@ -2111,6 +2111,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Sum of number and its reverse](Solutions/S/sum-of-number-and-its-reverse)
 * [Sum of squares of special elements](Solutions/S/sum-of-squares-of-special-elements)
 * [The employee that worked on the longest task](Solutions/T/the-employee-that-worked-on-the-longest-task)
+* [Time needed to buy tickets](Solutions/T/time-needed-to-buy-tickets)
 * [Toeplitz matrix](Solutions/T/toeplitz-matrix)
 * [Total distance traveled](Solutions/T/total-distance-traveled)
 * [Ugly number](Solutions/U/ugly-number)
