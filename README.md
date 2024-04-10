@@ -487,6 +487,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Similar string groups](Solutions/S/similar-string-groups)
 * [Sum of subarray minimums](Solutions/S/sum-of-subarray-minimums)
 
+## <a name="Divide_and_conquer">Divide and conquer</a>
+* [Reveal cards in increasing order](Solutions/R/reveal-cards-in-increasing-order)
+
 ## <a name="Dynamic_programming">Dynamic programming</a>
 * [Arithmetic slices ii subsequence](Solutions/A/arithmetic-slices-ii-subsequence)
 * [Beautiful towers ii](Solutions/B/beautiful-towers-ii)
