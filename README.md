@@ -2510,6 +2510,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Pseudo palindromic paths in a binary tree](Solutions/P/pseudo-palindromic-paths-in-a-binary-tree)
 * [Range sum of bst](Solutions/R/range-sum-of-bst)
 * [Recover binary search tree](Solutions/R/recover-binary-search-tree)
+* [Smallest string starting from leaf](Solutions/S/smallest-string-starting-from-leaf)
 * [Symmetric tree](Solutions/S/symmetric-tree)
 * [Validate binary tree nodes](Solutions/V/validate-binary-tree-nodes)
 
