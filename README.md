@@ -576,6 +576,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Distinct subsequences](Solutions/D/distinct-subsequences)
 * [Find the sum of subsequence powers](Solutions/F/find-the-sum-of-subsequence-powers)
 * [Find the sum of the power of all subsequences](Solutions/F/find-the-sum-of-the-power-of-all-subsequences)
+* [Freedom trail](Solutions/F/freedom-trail)
 * [Interleaving string](Solutions/I/interleaving-string)
 * [K inverse pairs array](Solutions/K/k-inverse-pairs-array)
 * [Knight dialer](Solutions/K/knight-dialer)
@@ -637,6 +638,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Dynamic_programming-Cyclic_array">Cyclic array</a>
 * [Collecting chocolates](Solutions/C/collecting-chocolates)
+* [Freedom trail](Solutions/F/freedom-trail)
 * [House robber ii](Solutions/H/house-robber-ii)
 * [Maximum sum circular subarray](Solutions/M/maximum-sum-circular-subarray)
 * [Minimum number of flips to make the binary string alternating](Solutions/M/minimum-number-of-flips-to-make-the-binary-string-alternating)
