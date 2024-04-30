@@ -346,6 +346,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum xor product](Solutions/M/maximum-xor-product)
 * [Minimum number of operations to make array xor equal to k](Solutions/M/minimum-number-of-operations-to-make-array-xor-equal-to-k)
 * [Neighboring bitwise xor](Solutions/N/neighboring-bitwise-xor)
+* [Number of wonderful substrings](Solutions/N/number-of-wonderful-substrings)
 * [Pseudo palindromic paths in a binary tree](Solutions/P/pseudo-palindromic-paths-in-a-binary-tree)
 * [Substring xor queries](Solutions/S/substring-xor-queries)
 
@@ -1201,6 +1202,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Number of excellent pairs](Solutions/N/number-of-excellent-pairs)
 * [Number of good pairs](Solutions/N/number-of-good-pairs)
 * [Number of nodes in the sub tree with the same label](Solutions/N/number-of-nodes-in-the-sub-tree-with-the-same-label)
+* [Number of wonderful substrings](Solutions/N/number-of-wonderful-substrings)
 * [Odd string difference](Solutions/O/odd-string-difference)
 * [Optimal partition of string](Solutions/O/optimal-partition-of-string)
 * [Pairs of songs with total durations divisible by 60](Solutions/P/pairs-of-songs-with-total-durations-divisible-by-60)
@@ -1691,6 +1693,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum changes to make k semi palindromes](Solutions/M/minimum-changes-to-make-k-semi-palindromes)
 * [Minimum cost to make array equalindromic](Solutions/M/minimum-cost-to-make-array-equalindromic)
 * [Minimum insertion steps to make a string palindrome](Solutions/M/minimum-insertion-steps-to-make-a-string-palindrome)
+* [Number of wonderful substrings](Solutions/N/number-of-wonderful-substrings)
 * [Palindrome linked list](Solutions/P/palindrome-linked-list)
 * [Palindrome partitioning](Solutions/P/palindrome-partitioning)
 * [Palindrome partitioning ii](Solutions/P/palindrome-partitioning-ii)
@@ -1750,6 +1753,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Prefix-Bitwise_operation">Bitwise operation</a>
 * [Maximum or](Solutions/M/maximum-or)
+* [Number of wonderful substrings](Solutions/N/number-of-wonderful-substrings)
 * [Unique length 3 palindromic subsequences](Solutions/U/unique-length-3-palindromic-subsequences)
 
 ### <a name="Prefix-Extremum">Extremum</a>
