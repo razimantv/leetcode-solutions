@@ -2112,6 +2112,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Remove one element to make the array strictly increasing](Solutions/R/remove-one-element-to-make-the-array-strictly-increasing)
 * [Remove palindromic subsequences](Solutions/R/remove-palindromic-subsequences)
 * [Remove trailing zeros from a string](Solutions/R/remove-trailing-zeros-from-a-string)
+* [Reverse prefix of word](Solutions/R/reverse-prefix-of-word)
 * [Row with maximum ones](Solutions/R/row-with-maximum-ones)
 * [Separate the digits in an array](Solutions/S/separate-the-digits-in-an-array)
 * [Shortest and lexicographically smallest beautiful string](Solutions/S/shortest-and-lexicographically-smallest-beautiful-string)
