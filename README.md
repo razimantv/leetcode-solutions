@@ -104,6 +104,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Remove element](Solutions/R/remove-element)
 * [Reverse vowels of a string](Solutions/R/reverse-vowels-of-a-string)
 
+### <a name="Array_scanning-Location_of_previous_element_with_bit_value">Location of previous element with bit value</a>
+* [Minimum sum of values by dividing array](Solutions/M/minimum-sum-of-values-by-dividing-array)
+
 ### <a name="Array_scanning-Location_of_previous_element_with_same_value">Location of previous element with same value</a>
 * [Count the number of good partitions](Solutions/C/count-the-number-of-good-partitions)
 * [Count unique characters of all substrings of a given string](Solutions/C/count-unique-characters-of-all-substrings-of-a-given-string)
@@ -207,6 +210,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [H index ii](Solutions/H/h-index-ii)
 * [House robber iv](Solutions/H/house-robber-iv)
 * [Koko eating bananas](Solutions/K/koko-eating-bananas)
+* [Kth smallest amount with single denomination combination](Solutions/K/kth-smallest-amount-with-single-denomination-combination)
 * [Kth smallest element in a sorted matrix](Solutions/K/kth-smallest-element-in-a-sorted-matrix)
 * [Kth smallest number in multiplication table](Solutions/K/kth-smallest-number-in-multiplication-table)
 * [Longest palindromic substring](Solutions/L/longest-palindromic-substring)
@@ -302,6 +306,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum operations to form subsequence with target sum](Solutions/M/minimum-operations-to-form-subsequence-with-target-sum)
 * [Minimum operations to make the integer zero](Solutions/M/minimum-operations-to-make-the-integer-zero)
 * [Minimum operations to reduce an integer to 0](Solutions/M/minimum-operations-to-reduce-an-integer-to-0)
+* [Minimum sum of values by dividing array](Solutions/M/minimum-sum-of-values-by-dividing-array)
 * [Minimum xor sum of two arrays](Solutions/M/minimum-xor-sum-of-two-arrays)
 * [Missing number](Solutions/M/missing-number)
 * [Non decreasing subsequences](Solutions/N/non-decreasing-subsequences)
@@ -372,6 +377,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Shortest string that contains three strings](Solutions/S/shortest-string-that-contains-three-strings)
 
 ### <a name="Brute_force_enumeration-Elementwise_processing_using_a_vector">Elementwise processing using a vector</a>
+* [Kth smallest amount with single denomination combination](Solutions/K/kth-smallest-amount-with-single-denomination-combination)
 * [Letter case permutation](Solutions/L/letter-case-permutation)
 * [Letter combinations of a phone number](Solutions/L/letter-combinations-of-a-phone-number)
 * [Minimum number of flips to convert binary matrix to zero matrix](Solutions/M/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix)
@@ -601,6 +607,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum path cost in a grid](Solutions/M/minimum-path-cost-in-a-grid)
 * [Minimum path sum](Solutions/M/minimum-path-sum)
 * [Minimum skips to arrive at meeting on time](Solutions/M/minimum-skips-to-arrive-at-meeting-on-time)
+* [Minimum sum of values by dividing array](Solutions/M/minimum-sum-of-values-by-dividing-array)
 * [Minimum time to make array sum at most x](Solutions/M/minimum-time-to-make-array-sum-at-most-x)
 * [Minimum total distance traveled](Solutions/M/minimum-total-distance-traveled)
 * [N th tribonacci number](Solutions/N/n-th-tribonacci-number)
@@ -1475,6 +1482,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Distribute candies among children i](Solutions/D/distribute-candies-among-children-i)
 * [Distribute candies among children ii](Solutions/D/distribute-candies-among-children-ii)
 * [Find the sum of subsequence powers](Solutions/F/find-the-sum-of-subsequence-powers)
+* [Kth smallest amount with single denomination combination](Solutions/K/kth-smallest-amount-with-single-denomination-combination)
 
 ### <a name="Mathematics-Composition_of_operations">Composition of operations</a>
 * [Bitwise xor of all pairings](Solutions/B/bitwise-xor-of-all-pairings)
@@ -1535,6 +1543,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Make k subarray sums equal](Solutions/M/make-k-subarray-sums-equal)
 * [Maximum element sum of a complete subset of indices](Solutions/M/maximum-element-sum-of-a-complete-subset-of-indices)
 * [Maximum number of k divisible components](Solutions/M/maximum-number-of-k-divisible-components)
+* [Maximum prime difference](Solutions/M/maximum-prime-difference)
 * [Minimize length of array using operations](Solutions/M/minimize-length-of-array-using-operations)
 * [Minimize the maximum of two arrays](Solutions/M/minimize-the-maximum-of-two-arrays)
 * [Minimum cost to move chips to the same position](Solutions/M/minimum-cost-to-move-chips-to-the-same-position)
@@ -1563,6 +1572,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Create components with same value](Solutions/C/create-components-with-same-value)
 * [Largest divisible subset](Solutions/L/largest-divisible-subset)
 * [Smallest value after replacing with sum of prime factors](Solutions/S/smallest-value-after-replacing-with-sum-of-prime-factors)
+
+#### <a name="Mathematics-Number_theory-Inclusion_exclusion">Inclusion-exclusion</a>
+* [Kth smallest amount with single denomination combination](Solutions/K/kth-smallest-amount-with-single-denomination-combination)
 
 #### <a name="Mathematics-Number_theory-Modular_exponentiation_inverse">Modular exponentiation/inverse</a>
 * [Apply operations to maximize score](Solutions/A/apply-operations-to-maximize-score)
@@ -1962,6 +1974,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Jump game vii](Solutions/J/jump-game-vii)
 * [Longest increasing subsequence ii](Solutions/L/longest-increasing-subsequence-ii)
 * [Make array empty](Solutions/M/make-array-empty)
+* [Minimum sum of values by dividing array](Solutions/M/minimum-sum-of-values-by-dividing-array)
 * [Next greater element iv](Solutions/N/next-greater-element-iv)
 * [Number of pairs satisfying inequality](Solutions/N/number-of-pairs-satisfying-inequality)
 * [Range sum query mutable](Solutions/R/range-sum-query-mutable)
@@ -2061,6 +2074,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Largest positive integer that exists with its negative](Solutions/L/largest-positive-integer-that-exists-with-its-negative)
 * [Largest time for given digits](Solutions/L/largest-time-for-given-digits)
 * [Last visited integers](Solutions/L/last-visited-integers)
+* [Latest time you can obtain after replacing characters](Solutions/L/latest-time-you-can-obtain-after-replacing-characters)
 * [Longest strictly increasing or strictly decreasing subarray](Solutions/L/longest-strictly-increasing-or-strictly-decreasing-subarray)
 * [Make three strings equal](Solutions/M/make-three-strings-equal)
 * [Match substring after replacement](Solutions/M/match-substring-after-replacement)
