@@ -11,6 +11,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## <a name="Array_scanning">Array scanning</a>
 * [Apply operations to make string empty](Solutions/A/apply-operations-to-make-string-empty)
+* [Count the number of special characters ii](Solutions/C/count-the-number-of-special-characters-ii)
 * [Dota2 senate](Solutions/D/dota2-senate)
 * [Maximum enemy forts that can be captured](Solutions/M/maximum-enemy-forts-that-can-be-captured)
 * [Maximum value of an ordered triplet i](Solutions/M/maximum-value-of-an-ordered-triplet-i)
@@ -603,6 +604,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum falling path sum ii](Solutions/M/minimum-falling-path-sum-ii)
 * [Minimum insertion steps to make a string palindrome](Solutions/M/minimum-insertion-steps-to-make-a-string-palindrome)
 * [Minimum number of coins for fruits](Solutions/M/minimum-number-of-coins-for-fruits)
+* [Minimum number of operations to satisfy conditions](Solutions/M/minimum-number-of-operations-to-satisfy-conditions)
 * [Minimum number of refueling stops](Solutions/M/minimum-number-of-refueling-stops)
 * [Minimum path cost in a grid](Solutions/M/minimum-path-cost-in-a-grid)
 * [Minimum path sum](Solutions/M/minimum-path-sum)
@@ -939,6 +941,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Path with minimum effort](Solutions/P/path-with-minimum-effort)
 * [Reachable nodes in subdivided graph](Solutions/R/reachable-nodes-in-subdivided-graph)
 
+#### <a name="Graph_theory-Dijkstra_s_algorithm-Forward_and_backward">Forward and backward</a>
+* [Find edges in shortest paths](Solutions/F/find-edges-in-shortest-paths)
+
 ### <a name="Graph_theory-Directed_acyclic_graph">Directed acyclic graph</a>
 * [All paths from source to target](Solutions/A/all-paths-from-source-to-target)
 * [Find champion i](Solutions/F/find-champion-i)
@@ -1136,6 +1141,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count subarrays with median k](Solutions/C/count-subarrays-with-median-k)
 * [Count the number of beautiful subarrays](Solutions/C/count-the-number-of-beautiful-subarrays)
 * [Count the number of good subarrays](Solutions/C/count-the-number-of-good-subarrays)
+* [Count the number of special characters ii](Solutions/C/count-the-number-of-special-characters-ii)
 * [Delete and earn](Solutions/D/delete-and-earn)
 * [Design hashmap](Solutions/D/design-hashmap)
 * [Destroy sequential targets](Solutions/D/destroy-sequential-targets)
@@ -1255,6 +1261,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimize length of array using operations](Solutions/M/minimize-length-of-array-using-operations)
 * [Minimum deletions to make string k special](Solutions/M/minimum-deletions-to-make-string-k-special)
 * [Minimum levels to gain more points](Solutions/M/minimum-levels-to-gain-more-points)
+* [Minimum number of operations to satisfy conditions](Solutions/M/minimum-number-of-operations-to-satisfy-conditions)
 * [Minimum number of pushes to type word i](Solutions/M/minimum-number-of-pushes-to-type-word-i)
 * [Minimum number of pushes to type word ii](Solutions/M/minimum-number-of-pushes-to-type-word-ii)
 * [Minimum operations to write the letter y on a grid](Solutions/M/minimum-operations-to-write-the-letter-y-on-a-grid)
@@ -1928,6 +1935,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Design a number container system](Solutions/D/design-a-number-container-system)
 * [Design authentication manager](Solutions/D/design-authentication-manager)
 * [Design graph with shortest path calculator](Solutions/D/design-graph-with-shortest-path-calculator)
+* [Find edges in shortest paths](Solutions/F/find-edges-in-shortest-paths)
 * [Lfu cache](Solutions/L/lfu-cache)
 * [Lru cache](Solutions/L/lru-cache)
 * [Minimum cost of a path with special roads](Solutions/M/minimum-cost-of-a-path-with-special-roads)
@@ -2020,6 +2028,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count pairs whose sum is less than target](Solutions/C/count-pairs-whose-sum-is-less-than-target)
 * [Count symmetric integers](Solutions/C/count-symmetric-integers)
 * [Count the digits that divide a number](Solutions/C/count-the-digits-that-divide-a-number)
+* [Count the number of special characters i](Solutions/C/count-the-number-of-special-characters-i)
 * [Count the number of vowel strings in range](Solutions/C/count-the-number-of-vowel-strings-in-range)
 * [Delete columns to make sorted](Solutions/D/delete-columns-to-make-sorted)
 * [Determine color of a chessboard square](Solutions/D/determine-color-of-a-chessboard-square)
