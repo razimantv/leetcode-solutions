@@ -1740,6 +1740,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Permutation-Inverse">Inverse</a>
 * [Build a matrix with conditions](Solutions/B/build-a-matrix-with-conditions)
 * [Build array from permutation](Solutions/B/build-array-from-permutation)
+* [Relative ranks](Solutions/R/relative-ranks)
 
 ### <a name="Permutation-Inversions">Inversions</a>
 * [Global and local inversions](Solutions/G/global-and-local-inversions)
@@ -2322,6 +2323,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Invalid transactions](Solutions/I/invalid-transactions)
 * [Make lexicographically smallest array by swapping elements](Solutions/M/make-lexicographically-smallest-array-by-swapping-elements)
 * [Mark elements on array by performing queries](Solutions/M/mark-elements-on-array-by-performing-queries)
+* [Relative ranks](Solutions/R/relative-ranks)
 * [Sum of subarray minimums](Solutions/S/sum-of-subarray-minimums)
 
 ### <a name="Sorting-Stable">Stable</a>
