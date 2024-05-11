@@ -1924,6 +1924,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum elegance of a k length subsequence](Solutions/M/maximum-elegance-of-a-k-length-subsequence)
 * [Maximum performance of a team](Solutions/M/maximum-performance-of-a-team)
 * [Maximum subsequence score](Solutions/M/maximum-subsequence-score)
+* [Minimum cost to hire k workers](Solutions/M/minimum-cost-to-hire-k-workers)
 
 #### <a name="Priority_queue-K_smallest_largest_elements-Transfer_between_the_two">Transfer between the two</a>
 * [Divide an array into subarrays with minimum cost i](Solutions/D/divide-an-array-into-subarrays-with-minimum-cost-i)
