@@ -525,6 +525,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Edit distance](Solutions/E/edit-distance)
 * [Extra characters in a string](Solutions/E/extra-characters-in-a-string)
 * [Fibonacci number](Solutions/F/fibonacci-number)
+* [Find all possible stable binary arrays i](Solutions/F/find-all-possible-stable-binary-arrays-i)
+* [Find all possible stable binary arrays ii](Solutions/F/find-all-possible-stable-binary-arrays-ii)
 * [Frog jump](Solutions/F/frog-jump)
 * [House robber](Solutions/H/house-robber)
 * [Jump game](Solutions/J/jump-game)
@@ -1482,6 +1484,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Permutation sequence](Solutions/P/permutation-sequence)
 * [Power of heroes](Solutions/P/power-of-heroes)
 * [Probability of a two boxes having the same number of distinct balls](Solutions/P/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls)
+* [Right triangles](Solutions/R/right-triangles)
 * [The number of beautiful subsets](Solutions/T/the-number-of-beautiful-subsets)
 * [Ways to split array into good subarrays](Solutions/W/ways-to-split-array-into-good-subarrays)
 
@@ -1489,6 +1492,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count increasing quadruplets](Solutions/C/count-increasing-quadruplets)
 * [Distribute candies among children i](Solutions/D/distribute-candies-among-children-i)
 * [Distribute candies among children ii](Solutions/D/distribute-candies-among-children-ii)
+* [Find all possible stable binary arrays i](Solutions/F/find-all-possible-stable-binary-arrays-i)
+* [Find all possible stable binary arrays ii](Solutions/F/find-all-possible-stable-binary-arrays-ii)
 * [Find the sum of subsequence powers](Solutions/F/find-the-sum-of-subsequence-powers)
 * [Kth smallest amount with single denomination combination](Solutions/K/kth-smallest-amount-with-single-denomination-combination)
 
@@ -1651,6 +1656,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Largest submatrix with rearrangements](Solutions/L/largest-submatrix-with-rearrangements)
 * [Maximum strictly increasing cells in a matrix](Solutions/M/maximum-strictly-increasing-cells-in-a-matrix)
 * [Modify the matrix](Solutions/M/modify-the-matrix)
+* [Right triangles](Solutions/R/right-triangles)
 
 ### <a name="Matrix-Geometric_transformation">Geometric transformation</a>
 * [Determine whether matrix can be obtained by rotation](Solutions/D/determine-whether-matrix-can-be-obtained-by-rotation)
@@ -2160,6 +2166,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Ugly number](Solutions/U/ugly-number)
 * [Water bottles ii](Solutions/W/water-bottles-ii)
 * [Zigzag conversion](Solutions/Z/zigzag-conversion)
+
+## <a name="Simple_implementation0">Simple implementation0</a>
+* [Make a square with the same color](Solutions/M/make-a-square-with-the-same-color)
 
 ## <a name="Sliding_window">Sliding window</a>
 * [3sum](Solutions/0-9/3sum)
