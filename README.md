@@ -176,6 +176,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Combinations](Solutions/C/combinations)
 * [Path sum ii](Solutions/P/path-sum-ii)
 * [Path sum iii](Solutions/P/path-sum-iii)
+* [Path with maximum gold](Solutions/P/path-with-maximum-gold)
 * [Reconstruct itinerary](Solutions/R/reconstruct-itinerary)
 * [Word search ii](Solutions/W/word-search-ii)
 
@@ -1675,6 +1676,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum falling path sum ii](Solutions/M/minimum-falling-path-sum-ii)
 * [Minimum path sum](Solutions/M/minimum-path-sum)
 * [Most frequent prime](Solutions/M/most-frequent-prime)
+* [Path with maximum gold](Solutions/P/path-with-maximum-gold)
 * [Paths in matrix whose sum is divisible by k](Solutions/P/paths-in-matrix-whose-sum-is-divisible-by-k)
 * [Where will the ball fall](Solutions/W/where-will-the-ball-fall)
 
