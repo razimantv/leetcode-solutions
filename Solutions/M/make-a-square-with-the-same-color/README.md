@@ -23,4 +23,4 @@ class Solution:
 ```
 ## Tags
 
-* [Simple implementation0](/README.md#Simple_implementation0)
+* [Simple implementation](/README.md#Simple_implementation)

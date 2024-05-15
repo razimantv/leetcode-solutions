@@ -1077,6 +1077,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum amount of time to fill cups](Solutions/M/minimum-amount-of-time-to-fill-cups)
 * [Minimum array end](Solutions/M/minimum-array-end)
 * [Minimum array length after pair removals](Solutions/M/minimum-array-length-after-pair-removals)
+* [Minimum cost to equalize array](Solutions/M/minimum-cost-to-equalize-array)
 * [Minimum cost to make array equal](Solutions/M/minimum-cost-to-make-array-equal)
 * [Minimum deletions to make string k special](Solutions/M/minimum-deletions-to-make-string-k-special)
 * [Minimum equal sum of two arrays after replacing zeros](Solutions/M/minimum-equal-sum-of-two-arrays-after-replacing-zeros)
@@ -1270,7 +1271,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum palindromes after operations](Solutions/M/maximum-palindromes-after-operations)
 * [Minimize length of array using operations](Solutions/M/minimize-length-of-array-using-operations)
 * [Minimum deletions to make string k special](Solutions/M/minimum-deletions-to-make-string-k-special)
+* [Minimum length of anagram concatenation](Solutions/M/minimum-length-of-anagram-concatenation)
 * [Minimum levels to gain more points](Solutions/M/minimum-levels-to-gain-more-points)
+* [Minimum number of operations to make word k periodic](Solutions/M/minimum-number-of-operations-to-make-word-k-periodic)
 * [Minimum number of operations to satisfy conditions](Solutions/M/minimum-number-of-operations-to-satisfy-conditions)
 * [Minimum number of pushes to type word i](Solutions/M/minimum-number-of-pushes-to-type-word-i)
 * [Minimum number of pushes to type word ii](Solutions/M/minimum-number-of-pushes-to-type-word-ii)
@@ -1591,6 +1594,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 #### <a name="Mathematics-Number_theory-Factor_listing_in_sqrt_N_">Factor listing in sqrt(N)</a>
 * [Create components with same value](Solutions/C/create-components-with-same-value)
 * [Largest divisible subset](Solutions/L/largest-divisible-subset)
+* [Minimum length of anagram concatenation](Solutions/M/minimum-length-of-anagram-concatenation)
 * [Smallest value after replacing with sum of prime factors](Solutions/S/smallest-value-after-replacing-with-sum-of-prime-factors)
 
 #### <a name="Mathematics-Number_theory-Inclusion_exclusion">Inclusion-exclusion</a>
@@ -2102,6 +2106,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Last visited integers](Solutions/L/last-visited-integers)
 * [Latest time you can obtain after replacing characters](Solutions/L/latest-time-you-can-obtain-after-replacing-characters)
 * [Longest strictly increasing or strictly decreasing subarray](Solutions/L/longest-strictly-increasing-or-strictly-decreasing-subarray)
+* [Make a square with the same color](Solutions/M/make-a-square-with-the-same-color)
 * [Make three strings equal](Solutions/M/make-three-strings-equal)
 * [Match substring after replacement](Solutions/M/match-substring-after-replacement)
 * [Matrix diagonal sum](Solutions/M/matrix-diagonal-sum)
@@ -2172,11 +2177,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Toeplitz matrix](Solutions/T/toeplitz-matrix)
 * [Total distance traveled](Solutions/T/total-distance-traveled)
 * [Ugly number](Solutions/U/ugly-number)
+* [Valid word](Solutions/V/valid-word)
 * [Water bottles ii](Solutions/W/water-bottles-ii)
 * [Zigzag conversion](Solutions/Z/zigzag-conversion)
-
-## <a name="Simple_implementation0">Simple implementation0</a>
-* [Make a square with the same color](Solutions/M/make-a-square-with-the-same-color)
 
 ## <a name="Sliding_window">Sliding window</a>
 * [3sum](Solutions/0-9/3sum)
