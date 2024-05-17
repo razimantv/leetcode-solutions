@@ -2536,6 +2536,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Cousins in binary tree](Solutions/C/cousins-in-binary-tree)
 * [Cousins in binary tree ii](Solutions/C/cousins-in-binary-tree-ii)
 * [Deepest leaves sum](Solutions/D/deepest-leaves-sum)
+* [Delete leaves with a given value](Solutions/D/delete-leaves-with-a-given-value)
 * [Delete node in a bst](Solutions/D/delete-node-in-a-bst)
 * [Delete nodes and return forest](Solutions/D/delete-nodes-and-return-forest)
 * [Diameter of binary tree](Solutions/D/diameter-of-binary-tree)
