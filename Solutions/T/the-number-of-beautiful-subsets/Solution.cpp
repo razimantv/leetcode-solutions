@@ -4,20 +4,21 @@ class Solution {
  public:
   int beautifulSubsets(vector<int>& nums, int k) {
     sort(nums.begin(), nums.end());
-    unordered_map<int, vector<int>> m;
-    for (int x : nums) m[x % k].push_back(x);
+    unordered_map<int, map<int, int>> m;
+    for (int x : nums) m[x % k][x] += 1;
     int ret = 1;
-    for (auto& [val, vec] : m) {
-      int no = 1, yes = 1;
-      for (int i = 1, n = vec.size(); i < n; ++i) {
-        if (vec[i] - vec[i - 1] == k) {
+    for (auto& [_, vec] : m) {
+      int no = 1, yes = 0, prev = -k - 1;
+      for (auto [x, cnt] : vec) {
+        if (x - prev == k) {
           int temp = no;
           no += yes;
-          yes = temp;
+          yes = (temp << cnt) - temp;
         } else {
-          yes += no;
-          no = yes;
+          no += yes;
+          yes = (no << cnt) - no;
         }
+        prev = x;
       }
       ret *= (yes + no);
     }
