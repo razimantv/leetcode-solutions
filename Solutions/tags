@@ -162,6 +162,7 @@ Points in 2D plane
 Precomputation to answer queries efficiently with delta
 Prefix>Bitwise operation
 Prefix>Extremum
+Prefix>Extremum>2D
 Prefix>Sum
 Prefix>Sum>2D
 Prefix>Sum>For range updates

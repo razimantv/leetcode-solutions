@@ -142,6 +142,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Plus one](Solutions/P/plus-one)
 * [Smallest subarrays with maximum bitwise or](Solutions/S/smallest-subarrays-with-maximum-bitwise-or)
 * [Solving questions with brainpower](Solutions/S/solving-questions-with-brainpower)
+* [Taking maximum energy from the mystic dungeon](Solutions/T/taking-maximum-energy-from-the-mystic-dungeon)
 * [The number of weak characters in the game](Solutions/T/the-number-of-weak-characters-in-the-game)
 * [Using a robot to print the lexicographically smallest string](Solutions/U/using-a-robot-to-print-the-lexicographically-smallest-string)
 * [Visit array positions to maximize score](Solutions/V/visit-array-positions-to-maximize-score)
@@ -604,6 +605,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest palindromic subsequence](Solutions/L/longest-palindromic-subsequence)
 * [Make array strictly increasing](Solutions/M/make-array-strictly-increasing)
 * [Maximize consecutive elements in an array after modification](Solutions/M/maximize-consecutive-elements-in-an-array-after-modification)
+* [Maximum difference score in a grid](Solutions/M/maximum-difference-score-in-a-grid)
 * [Maximum length of repeated subarray](Solutions/M/maximum-length-of-repeated-subarray)
 * [Maximum number of points with cost](Solutions/M/maximum-number-of-points-with-cost)
 * [Maximum score from performing multiplication operations](Solutions/M/maximum-score-from-performing-multiplication-operations)
@@ -635,6 +637,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Paths in matrix whose sum is divisible by k](Solutions/P/paths-in-matrix-whose-sum-is-divisible-by-k)
 * [Prison cells after n days](Solutions/P/prison-cells-after-n-days)
 * [String compression ii](Solutions/S/string-compression-ii)
+* [Taking maximum energy from the mystic dungeon](Solutions/T/taking-maximum-energy-from-the-mystic-dungeon)
 * [Tallest billboard](Solutions/T/tallest-billboard)
 * [Visit array positions to maximize score](Solutions/V/visit-array-positions-to-maximize-score)
 
@@ -690,6 +693,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Special permutations](Solutions/S/special-permutations)
 
 ### <a name="Dynamic_programming-Grid">Grid</a>
+* [Maximum difference score in a grid](Solutions/M/maximum-difference-score-in-a-grid)
 * [Maximum number of moves in a grid](Solutions/M/maximum-number-of-moves-in-a-grid)
 * [Paths in matrix whose sum is divisible by k](Solutions/P/paths-in-matrix-whose-sum-is-divisible-by-k)
 
@@ -736,6 +740,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Dynamic_programming-Memoised_recursion">Memoised recursion</a>
 * [Build array where you can find the maximum exactly k comparisons](Solutions/B/build-array-where-you-can-find-the-maximum-exactly-k-comparisons)
 * [Combination sum iv](Solutions/C/combination-sum-iv)
+* [Find the minimum cost array permutation](Solutions/F/find-the-minimum-cost-array-permutation)
 * [Maximum number of operations with the same score ii](Solutions/M/maximum-number-of-operations-with-the-same-score-ii)
 * [Minimum number of days to eat n oranges](Solutions/M/minimum-number-of-days-to-eat-n-oranges)
 * [Number of dice rolls with target sum](Solutions/N/number-of-dice-rolls-with-target-sum)
@@ -768,6 +773,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Dynamic_programming-Subsets">Subsets</a>
 * [Construct smallest number from di string](Solutions/C/construct-smallest-number-from-di-string)
 * [Count the number of square free subsets](Solutions/C/count-the-number-of-square-free-subsets)
+* [Find the minimum cost array permutation](Solutions/F/find-the-minimum-cost-array-permutation)
 * [Find the shortest superstring](Solutions/F/find-the-shortest-superstring)
 * [Maximize score after n operations](Solutions/M/maximize-score-after-n-operations)
 * [Minimum xor sum of two arrays](Solutions/M/minimum-xor-sum-of-two-arrays)
@@ -1240,6 +1246,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Partition labels](Solutions/P/partition-labels)
 * [Path crossing](Solutions/P/path-crossing)
 * [Path sum iii](Solutions/P/path-sum-iii)
+* [Permutation difference between two strings](Solutions/P/permutation-difference-between-two-strings)
 * [Permutation in string](Solutions/P/permutation-in-string)
 * [Powerful integers](Solutions/P/powerful-integers)
 * [Prefix and suffix search](Solutions/P/prefix-and-suffix-search)
@@ -1699,6 +1706,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Matrix-Prefix">Prefix</a>
 * [Construct product matrix](Solutions/C/construct-product-matrix)
+* [Maximum difference score in a grid](Solutions/M/maximum-difference-score-in-a-grid)
 
 ### <a name="Matrix-Row_pair_processing">Row pair processing</a>
 * [Max sum of rectangle no larger than k](Solutions/M/max-sum-of-rectangle-no-larger-than-k)
@@ -1758,6 +1766,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Palindrome pairs](Solutions/P/palindrome-pairs)
 
 ## <a name="Permutation">Permutation</a>
+* [Find the minimum cost array permutation](Solutions/F/find-the-minimum-cost-array-permutation)
 * [Permutation sequence](Solutions/P/permutation-sequence)
 
 ### <a name="Permutation-Cycle">Cycle</a>
@@ -1817,6 +1826,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Increasing triplet subsequence](Solutions/I/increasing-triplet-subsequence)
 * [Partition array into disjoint intervals](Solutions/P/partition-array-into-disjoint-intervals)
 * [Using a robot to print the lexicographically smallest string](Solutions/U/using-a-robot-to-print-the-lexicographically-smallest-string)
+
+#### <a name="Prefix-Extremum-2D">2D</a>
+* [Maximum difference score in a grid](Solutions/M/maximum-difference-score-in-a-grid)
 
 ### <a name="Prefix-Sum">Sum</a>
 * [Apply operations to maximize frequency score](Solutions/A/apply-operations-to-maximize-frequency-score)
