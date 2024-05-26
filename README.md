@@ -118,6 +118,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Number of ways to divide a long corridor](Solutions/N/number-of-ways-to-divide-a-long-corridor)
 * [Shortest subarray with or at least k i](Solutions/S/shortest-subarray-with-or-at-least-k-i)
 * [Shortest subarray with or at least k ii](Solutions/S/shortest-subarray-with-or-at-least-k-ii)
+* [Special array ii](Solutions/S/special-array-ii)
 * [Split array into maximum number of subarrays](Solutions/S/split-array-into-maximum-number-of-subarrays)
 * [Subarrays distinct element sum of squares i](Solutions/S/subarrays-distinct-element-sum-of-squares-i)
 * [Subarrays distinct element sum of squares ii](Solutions/S/subarrays-distinct-element-sum-of-squares-ii)
@@ -1295,6 +1296,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Replace question marks in string to minimize its value](Solutions/R/replace-question-marks-in-string-to-minimize-its-value)
 * [Split the array](Solutions/S/split-the-array)
 * [Subarrays with k different integers](Solutions/S/subarrays-with-k-different-integers)
+* [Sum of digit differences of all pairs](Solutions/S/sum-of-digit-differences-of-all-pairs)
 * [Unique number of occurrences](Solutions/U/unique-number-of-occurrences)
 
 ### <a name="Hashmap-Forward_and_backward">Forward and backward</a>
@@ -1453,6 +1455,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count total number of colored cells](Solutions/C/count-total-number-of-colored-cells)
 * [Distribute candies among children i](Solutions/D/distribute-candies-among-children-i)
 * [Distribute candies among children ii](Solutions/D/distribute-candies-among-children-ii)
+* [Find number of ways to reach the k th stair](Solutions/F/find-number-of-ways-to-reach-the-k-th-stair)
 * [Find products of elements of big array](Solutions/F/find-products-of-elements-of-big-array)
 * [Find the pivot integer](Solutions/F/find-the-pivot-integer)
 * [Maximum sum with exactly k elements](Solutions/M/maximum-sum-with-exactly-k-elements)
@@ -1491,6 +1494,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count unreachable pairs of nodes in an undirected graph](Solutions/C/count-unreachable-pairs-of-nodes-in-an-undirected-graph)
 * [Count ways to group overlapping ranges](Solutions/C/count-ways-to-group-overlapping-ranges)
 * [Domino and tromino tiling](Solutions/D/domino-and-tromino-tiling)
+* [Find number of ways to reach the k th stair](Solutions/F/find-number-of-ways-to-reach-the-k-th-stair)
 * [Find products of elements of big array](Solutions/F/find-products-of-elements-of-big-array)
 * [Find the sum of the power of all subsequences](Solutions/F/find-the-sum-of-the-power-of-all-subsequences)
 * [Find xor beauty of array](Solutions/F/find-xor-beauty-of-array)
@@ -1510,6 +1514,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Power of heroes](Solutions/P/power-of-heroes)
 * [Probability of a two boxes having the same number of distinct balls](Solutions/P/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls)
 * [Right triangles](Solutions/R/right-triangles)
+* [Sum of digit differences of all pairs](Solutions/S/sum-of-digit-differences-of-all-pairs)
 * [The number of beautiful subsets](Solutions/T/the-number-of-beautiful-subsets)
 * [Ways to split array into good subarrays](Solutions/W/ways-to-split-array-into-good-subarrays)
 
@@ -2191,6 +2196,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Shuffle the array](Solutions/S/shuffle-the-array)
 * [Smallest even multiple](Solutions/S/smallest-even-multiple)
 * [Sort vowels in a string](Solutions/S/sort-vowels-in-a-string)
+* [Special array i](Solutions/S/special-array-i)
 * [Special positions in a binary matrix](Solutions/S/special-positions-in-a-binary-matrix)
 * [Sum of number and its reverse](Solutions/S/sum-of-number-and-its-reverse)
 * [Sum of squares of special elements](Solutions/S/sum-of-squares-of-special-elements)
