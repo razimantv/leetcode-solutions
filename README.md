@@ -189,6 +189,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## <a name="Binary_search">Binary search</a>
 * [Binary search](Solutions/B/binary-search)
+* [Block placement queries](Solutions/B/block-placement-queries)
 * [Capacity to ship packages within d days](Solutions/C/capacity-to-ship-packages-within-d-days)
 * [Construct binary search tree from preorder traversal](Solutions/C/construct-binary-search-tree-from-preorder-traversal)
 * [Count subarrays with score less than k](Solutions/C/count-subarrays-with-score-less-than-k)
@@ -358,6 +359,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count the number of beautiful subarrays](Solutions/C/count-the-number-of-beautiful-subarrays)
 * [Find the maximum sum of node values](Solutions/F/find-the-maximum-sum-of-node-values)
 * [Find the original array of prefix xor](Solutions/F/find-the-original-array-of-prefix-xor)
+* [Find the xor of numbers which appear twice](Solutions/F/find-the-xor-of-numbers-which-appear-twice)
 * [Maximum xor product](Solutions/M/maximum-xor-product)
 * [Minimum number of operations to make array xor equal to k](Solutions/M/minimum-number-of-operations-to-make-array-xor-equal-to-k)
 * [Neighboring bitwise xor](Solutions/N/neighboring-bitwise-xor)
@@ -1302,6 +1304,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Hashmap-Forward_and_backward">Forward and backward</a>
 * [Find and replace pattern](Solutions/F/find-and-replace-pattern)
 * [Find the longest equal subarray](Solutions/F/find-the-longest-equal-subarray)
+* [Find the number of distinct colors among the balls](Solutions/F/find-the-number-of-distinct-colors-among-the-balls)
 * [First unique number](Solutions/F/first-unique-number)
 * [Frequency tracker](Solutions/F/frequency-tracker)
 * [Insert delete getrandom o1](Solutions/I/insert-delete-getrandom-o1)
@@ -2035,6 +2038,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Range sum query mutable](Solutions/R/range-sum-query-mutable)
 
 ### <a name="Segment_tree-Lazy_propagation">Lazy propagation</a>
+* [Block placement queries](Solutions/B/block-placement-queries)
 * [Handling sum queries after update](Solutions/H/handling-sum-queries-after-update)
 * [Subarrays distinct element sum of squares i](Solutions/S/subarrays-distinct-element-sum-of-squares-i)
 * [Subarrays distinct element sum of squares ii](Solutions/S/subarrays-distinct-element-sum-of-squares-ii)
@@ -2096,6 +2100,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find first palindromic string in the array](Solutions/F/find-first-palindromic-string-in-the-array)
 * [Find nearest point that has the same x or y coordinate](Solutions/F/find-nearest-point-that-has-the-same-x-or-y-coordinate)
 * [Find numbers with even number of digits](Solutions/F/find-numbers-with-even-number-of-digits)
+* [Find occurrences of an element in an array](Solutions/F/find-occurrences-of-an-element-in-an-array)
 * [Find subarrays with equal sum](Solutions/F/find-subarrays-with-equal-sum)
 * [Find the array concatenation value](Solutions/F/find-the-array-concatenation-value)
 * [Find the distance value between two arrays](Solutions/F/find-the-distance-value-between-two-arrays)
