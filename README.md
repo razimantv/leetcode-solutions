@@ -2293,6 +2293,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Movement of robots](Solutions/M/movement-of-robots)
 * [Number of distinct averages](Solutions/N/number-of-distinct-averages)
 * [Reduction operations to make the array elements equal](Solutions/R/reduction-operations-to-make-the-array-elements-equal)
+* [Special array with x elements greater than or equal x](Solutions/S/special-array-with-x-elements-greater-than-or-equal-x)
 * [Sum in a matrix](Solutions/S/sum-in-a-matrix)
 * [The number of beautiful subsets](Solutions/T/the-number-of-beautiful-subsets)
 * [The number of weak characters in the game](Solutions/T/the-number-of-weak-characters-in-the-game)
