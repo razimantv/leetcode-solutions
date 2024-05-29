@@ -59,6 +59,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum time to make rope colorful](Solutions/M/minimum-time-to-make-rope-colorful)
 * [Number of zero filled subarrays](Solutions/N/number-of-zero-filled-subarrays)
 * [Reduce array size to the half](Solutions/R/reduce-array-size-to-the-half)
+* [String compression iii](Solutions/S/string-compression-iii)
 * [The number of weak characters in the game](Solutions/T/the-number-of-weak-characters-in-the-game)
 
 ### <a name="Array_scanning-From_both_ends_of_array">From both ends of array</a>
@@ -1282,6 +1283,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count elements with maximum frequency](Solutions/C/count-elements-with-maximum-frequency)
 * [Count substrings starting and ending with given character](Solutions/C/count-substrings-starting-and-ending-with-given-character)
 * [Find the maximum number of elements in subset](Solutions/F/find-the-maximum-number-of-elements-in-subset)
+* [Find the number of good pairs i](Solutions/F/find-the-number-of-good-pairs-i)
+* [Find the number of good pairs ii](Solutions/F/find-the-number-of-good-pairs-ii)
 * [Least number of unique integers after k removals](Solutions/L/least-number-of-unique-integers-after-k-removals)
 * [Maximum length substring with two occurrences](Solutions/M/maximum-length-substring-with-two-occurrences)
 * [Maximum palindromes after operations](Solutions/M/maximum-palindromes-after-operations)
@@ -1645,6 +1648,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count the number of ideal arrays](Solutions/C/count-the-number-of-ideal-arrays)
 * [Count valid paths in a tree](Solutions/C/count-valid-paths-in-a-tree)
 * [Distinct prime factors of product of array](Solutions/D/distinct-prime-factors-of-product-of-array)
+* [Find the number of good pairs i](Solutions/F/find-the-number-of-good-pairs-i)
+* [Find the number of good pairs ii](Solutions/F/find-the-number-of-good-pairs-ii)
 * [Greatest common divisor traversal](Solutions/G/greatest-common-divisor-traversal)
 * [Largest component size by common factor](Solutions/L/largest-component-size-by-common-factor)
 * [Maximum element sum of a complete subset of indices](Solutions/M/maximum-element-sum-of-a-complete-subset-of-indices)
@@ -2033,6 +2038,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Jump game vii](Solutions/J/jump-game-vii)
 * [Longest increasing subsequence ii](Solutions/L/longest-increasing-subsequence-ii)
 * [Make array empty](Solutions/M/make-array-empty)
+* [Maximum sum of subsequence with non adjacent elements](Solutions/M/maximum-sum-of-subsequence-with-non-adjacent-elements)
 * [Minimum sum of values by dividing array](Solutions/M/minimum-sum-of-values-by-dividing-array)
 * [Next greater element iv](Solutions/N/next-greater-element-iv)
 * [Number of pairs satisfying inequality](Solutions/N/number-of-pairs-satisfying-inequality)
