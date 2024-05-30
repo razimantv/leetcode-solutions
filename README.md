@@ -359,6 +359,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count pairs of points with distance k](Solutions/C/count-pairs-of-points-with-distance-k)
 * [Count paths that can form a palindrome in a tree](Solutions/C/count-paths-that-can-form-a-palindrome-in-a-tree)
 * [Count the number of beautiful subarrays](Solutions/C/count-the-number-of-beautiful-subarrays)
+* [Count triplets that can form two arrays of equal xor](Solutions/C/count-triplets-that-can-form-two-arrays-of-equal-xor)
 * [Find the maximum sum of node values](Solutions/F/find-the-maximum-sum-of-node-values)
 * [Find the original array of prefix xor](Solutions/F/find-the-original-array-of-prefix-xor)
 * [Find the xor of numbers which appear twice](Solutions/F/find-the-xor-of-numbers-which-appear-twice)
@@ -1825,6 +1826,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## <a name="Prefix">Prefix</a>
 
 ### <a name="Prefix-Bitwise_operation">Bitwise operation</a>
+* [Count triplets that can form two arrays of equal xor](Solutions/C/count-triplets-that-can-form-two-arrays-of-equal-xor)
 * [Maximum or](Solutions/M/maximum-or)
 * [Number of wonderful substrings](Solutions/N/number-of-wonderful-substrings)
 * [Unique length 3 palindromic subsequences](Solutions/U/unique-length-3-palindromic-subsequences)
