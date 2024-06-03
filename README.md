@@ -1796,6 +1796,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Permutation-Inverse">Inverse</a>
 * [Build a matrix with conditions](Solutions/B/build-a-matrix-with-conditions)
 * [Build array from permutation](Solutions/B/build-array-from-permutation)
+* [Count good triplets in an array](Solutions/C/count-good-triplets-in-an-array)
 * [Relative ranks](Solutions/R/relative-ranks)
 
 ### <a name="Permutation-Inversions">Inversions</a>
@@ -2034,6 +2035,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimize the maximum of two arrays](Solutions/M/minimize-the-maximum-of-two-arrays)
 
 ## <a name="Segment_tree">Segment tree</a>
+* [Count good triplets in an array](Solutions/C/count-good-triplets-in-an-array)
 * [Count increasing quadruplets](Solutions/C/count-increasing-quadruplets)
 * [Count of range sum](Solutions/C/count-of-range-sum)
 * [Count of smaller numbers after self](Solutions/C/count-of-smaller-numbers-after-self)
