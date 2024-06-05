@@ -1286,6 +1286,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Apply operations to make string empty](Solutions/A/apply-operations-to-make-string-empty)
 * [Count elements with maximum frequency](Solutions/C/count-elements-with-maximum-frequency)
 * [Count substrings starting and ending with given character](Solutions/C/count-substrings-starting-and-ending-with-given-character)
+* [Find common characters](Solutions/F/find-common-characters)
 * [Find the maximum number of elements in subset](Solutions/F/find-the-maximum-number-of-elements-in-subset)
 * [Find the number of good pairs i](Solutions/F/find-the-number-of-good-pairs-i)
 * [Find the number of good pairs ii](Solutions/F/find-the-number-of-good-pairs-ii)
