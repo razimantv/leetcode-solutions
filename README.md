@@ -2665,6 +2665,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest common suffix queries](Solutions/L/longest-common-suffix-queries)
 * [Maximum strong pair xor i](Solutions/M/maximum-strong-pair-xor-i)
 * [Maximum strong pair xor ii](Solutions/M/maximum-strong-pair-xor-ii)
+* [Replace words](Solutions/R/replace-words)
 * [Word search ii](Solutions/W/word-search-ii)
 
 ## <a name="Two_player_games">Two player games</a>
