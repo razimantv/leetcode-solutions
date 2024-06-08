@@ -13,6 +13,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Apply operations to make string empty](Solutions/A/apply-operations-to-make-string-empty)
 * [Count the number of special characters ii](Solutions/C/count-the-number-of-special-characters-ii)
 * [Dota2 senate](Solutions/D/dota2-senate)
+* [Find the first player to win k games in a row](Solutions/F/find-the-first-player-to-win-k-games-in-a-row)
 * [Maximum enemy forts that can be captured](Solutions/M/maximum-enemy-forts-that-can-be-captured)
 * [Maximum value of an ordered triplet i](Solutions/M/maximum-value-of-an-ordered-triplet-i)
 * [Maximum value of an ordered triplet ii](Solutions/M/maximum-value-of-an-ordered-triplet-ii)
@@ -600,6 +601,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Decremental string concatenation](Solutions/D/decremental-string-concatenation)
 * [Delete operation for two strings](Solutions/D/delete-operation-for-two-strings)
 * [Distinct subsequences](Solutions/D/distinct-subsequences)
+* [Find the maximum length of a good subsequence i](Solutions/F/find-the-maximum-length-of-a-good-subsequence-i)
+* [Find the maximum length of a good subsequence ii](Solutions/F/find-the-maximum-length-of-a-good-subsequence-ii)
 * [Find the sum of subsequence powers](Solutions/F/find-the-sum-of-subsequence-powers)
 * [Find the sum of the power of all subsequences](Solutions/F/find-the-sum-of-the-power-of-all-subsequences)
 * [Freedom trail](Solutions/F/freedom-trail)
@@ -1193,6 +1196,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find the difference of two arrays](Solutions/F/find-the-difference-of-two-arrays)
 * [Find the distinct difference array](Solutions/F/find-the-distinct-difference-array)
 * [Find the length of the longest common prefix](Solutions/F/find-the-length-of-the-longest-common-prefix)
+* [Find the maximum length of a good subsequence i](Solutions/F/find-the-maximum-length-of-a-good-subsequence-i)
+* [Find the maximum length of a good subsequence ii](Solutions/F/find-the-maximum-length-of-a-good-subsequence-ii)
 * [Find the median of the uniqueness array](Solutions/F/find-the-median-of-the-uniqueness-array)
 * [Find the prefix common array of two arrays](Solutions/F/find-the-prefix-common-array-of-two-arrays)
 * [Find words that can be formed by characters](Solutions/F/find-words-that-can-be-formed-by-characters)
@@ -2415,6 +2420,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## <a name="Stack">Stack</a>
 * [Binary search tree iterator](Solutions/B/binary-search-tree-iterator)
 * [Build an array with stack operations](Solutions/B/build-an-array-with-stack-operations)
+* [Clear digits](Solutions/C/clear-digits)
 * [Min stack](Solutions/M/min-stack)
 * [Removing stars from a string](Solutions/R/removing-stars-from-a-string)
 
