@@ -275,6 +275,10 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Random pick with weight](Solutions/R/random-pick-with-weight)
 * [Random point in non overlapping rectangles](Solutions/R/random-point-in-non-overlapping-rectangles)
 
+### <a name="Binary_search-Python_SortedList">Python SortedList</a>
+* [Maximum total reward using operations i](Solutions/M/maximum-total-reward-using-operations-i)
+* [Maximum total reward using operations ii](Solutions/M/maximum-total-reward-using-operations-ii)
+
 ## <a name="Bitwise_operation">Bitwise operation</a>
 * [Apply bitwise operations to make strings equal](Solutions/A/apply-bitwise-operations-to-make-strings-equal)
 * [Apply operations on array to maximize sum of squares](Solutions/A/apply-operations-on-array-to-maximize-sum-of-squares)
@@ -1400,6 +1404,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Intervals-Union">Union</a>
 * [Data stream as disjoint intervals](Solutions/D/data-stream-as-disjoint-intervals)
+* [Maximum total reward using operations i](Solutions/M/maximum-total-reward-using-operations-i)
+* [Maximum total reward using operations ii](Solutions/M/maximum-total-reward-using-operations-ii)
 * [Merge intervals](Solutions/M/merge-intervals)
 
 ## <a name="Linked_list">Linked list</a>
@@ -1461,6 +1467,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Construct the longest new string](Solutions/C/construct-the-longest-new-string)
 * [Count of matches in tournament](Solutions/C/count-of-matches-in-tournament)
 * [Distribute money to maximum children](Solutions/D/distribute-money-to-maximum-children)
+* [Find the child who has the ball after k seconds](Solutions/F/find-the-child-who-has-the-ball-after-k-seconds)
 * [Find the maximum achievable number](Solutions/F/find-the-maximum-achievable-number)
 * [Fraction to recurring decimal](Solutions/F/fraction-to-recurring-decimal)
 * [Largest perimeter triangle](Solutions/L/largest-perimeter-triangle)
@@ -1880,6 +1887,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Execution of all suffix instructions staying in a grid](Solutions/E/execution-of-all-suffix-instructions-staying-in-a-grid)
 * [Find maximum non decreasing array length](Solutions/F/find-maximum-non-decreasing-array-length)
 * [Find the highest altitude](Solutions/F/find-the-highest-altitude)
+* [Find the n th value after k seconds](Solutions/F/find-the-n-th-value-after-k-seconds)
 * [Find the score of all prefixes of an array](Solutions/F/find-the-score-of-all-prefixes-of-an-array)
 * [Find the substring with maximum cost](Solutions/F/find-the-substring-with-maximum-cost)
 * [Gas station](Solutions/G/gas-station)
