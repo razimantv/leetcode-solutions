@@ -1115,6 +1115,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum number of coins to be added](Solutions/M/minimum-number-of-coins-to-be-added)
 * [Minimum number of groups to create a valid assignment](Solutions/M/minimum-number-of-groups-to-create-a-valid-assignment)
 * [Minimum number of increments on subarrays to form a target array](Solutions/M/minimum-number-of-increments-on-subarrays-to-form-a-target-array)
+* [Minimum number of moves to seat everyone](Solutions/M/minimum-number-of-moves-to-seat-everyone)
 * [Minimum number of operations to make all array elements equal to 1](Solutions/M/minimum-number-of-operations-to-make-all-array-elements-equal-to-1)
 * [Minimum number of operations to make arrays similar](Solutions/M/minimum-number-of-operations-to-make-arrays-similar)
 * [Minimum number of pushes to type word i](Solutions/M/minimum-number-of-pushes-to-type-word-i)
