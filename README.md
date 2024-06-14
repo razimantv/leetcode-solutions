@@ -1108,6 +1108,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum cost to make array equal](Solutions/M/minimum-cost-to-make-array-equal)
 * [Minimum deletions to make string k special](Solutions/M/minimum-deletions-to-make-string-k-special)
 * [Minimum equal sum of two arrays after replacing zeros](Solutions/M/minimum-equal-sum-of-two-arrays-after-replacing-zeros)
+* [Minimum increment to make array unique](Solutions/M/minimum-increment-to-make-array-unique)
 * [Minimum levels to gain more points](Solutions/M/minimum-levels-to-gain-more-points)
 * [Minimum money required before transactions](Solutions/M/minimum-money-required-before-transactions)
 * [Minimum number of arrows to burst balloons](Solutions/M/minimum-number-of-arrows-to-burst-balloons)
