@@ -2281,6 +2281,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Frequency of the most frequent element](Solutions/F/frequency-of-the-most-frequent-element)
 * [Fruit into baskets](Solutions/F/fruit-into-baskets)
 * [Get equal substrings within budget](Solutions/G/get-equal-substrings-within-budget)
+* [Grumpy bookstore owner](Solutions/G/grumpy-bookstore-owner)
 * [Invalid transactions](Solutions/I/invalid-transactions)
 * [K radius subarray averages](Solutions/K/k-radius-subarray-averages)
 * [K th smallest prime fraction](Solutions/K/k-th-smallest-prime-fraction)
