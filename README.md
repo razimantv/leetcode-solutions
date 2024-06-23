@@ -2294,6 +2294,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [K radius subarray averages](Solutions/K/k-radius-subarray-averages)
 * [K th smallest prime fraction](Solutions/K/k-th-smallest-prime-fraction)
 * [Length of longest subarray with at most k frequency](Solutions/L/length-of-longest-subarray-with-at-most-k-frequency)
+* [Longest continuous subarray with absolute diff less than or equal to limit](Solutions/L/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit)
 * [Longest duplicate substring](Solutions/L/longest-duplicate-substring)
 * [Longest harmonious subsequence](Solutions/L/longest-harmonious-subsequence)
 * [Longest subarray of 1s after deleting one element](Solutions/L/longest-subarray-of-1s-after-deleting-one-element)
@@ -2440,6 +2441,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Mark elements on array by performing queries](Solutions/M/mark-elements-on-array-by-performing-queries)
 * [Relative ranks](Solutions/R/relative-ranks)
 * [Sum of subarray minimums](Solutions/S/sum-of-subarray-minimums)
+
+### <a name="Sorting-Sorted_container">Sorted container</a>
+* [Longest continuous subarray with absolute diff less than or equal to limit](Solutions/L/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit)
 
 ### <a name="Sorting-Stable">Stable</a>
 * [Difference between maximum and minimum price sum](Solutions/D/difference-between-maximum-and-minimum-price-sum)
