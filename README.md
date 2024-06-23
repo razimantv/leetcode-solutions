@@ -623,6 +623,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Longest palindromic subsequence](Solutions/L/longest-palindromic-subsequence)
 * [Make array strictly increasing](Solutions/M/make-array-strictly-increasing)
 * [Maximize consecutive elements in an array after modification](Solutions/M/maximize-consecutive-elements-in-an-array-after-modification)
+* [Maximize total cost of alternating subarrays](Solutions/M/maximize-total-cost-of-alternating-subarrays)
 * [Maximum difference score in a grid](Solutions/M/maximum-difference-score-in-a-grid)
 * [Maximum length of repeated subarray](Solutions/M/maximum-length-of-repeated-subarray)
 * [Maximum number of points with cost](Solutions/M/maximum-number-of-points-with-cost)
@@ -1730,6 +1731,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Difference of number of distinct values on diagonals](Solutions/D/difference-of-number-of-distinct-values-on-diagonals)
 * [Find all groups of farmland](Solutions/F/find-all-groups-of-farmland)
 * [Find the grid of region average](Solutions/F/find-the-grid-of-region-average)
+* [Find the minimum area to cover all ones i](Solutions/F/find-the-minimum-area-to-cover-all-ones-i)
 * [Increment submatrices by one](Solutions/I/increment-submatrices-by-one)
 * [Largest submatrix with rearrangements](Solutions/L/largest-submatrix-with-rearrangements)
 * [Maximum strictly increasing cells in a matrix](Solutions/M/maximum-strictly-increasing-cells-in-a-matrix)
@@ -1762,6 +1764,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Matrix-Row_pair_processing">Row pair processing</a>
 * [Max sum of rectangle no larger than k](Solutions/M/max-sum-of-rectangle-no-larger-than-k)
 * [Number of submatrices that sum to target](Solutions/N/number-of-submatrices-that-sum-to-target)
+
+### <a name="Matrix-Subdivision">Subdivision</a>
+* [Find the minimum area to cover all ones ii](Solutions/F/find-the-minimum-area-to-cover-all-ones-ii)
 
 ### <a name="Matrix-Traversal">Traversal</a>
 * [Count negative numbers in a sorted matrix](Solutions/C/count-negative-numbers-in-a-sorted-matrix)
@@ -2209,6 +2214,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Merge triplets to form target triplet](Solutions/M/merge-triplets-to-form-target-triplet)
 * [Min max game](Solutions/M/min-max-game)
 * [Minimum amount of time to fill cups](Solutions/M/minimum-amount-of-time-to-fill-cups)
+* [Minimum average of smallest and largest elements](Solutions/M/minimum-average-of-smallest-and-largest-elements)
 * [Minimum changes to make alternating binary string](Solutions/M/minimum-changes-to-make-alternating-binary-string)
 * [Minimum distance to the target element](Solutions/M/minimum-distance-to-the-target-element)
 * [Minimum domino rotations for equal row](Solutions/M/minimum-domino-rotations-for-equal-row)
