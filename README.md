@@ -1123,6 +1123,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum number of days to make m bouquets](Solutions/M/minimum-number-of-days-to-make-m-bouquets)
 * [Minimum number of groups to create a valid assignment](Solutions/M/minimum-number-of-groups-to-create-a-valid-assignment)
 * [Minimum number of increments on subarrays to form a target array](Solutions/M/minimum-number-of-increments-on-subarrays-to-form-a-target-array)
+* [Minimum number of k consecutive bit flips](Solutions/M/minimum-number-of-k-consecutive-bit-flips)
 * [Minimum number of moves to seat everyone](Solutions/M/minimum-number-of-moves-to-seat-everyone)
 * [Minimum number of operations to make all array elements equal to 1](Solutions/M/minimum-number-of-operations-to-make-all-array-elements-equal-to-1)
 * [Minimum number of operations to make arrays similar](Solutions/M/minimum-number-of-operations-to-make-arrays-similar)
@@ -1870,6 +1871,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Prefix-Bitwise_operation">Bitwise operation</a>
 * [Count triplets that can form two arrays of equal xor](Solutions/C/count-triplets-that-can-form-two-arrays-of-equal-xor)
 * [Maximum or](Solutions/M/maximum-or)
+* [Minimum number of k consecutive bit flips](Solutions/M/minimum-number-of-k-consecutive-bit-flips)
 * [Number of wonderful substrings](Solutions/N/number-of-wonderful-substrings)
 * [Unique length 3 palindromic subsequences](Solutions/U/unique-length-3-palindromic-subsequences)
 
