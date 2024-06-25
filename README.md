@@ -2585,6 +2585,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## <a name="Tree">Tree</a>
 
 ### <a name="Tree-Binary_search_tree">Binary search tree</a>
+* [Binary search tree to greater sum tree](Solutions/B/binary-search-tree-to-greater-sum-tree)
 * [Insert into a binary search tree](Solutions/I/insert-into-a-binary-search-tree)
 * [Kth smallest element in a bst](Solutions/K/kth-smallest-element-in-a-bst)
 * [Minimum absolute difference in bst](Solutions/M/minimum-absolute-difference-in-bst)
@@ -2616,6 +2617,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [All possible full binary trees](Solutions/A/all-possible-full-binary-trees)
 * [Average of levels in binary tree](Solutions/A/average-of-levels-in-binary-tree)
 * [Balanced binary tree](Solutions/B/balanced-binary-tree)
+* [Binary search tree to greater sum tree](Solutions/B/binary-search-tree-to-greater-sum-tree)
 * [Binary tree cameras](Solutions/B/binary-tree-cameras)
 * [Binary tree level order traversal](Solutions/B/binary-tree-level-order-traversal)
 * [Binary tree level order traversal ii](Solutions/B/binary-tree-level-order-traversal-ii)
