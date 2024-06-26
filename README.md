@@ -2596,6 +2596,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 #### <a name="Tree-Binary_search_tree-Traversal">Traversal</a>
 * [All elements in two binary search trees](Solutions/A/all-elements-in-two-binary-search-trees)
+* [Balance a binary search tree](Solutions/B/balance-a-binary-search-tree)
 * [Binary search tree iterator](Solutions/B/binary-search-tree-iterator)
 * [Construct binary search tree from preorder traversal](Solutions/C/construct-binary-search-tree-from-preorder-traversal)
 * [Convert bst to greater tree](Solutions/C/convert-bst-to-greater-tree)
@@ -2616,6 +2617,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [All nodes distance k in binary tree](Solutions/A/all-nodes-distance-k-in-binary-tree)
 * [All possible full binary trees](Solutions/A/all-possible-full-binary-trees)
 * [Average of levels in binary tree](Solutions/A/average-of-levels-in-binary-tree)
+* [Balance a binary search tree](Solutions/B/balance-a-binary-search-tree)
 * [Balanced binary tree](Solutions/B/balanced-binary-tree)
 * [Binary search tree to greater sum tree](Solutions/B/binary-search-tree-to-greater-sum-tree)
 * [Binary tree cameras](Solutions/B/binary-tree-cameras)
@@ -2694,6 +2696,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum number of operations to sort a binary tree by level](Solutions/M/minimum-number-of-operations-to-sort-a-binary-tree-by-level)
 
 ### <a name="Tree-Order_traversal">Order traversal</a>
+* [Balance a binary search tree](Solutions/B/balance-a-binary-search-tree)
 * [Binary tree preorder traversal](Solutions/B/binary-tree-preorder-traversal)
 * [Construct binary tree from inorder and postorder traversal](Solutions/C/construct-binary-tree-from-inorder-and-postorder-traversal)
 * [Construct binary tree from preorder and inorder traversal](Solutions/C/construct-binary-tree-from-preorder-and-inorder-traversal)
