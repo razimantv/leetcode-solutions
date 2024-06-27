@@ -847,6 +847,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Integer to roman](Solutions/I/integer-to-roman)
 
 ## <a name="Graph_theory">Graph theory</a>
+* [Find center of star graph](Solutions/F/find-center-of-star-graph)
 * [Maximal network rank](Solutions/M/maximal-network-rank)
 
 ### <a name="Graph_theory-Addition_of_auxiliary_vertices">Addition of auxiliary vertices</a>
