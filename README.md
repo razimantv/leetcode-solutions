@@ -14,6 +14,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count the number of special characters ii](Solutions/C/count-the-number-of-special-characters-ii)
 * [Dota2 senate](Solutions/D/dota2-senate)
 * [Find the first player to win k games in a row](Solutions/F/find-the-first-player-to-win-k-games-in-a-row)
+* [Find the maximum length of valid subsequence i](Solutions/F/find-the-maximum-length-of-valid-subsequence-i)
 * [Maximum enemy forts that can be captured](Solutions/M/maximum-enemy-forts-that-can-be-captured)
 * [Maximum value of an ordered triplet i](Solutions/M/maximum-value-of-an-ordered-triplet-i)
 * [Maximum value of an ordered triplet ii](Solutions/M/maximum-value-of-an-ordered-triplet-ii)
@@ -549,6 +550,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Fibonacci number](Solutions/F/fibonacci-number)
 * [Find all possible stable binary arrays i](Solutions/F/find-all-possible-stable-binary-arrays-i)
 * [Find all possible stable binary arrays ii](Solutions/F/find-all-possible-stable-binary-arrays-ii)
+* [Find the maximum length of valid subsequence ii](Solutions/F/find-the-maximum-length-of-valid-subsequence-ii)
 * [Frog jump](Solutions/F/frog-jump)
 * [House robber](Solutions/H/house-robber)
 * [Jump game](Solutions/J/jump-game)
@@ -966,6 +968,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find eventual safe states](Solutions/F/find-eventual-safe-states)
 
 #### <a name="Graph_theory-Depth_first_search-Tree_diameter">Tree diameter</a>
+* [Find minimum diameter after merging two trees](Solutions/F/find-minimum-diameter-after-merging-two-trees)
 * [Minimum height trees](Solutions/M/minimum-height-trees)
 
 ### <a name="Graph_theory-Dijkstra_s_algorithm">Dijkstra's algorithm</a>
@@ -1064,6 +1067,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Earliest second to mark indices i](Solutions/E/earliest-second-to-mark-indices-i)
 * [Earliest second to mark indices ii](Solutions/E/earliest-second-to-mark-indices-ii)
 * [Eliminate maximum number of monsters](Solutions/E/eliminate-maximum-number-of-monsters)
+* [Find minimum diameter after merging two trees](Solutions/F/find-minimum-diameter-after-merging-two-trees)
 * [Find polygon with the largest perimeter](Solutions/F/find-polygon-with-the-largest-perimeter)
 * [Find the maximum number of marked indices](Solutions/F/find-the-maximum-number-of-marked-indices)
 * [Find the minimum possible sum of a beautiful array](Solutions/F/find-the-minimum-possible-sum-of-a-beautiful-array)
@@ -1632,6 +1636,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Excel sheet column title](Solutions/E/excel-sheet-column-title)
 * [Factorial trailing zeroes](Solutions/F/factorial-trailing-zeroes)
 * [Find the divisibility array of a string](Solutions/F/find-the-divisibility-array-of-a-string)
+* [Find the maximum length of valid subsequence ii](Solutions/F/find-the-maximum-length-of-valid-subsequence-ii)
 * [Find the student that will replace the chalk](Solutions/F/find-the-student-that-will-replace-the-chalk)
 * [Greatest common divisor of strings](Solutions/G/greatest-common-divisor-of-strings)
 * [Integer break](Solutions/I/integer-break)
@@ -2211,6 +2216,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum 69 number](Solutions/M/maximum-69-number)
 * [Maximum count of positive integer and negative integer](Solutions/M/maximum-count-of-positive-integer-and-negative-integer)
 * [Maximum difference by remapping a digit](Solutions/M/maximum-difference-by-remapping-a-digit)
+* [Maximum height of a triangle](Solutions/M/maximum-height-of-a-triangle)
 * [Maximum number of balloons](Solutions/M/maximum-number-of-balloons)
 * [Maximum number of operations with the same score i](Solutions/M/maximum-number-of-operations-with-the-same-score-i)
 * [Maximum number of pairs in array](Solutions/M/maximum-number-of-pairs-in-array)
