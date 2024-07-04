@@ -1472,6 +1472,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Double a number represented as a linked list](Solutions/D/double-a-number-represented-as-a-linked-list)
 * [Flatten a multilevel doubly linked list](Solutions/F/flatten-a-multilevel-doubly-linked-list)
 * [Maximum twin sum of a linked list](Solutions/M/maximum-twin-sum-of-a-linked-list)
+* [Merge nodes in between zeros](Solutions/M/merge-nodes-in-between-zeros)
 * [Palindrome linked list](Solutions/P/palindrome-linked-list)
 * [Remove duplicates from sorted list ii](Solutions/R/remove-duplicates-from-sorted-list-ii)
 * [Remove linked list elements](Solutions/R/remove-linked-list-elements)
