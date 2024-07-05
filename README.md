@@ -1447,6 +1447,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Convert sorted list to binary search tree](Solutions/C/convert-sorted-list-to-binary-search-tree)
 * [Copy list with random pointer](Solutions/C/copy-list-with-random-pointer)
 * [Delete node in a linked list](Solutions/D/delete-node-in-a-linked-list)
+* [Find the minimum and maximum number of nodes between critical points](Solutions/F/find-the-minimum-and-maximum-number-of-nodes-between-critical-points)
 * [Flatten a multilevel doubly linked list](Solutions/F/flatten-a-multilevel-doubly-linked-list)
 * [Flatten binary tree to linked list](Solutions/F/flatten-binary-tree-to-linked-list)
 * [Insert greatest common divisors in linked list](Solutions/I/insert-greatest-common-divisors-in-linked-list)
