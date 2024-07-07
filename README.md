@@ -1509,6 +1509,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Replace question marks in string to minimize its value](Solutions/R/replace-question-marks-in-string-to-minimize-its-value)
 * [Strictly palindromic number](Solutions/S/strictly-palindromic-number)
 * [Sum of absolute differences in a sorted array](Solutions/S/sum-of-absolute-differences-in-a-sorted-array)
+* [Water bottles](Solutions/W/water-bottles)
 
 ### <a name="Mathematics-Closed_form_expressions">Closed form expressions</a>
 * [Calculate money in leetcode bank](Solutions/C/calculate-money-in-leetcode-bank)
