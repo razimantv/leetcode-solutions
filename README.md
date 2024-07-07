@@ -29,6 +29,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [The employee that worked on the longest task](Solutions/T/the-employee-that-worked-on-the-longest-task)
 
 ### <a name="Array_scanning-Contiguous_region">Contiguous region</a>
+* [Alternating groups i](Solutions/A/alternating-groups-i)
+* [Alternating groups ii](Solutions/A/alternating-groups-ii)
 * [Arithmetic slices](Solutions/A/arithmetic-slices)
 * [Check if all 1s are at least length k places away](Solutions/C/check-if-all-1s-are-at-least-length-k-places-away)
 * [Consecutive characters](Solutions/C/consecutive-characters)
@@ -64,6 +66,10 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Reduce array size to the half](Solutions/R/reduce-array-size-to-the-half)
 * [String compression iii](Solutions/S/string-compression-iii)
 * [The number of weak characters in the game](Solutions/T/the-number-of-weak-characters-in-the-game)
+
+### <a name="Array_scanning-Cyclic_array">Cyclic array</a>
+* [Alternating groups i](Solutions/A/alternating-groups-i)
+* [Alternating groups ii](Solutions/A/alternating-groups-ii)
 
 ### <a name="Array_scanning-From_both_ends_of_array">From both ends of array</a>
 * [Beautiful towers ii](Solutions/B/beautiful-towers-ii)
@@ -111,6 +117,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Array_scanning-Location_of_previous_element_with_bit_value">Location of previous element with bit value</a>
 * [Minimum sum of values by dividing array](Solutions/M/minimum-sum-of-values-by-dividing-array)
+* [Number of subarrays with and value of k](Solutions/N/number-of-subarrays-with-and-value-of-k)
 
 ### <a name="Array_scanning-Location_of_previous_element_with_same_value">Location of previous element with same value</a>
 * [Count the number of good partitions](Solutions/C/count-the-number-of-good-partitions)
@@ -338,6 +345,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Number of even and odd bits](Solutions/N/number-of-even-and-odd-bits)
 * [Number of excellent pairs](Solutions/N/number-of-excellent-pairs)
 * [Number of possible sets of closing branches](Solutions/N/number-of-possible-sets-of-closing-branches)
+* [Number of subarrays with and value of k](Solutions/N/number-of-subarrays-with-and-value-of-k)
 * [Power of four](Solutions/P/power-of-four)
 * [Power of two](Solutions/P/power-of-two)
 * [Powx n](Solutions/P/powx-n)
@@ -1106,6 +1114,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum odd binary number](Solutions/M/maximum-odd-binary-number)
 * [Maximum palindromes after operations](Solutions/M/maximum-palindromes-after-operations)
 * [Maximum performance of a team](Solutions/M/maximum-performance-of-a-team)
+* [Maximum points after enemy battles](Solutions/M/maximum-points-after-enemy-battles)
 * [Maximum product difference between two pairs](Solutions/M/maximum-product-difference-between-two-pairs)
 * [Maximum product of two elements in an array](Solutions/M/maximum-product-of-two-elements-in-an-array)
 * [Maximum spending after buying items](Solutions/M/maximum-spending-after-buying-items)
