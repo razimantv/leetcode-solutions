@@ -410,6 +410,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Shortest string that contains three strings](Solutions/S/shortest-string-that-contains-three-strings)
 
 ### <a name="Brute_force_enumeration-Elementwise_processing_using_a_vector">Elementwise processing using a vector</a>
+* [Generate binary strings without adjacent zeros](Solutions/G/generate-binary-strings-without-adjacent-zeros)
 * [Kth smallest amount with single denomination combination](Solutions/K/kth-smallest-amount-with-single-denomination-combination)
 * [Letter case permutation](Solutions/L/letter-case-permutation)
 * [Letter combinations of a phone number](Solutions/L/letter-combinations-of-a-phone-number)
@@ -840,6 +841,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 #### <a name="Dynamic_programming-Trees-DP_over_children">DP over children</a>
 * [Count pairs of connectable servers in a weighted tree network](Solutions/C/count-pairs-of-connectable-servers-in-a-weighted-tree-network)
 * [Find the maximum sum of node values](Solutions/F/find-the-maximum-sum-of-node-values)
+
+### <a name="Dynamic_programming-Trie">Trie</a>
+* [Construct string with minimum cost](Solutions/C/construct-string-with-minimum-cost)
 
 ## <a name="Dynamic_update_of_left_and_right_neighbours">Dynamic update of left and right neighbours</a>
 * [Robot collisions](Solutions/R/robot-collisions)
@@ -1792,6 +1796,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Matrix-Prefix">Prefix</a>
 * [Construct product matrix](Solutions/C/construct-product-matrix)
+* [Count submatrices with equal frequency of x and y](Solutions/C/count-submatrices-with-equal-frequency-of-x-and-y)
 * [Maximum difference score in a grid](Solutions/M/maximum-difference-score-in-a-grid)
 
 ### <a name="Matrix-Row_pair_processing">Row pair processing</a>
@@ -1984,6 +1989,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 #### <a name="Prefix-Sum-2D">2D</a>
 * [Construct product matrix](Solutions/C/construct-product-matrix)
 * [Construct quad tree](Solutions/C/construct-quad-tree)
+* [Count submatrices with equal frequency of x and y](Solutions/C/count-submatrices-with-equal-frequency-of-x-and-y)
 * [Count submatrices with top left element and sum less than k](Solutions/C/count-submatrices-with-top-left-element-and-sum-less-than-k)
 * [Disconnect path in a binary matrix by at most one flip](Solutions/D/disconnect-path-in-a-binary-matrix-by-at-most-one-flip)
 * [Increment submatrices by one](Solutions/I/increment-submatrices-by-one)
@@ -2195,6 +2201,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find subarrays with equal sum](Solutions/F/find-subarrays-with-equal-sum)
 * [Find the array concatenation value](Solutions/F/find-the-array-concatenation-value)
 * [Find the distance value between two arrays](Solutions/F/find-the-distance-value-between-two-arrays)
+* [Find the encrypted string](Solutions/F/find-the-encrypted-string)
 * [Find the losers of the circular game](Solutions/F/find-the-losers-of-the-circular-game)
 * [Find the maximum divisibility score](Solutions/F/find-the-maximum-divisibility-score)
 * [Find the peaks](Solutions/F/find-the-peaks)
@@ -2588,6 +2595,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Shortest string that contains three strings](Solutions/S/shortest-string-that-contains-three-strings)
 
 #### <a name="String-Search-Trie">Trie</a>
+* [Construct string with minimum cost](Solutions/C/construct-string-with-minimum-cost)
 * [Length of the longest valid substring](Solutions/L/length-of-the-longest-valid-substring)
 * [Longest common suffix queries](Solutions/L/longest-common-suffix-queries)
 
@@ -2745,6 +2753,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Amount of time for binary tree to be infected](Solutions/A/amount-of-time-for-binary-tree-to-be-infected)
 
 ## <a name="Trie">Trie</a>
+* [Construct string with minimum cost](Solutions/C/construct-string-with-minimum-cost)
 * [Design add and search words data structure](Solutions/D/design-add-and-search-words-data-structure)
 * [Implement trie prefix tree](Solutions/I/implement-trie-prefix-tree)
 * [Length of the longest valid substring](Solutions/L/length-of-the-longest-valid-substring)
