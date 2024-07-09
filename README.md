@@ -162,6 +162,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## <a name="Averaging_from_total_and_count">Averaging from total and count</a>
 * [Average of levels in binary tree](Solutions/A/average-of-levels-in-binary-tree)
+* [Average waiting time](Solutions/A/average-waiting-time)
 * [Count nodes equal to average of subtree](Solutions/C/count-nodes-equal-to-average-of-subtree)
 * [Design underground system](Solutions/D/design-underground-system)
 * [Find the grid of region average](Solutions/F/find-the-grid-of-region-average)

@@ -1,5 +1,6 @@
 Array scanning
 Array scanning>Contiguous region
+Array scanning>Cyclic array
 Array scanning>From both ends of array
 Array scanning>From both ends of array>Element exclusion
 Array scanning>In-place modification
@@ -62,6 +63,7 @@ Dynamic programming>Subsets
 Dynamic programming>Topological sort
 Dynamic programming>Trees
 Dynamic programming>Trees>DP over children
+Dynamic programming>Trie
 Dynamic update of left and right neighbours
 Encoding and decoding
 Flattening
