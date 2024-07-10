@@ -12,6 +12,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ## <a name="Array_scanning">Array scanning</a>
 * [Apply operations to make string empty](Solutions/A/apply-operations-to-make-string-empty)
 * [Count the number of special characters ii](Solutions/C/count-the-number-of-special-characters-ii)
+* [Crawler log folder](Solutions/C/crawler-log-folder)
 * [Dota2 senate](Solutions/D/dota2-senate)
 * [Find the first player to win k games in a row](Solutions/F/find-the-first-player-to-win-k-games-in-a-row)
 * [Find the maximum length of valid subsequence i](Solutions/F/find-the-maximum-length-of-valid-subsequence-i)
