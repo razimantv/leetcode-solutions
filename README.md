@@ -2013,6 +2013,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum nesting depth of the parentheses](Solutions/M/maximum-nesting-depth-of-the-parentheses)
 * [Minimum remove to make valid parentheses](Solutions/M/minimum-remove-to-make-valid-parentheses)
 * [Remove invalid parentheses](Solutions/R/remove-invalid-parentheses)
+* [Reverse substrings between each pair of parentheses](Solutions/R/reverse-substrings-between-each-pair-of-parentheses)
 
 ## <a name="Priority_queue">Priority queue</a>
 * [Constrained subsequence sum](Solutions/C/constrained-subsequence-sum)
@@ -2571,6 +2572,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 #### <a name="String-Parsing-Recursive">Recursive</a>
 * [Decode string](Solutions/D/decode-string)
 * [Number of atoms](Solutions/N/number-of-atoms)
+* [Reverse substrings between each pair of parentheses](Solutions/R/reverse-substrings-between-each-pair-of-parentheses)
 
 ### <a name="String-Search">Search</a>
 * [Shortest uncommon substring in an array](Solutions/S/shortest-uncommon-substring-in-an-array)
