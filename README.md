@@ -1123,6 +1123,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum points after enemy battles](Solutions/M/maximum-points-after-enemy-battles)
 * [Maximum product difference between two pairs](Solutions/M/maximum-product-difference-between-two-pairs)
 * [Maximum product of two elements in an array](Solutions/M/maximum-product-of-two-elements-in-an-array)
+* [Maximum score from removing substrings](Solutions/M/maximum-score-from-removing-substrings)
 * [Maximum spending after buying items](Solutions/M/maximum-spending-after-buying-items)
 * [Maximum tastiness of candy basket](Solutions/M/maximum-tastiness-of-candy-basket)
 * [Maximum total importance of roads](Solutions/M/maximum-total-importance-of-roads)
@@ -2506,6 +2507,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Binary search tree iterator](Solutions/B/binary-search-tree-iterator)
 * [Build an array with stack operations](Solutions/B/build-an-array-with-stack-operations)
 * [Clear digits](Solutions/C/clear-digits)
+* [Maximum score from removing substrings](Solutions/M/maximum-score-from-removing-substrings)
 * [Min stack](Solutions/M/min-stack)
 * [Removing stars from a string](Solutions/R/removing-stars-from-a-string)
 
