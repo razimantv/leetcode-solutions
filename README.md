@@ -1136,6 +1136,8 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum amount of time to fill cups](Solutions/M/minimum-amount-of-time-to-fill-cups)
 * [Minimum array end](Solutions/M/minimum-array-end)
 * [Minimum array length after pair removals](Solutions/M/minimum-array-length-after-pair-removals)
+* [Minimum cost for cutting cake i](Solutions/M/minimum-cost-for-cutting-cake-i)
+* [Minimum cost for cutting cake ii](Solutions/M/minimum-cost-for-cutting-cake-ii)
 * [Minimum cost to equalize array](Solutions/M/minimum-cost-to-equalize-array)
 * [Minimum cost to make array equal](Solutions/M/minimum-cost-to-make-array-equal)
 * [Minimum deletions to make string k special](Solutions/M/minimum-deletions-to-make-string-k-special)
@@ -1221,6 +1223,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count the number of good subarrays](Solutions/C/count-the-number-of-good-subarrays)
 * [Count the number of special characters ii](Solutions/C/count-the-number-of-special-characters-ii)
 * [Delete and earn](Solutions/D/delete-and-earn)
+* [Delete nodes from linked list present in array](Solutions/D/delete-nodes-from-linked-list-present-in-array)
 * [Design hashmap](Solutions/D/design-hashmap)
 * [Destroy sequential targets](Solutions/D/destroy-sequential-targets)
 * [Determine if two strings are close](Solutions/D/determine-if-two-strings-are-close)
@@ -1486,6 +1489,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Remove nth node from end of list](Solutions/R/remove-nth-node-from-end-of-list)
 
 ### <a name="Linked_list-Recursion">Recursion</a>
+* [Delete nodes from linked list present in array](Solutions/D/delete-nodes-from-linked-list-present-in-array)
 * [Double a number represented as a linked list](Solutions/D/double-a-number-represented-as-a-linked-list)
 * [Flatten a multilevel doubly linked list](Solutions/F/flatten-a-multilevel-doubly-linked-list)
 * [Maximum twin sum of a linked list](Solutions/M/maximum-twin-sum-of-a-linked-list)
@@ -2240,6 +2244,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Largest time for given digits](Solutions/L/largest-time-for-given-digits)
 * [Last visited integers](Solutions/L/last-visited-integers)
 * [Latest time you can obtain after replacing characters](Solutions/L/latest-time-you-can-obtain-after-replacing-characters)
+* [Lexicographically smallest string after a swap](Solutions/L/lexicographically-smallest-string-after-a-swap)
 * [Longest strictly increasing or strictly decreasing subarray](Solutions/L/longest-strictly-increasing-or-strictly-decreasing-subarray)
 * [Make a square with the same color](Solutions/M/make-a-square-with-the-same-color)
 * [Make three strings equal](Solutions/M/make-three-strings-equal)
