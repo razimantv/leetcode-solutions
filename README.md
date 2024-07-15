@@ -1222,6 +1222,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count the number of beautiful subarrays](Solutions/C/count-the-number-of-beautiful-subarrays)
 * [Count the number of good subarrays](Solutions/C/count-the-number-of-good-subarrays)
 * [Count the number of special characters ii](Solutions/C/count-the-number-of-special-characters-ii)
+* [Create binary tree from descriptions](Solutions/C/create-binary-tree-from-descriptions)
 * [Delete and earn](Solutions/D/delete-and-earn)
 * [Delete nodes from linked list present in array](Solutions/D/delete-nodes-from-linked-list-present-in-array)
 * [Design hashmap](Solutions/D/design-hashmap)
@@ -2658,6 +2659,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Increasing order search tree](Solutions/I/increasing-order-search-tree)
 
 ### <a name="Tree-Binary_tree">Binary tree</a>
+* [Create binary tree from descriptions](Solutions/C/create-binary-tree-from-descriptions)
 * [Cycle length queries in a tree](Solutions/C/cycle-length-queries-in-a-tree)
 
 #### <a name="Tree-Binary_tree-Iteration">Iteration</a>
