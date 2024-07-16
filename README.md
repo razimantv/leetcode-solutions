@@ -1020,6 +1020,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Graph_theory-Lowest_common_ancestor">Lowest common ancestor</a>
 * [Minimum edge weight equilibrium queries in a tree](Solutions/M/minimum-edge-weight-equilibrium-queries-in-a-tree)
+* [Step by step directions from a binary tree node to another](Solutions/S/step-by-step-directions-from-a-binary-tree-node-to-another)
 
 ### <a name="Graph_theory-Minimum_spanning_tree">Minimum spanning tree</a>
 * [Find critical and pseudo critical edges in minimum spanning tree](Solutions/F/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree)
@@ -2741,6 +2742,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Range sum of bst](Solutions/R/range-sum-of-bst)
 * [Recover binary search tree](Solutions/R/recover-binary-search-tree)
 * [Smallest string starting from leaf](Solutions/S/smallest-string-starting-from-leaf)
+* [Step by step directions from a binary tree node to another](Solutions/S/step-by-step-directions-from-a-binary-tree-node-to-another)
 * [Symmetric tree](Solutions/S/symmetric-tree)
 * [Validate binary tree nodes](Solutions/V/validate-binary-tree-nodes)
 
