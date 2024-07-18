@@ -843,6 +843,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 #### <a name="Dynamic_programming-Trees-DP_over_children">DP over children</a>
 * [Count pairs of connectable servers in a weighted tree network](Solutions/C/count-pairs-of-connectable-servers-in-a-weighted-tree-network)
 * [Find the maximum sum of node values](Solutions/F/find-the-maximum-sum-of-node-values)
+* [Number of good leaf nodes pairs](Solutions/N/number-of-good-leaf-nodes-pairs)
 
 ### <a name="Dynamic_programming-Trie">Trie</a>
 * [Construct string with minimum cost](Solutions/C/construct-string-with-minimum-cost)
@@ -1985,6 +1986,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum space wasted from packaging](Solutions/M/minimum-space-wasted-from-packaging)
 * [Minimum value to get positive step by step sum](Solutions/M/minimum-value-to-get-positive-step-by-step-sum)
 * [Movement of robots](Solutions/M/movement-of-robots)
+* [Number of good leaf nodes pairs](Solutions/N/number-of-good-leaf-nodes-pairs)
 * [Palindrome rearrangement queries](Solutions/P/palindrome-rearrangement-queries)
 * [Random pick with weight](Solutions/R/random-pick-with-weight)
 * [Random point in non overlapping rectangles](Solutions/R/random-point-in-non-overlapping-rectangles)
@@ -2733,6 +2735,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum depth of binary tree](Solutions/M/minimum-depth-of-binary-tree)
 * [Minimum distance between bst nodes](Solutions/M/minimum-distance-between-bst-nodes)
 * [Minimum number of operations to sort a binary tree by level](Solutions/M/minimum-number-of-operations-to-sort-a-binary-tree-by-level)
+* [Number of good leaf nodes pairs](Solutions/N/number-of-good-leaf-nodes-pairs)
 * [Number of ways to reorder array to get same bst](Solutions/N/number-of-ways-to-reorder-array-to-get-same-bst)
 * [Path sum](Solutions/P/path-sum)
 * [Path sum ii](Solutions/P/path-sum-ii)
