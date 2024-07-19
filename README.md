@@ -2250,6 +2250,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Latest time you can obtain after replacing characters](Solutions/L/latest-time-you-can-obtain-after-replacing-characters)
 * [Lexicographically smallest string after a swap](Solutions/L/lexicographically-smallest-string-after-a-swap)
 * [Longest strictly increasing or strictly decreasing subarray](Solutions/L/longest-strictly-increasing-or-strictly-decreasing-subarray)
+* [Lucky numbers in a matrix](Solutions/L/lucky-numbers-in-a-matrix)
 * [Make a square with the same color](Solutions/M/make-a-square-with-the-same-color)
 * [Make three strings equal](Solutions/M/make-three-strings-equal)
 * [Match substring after replacement](Solutions/M/match-substring-after-replacement)
