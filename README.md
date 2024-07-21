@@ -149,6 +149,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Largest odd number in string](Solutions/L/largest-odd-number-in-string)
 * [Longest binary subsequence less than or equal to k](Solutions/L/longest-binary-subsequence-less-than-or-equal-to-k)
 * [Maximize the number of partitions after operations](Solutions/M/maximize-the-number-of-partitions-after-operations)
+* [Maximum number of operations to move ones to the end](Solutions/M/maximum-number-of-operations-to-move-ones-to-the-end)
 * [Minimum operations to collect elements](Solutions/M/minimum-operations-to-collect-elements)
 * [Minimum operations to make a special number](Solutions/M/minimum-operations-to-make-a-special-number)
 * [Minimum replacements to sort the array](Solutions/M/minimum-replacements-to-sort-the-array)
@@ -344,6 +345,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Non negative integers without consecutive ones](Solutions/N/non-negative-integers-without-consecutive-ones)
 * [Number complement](Solutions/N/number-complement)
 * [Number of 1 bits](Solutions/N/number-of-1-bits)
+* [Number of bit changes to make two integers equal](Solutions/N/number-of-bit-changes-to-make-two-integers-equal)
 * [Number of even and odd bits](Solutions/N/number-of-even-and-odd-bits)
 * [Number of excellent pairs](Solutions/N/number-of-excellent-pairs)
 * [Number of possible sets of closing branches](Solutions/N/number-of-possible-sets-of-closing-branches)
@@ -1166,6 +1168,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimum number of taps to open to water a garden](Solutions/M/minimum-number-of-taps-to-open-to-water-a-garden)
 * [Minimum operations to make a special number](Solutions/M/minimum-operations-to-make-a-special-number)
 * [Minimum operations to make array equal ii](Solutions/M/minimum-operations-to-make-array-equal-ii)
+* [Minimum operations to make array equal to target](Solutions/M/minimum-operations-to-make-array-equal-to-target)
 * [Minimum operations to make binary array elements equal to one i](Solutions/M/minimum-operations-to-make-binary-array-elements-equal-to-one-i)
 * [Minimum operations to make binary array elements equal to one ii](Solutions/M/minimum-operations-to-make-binary-array-elements-equal-to-one-ii)
 * [Minimum operations to make median of array equal to k](Solutions/M/minimum-operations-to-make-median-of-array-equal-to-k)
@@ -2793,6 +2796,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find the winning player in coin game](Solutions/F/find-the-winning-player-in-coin-game)
 * [Predict the winner](Solutions/P/predict-the-winner)
 * [Stone game iii](Solutions/S/stone-game-iii)
+* [Vowels game in a string](Solutions/V/vowels-game-in-a-string)
 
 ## <a name="Two_pointers">Two pointers</a>
 * [Assign cookies](Solutions/A/assign-cookies)
