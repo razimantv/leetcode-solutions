@@ -641,6 +641,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum difference score in a grid](Solutions/M/maximum-difference-score-in-a-grid)
 * [Maximum length of repeated subarray](Solutions/M/maximum-length-of-repeated-subarray)
 * [Maximum number of points with cost](Solutions/M/maximum-number-of-points-with-cost)
+* [Maximum score from grid operations](Solutions/M/maximum-score-from-grid-operations)
 * [Maximum score from performing multiplication operations](Solutions/M/maximum-score-from-performing-multiplication-operations)
 * [Maximum strength of k disjoint subarrays](Solutions/M/maximum-strength-of-k-disjoint-subarrays)
 * [Maximum value of k coins from piles](Solutions/M/maximum-value-of-k-coins-from-piles)
@@ -678,6 +679,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Best time to buy and sell stock iv](Solutions/B/best-time-to-buy-and-sell-stock-iv)
 * [Best time to buy and sell stock with transaction fee](Solutions/B/best-time-to-buy-and-sell-stock-with-transaction-fee)
 * [Count of integers](Solutions/C/count-of-integers)
+* [Maximum score from grid operations](Solutions/M/maximum-score-from-grid-operations)
 * [Minimum changes to make k semi palindromes](Solutions/M/minimum-changes-to-make-k-semi-palindromes)
 * [Minimum one bit operations to make integers zero](Solutions/M/minimum-one-bit-operations-to-make-integers-zero)
 * [Number of beautiful partitions](Solutions/N/number-of-beautiful-partitions)
@@ -1362,6 +1364,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Minimize length of array using operations](Solutions/M/minimize-length-of-array-using-operations)
 * [Minimum deletions to make string k special](Solutions/M/minimum-deletions-to-make-string-k-special)
 * [Minimum length of anagram concatenation](Solutions/M/minimum-length-of-anagram-concatenation)
+* [Minimum length of string after operations](Solutions/M/minimum-length-of-string-after-operations)
 * [Minimum levels to gain more points](Solutions/M/minimum-levels-to-gain-more-points)
 * [Minimum number of operations to make word k periodic](Solutions/M/minimum-number-of-operations-to-make-word-k-periodic)
 * [Minimum number of operations to satisfy conditions](Solutions/M/minimum-number-of-operations-to-satisfy-conditions)
@@ -1971,6 +1974,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum good subarray sum](Solutions/M/maximum-good-subarray-sum)
 * [Maximum nesting depth of two valid parentheses strings](Solutions/M/maximum-nesting-depth-of-two-valid-parentheses-strings)
 * [Maximum product subarray](Solutions/M/maximum-product-subarray)
+* [Maximum score from grid operations](Solutions/M/maximum-score-from-grid-operations)
 * [Maximum score of spliced array](Solutions/M/maximum-score-of-spliced-array)
 * [Maximum subarray](Solutions/M/maximum-subarray)
 * [Maximum subarray min product](Solutions/M/maximum-subarray-min-product)
@@ -2018,6 +2022,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Increment submatrices by one](Solutions/I/increment-submatrices-by-one)
 * [Invalid transactions](Solutions/I/invalid-transactions)
 * [Maximize the minimum powered city](Solutions/M/maximize-the-minimum-powered-city)
+* [Minimum array changes to make differences equal](Solutions/M/minimum-array-changes-to-make-differences-equal)
 
 #### <a name="Prefix-Sum-Valid_brackets">Valid brackets</a>
 * [Maximum nesting depth of the parentheses](Solutions/M/maximum-nesting-depth-of-the-parentheses)
@@ -2785,6 +2790,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Word search ii](Solutions/W/word-search-ii)
 
 ## <a name="Two_player_games">Two player games</a>
+* [Find the winning player in coin game](Solutions/F/find-the-winning-player-in-coin-game)
 * [Predict the winner](Solutions/P/predict-the-winner)
 * [Stone game iii](Solutions/S/stone-game-iii)
 
