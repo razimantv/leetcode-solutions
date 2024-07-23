@@ -903,6 +903,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Shortest path with alternating colors](Solutions/S/shortest-path-with-alternating-colors)
 * [Special permutations](Solutions/S/special-permutations)
 
+#### <a name="Graph_theory-Breadth_first_search-0_1_BFS">0-1 BFS</a>
+* [Minimum cost to make at least one valid path in a grid](Solutions/M/minimum-cost-to-make-at-least-one-valid-path-in-a-grid)
+
 ### <a name="Graph_theory-Bridges_Articulation_points">Bridges/Articulation points</a>
 * [Critical connections in a network](Solutions/C/critical-connections-in-a-network)
 
