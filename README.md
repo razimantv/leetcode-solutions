@@ -2471,6 +2471,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Relative sort array](Solutions/R/relative-sort-array)
 * [Reward top k students](Solutions/R/reward-top-k-students)
 * [Sort integers by the number of 1 bits](Solutions/S/sort-integers-by-the-number-of-1-bits)
+* [Sort the jumbled numbers](Solutions/S/sort-the-jumbled-numbers)
 * [Sort the people](Solutions/S/sort-the-people)
 * [Sort the students by their kth score](Solutions/S/sort-the-students-by-their-kth-score)
 
