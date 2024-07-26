@@ -1016,6 +1016,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Find champion ii](Solutions/F/find-champion-ii)
 
 ### <a name="Graph_theory-Floyd_Warshall_algorithm">Floyd-Warshall algorithm</a>
+* [Find the city with the smallest number of neighbors at a threshold distance](Solutions/F/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance)
 * [Minimum cost to convert string i](Solutions/M/minimum-cost-to-convert-string-i)
 * [Minimum cost to convert string ii](Solutions/M/minimum-cost-to-convert-string-ii)
 * [Number of possible sets of closing branches](Solutions/N/number-of-possible-sets-of-closing-branches)
