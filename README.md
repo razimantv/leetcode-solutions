@@ -898,6 +898,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Nearest exit from entrance in maze](Solutions/N/nearest-exit-from-entrance-in-maze)
 * [Open the lock](Solutions/O/open-the-lock)
 * [Pacific atlantic water flow](Solutions/P/pacific-atlantic-water-flow)
+* [Second minimum time to reach destination](Solutions/S/second-minimum-time-to-reach-destination)
 * [Shortest bridge](Solutions/S/shortest-bridge)
 * [Shortest path to get all keys](Solutions/S/shortest-path-to-get-all-keys)
 * [Shortest path with alternating colors](Solutions/S/shortest-path-with-alternating-colors)
@@ -1047,6 +1048,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 ### <a name="Graph_theory-Reuse_visited_array">Reuse visited array</a>
 * [Divide nodes into the maximum number of groups](Solutions/D/divide-nodes-into-the-maximum-number-of-groups)
 * [Shortest cycle in a graph](Solutions/S/shortest-cycle-in-a-graph)
+
+### <a name="Graph_theory-Search_from_source_and_target">Search from source and target</a>
+* [Second minimum time to reach destination](Solutions/S/second-minimum-time-to-reach-destination)
 
 ### <a name="Graph_theory-Single_cycle_graphs">Single cycle graphs</a>
 * [Count the number of houses at a certain distance i](Solutions/C/count-the-number-of-houses-at-a-certain-distance-i)
