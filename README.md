@@ -122,6 +122,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Array_scanning-Location_of_previous_element_with_same_value">Location of previous element with same value</a>
 * [Count the number of good partitions](Solutions/C/count-the-number-of-good-partitions)
+* [Count the number of substrings with dominant ones](Solutions/C/count-the-number-of-substrings-with-dominant-ones)
 * [Count unique characters of all substrings of a given string](Solutions/C/count-unique-characters-of-all-substrings-of-a-given-string)
 * [Execution of all suffix instructions staying in a grid](Solutions/E/execution-of-all-suffix-instructions-staying-in-a-grid)
 * [Largest substring between two equal characters](Solutions/L/largest-substring-between-two-equal-characters)
@@ -512,6 +513,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ## <a name="Disjoint_set_union">Disjoint set union</a>
 * [Accounts merge](Solutions/A/accounts-merge)
+* [Check if the rectangle corner is reachable](Solutions/C/check-if-the-rectangle-corner-is-reachable)
 * [Checking existence of edge length limited paths](Solutions/C/checking-existence-of-edge-length-limited-paths)
 * [Find all people with secret](Solutions/F/find-all-people-with-secret)
 * [Find critical and pseudo critical edges in minimum spanning tree](Solutions/F/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree)
@@ -1644,6 +1646,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 
 ### <a name="Mathematics-Geometry">Geometry</a>
 * [Check if it is a straight line](Solutions/C/check-if-it-is-a-straight-line)
+* [Check if the rectangle corner is reachable](Solutions/C/check-if-the-rectangle-corner-is-reachable)
 * [Determine if a cell is reachable at a given time](Solutions/D/determine-if-a-cell-is-reachable-at-a-given-time)
 * [Max points on a line](Solutions/M/max-points-on-a-line)
 * [Maximum area of longest diagonal rectangle](Solutions/M/maximum-area-of-longest-diagonal-rectangle)
@@ -1748,6 +1751,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Count the number of ideal arrays](Solutions/C/count-the-number-of-ideal-arrays)
 * [Count valid paths in a tree](Solutions/C/count-valid-paths-in-a-tree)
 * [Distinct prime factors of product of array](Solutions/D/distinct-prime-factors-of-product-of-array)
+* [Find the count of numbers which are not special](Solutions/F/find-the-count-of-numbers-which-are-not-special)
 * [Find the number of good pairs i](Solutions/F/find-the-number-of-good-pairs-i)
 * [Find the number of good pairs ii](Solutions/F/find-the-number-of-good-pairs-ii)
 * [Greatest common divisor traversal](Solutions/G/greatest-common-divisor-traversal)
@@ -2225,6 +2229,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Faulty keyboard](Solutions/F/faulty-keyboard)
 * [Find common elements between two arrays](Solutions/F/find-common-elements-between-two-arrays)
 * [Find first palindromic string in the array](Solutions/F/find-first-palindromic-string-in-the-array)
+* [Find if digit game can be won](Solutions/F/find-if-digit-game-can-be-won)
 * [Find nearest point that has the same x or y coordinate](Solutions/F/find-nearest-point-that-has-the-same-x-or-y-coordinate)
 * [Find numbers with even number of digits](Solutions/F/find-numbers-with-even-number-of-digits)
 * [Find occurrences of an element in an array](Solutions/F/find-occurrences-of-an-element-in-an-array)
