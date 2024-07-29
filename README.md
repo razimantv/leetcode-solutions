@@ -138,6 +138,9 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Substring with largest variance](Solutions/S/substring-with-largest-variance)
 * [Ways to split array into good subarrays](Solutions/W/ways-to-split-array-into-good-subarrays)
 
+### <a name="Array_scanning-Middle_element_of_triplet">Middle element of triplet</a>
+* [Count number of teams](Solutions/C/count-number-of-teams)
+
 ### <a name="Array_scanning-Modify_element_with_index">Modify element with index</a>
 * [Best sightseeing pair](Solutions/B/best-sightseeing-pair)
 
