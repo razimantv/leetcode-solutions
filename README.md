@@ -19,6 +19,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Maximum enemy forts that can be captured](Solutions/M/maximum-enemy-forts-that-can-be-captured)
 * [Maximum value of an ordered triplet i](Solutions/M/maximum-value-of-an-ordered-triplet-i)
 * [Maximum value of an ordered triplet ii](Solutions/M/maximum-value-of-an-ordered-triplet-ii)
+* [Minimum deletions to make string balanced](Solutions/M/minimum-deletions-to-make-string-balanced)
 * [Minimum operations to maximize last elements in arrays](Solutions/M/minimum-operations-to-maximize-last-elements-in-arrays)
 * [Minimum right shifts to sort the array](Solutions/M/minimum-right-shifts-to-sort-the-array)
 * [Monotonic array](Solutions/M/monotonic-array)
