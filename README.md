@@ -567,6 +567,7 @@ Thanks to [world177/Leetcode-Downloader-for-Submissions](https://github.com/worl
 * [Edit distance](Solutions/E/edit-distance)
 * [Extra characters in a string](Solutions/E/extra-characters-in-a-string)
 * [Fibonacci number](Solutions/F/fibonacci-number)
+* [Filling bookcase shelves](Solutions/F/filling-bookcase-shelves)
 * [Find all possible stable binary arrays i](Solutions/F/find-all-possible-stable-binary-arrays-i)
 * [Find all possible stable binary arrays ii](Solutions/F/find-all-possible-stable-binary-arrays-ii)
 * [Find the maximum length of valid subsequence ii](Solutions/F/find-the-maximum-length-of-valid-subsequence-ii)
