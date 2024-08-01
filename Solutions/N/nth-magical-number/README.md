@@ -26,5 +26,5 @@ class Solution {
 ```
 ## Tags
 
-* [Binary search](/README.md#Binary_search)
-* [Mathematics](/README.md#Mathematics) > [Number theory](/README.md#Mathematics-Number_theory) > [Basic](/README.md#Mathematics-Number_theory-Basic)
+* [Binary search](/Collections/binary-search.md#binary-search)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Number theory](/Collections/mathematics.md#number-theory) > [Basic](/Collections/mathematics.md#basic)

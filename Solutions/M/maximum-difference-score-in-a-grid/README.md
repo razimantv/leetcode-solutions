@@ -22,7 +22,7 @@ class Solution:
 ```
 ## Tags
 
-* [Dynamic programming](/README.md#Dynamic_programming) > [Array reuse](/README.md#Dynamic_programming-Array_reuse)
-* [Dynamic programming](/README.md#Dynamic_programming) > [Grid](/README.md#Dynamic_programming-Grid)
-* [Matrix](/README.md#Matrix) > [Prefix](/README.md#Matrix-Prefix)
-* [Prefix](/README.md#Prefix) > [Extremum](/README.md#Prefix-Extremum) > [2D](/README.md#Prefix-Extremum-2D)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming) > [Array reuse](/Collections/dynamic-programming.md#array-reuse)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming) > [Grid](/Collections/dynamic-programming.md#grid)
+* [Matrix](/Collections/matrix.md#matrix) > [Prefix](/Collections/matrix.md#prefix)
+* [Prefix](/Collections/prefix.md#prefix) > [Extremum](/Collections/prefix.md#extremum) > [2D](/Collections/prefix.md#2d)

@@ -25,5 +25,5 @@ class Solution {
 ```
 ## Tags
 
-* [Sorting](/README.md#Sorting) > [Merge sort](/README.md#Sorting-Merge_sort)
-* [Array scanning](/README.md#Array_scanning) > [In-place modification](/README.md#Array_scanning-In_place_modification)
+* [Sorting](/Collections/sorting.md#sorting) > [Merge sort](/Collections/sorting.md#merge-sort)
+* [Array scanning](/Collections/array-scanning.md#array-scanning) > [In-place modification](/Collections/array-scanning.md#in-place-modification)

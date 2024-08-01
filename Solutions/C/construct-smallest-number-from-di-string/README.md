@@ -42,4 +42,4 @@ class Solution {
 ```
 ## Tags
 
-* [Dynamic programming](/README.md#Dynamic_programming) > [Subsets](/README.md#Dynamic_programming-Subsets)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming) > [Subsets](/Collections/dynamic-programming.md#subsets)

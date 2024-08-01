@@ -28,4 +28,4 @@ class Solution:
 ```
 ## Tags
 
-* [Mathematics](/README.md#Mathematics) > [Geometry](/README.md#Mathematics-Geometry)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Geometry](/Collections/mathematics.md#geometry)

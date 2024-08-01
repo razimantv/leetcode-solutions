@@ -38,5 +38,5 @@ class Solution:
 ```
 ## Tags
 
-* [Dynamic programming](/README.md#Dynamic_programming) > [Digits](/README.md#Dynamic_programming-Digits)
-* [Binary search](/README.md#Binary_search) > [Exponential-binary search](/README.md#Binary_search-Exponential_binary_search)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming) > [Digits](/Collections/dynamic-programming.md#digits)
+* [Binary search](/Collections/binary-search.md#binary-search) > [Exponential-binary search](/Collections/binary-search.md#exponential-binary-search)

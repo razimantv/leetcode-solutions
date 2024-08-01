@@ -41,5 +41,5 @@ class Solution {
 ```
 ## Tags
 
-* [Pointers](/README.md#Pointers)
-* [Linked list](/README.md#Linked_list) > [Iteration](/README.md#Linked_list-Iteration)
+* [Pointers](/Collections/pointers.md#pointers)
+* [Linked list](/Collections/linked-list.md#linked-list) > [Iteration](/Collections/linked-list.md#iteration)

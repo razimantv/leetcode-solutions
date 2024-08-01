@@ -37,5 +37,5 @@ class Solution {
 ```
 ## Tags
 
-* [Linked list](/README.md#Linked_list) > [Iteration](/README.md#Linked_list-Iteration) > [Slow and fast pointers](/README.md#Linked_list-Iteration-Slow_and_fast_pointers)
-* [Linked list](/README.md#Linked_list) > [Recursion](/README.md#Linked_list-Recursion)
+* [Linked list](/Collections/linked-list.md#linked-list) > [Iteration](/Collections/linked-list.md#iteration) > [Slow and fast pointers](/Collections/linked-list.md#slow-and-fast-pointers)
+* [Linked list](/Collections/linked-list.md#linked-list) > [Recursion](/Collections/linked-list.md#recursion)

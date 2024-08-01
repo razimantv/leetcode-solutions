@@ -51,4 +51,4 @@ class Solution {
 ```
 ## Tags
 
-* [Quick Select](/README.md#Quick_Select)
+* [Quick Select](/Collections/quick-select.md#quick-select)

@@ -55,5 +55,5 @@ class Solution:
 ```
 ## Tags
 
-* [Segment tree](/README.md#Segment_tree)
-* [Hashmap](/README.md#Hashmap) > [Coordinate compression](/README.md#Hashmap-Coordinate_compression)
+* [Segment tree](/Collections/segment-tree.md#segment-tree)
+* [Hashmap](/Collections/hashmap.md#hashmap) > [Coordinate compression](/Collections/hashmap.md#coordinate-compression)

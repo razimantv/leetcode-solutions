@@ -27,5 +27,5 @@ class Solution {
 ```
 ## Tags
 
-* [Intervals](/README.md#Intervals) > [Overlap](/README.md#Intervals-Overlap)
-* [Mathematics](/README.md#Mathematics) > [Combinatorics](/README.md#Mathematics-Combinatorics)
+* [Intervals](/Collections/intervals.md#intervals) > [Overlap](/Collections/intervals.md#overlap)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Combinatorics](/Collections/mathematics.md#combinatorics)

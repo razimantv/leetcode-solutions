@@ -50,6 +50,6 @@ class Solution {
 ```
 ## Tags
 
-* [Segment tree](/README.md#Segment_tree)
-* [Dynamic programming](/README.md#Dynamic_programming) > [Segment tree](/README.md#Dynamic_programming-Segment_tree)
-* [Mathematics](/README.md#Mathematics) > [Combinatorics](/README.md#Mathematics-Combinatorics) > [Inclusion-exclusion](/README.md#Mathematics-Combinatorics-Inclusion_exclusion)
+* [Segment tree](/Collections/segment-tree.md#segment-tree)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming) > [Segment tree](/Collections/dynamic-programming.md#segment-tree)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Combinatorics](/Collections/mathematics.md#combinatorics) > [Inclusion-exclusion](/Collections/mathematics.md#inclusion-exclusion)

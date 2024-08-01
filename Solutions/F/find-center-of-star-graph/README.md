@@ -16,4 +16,4 @@ class Solution:
 ```
 ## Tags
 
-* [Graph theory](/README.md#Graph_theory)
+* [Graph theory](/Collections/graph-theory.md#graph-theory)

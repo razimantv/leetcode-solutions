@@ -37,4 +37,4 @@ class Solution {
 ```
 ## Tags
 
-* [Intervals](/README.md#Intervals) > [Non-overlapping decomposition](/README.md#Intervals-Non_overlapping_decomposition)
+* [Intervals](/Collections/intervals.md#intervals) > [Non-overlapping decomposition](/Collections/intervals.md#non-overlapping-decomposition)

@@ -94,5 +94,5 @@ class Solution {
 ```
 ## Tags
 
-* [Binary search](/README.md#Binary_search)
-* [Greedy](/README.md#Greedy)
+* [Binary search](/Collections/binary-search.md#binary-search)
+* [Greedy](/Collections/greedy.md#greedy)

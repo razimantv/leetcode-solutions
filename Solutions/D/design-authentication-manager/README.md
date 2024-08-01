@@ -42,5 +42,5 @@ class AuthenticationManager {
 ```
 ## Tags
 
-* [Design data structure](/README.md#Design_data_structure)
-* [Priority queue](/README.md#Priority_queue) > [Key update using insert and remove on C++ set](/README.md#Priority_queue-Key_update_using_insert_and_remove_on_C___set)
+* [Design data structure](/Collections/design-data-structure.md#design-data-structure)
+* [Priority queue](/Collections/priority-queue.md#priority-queue) > [Key update using insert and remove on C++ set](/Collections/priority-queue.md#key-update-using-insert-and-remove-on-c---set)

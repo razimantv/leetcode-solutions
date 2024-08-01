@@ -33,5 +33,5 @@ class Solution:
 ```
 ## Tags
 
-* [Tree](/README.md#Tree) > [Binary tree](/README.md#Tree-Binary_tree) > [Recursion](/README.md#Tree-Binary_tree-Recursion)
-* [Graph theory](/README.md#Graph_theory) > [Lowest common ancestor](/README.md#Graph_theory-Lowest_common_ancestor)
+* [Tree](/Collections/tree.md#tree) > [Binary tree](/Collections/tree.md#binary-tree) > [Recursion](/Collections/tree.md#recursion)
+* [Graph theory](/Collections/graph-theory.md#graph-theory) > [Lowest common ancestor](/Collections/graph-theory.md#lowest-common-ancestor)

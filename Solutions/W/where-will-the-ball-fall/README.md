@@ -32,5 +32,5 @@ public:
 ```
 ## Tags
 
-* [Matrix](/README.md#Matrix) > [Path](/README.md#Matrix-Path)
-* [Graph theory](/README.md#Graph_theory) > [Single outdegree graphs](/README.md#Graph_theory-Single_outdegree_graphs)
+* [Matrix](/Collections/matrix.md#matrix) > [Path](/Collections/matrix.md#path)
+* [Graph theory](/Collections/graph-theory.md#graph-theory) > [Single outdegree graphs](/Collections/graph-theory.md#single-outdegree-graphs)

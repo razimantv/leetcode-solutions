@@ -15,4 +15,4 @@ class Solution:
 ```
 ## Tags
 
-* [Fraud](/README.md#Fraud)
+* [Fraud](/Collections/fraud.md#fraud)

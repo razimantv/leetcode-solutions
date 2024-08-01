@@ -25,5 +25,5 @@ class Solution {
 ```
 ## Tags
 
-* [Suboptimal solution](/README.md#Suboptimal_solution)
-* [Simple implementation](/README.md#Simple_implementation)
+* [Suboptimal solution](/Collections/suboptimal-solution.md#suboptimal-solution)
+* [Simple implementation](/Collections/simple-implementation.md#simple-implementation)

@@ -31,4 +31,4 @@ class Solution:
 ```
 ## Tags
 
-* [Matrix](/README.md#Matrix)
+* [Matrix](/Collections/matrix.md#matrix)

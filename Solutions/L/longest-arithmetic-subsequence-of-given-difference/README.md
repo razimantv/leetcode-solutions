@@ -32,6 +32,6 @@ class Solution {
 ```
 ## Tags
 
-* [ChatGPT](/README.md#ChatGPT)
-* [Dynamic programming](/README.md#Dynamic_programming)
-* [Hashmap](/README.md#Hashmap)
+* [ChatGPT](/Collections/chatgpt.md#chatgpt)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming)
+* [Hashmap](/Collections/hashmap.md#hashmap)

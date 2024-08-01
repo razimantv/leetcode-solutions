@@ -66,5 +66,5 @@ class WordFilter {
 ```
 ## Tags
 
-* [Hashmap](/README.md#Hashmap)
-* [String](/README.md#String) > [Search](/README.md#String-Search) > [Prefix/Suffix](/README.md#String-Search-Prefix_Suffix)
+* [Hashmap](/Collections/hashmap.md#hashmap)
+* [String](/Collections/string.md#string) > [Search](/Collections/string.md#search) > [Prefix/Suffix](/Collections/string.md#prefix-suffix)

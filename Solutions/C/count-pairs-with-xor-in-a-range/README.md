@@ -36,5 +36,5 @@ class Solution {
 ```
 ## Tags
 
-* [Bitwise operation](/README.md#Bitwise_operation)
-* [Segment tree](/README.md#Segment_tree)
+* [Bitwise operation](/Collections/bitwise-operation.md#bitwise-operation)
+* [Segment tree](/Collections/segment-tree.md#segment-tree)

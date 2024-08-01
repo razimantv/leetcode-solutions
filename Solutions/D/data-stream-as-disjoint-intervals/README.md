@@ -46,6 +46,6 @@ class SummaryRanges {
 ```
 ## Tags
 
-* [Binary search](/README.md#Binary_search)
-* [Intervals](/README.md#Intervals) > [Union](/README.md#Intervals-Union)
-* [Design data structure](/README.md#Design_data_structure)
+* [Binary search](/Collections/binary-search.md#binary-search)
+* [Intervals](/Collections/intervals.md#intervals) > [Union](/Collections/intervals.md#union)
+* [Design data structure](/Collections/design-data-structure.md#design-data-structure)

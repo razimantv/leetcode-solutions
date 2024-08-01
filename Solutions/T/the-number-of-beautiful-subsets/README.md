@@ -37,7 +37,7 @@ class Solution {
 ```
 ## Tags
 
-* [Mathematics](/README.md#Mathematics) > [Number theory](/README.md#Mathematics-Number_theory) > [Basic](/README.md#Mathematics-Number_theory-Basic)
-* [Mathematics](/README.md#Mathematics) > [Combinatorics](/README.md#Mathematics-Combinatorics)
-* [Dynamic programming](/README.md#Dynamic_programming)
-* [Sorting](/README.md#Sorting)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Number theory](/Collections/mathematics.md#number-theory) > [Basic](/Collections/mathematics.md#basic)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Combinatorics](/Collections/mathematics.md#combinatorics)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming)
+* [Sorting](/Collections/sorting.md#sorting)

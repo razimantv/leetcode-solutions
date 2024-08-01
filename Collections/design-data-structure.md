@@ -1,0 +1,38 @@
+
+# <a id="design-data-structure">Design data structure</a>
+* [Construct quad tree](../Solutions/C/construct-quad-tree)
+* [Data stream as disjoint intervals](../Solutions/D/data-stream-as-disjoint-intervals)
+* [Design a food rating system](../Solutions/D/design-a-food-rating-system)
+* [Design a number container system](../Solutions/D/design-a-number-container-system)
+* [Design add and search words data structure](../Solutions/D/design-add-and-search-words-data-structure)
+* [Design authentication manager](../Solutions/D/design-authentication-manager)
+* [Design browser history](../Solutions/D/design-browser-history)
+* [Design circular queue](../Solutions/D/design-circular-queue)
+* [Design hashmap](../Solutions/D/design-hashmap)
+* [Design hashset](../Solutions/D/design-hashset)
+* [Design memory allocator](../Solutions/D/design-memory-allocator)
+* [Design movie rental system](../Solutions/D/design-movie-rental-system)
+* [Design parking system](../Solutions/D/design-parking-system)
+* [Design underground system](../Solutions/D/design-underground-system)
+* [Encode and decode tinyurl](../Solutions/E/encode-and-decode-tinyurl)
+* [Find consecutive integers from a data stream](../Solutions/F/find-consecutive-integers-from-a-data-stream)
+* [Frequency tracker](../Solutions/F/frequency-tracker)
+* [Implement trie prefix tree](../Solutions/I/implement-trie-prefix-tree)
+* [Insert delete getrandom o1](../Solutions/I/insert-delete-getrandom-o1)
+* [Iterator for combination](../Solutions/I/iterator-for-combination)
+* [Lfu cache](../Solutions/L/lfu-cache)
+* [Longest uploaded prefix](../Solutions/L/longest-uploaded-prefix)
+* [Lru cache](../Solutions/L/lru-cache)
+* [Maximum frequency stack](../Solutions/M/maximum-frequency-stack)
+* [Min stack](../Solutions/M/min-stack)
+* [Number of recent calls](../Solutions/N/number-of-recent-calls)
+* [Online majority element in subarray](../Solutions/O/online-majority-element-in-subarray)
+* [Peeking iterator](../Solutions/P/peeking-iterator)
+* [Random pick with weight](../Solutions/R/random-pick-with-weight)
+
+## <a id="interconversion">Interconversion</a>
+* [Implement queue using stacks](../Solutions/I/implement-queue-using-stacks)
+* [Implement stack using queues](../Solutions/I/implement-stack-using-queues)
+
+## <a id="persistent">Persistent</a>
+* [Snapshot array](../Solutions/S/snapshot-array)

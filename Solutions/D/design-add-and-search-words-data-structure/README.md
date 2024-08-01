@@ -53,5 +53,5 @@ class WordDictionary {
 ```
 ## Tags
 
-* [Trie](/README.md#Trie)
-* [Design data structure](/README.md#Design_data_structure)
+* [Trie](/Collections/trie.md#trie)
+* [Design data structure](/Collections/design-data-structure.md#design-data-structure)

@@ -54,6 +54,6 @@ class Solution {
 ```
 ## Tags
 
-* [Encoding and decoding](/README.md#Encoding_and_decoding)
-* [Design data structure](/README.md#Design_data_structure)
-* [Hashmap](/README.md#Hashmap)
+* [Encoding and decoding](/Collections/encoding-and-decoding.md#encoding-and-decoding)
+* [Design data structure](/Collections/design-data-structure.md#design-data-structure)
+* [Hashmap](/Collections/hashmap.md#hashmap)

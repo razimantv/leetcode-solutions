@@ -28,5 +28,5 @@ class Solution:
 ```
 ## Tags
 
-* [Bitwise operation](/README.md#Bitwise_operation)
-* [Array scanning](/README.md#Array_scanning) > [Location of previous element with bit value](/README.md#Array_scanning-Location_of_previous_element_with_bit_value)
+* [Bitwise operation](/Collections/bitwise-operation.md#bitwise-operation)
+* [Array scanning](/Collections/array-scanning.md#array-scanning) > [Location of previous element with bit value](/Collections/array-scanning.md#location-of-previous-element-with-bit-value)

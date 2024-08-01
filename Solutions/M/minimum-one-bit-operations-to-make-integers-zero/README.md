@@ -33,5 +33,5 @@ class Solution:
 ```
 ## Tags
 
-* [Bitwise operation](/README.md#Bitwise_operation)
-* [Dynamic programming](/README.md#Dynamic_programming) > [Auxiliary array](/README.md#Dynamic_programming-Auxiliary_array)
+* [Bitwise operation](/Collections/bitwise-operation.md#bitwise-operation)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming) > [Auxiliary array](/Collections/dynamic-programming.md#auxiliary-array)

@@ -38,5 +38,5 @@ class Solution {
 ```
 ## Tags
 
-* [String](/README.md#String) > [Parsing](/README.md#String-Parsing)
-* [Integer operations on strings](/README.md#Integer_operations_on_strings)
+* [String](/Collections/string.md#string) > [Parsing](/Collections/string.md#parsing)
+* [Integer operations on strings](/Collections/integer-operations-on-strings.md#integer-operations-on-strings)

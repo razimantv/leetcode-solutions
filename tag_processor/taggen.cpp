@@ -11,8 +11,15 @@ namespace fs = std::filesystem;
 using Dir = fs::directory_entry;
 using Tag = std::vector<std::string>;
 using Problem = std::pair<std::string, std::string>;
+using TaggedProblemCollection = std::map<Tag, std::set<Problem>>;
+using TaggedHierarchicalCollection = std::map<std::string, TaggedProblemCollection>;
 
 Tag get_tag_hierarchy(std::string tag_str) {
+  /**
+   * Converts a string of tags separated by '>' into a vector of tags.
+   * @param tag_str: A string of tags separated by '>'.
+   * @return: A vector of tags.
+   */
   std::istringstream iss(tag_str);
   Tag ret;
   std::string token;
@@ -21,25 +28,45 @@ Tag get_tag_hierarchy(std::string tag_str) {
 }
 
 std::string sanitize(std::string str) {
-  for (char& c : str)
-    if (!isalnum(c)) c = '_';
+  /**
+   * Converts a string to a format that can be used as an anchor in markdown.
+   * @param str: The string to be converted.
+   * @return: The converted string.
+   */
+  for (char& c : str) c = isalnum(c) ? tolower(c) : '-';
   return str;
 }
 
+std::string readme_filename(std::string parent_tag) {
+  /**
+   * Converts a parent tag to a markdown filename.
+   * @param parent_tag: The tag.
+   * @return: The markdown filename.
+   */
+  return "Collections/" + sanitize(parent_tag) + ".md";
+}
+
 std::string create_readme_tagline(Tag& tag) {
+  /**
+   * Converts a vector of tags into a markdown tagline.
+   * @param tag: A vector of tags.
+   * @return: A markdown tagline.
+   */
   std::string ret;
-  for (std::string tag_label; auto t : tag) {
-    if (!ret.empty()) {
-      ret += " > ";
-      tag_label += "-";
-    }
-    tag_label += sanitize(t);
-    ret += "[" + t + "](/README.md#" + tag_label + ")";
+  for (auto t : tag) {
+    if (!ret.empty()) ret += " > ";
+    auto tag_label = sanitize(t);
+    ret += "[" + t + "](/" + readme_filename(tag[0]) + "#" + tag_label + ")";
   }
   return ret;
 }
 
 auto get_code_files(const Dir& problem) {
+  /**
+   * Returns a set of .cpp/.py/.sh files in a problem directory.
+   * @param problem: The problem directory.
+   * @return: A set of code files.
+   */
   std::set<std::pair<std::string, fs::path>> codefiles;
   const std::unordered_set<std::string> code_extensions{".cpp", ".py", ".sh"};
   for (const auto& file : fs::directory_iterator{problem}) {
@@ -51,8 +78,14 @@ auto get_code_files(const Dir& problem) {
   return codefiles;
 }
 
-void process_problem(const Dir& problem,
-                     std::map<Tag, std::set<Problem>>& tag_map) {
+void process_problem(
+    const Dir& problem,
+    TaggedHierarchicalCollection& tagged_hierarchical_collection) {
+  /**
+   * Processes a problem directory and updates the tag map.
+   * @param problem: The problem directory.
+   * @param tag_map: The tag map.
+   */
   std::string problemname = problem.path().filename(),
               problempath = problem.path().string();
   for (char& c : problemname)
@@ -76,57 +109,73 @@ void process_problem(const Dir& problem,
   }
 
   if (!exists(problem.path() / "tags")) {
-    tag_map[{"Untagged"}].insert({problemname, problempath});
+    tagged_hierarchical_collection["Untagged"][{"Untagged"}].insert({problemname, problempath});
   } else {
     std::ifstream tags_file(problem.path() / "tags");
     readme << "\n## Tags\n\n";
     for (std::string tag_str; getline(tags_file, tag_str);) {
       if (tag_str.empty()) continue;
       auto tag = get_tag_hierarchy(tag_str);
-      tag_map[tag].insert({problemname, problempath});
+      tagged_hierarchical_collection[tag[0]][tag].insert({problemname, problempath});
       readme << "* " << create_readme_tagline(tag) << "\n";
     }
   }
 }
 
-void print_tag_list(std::map<Tag, std::set<Problem>>& tag_map) {
-  std::cout << "\n# Problems by tags\n";
-  std::unordered_set<std::string> bad_tags{"Suboptimal solution", "Fraud",
-                                           "Untagged"};
-  for (std::vector<std::string> prev_tag; auto& [tag, problemlist] : tag_map) {
-    if (bad_tags.count(tag[0])) continue;
+void create_readme(std::string filename,
+                   TaggedProblemCollection& problem_collection) {
+  /**
+   * Creates a README file for a tag.
+   * @param filename: The filename of the README file.
+   * @param problem_collection: The collection of problems for a parent tag
+   */
+  std::ofstream readme(filename);
+  for (std::vector<std::string> prev_tag; auto& [tag, problem_list] : problem_collection) {
     unsigned int level = 0;
-    std::string tag_label;
     for (auto& token : prev_tag) {
       if (level == tag.size() or token != tag[level]) break;
-      if (!tag_label.empty()) tag_label += '-';
-      tag_label += sanitize(tag[level]);
       ++level;
     }
     while (level < tag.size()) {
-      if (!tag_label.empty()) tag_label += '-';
-      tag_label += sanitize(tag[level]);
-      std::cout << "\n"
-                << std::string(level + 2, '#') << " "
+      auto tag_label = sanitize(tag[level]);
+      readme << "\n"
+                << std::string(level + 1, '#') << " "
                 << "<a id=\"" << tag_label << "\">" << tag[level] << "</a>\n";
       ++level;
     }
 
-    for (auto& [name, path] : problemlist)
-      std::cout << "* [" << name << "](" << path << ")\n";
+    for (auto& [name, path] : problem_list)
+      readme << "* [" << name << "](../" << path << ")\n";
     prev_tag = tag;
   }
+}
+
+void print_tag_list(TaggedHierarchicalCollection& tag_map) {
+  /**
+   * Prints the tag list in markdown format.
+   * @param tag_map: The tag map.
+   */
+  copy_file("tag_processor/README.md.base", "README.md",
+            fs::copy_options::overwrite_existing);
+  std::ofstream readme("README.md", std::ios::app);
+  readme << "\n# Problems by tags\n";
+  std::unordered_set<std::string> bad_tags{"Suboptimal solution", "Fraud",
+                                           "Untagged"};
+  for (auto& [parent_tag, tag_collection] : tag_map) {
+    auto tag_readme= readme_filename(parent_tag);
+    create_readme(tag_readme, tag_collection);
+    if (bad_tags.count(parent_tag)) continue;
+    readme << "* [" << parent_tag << "](/" << tag_readme << ")\n";
+  }
   for (auto tag : bad_tags) {
-    std::cout << "\n## " << tag << "\n";
-    for (auto& [name, path] : tag_map[{tag}]) {
-      std::cout << "* [" << name << "](" << path << ")\n";
-    }
+    auto tag_readme = readme_filename(tag);
+    readme << "* [" << tag << "](/" << tag_readme << ")\n";
   }
 }
 
 int main() {
   fs::current_path("..");
-  std::map<Tag, std::set<Problem>> tag_map;
+  TaggedHierarchicalCollection tag_map;
   for (const auto& collection : fs::directory_iterator{"Solutions"}) {
     if (!is_directory(collection)) continue;
     for (const auto& problem : fs::directory_iterator{collection})

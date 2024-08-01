@@ -36,5 +36,5 @@ class Solution {
 ```
 ## Tags
 
-* [Bitwise operation](/README.md#Bitwise_operation) > [Self-inverse property of xor](/README.md#Bitwise_operation-Self_inverse_property_of_xor)
-* [Hashmap](/README.md#Hashmap)
+* [Bitwise operation](/Collections/bitwise-operation.md#bitwise-operation) > [Self-inverse property of xor](/Collections/bitwise-operation.md#self-inverse-property-of-xor)
+* [Hashmap](/Collections/hashmap.md#hashmap)

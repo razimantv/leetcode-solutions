@@ -50,6 +50,6 @@ class Solution {
 ```
 ## Tags
 
-* [Linked list](/README.md#Linked_list) > [Iteration](/README.md#Linked_list-Iteration)
-* [Linked list](/README.md#Linked_list) > [Recursion](/README.md#Linked_list-Recursion)
-* [Flattening](/README.md#Flattening)
+* [Linked list](/Collections/linked-list.md#linked-list) > [Iteration](/Collections/linked-list.md#iteration)
+* [Linked list](/Collections/linked-list.md#linked-list) > [Recursion](/Collections/linked-list.md#recursion)
+* [Flattening](/Collections/flattening.md#flattening)

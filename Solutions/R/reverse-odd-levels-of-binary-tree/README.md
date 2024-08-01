@@ -42,4 +42,4 @@ class Solution {
 ```
 ## Tags
 
-* [Tree](/README.md#Tree) > [Order traversal](/README.md#Tree-Order_traversal)
+* [Tree](/Collections/tree.md#tree) > [Order traversal](/Collections/tree.md#order-traversal)

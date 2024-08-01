@@ -32,5 +32,5 @@ class Solution {
 ```
 ## Tags
 
-* [Dynamic programming](/README.md#Dynamic_programming) > [Knapsack](/README.md#Dynamic_programming-Knapsack) > [State modification](/README.md#Dynamic_programming-Knapsack-State_modification)
-* [Dynamic programming](/README.md#Dynamic_programming) > [Array reuse](/README.md#Dynamic_programming-Array_reuse)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming) > [Knapsack](/Collections/dynamic-programming.md#knapsack) > [State modification](/Collections/dynamic-programming.md#state-modification)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming) > [Array reuse](/Collections/dynamic-programming.md#array-reuse)

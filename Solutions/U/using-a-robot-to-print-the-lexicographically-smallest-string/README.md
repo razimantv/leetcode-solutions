@@ -34,6 +34,6 @@ class Solution {
 ```
 ## Tags
 
-* [Stack](/README.md#Stack) > [From array elements](/README.md#Stack-From_array_elements)
-* [Array scanning](/README.md#Array_scanning) > [Right to left](/README.md#Array_scanning-Right_to_left)
-* [Prefix](/README.md#Prefix) > [Extremum](/README.md#Prefix-Extremum)
+* [Stack](/Collections/stack.md#stack) > [From array elements](/Collections/stack.md#from-array-elements)
+* [Array scanning](/Collections/array-scanning.md#array-scanning) > [Right to left](/Collections/array-scanning.md#right-to-left)
+* [Prefix](/Collections/prefix.md#prefix) > [Extremum](/Collections/prefix.md#extremum)

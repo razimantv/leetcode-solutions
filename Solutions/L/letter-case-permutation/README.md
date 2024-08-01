@@ -31,4 +31,4 @@ class Solution {
 ```
 ## Tags
 
-* [Brute force enumeration](/README.md#Brute_force_enumeration) > [Elementwise processing using a vector](/README.md#Brute_force_enumeration-Elementwise_processing_using_a_vector)
+* [Brute force enumeration](/Collections/brute-force-enumeration.md#brute-force-enumeration) > [Elementwise processing using a vector](/Collections/brute-force-enumeration.md#elementwise-processing-using-a-vector)

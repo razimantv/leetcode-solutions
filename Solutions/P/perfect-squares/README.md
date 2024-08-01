@@ -43,4 +43,4 @@ class Solution {
 ```
 ## Tags
 
-* [Mathematics](/README.md#Mathematics) > [Number theory](/README.md#Mathematics-Number_theory) > [Theorems](/README.md#Mathematics-Number_theory-Theorems)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Number theory](/Collections/mathematics.md#number-theory) > [Theorems](/Collections/mathematics.md#theorems)

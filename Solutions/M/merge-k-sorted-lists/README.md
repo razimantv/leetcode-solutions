@@ -43,7 +43,7 @@ class Solution {
 ```
 ## Tags
 
-* [Sorting](/README.md#Sorting) > [Custom](/README.md#Sorting-Custom)
-* [Priority queue](/README.md#Priority_queue)
-* [Sorting](/README.md#Sorting) > [Merge sort](/README.md#Sorting-Merge_sort)
-* [Linked list](/README.md#Linked_list) > [Iteration](/README.md#Linked_list-Iteration)
+* [Sorting](/Collections/sorting.md#sorting) > [Custom](/Collections/sorting.md#custom)
+* [Priority queue](/Collections/priority-queue.md#priority-queue)
+* [Sorting](/Collections/sorting.md#sorting) > [Merge sort](/Collections/sorting.md#merge-sort)
+* [Linked list](/Collections/linked-list.md#linked-list) > [Iteration](/Collections/linked-list.md#iteration)

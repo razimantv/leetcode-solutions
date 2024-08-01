@@ -30,4 +30,4 @@ class Solution {
 ```
 ## Tags
 
-* [Precomputation to answer queries efficiently with delta](/README.md#Precomputation_to_answer_queries_efficiently_with_delta)
+* [Precomputation to answer queries efficiently with delta](/Collections/precomputation-to-answer-queries-efficiently-with-delta.md#precomputation-to-answer-queries-efficiently-with-delta)

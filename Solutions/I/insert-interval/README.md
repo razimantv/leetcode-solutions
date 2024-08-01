@@ -35,4 +35,4 @@ class Solution {
 ```
 ## Tags
 
-* [Intervals](/README.md#Intervals)
+* [Intervals](/Collections/intervals.md#intervals)

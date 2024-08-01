@@ -24,5 +24,5 @@ class Solution:
 ```
 ## Tags
 
-* [Matrix](/README.md#Matrix)
-* [Mathematics](/README.md#Mathematics) > [Combinatorics](/README.md#Mathematics-Combinatorics)
+* [Matrix](/Collections/matrix.md#matrix)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Combinatorics](/Collections/mathematics.md#combinatorics)

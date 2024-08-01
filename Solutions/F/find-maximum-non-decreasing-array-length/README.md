@@ -34,7 +34,7 @@ class Solution:
 ```
 ## Tags
 
-* [Deque](/README.md#Deque) > [Monotonic deque](/README.md#Deque-Monotonic_deque)
-* [Dynamic programming](/README.md#Dynamic_programming) > [Monotonic stack/deque](/README.md#Dynamic_programming-Monotonic_stack_deque)
-* [Mathematics](/README.md#Mathematics) > [Expression rearrangement](/README.md#Mathematics-Expression_rearrangement)
-* [Prefix](/README.md#Prefix) > [Sum](/README.md#Prefix-Sum)
+* [Deque](/Collections/deque.md#deque) > [Monotonic deque](/Collections/deque.md#monotonic-deque)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming) > [Monotonic stack/deque](/Collections/dynamic-programming.md#monotonic-stack-deque)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Expression rearrangement](/Collections/mathematics.md#expression-rearrangement)
+* [Prefix](/Collections/prefix.md#prefix) > [Sum](/Collections/prefix.md#sum)

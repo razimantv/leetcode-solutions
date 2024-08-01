@@ -33,6 +33,6 @@ class Solution:
 ```
 ## Tags
 
-* [Prefix](/README.md#Prefix) > [Sum](/README.md#Prefix-Sum)
-* [Sliding window](/README.md#Sliding_window)
-* [Mathematics](/README.md#Mathematics) > [Median](/README.md#Mathematics-Median)
+* [Prefix](/Collections/prefix.md#prefix) > [Sum](/Collections/prefix.md#sum)
+* [Sliding window](/Collections/sliding-window.md#sliding-window)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Median](/Collections/mathematics.md#median)

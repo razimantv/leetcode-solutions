@@ -33,5 +33,5 @@ class Solution:
 ```
 ## Tags
 
-* [Disjoint set union](/README.md#Disjoint_set_union)
-* [Mathematics](/README.md#Mathematics) > [Geometry](/README.md#Mathematics-Geometry)
+* [Disjoint set union](/Collections/disjoint-set-union.md#disjoint-set-union)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Geometry](/Collections/mathematics.md#geometry)

@@ -31,5 +31,5 @@ class Solution {
 ```
 ## Tags
 
-* [Greedy](/README.md#Greedy)
-* [Hashmap](/README.md#Hashmap)
+* [Greedy](/Collections/greedy.md#greedy)
+* [Hashmap](/Collections/hashmap.md#hashmap)

@@ -23,5 +23,5 @@ class Solution {
 ```
 ## Tags
 
-* [Hashmap](/README.md#Hashmap)
-* [Array scanning](/README.md#Array_scanning) > [Right to left](/README.md#Array_scanning-Right_to_left)
+* [Hashmap](/Collections/hashmap.md#hashmap)
+* [Array scanning](/Collections/array-scanning.md#array-scanning) > [Right to left](/Collections/array-scanning.md#right-to-left)

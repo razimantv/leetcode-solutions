@@ -46,5 +46,5 @@ class Solution {
 ```
 ## Tags
 
-* [Matrix](/README.md#Matrix) > [Path](/README.md#Matrix-Path)
-* [Prefix](/README.md#Prefix) > [Sum](/README.md#Prefix-Sum) > [2D](/README.md#Prefix-Sum-2D)
+* [Matrix](/Collections/matrix.md#matrix) > [Path](/Collections/matrix.md#path)
+* [Prefix](/Collections/prefix.md#prefix) > [Sum](/Collections/prefix.md#sum) > [2D](/Collections/prefix.md#2d)

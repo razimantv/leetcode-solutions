@@ -26,5 +26,5 @@ class Solution {
 ```
 ## Tags
 
-* [Bitwise operation](/README.md#Bitwise_operation)
-* [Formatted output](/README.md#Formatted_output)
+* [Bitwise operation](/Collections/bitwise-operation.md#bitwise-operation)
+* [Formatted output](/Collections/formatted-output.md#formatted-output)

@@ -32,5 +32,5 @@ class Solution {
 ```
 ## Tags
 
-* [Greedy](/README.md#Greedy)
-* [Mathematics](/README.md#Mathematics) > [Invariants](/README.md#Mathematics-Invariants)
+* [Greedy](/Collections/greedy.md#greedy)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Invariants](/Collections/mathematics.md#invariants)

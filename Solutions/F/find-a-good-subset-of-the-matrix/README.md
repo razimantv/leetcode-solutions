@@ -33,5 +33,5 @@ class Solution {
 ```
 ## Tags
 
-* [Bitwise operation](/README.md#Bitwise_operation)
-* [Mathematics](/README.md#Mathematics) > [Reduce problem dimension with proofs](/README.md#Mathematics-Reduce_problem_dimension_with_proofs)
+* [Bitwise operation](/Collections/bitwise-operation.md#bitwise-operation)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Reduce problem dimension with proofs](/Collections/mathematics.md#reduce-problem-dimension-with-proofs)

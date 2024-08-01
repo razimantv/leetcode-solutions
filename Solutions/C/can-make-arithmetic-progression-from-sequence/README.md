@@ -26,6 +26,6 @@ class Solution {
 ```
 ## Tags
 
-* [Sorting](/README.md#Sorting)
-* [ChatGPT](/README.md#ChatGPT)
-* [Mathematics](/README.md#Mathematics) > [Basic](/README.md#Mathematics-Basic)
+* [Sorting](/Collections/sorting.md#sorting)
+* [ChatGPT](/Collections/chatgpt.md#chatgpt)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Basic](/Collections/mathematics.md#basic)

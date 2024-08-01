@@ -26,5 +26,5 @@ class Solution:
 ```
 ## Tags
 
-* [Tree](/README.md#Tree) > [Binary tree](/README.md#Tree-Binary_tree) > [Recursion](/README.md#Tree-Binary_tree-Recursion)
-* [Averaging from total and count](/README.md#Averaging_from_total_and_count)
+* [Tree](/Collections/tree.md#tree) > [Binary tree](/Collections/tree.md#binary-tree) > [Recursion](/Collections/tree.md#recursion)
+* [Averaging from total and count](/Collections/averaging-from-total-and-count.md#averaging-from-total-and-count)

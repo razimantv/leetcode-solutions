@@ -25,5 +25,5 @@ class Solution:
 ```
 ## Tags
 
-* [Dynamic programming](/README.md#Dynamic_programming)
-* [Mathematics](/README.md#Mathematics) > [Number theory](/README.md#Mathematics-Number_theory) > [Basic](/README.md#Mathematics-Number_theory-Basic)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Number theory](/Collections/mathematics.md#number-theory) > [Basic](/Collections/mathematics.md#basic)

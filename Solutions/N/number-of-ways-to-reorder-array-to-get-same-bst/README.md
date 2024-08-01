@@ -54,7 +54,7 @@ class Solution {
 ```
 ## Tags
 
-* [Tree](/README.md#Tree) > [Binary search tree](/README.md#Tree-Binary_search_tree)
-* [Tree](/README.md#Tree) > [Binary tree](/README.md#Tree-Binary_tree) > [Recursion](/README.md#Tree-Binary_tree-Recursion)
-* [Dynamic programming](/README.md#Dynamic_programming)
-* [Mathematics](/README.md#Mathematics) > [Combinatorics](/README.md#Mathematics-Combinatorics)
+* [Tree](/Collections/tree.md#tree) > [Binary search tree](/Collections/tree.md#binary-search-tree)
+* [Tree](/Collections/tree.md#tree) > [Binary tree](/Collections/tree.md#binary-tree) > [Recursion](/Collections/tree.md#recursion)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Combinatorics](/Collections/mathematics.md#combinatorics)

@@ -32,4 +32,4 @@ class Solution {
 ```
 ## Tags
 
-* [Integer operations on strings](/README.md#Integer_operations_on_strings)
+* [Integer operations on strings](/Collections/integer-operations-on-strings.md#integer-operations-on-strings)

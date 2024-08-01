@@ -38,6 +38,6 @@ class Solution {
 ```
 ## Tags
 
-* [Sorting](/README.md#Sorting) > [Index array](/README.md#Sorting-Index_array)
-* [Dynamic programming](/README.md#Dynamic_programming) > [Array reuse](/README.md#Dynamic_programming-Array_reuse)
-* [Greedy](/README.md#Greedy)
+* [Sorting](/Collections/sorting.md#sorting) > [Index array](/Collections/sorting.md#index-array)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming) > [Array reuse](/Collections/dynamic-programming.md#array-reuse)
+* [Greedy](/Collections/greedy.md#greedy)

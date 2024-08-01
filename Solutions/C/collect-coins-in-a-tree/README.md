@@ -63,5 +63,5 @@ class Solution {
 ```
 ## Tags
 
-* [Graph theory](/README.md#Graph_theory) > [Degree counting](/README.md#Graph_theory-Degree_counting)
-* [Graph theory](/README.md#Graph_theory) > [Iterative leaf removal](/README.md#Graph_theory-Iterative_leaf_removal)
+* [Graph theory](/Collections/graph-theory.md#graph-theory) > [Degree counting](/Collections/graph-theory.md#degree-counting)
+* [Graph theory](/Collections/graph-theory.md#graph-theory) > [Iterative leaf removal](/Collections/graph-theory.md#iterative-leaf-removal)

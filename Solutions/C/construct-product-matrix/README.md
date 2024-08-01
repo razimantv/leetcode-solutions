@@ -46,6 +46,6 @@ class Solution:
 ```
 ## Tags
 
-* [Prefix](/README.md#Prefix) > [Sum](/README.md#Prefix-Sum) > [2D](/README.md#Prefix-Sum-2D)
-* [Matrix](/README.md#Matrix) > [Prefix](/README.md#Matrix-Prefix)
-* [Array scanning](/README.md#Array_scanning) > [From both ends of array](/README.md#Array_scanning-From_both_ends_of_array) > [Element exclusion](/README.md#Array_scanning-From_both_ends_of_array-Element_exclusion)
+* [Prefix](/Collections/prefix.md#prefix) > [Sum](/Collections/prefix.md#sum) > [2D](/Collections/prefix.md#2d)
+* [Matrix](/Collections/matrix.md#matrix) > [Prefix](/Collections/matrix.md#prefix)
+* [Array scanning](/Collections/array-scanning.md#array-scanning) > [From both ends of array](/Collections/array-scanning.md#from-both-ends-of-array) > [Element exclusion](/Collections/array-scanning.md#element-exclusion)

@@ -25,4 +25,4 @@ class Solution {
 ```
 ## Tags
 
-* [Intervals](/README.md#Intervals) > [Union](/README.md#Intervals-Union)
+* [Intervals](/Collections/intervals.md#intervals) > [Union](/Collections/intervals.md#union)

@@ -27,5 +27,5 @@ class Solution {
 ```
 ## Tags
 
-* [Matrix](/README.md#Matrix) > [Path](/README.md#Matrix-Path)
-* [Dynamic programming](/README.md#Dynamic_programming) > [Grid](/README.md#Dynamic_programming-Grid)
+* [Matrix](/Collections/matrix.md#matrix) > [Path](/Collections/matrix.md#path)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming) > [Grid](/Collections/dynamic-programming.md#grid)

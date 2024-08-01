@@ -69,6 +69,6 @@ class Solution {
 ```
 ## Tags
 
-* [Graph theory](/README.md#Graph_theory) > [Breadth first search](/README.md#Graph_theory-Breadth_first_search)
-* [Graph theory](/README.md#Graph_theory) > [Multi source search](/README.md#Graph_theory-Multi_source_search)
-* [Disjoint set union](/README.md#Disjoint_set_union)
+* [Graph theory](/Collections/graph-theory.md#graph-theory) > [Breadth first search](/Collections/graph-theory.md#breadth-first-search)
+* [Graph theory](/Collections/graph-theory.md#graph-theory) > [Multi source search](/Collections/graph-theory.md#multi-source-search)
+* [Disjoint set union](/Collections/disjoint-set-union.md#disjoint-set-union)

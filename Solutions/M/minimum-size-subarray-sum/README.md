@@ -35,5 +35,5 @@ class Solution {
 ```
 ## Tags
 
-* [ChatGPT](/README.md#ChatGPT)
-* [Sliding window](/README.md#Sliding_window)
+* [ChatGPT](/Collections/chatgpt.md#chatgpt)
+* [Sliding window](/Collections/sliding-window.md#sliding-window)

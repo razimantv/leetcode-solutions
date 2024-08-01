@@ -21,4 +21,4 @@ class Solution {
 ```
 ## Tags
 
-* [String](/README.md#String) > [Parsing](/README.md#String-Parsing)
+* [String](/Collections/string.md#string) > [Parsing](/Collections/string.md#parsing)

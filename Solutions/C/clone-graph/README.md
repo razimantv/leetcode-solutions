@@ -54,5 +54,5 @@ class Solution {
 ```
 ## Tags
 
-* [Hashmap](/README.md#Hashmap)
-* [Pointers](/README.md#Pointers)
+* [Hashmap](/Collections/hashmap.md#hashmap)
+* [Pointers](/Collections/pointers.md#pointers)

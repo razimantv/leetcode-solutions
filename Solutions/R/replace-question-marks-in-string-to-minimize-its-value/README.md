@@ -48,6 +48,6 @@ class Solution:
 ```
 ## Tags
 
-* [Hashmap](/README.md#Hashmap) > [Counter](/README.md#Hashmap-Counter)
-* [Greedy](/README.md#Greedy)
-* [Mathematics](/README.md#Mathematics) > [Basic](/README.md#Mathematics-Basic)
+* [Hashmap](/Collections/hashmap.md#hashmap) > [Counter](/Collections/hashmap.md#counter)
+* [Greedy](/Collections/greedy.md#greedy)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Basic](/Collections/mathematics.md#basic)

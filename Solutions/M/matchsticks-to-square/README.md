@@ -47,5 +47,5 @@ class Solution {
 ```
 ## Tags
 
-* [Brute force enumeration](/README.md#Brute_force_enumeration) > [Combinatorial](/README.md#Brute_force_enumeration-Combinatorial)
-* [Meet in the middle](/README.md#Meet_in_the_middle)
+* [Brute force enumeration](/Collections/brute-force-enumeration.md#brute-force-enumeration) > [Combinatorial](/Collections/brute-force-enumeration.md#combinatorial)
+* [Meet in the middle](/Collections/meet-in-the-middle.md#meet-in-the-middle)

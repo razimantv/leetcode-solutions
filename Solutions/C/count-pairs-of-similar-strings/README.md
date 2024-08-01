@@ -27,5 +27,5 @@ class Solution {
 ```
 ## Tags
 
-* [Mathematics](/README.md#Mathematics) > [Combinatorics](/README.md#Mathematics-Combinatorics)
-* [Hashmap](/README.md#Hashmap)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Combinatorics](/Collections/mathematics.md#combinatorics)
+* [Hashmap](/Collections/hashmap.md#hashmap)

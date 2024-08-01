@@ -38,5 +38,5 @@ class Solution:
 ```
 ## Tags
 
-* [Graph theory](/README.md#Graph_theory) > [Depth first search](/README.md#Graph_theory-Depth_first_search) > [Tree diameter](/README.md#Graph_theory-Depth_first_search-Tree_diameter)
-* [Greedy](/README.md#Greedy)
+* [Graph theory](/Collections/graph-theory.md#graph-theory) > [Depth first search](/Collections/graph-theory.md#depth-first-search) > [Tree diameter](/Collections/graph-theory.md#tree-diameter)
+* [Greedy](/Collections/greedy.md#greedy)

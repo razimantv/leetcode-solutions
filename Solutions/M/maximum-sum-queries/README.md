@@ -47,7 +47,7 @@ class Solution {
 ```
 ## Tags
 
-* [Sorting](/README.md#Sorting) > [Index array](/README.md#Sorting-Index_array)
-* [Offline query processing](/README.md#Offline_query_processing)
-* [Binary search](/README.md#Binary_search) > [C++ set](/README.md#Binary_search-C___set)
-* [Stack](/README.md#Stack) > [Monotonic stack](/README.md#Stack-Monotonic_stack)
+* [Sorting](/Collections/sorting.md#sorting) > [Index array](/Collections/sorting.md#index-array)
+* [Offline query processing](/Collections/offline-query-processing.md#offline-query-processing)
+* [Binary search](/Collections/binary-search.md#binary-search) > [C++ set](/Collections/binary-search.md#c---set)
+* [Stack](/Collections/stack.md#stack) > [Monotonic stack](/Collections/stack.md#monotonic-stack)

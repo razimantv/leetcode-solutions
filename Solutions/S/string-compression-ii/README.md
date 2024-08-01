@@ -48,6 +48,6 @@ class Solution {
 ```
 ## Tags
 
-* [Bitwise operation](/README.md#Bitwise_operation)
-* [Dynamic programming](/README.md#Dynamic_programming) > [Array reuse](/README.md#Dynamic_programming-Array_reuse)
-* [Dynamic programming](/README.md#Dynamic_programming) > [Partial bottom-up](/README.md#Dynamic_programming-Partial_bottom_up)
+* [Bitwise operation](/Collections/bitwise-operation.md#bitwise-operation)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming) > [Array reuse](/Collections/dynamic-programming.md#array-reuse)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming) > [Partial bottom-up](/Collections/dynamic-programming.md#partial-bottom-up)

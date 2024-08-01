@@ -30,5 +30,5 @@ class Solution:
 ```
 ## Tags
 
-* [Sliding window](/README.md#Sliding_window)
-* [Priority queue](/README.md#Priority_queue)
+* [Sliding window](/Collections/sliding-window.md#sliding-window)
+* [Priority queue](/Collections/priority-queue.md#priority-queue)

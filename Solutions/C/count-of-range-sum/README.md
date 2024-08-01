@@ -58,5 +58,5 @@ class Solution {
 ```
 ## Tags
 
-* [Segment tree](/README.md#Segment_tree)
-* [Binary search](/README.md#Binary_search) > [C++ set](/README.md#Binary_search-C___set)
+* [Segment tree](/Collections/segment-tree.md#segment-tree)
+* [Binary search](/Collections/binary-search.md#binary-search) > [C++ set](/Collections/binary-search.md#c---set)

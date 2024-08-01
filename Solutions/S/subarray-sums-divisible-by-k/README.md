@@ -22,6 +22,6 @@ public:
 ```
 ## Tags
 
-* [Hashmap](/README.md#Hashmap)
-* [Prefix](/README.md#Prefix) > [Sum](/README.md#Prefix-Sum)
-* [Mathematics](/README.md#Mathematics) > [Number theory](/README.md#Mathematics-Number_theory) > [Basic](/README.md#Mathematics-Number_theory-Basic)
+* [Hashmap](/Collections/hashmap.md#hashmap)
+* [Prefix](/Collections/prefix.md#prefix) > [Sum](/Collections/prefix.md#sum)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Number theory](/Collections/mathematics.md#number-theory) > [Basic](/Collections/mathematics.md#basic)

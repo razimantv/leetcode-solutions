@@ -54,5 +54,5 @@ class Solution {
 ```
 ## Tags
 
-* [Bitwise operation](/README.md#Bitwise_operation) > [Build result bit-by-bit](/README.md#Bitwise_operation-Build_result_bit_by_bit)
-* [Brute force enumeration](/README.md#Brute_force_enumeration) > [Elementwise processing using a vector](/README.md#Brute_force_enumeration-Elementwise_processing_using_a_vector)
+* [Bitwise operation](/Collections/bitwise-operation.md#bitwise-operation) > [Build result bit-by-bit](/Collections/bitwise-operation.md#build-result-bit-by-bit)
+* [Brute force enumeration](/Collections/brute-force-enumeration.md#brute-force-enumeration) > [Elementwise processing using a vector](/Collections/brute-force-enumeration.md#elementwise-processing-using-a-vector)

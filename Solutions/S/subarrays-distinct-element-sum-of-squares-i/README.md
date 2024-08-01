@@ -74,5 +74,5 @@ class Solution:
 ```
 ## Tags
 
-* [Segment tree](/README.md#Segment_tree) > [Lazy propagation](/README.md#Segment_tree-Lazy_propagation)
-* [Array scanning](/README.md#Array_scanning) > [Location of previous element with same value](/README.md#Array_scanning-Location_of_previous_element_with_same_value)
+* [Segment tree](/Collections/segment-tree.md#segment-tree) > [Lazy propagation](/Collections/segment-tree.md#lazy-propagation)
+* [Array scanning](/Collections/array-scanning.md#array-scanning) > [Location of previous element with same value](/Collections/array-scanning.md#location-of-previous-element-with-same-value)

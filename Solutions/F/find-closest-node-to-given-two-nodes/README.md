@@ -30,5 +30,5 @@ class Solution {
 ```
 ## Tags
 
-* [Graph theory](/README.md#Graph_theory) > [Single outdegree graphs](/README.md#Graph_theory-Single_outdegree_graphs)
-* [Graph theory](/README.md#Graph_theory) > [Cycle detection](/README.md#Graph_theory-Cycle_detection)
+* [Graph theory](/Collections/graph-theory.md#graph-theory) > [Single outdegree graphs](/Collections/graph-theory.md#single-outdegree-graphs)
+* [Graph theory](/Collections/graph-theory.md#graph-theory) > [Cycle detection](/Collections/graph-theory.md#cycle-detection)

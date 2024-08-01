@@ -24,5 +24,5 @@ class Solution:
 ```
 ## Tags
 
-* [Greedy](/README.md#Greedy)
-* [Two pointers](/README.md#Two_pointers)
+* [Greedy](/Collections/greedy.md#greedy)
+* [Two pointers](/Collections/two-pointers.md#two-pointers)

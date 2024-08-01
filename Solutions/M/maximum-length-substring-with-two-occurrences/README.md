@@ -22,5 +22,5 @@ class Solution:
 ```
 ## Tags
 
-* [Hashmap](/README.md#Hashmap) > [Counter](/README.md#Hashmap-Counter)
-* [Suboptimal solution](/README.md#Suboptimal_solution)
+* [Hashmap](/Collections/hashmap.md#hashmap) > [Counter](/Collections/hashmap.md#counter)
+* [Suboptimal solution](/Collections/suboptimal-solution.md#suboptimal-solution)

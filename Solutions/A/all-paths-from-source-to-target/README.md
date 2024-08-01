@@ -29,5 +29,5 @@ class Solution {
 ```
 ## Tags
 
-* [Backtracking](/README.md#Backtracking)
-* [Graph theory](/README.md#Graph_theory) > [Directed acyclic graph](/README.md#Graph_theory-Directed_acyclic_graph)
+* [Backtracking](/Collections/backtracking.md#backtracking)
+* [Graph theory](/Collections/graph-theory.md#graph-theory) > [Directed acyclic graph](/Collections/graph-theory.md#directed-acyclic-graph)

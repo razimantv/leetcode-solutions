@@ -28,4 +28,4 @@ class Solution {
 ```
 ## Tags
 
-* [Permutation](/README.md#Permutation) > [Swaps](/README.md#Permutation-Swaps)
+* [Permutation](/Collections/permutation.md#permutation) > [Swaps](/Collections/permutation.md#swaps)

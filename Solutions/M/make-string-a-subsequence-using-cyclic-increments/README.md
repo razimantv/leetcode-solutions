@@ -22,5 +22,5 @@ class Solution {
 ```
 ## Tags
 
-* [Greedy](/README.md#Greedy)
-* [String](/README.md#String) > [Subsequence](/README.md#String-Subsequence)
+* [Greedy](/Collections/greedy.md#greedy)
+* [String](/Collections/string.md#string) > [Subsequence](/Collections/string.md#subsequence)

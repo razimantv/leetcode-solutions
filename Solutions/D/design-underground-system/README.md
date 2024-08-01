@@ -48,6 +48,6 @@ class UndergroundSystem {
 ```
 ## Tags
 
-* [Averaging from total and count](/README.md#Averaging_from_total_and_count)
-* [Hashmap](/README.md#Hashmap) > [Coordinate compression](/README.md#Hashmap-Coordinate_compression)
-* [Design data structure](/README.md#Design_data_structure)
+* [Averaging from total and count](/Collections/averaging-from-total-and-count.md#averaging-from-total-and-count)
+* [Hashmap](/Collections/hashmap.md#hashmap) > [Coordinate compression](/Collections/hashmap.md#coordinate-compression)
+* [Design data structure](/Collections/design-data-structure.md#design-data-structure)

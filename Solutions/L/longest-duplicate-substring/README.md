@@ -62,5 +62,5 @@ class Solution {
 ```
 ## Tags
 
-* [Sliding window](/README.md#Sliding_window)
-* [String](/README.md#String) > [Search](/README.md#String-Search) > [Hashing](/README.md#String-Search-Hashing)
+* [Sliding window](/Collections/sliding-window.md#sliding-window)
+* [String](/Collections/string.md#string) > [Search](/Collections/string.md#search) > [Hashing](/Collections/string.md#hashing)

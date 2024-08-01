@@ -25,5 +25,5 @@ class Solution {
 ```
 ## Tags
 
-* [Array scanning](/README.md#Array_scanning)
-* [Simple implementation](/README.md#Simple_implementation)
+* [Array scanning](/Collections/array-scanning.md#array-scanning)
+* [Simple implementation](/Collections/simple-implementation.md#simple-implementation)

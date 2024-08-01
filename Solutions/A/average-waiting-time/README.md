@@ -19,4 +19,4 @@ class Solution:
 ```
 ## Tags
 
-* [Averaging from total and count](/README.md#Averaging_from_total_and_count)
+* [Averaging from total and count](/Collections/averaging-from-total-and-count.md#averaging-from-total-and-count)

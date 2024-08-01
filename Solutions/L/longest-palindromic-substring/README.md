@@ -70,5 +70,5 @@ class Solution:
 ```
 ## Tags
 
-* [Palindrome](/README.md#Palindrome) > [Hashing](/README.md#Palindrome-Hashing)
-* [Binary search](/README.md#Binary_search)
+* [Palindrome](/Collections/palindrome.md#palindrome) > [Hashing](/Collections/palindrome.md#hashing)
+* [Binary search](/Collections/binary-search.md#binary-search)

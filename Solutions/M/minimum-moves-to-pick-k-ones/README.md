@@ -28,5 +28,5 @@ class Solution:
 ```
 ## Tags
 
-* [Prefix](/README.md#Prefix) > [Sum](/README.md#Prefix-Sum)
-* [Sliding window](/README.md#Sliding_window)
+* [Prefix](/Collections/prefix.md#prefix) > [Sum](/Collections/prefix.md#sum)
+* [Sliding window](/Collections/sliding-window.md#sliding-window)

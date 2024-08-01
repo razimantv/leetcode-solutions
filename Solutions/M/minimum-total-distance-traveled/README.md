@@ -35,5 +35,5 @@ class Solution {
 ```
 ## Tags
 
-* [Greedy](/README.md#Greedy)
-* [Dynamic programming](/README.md#Dynamic_programming) > [Array reuse](/README.md#Dynamic_programming-Array_reuse)
+* [Greedy](/Collections/greedy.md#greedy)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming) > [Array reuse](/Collections/dynamic-programming.md#array-reuse)

@@ -62,6 +62,6 @@ public:
 ```
 ## Tags
 
-* [Graph theory](/README.md#Graph_theory) > [Breadth first search](/README.md#Graph_theory-Breadth_first_search)
-* [Graph theory](/README.md#Graph_theory) > [Addition of auxiliary vertices](/README.md#Graph_theory-Addition_of_auxiliary_vertices)
-* [Bitwise operation](/README.md#Bitwise_operation)
+* [Graph theory](/Collections/graph-theory.md#graph-theory) > [Breadth first search](/Collections/graph-theory.md#breadth-first-search)
+* [Graph theory](/Collections/graph-theory.md#graph-theory) > [Addition of auxiliary vertices](/Collections/graph-theory.md#addition-of-auxiliary-vertices)
+* [Bitwise operation](/Collections/bitwise-operation.md#bitwise-operation)

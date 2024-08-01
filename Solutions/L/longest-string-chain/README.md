@@ -34,5 +34,5 @@ class Solution {
 ```
 ## Tags
 
-* [Sorting](/README.md#Sorting) > [Custom](/README.md#Sorting-Custom)
-* [Dynamic programming](/README.md#Dynamic_programming)
+* [Sorting](/Collections/sorting.md#sorting) > [Custom](/Collections/sorting.md#custom)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming)

@@ -23,5 +23,5 @@ class Solution:
 ```
 ## Tags
 
-* [Greedy](/README.md#Greedy)
-* [Sliding window](/README.md#Sliding_window)
+* [Greedy](/Collections/greedy.md#greedy)
+* [Sliding window](/Collections/sliding-window.md#sliding-window)

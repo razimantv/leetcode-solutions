@@ -38,5 +38,5 @@ class Solution {
 ```
 ## Tags
 
-* [Dynamic programming](/README.md#Dynamic_programming) > [Knapsack](/README.md#Dynamic_programming-Knapsack)
-* [Mathematics](/README.md#Mathematics) > [Combinatorics](/README.md#Mathematics-Combinatorics)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming) > [Knapsack](/Collections/dynamic-programming.md#knapsack)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Combinatorics](/Collections/mathematics.md#combinatorics)

@@ -42,5 +42,5 @@ class Solution {
 ```
 ## Tags
 
-* [Sorting](/README.md#Sorting) > [Merge sort](/README.md#Sorting-Merge_sort)
-* [Linked list](/README.md#Linked_list) > [Iteration](/README.md#Linked_list-Iteration)
+* [Sorting](/Collections/sorting.md#sorting) > [Merge sort](/Collections/sorting.md#merge-sort)
+* [Linked list](/Collections/linked-list.md#linked-list) > [Iteration](/Collections/linked-list.md#iteration)

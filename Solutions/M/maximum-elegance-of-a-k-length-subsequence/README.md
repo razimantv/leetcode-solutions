@@ -49,5 +49,5 @@ class Solution {
 ```
 ## Tags
 
-* [Sorting](/README.md#Sorting) > [Index array](/README.md#Sorting-Index_array)
-* [Priority queue](/README.md#Priority_queue) > [K smallest/largest elements](/README.md#Priority_queue-K_smallest_largest_elements)
+* [Sorting](/Collections/sorting.md#sorting) > [Index array](/Collections/sorting.md#index-array)
+* [Priority queue](/Collections/priority-queue.md#priority-queue) > [K smallest/largest elements](/Collections/priority-queue.md#k-smallest-largest-elements)

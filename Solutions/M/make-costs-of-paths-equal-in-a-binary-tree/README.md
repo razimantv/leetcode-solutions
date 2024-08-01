@@ -24,5 +24,5 @@ class Solution {
 ```
 ## Tags
 
-* [Tree](/README.md#Tree) > [Binary tree](/README.md#Tree-Binary_tree) > [Iteration](/README.md#Tree-Binary_tree-Iteration)
-* [Greedy](/README.md#Greedy)
+* [Tree](/Collections/tree.md#tree) > [Binary tree](/Collections/tree.md#binary-tree) > [Iteration](/Collections/tree.md#iteration)
+* [Greedy](/Collections/greedy.md#greedy)

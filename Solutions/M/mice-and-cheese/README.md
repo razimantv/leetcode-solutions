@@ -21,5 +21,5 @@ class Solution {
 ```
 ## Tags
 
-* [Greedy](/README.md#Greedy)
-* [Sorting](/README.md#Sorting) > [Partial](/README.md#Sorting-Partial)
+* [Greedy](/Collections/greedy.md#greedy)
+* [Sorting](/Collections/sorting.md#sorting) > [Partial](/Collections/sorting.md#partial)

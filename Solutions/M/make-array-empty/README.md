@@ -60,5 +60,5 @@ class Solution {
 ```
 ## Tags
 
-* [Segment tree](/README.md#Segment_tree)
-* [Sorting](/README.md#Sorting) > [Index array](/README.md#Sorting-Index_array)
+* [Segment tree](/Collections/segment-tree.md#segment-tree)
+* [Sorting](/Collections/sorting.md#sorting) > [Index array](/Collections/sorting.md#index-array)

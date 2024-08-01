@@ -36,5 +36,5 @@ class RecentCounter {
 ```
 ## Tags
 
-* [Queue](/README.md#Queue)
-* [Design data structure](/README.md#Design_data_structure)
+* [Queue](/Collections/queue.md#queue)
+* [Design data structure](/Collections/design-data-structure.md#design-data-structure)

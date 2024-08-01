@@ -33,8 +33,8 @@ class Solution {
 ```
 ## Tags
 
-* [Design data structure](/README.md#Design_data_structure)
-* [Mathematics](/README.md#Mathematics) > [Probability](/README.md#Mathematics-Probability)
-* [Binary search](/README.md#Binary_search) > [Prefix sum](/README.md#Binary_search-Prefix_sum)
-* [Binary search](/README.md#Binary_search) > [C++ set](/README.md#Binary_search-C___set)
-* [Prefix](/README.md#Prefix) > [Sum](/README.md#Prefix-Sum)
+* [Design data structure](/Collections/design-data-structure.md#design-data-structure)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Probability](/Collections/mathematics.md#probability)
+* [Binary search](/Collections/binary-search.md#binary-search) > [Prefix sum](/Collections/binary-search.md#prefix-sum)
+* [Binary search](/Collections/binary-search.md#binary-search) > [C++ set](/Collections/binary-search.md#c---set)
+* [Prefix](/Collections/prefix.md#prefix) > [Sum](/Collections/prefix.md#sum)

@@ -24,5 +24,5 @@ class Solution {
 ```
 ## Tags
 
-* [Greedy](/README.md#Greedy)
-* [Mathematics](/README.md#Mathematics)
+* [Greedy](/Collections/greedy.md#greedy)
+* [Mathematics](/Collections/mathematics.md#mathematics)

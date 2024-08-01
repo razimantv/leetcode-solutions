@@ -43,5 +43,5 @@ class Solution {
 ```
 ## Tags
 
-* [Sorting](/README.md#Sorting) > [Remembering index](/README.md#Sorting-Remembering_index)
-* [Disjoint set union](/README.md#Disjoint_set_union)
+* [Sorting](/Collections/sorting.md#sorting) > [Remembering index](/Collections/sorting.md#remembering-index)
+* [Disjoint set union](/Collections/disjoint-set-union.md#disjoint-set-union)

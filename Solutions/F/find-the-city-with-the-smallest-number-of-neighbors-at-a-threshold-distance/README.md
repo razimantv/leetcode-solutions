@@ -33,4 +33,4 @@ class Solution:
 ```
 ## Tags
 
-* [Graph theory](/README.md#Graph_theory) > [Floyd-Warshall algorithm](/README.md#Graph_theory-Floyd_Warshall_algorithm)
+* [Graph theory](/Collections/graph-theory.md#graph-theory) > [Floyd-Warshall algorithm](/Collections/graph-theory.md#floyd-warshall-algorithm)

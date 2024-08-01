@@ -29,7 +29,7 @@ class Solution:
 ```
 ## Tags
 
-* [Array scanning](/README.md#Array_scanning) > [From both ends of array](/README.md#Array_scanning-From_both_ends_of_array)
-* [Prefix](/README.md#Prefix) > [Bitwise operation](/README.md#Prefix-Bitwise_operation)
-* [Bitwise operation](/README.md#Bitwise_operation)
-* [Palindrome](/README.md#Palindrome)
+* [Array scanning](/Collections/array-scanning.md#array-scanning) > [From both ends of array](/Collections/array-scanning.md#from-both-ends-of-array)
+* [Prefix](/Collections/prefix.md#prefix) > [Bitwise operation](/Collections/prefix.md#bitwise-operation)
+* [Bitwise operation](/Collections/bitwise-operation.md#bitwise-operation)
+* [Palindrome](/Collections/palindrome.md#palindrome)

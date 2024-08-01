@@ -27,5 +27,5 @@ class Solution {
 ```
 ## Tags
 
-* [Matrix](/README.md#Matrix) > [Geometric transformation](/README.md#Matrix-Geometric_transformation)
-* [Hashmap](/README.md#Hashmap)
+* [Matrix](/Collections/matrix.md#matrix) > [Geometric transformation](/Collections/matrix.md#geometric-transformation)
+* [Hashmap](/Collections/hashmap.md#hashmap)

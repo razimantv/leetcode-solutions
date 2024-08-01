@@ -39,5 +39,5 @@ class Solution {
 ```
 ## Tags
 
-* [String](/README.md#String) > [Parsing](/README.md#String-Parsing)
-* [Hashmap](/README.md#Hashmap)
+* [String](/Collections/string.md#string) > [Parsing](/Collections/string.md#parsing)
+* [Hashmap](/Collections/hashmap.md#hashmap)

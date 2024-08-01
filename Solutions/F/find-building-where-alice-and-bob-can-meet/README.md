@@ -41,6 +41,6 @@ class Solution:
 ```
 ## Tags
 
-* [Stack](/README.md#Stack) > [Monotonic stack](/README.md#Stack-Monotonic_stack)
-* [Binary search](/README.md#Binary_search)
-* [Offline query processing](/README.md#Offline_query_processing)
+* [Stack](/Collections/stack.md#stack) > [Monotonic stack](/Collections/stack.md#monotonic-stack)
+* [Binary search](/Collections/binary-search.md#binary-search)
+* [Offline query processing](/Collections/offline-query-processing.md#offline-query-processing)

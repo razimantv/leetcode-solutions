@@ -45,5 +45,5 @@ class Solution:
 ```
 ## Tags
 
-* [String](/README.md#String) > [Search](/README.md#String-Search) > [Hashing](/README.md#String-Search-Hashing)
-* [Sliding window](/README.md#Sliding_window) > [String hashing](/README.md#Sliding_window-String_hashing)
+* [String](/Collections/string.md#string) > [Search](/Collections/string.md#search) > [Hashing](/Collections/string.md#hashing)
+* [Sliding window](/Collections/sliding-window.md#sliding-window) > [String hashing](/Collections/sliding-window.md#string-hashing)

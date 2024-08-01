@@ -34,5 +34,5 @@ class SnapshotArray {
 ```
 ## Tags
 
-* [Design data structure](/README.md#Design_data_structure) > [Persistent](/README.md#Design_data_structure-Persistent)
-* [Binary search](/README.md#Binary_search) > [C++ set](/README.md#Binary_search-C___set)
+* [Design data structure](/Collections/design-data-structure.md#design-data-structure) > [Persistent](/Collections/design-data-structure.md#persistent)
+* [Binary search](/Collections/binary-search.md#binary-search) > [C++ set](/Collections/binary-search.md#c---set)

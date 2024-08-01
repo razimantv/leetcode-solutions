@@ -25,5 +25,5 @@ class Solution:
 ```
 ## Tags
 
-* [Prefix](/README.md#Prefix) > [Sum](/README.md#Prefix-Sum) > [Valid brackets](/README.md#Prefix-Sum-Valid_brackets)
-* [String](/README.md#String) > [Parsing](/README.md#String-Parsing) > [Recursive](/README.md#String-Parsing-Recursive)
+* [Prefix](/Collections/prefix.md#prefix) > [Sum](/Collections/prefix.md#sum) > [Valid brackets](/Collections/prefix.md#valid-brackets)
+* [String](/Collections/string.md#string) > [Parsing](/Collections/string.md#parsing) > [Recursive](/Collections/string.md#recursive)

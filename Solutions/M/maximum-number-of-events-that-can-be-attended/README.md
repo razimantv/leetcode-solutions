@@ -36,5 +36,5 @@ class Solution {
 ```
 ## Tags
 
-* [Intervals](/README.md#Intervals)
-* [Priority queue](/README.md#Priority_queue)
+* [Intervals](/Collections/intervals.md#intervals)
+* [Priority queue](/Collections/priority-queue.md#priority-queue)

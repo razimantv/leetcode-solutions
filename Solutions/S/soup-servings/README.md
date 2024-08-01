@@ -36,6 +36,6 @@ class Solution {
 ```
 ## Tags
 
-* [Dynamic programming](/README.md#Dynamic_programming)
-* [Mathematics](/README.md#Mathematics) > [Reduce problem dimension with proofs](/README.md#Mathematics-Reduce_problem_dimension_with_proofs)
-* [Mathematics](/README.md#Mathematics) > [Probability](/README.md#Mathematics-Probability)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Reduce problem dimension with proofs](/Collections/mathematics.md#reduce-problem-dimension-with-proofs)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Probability](/Collections/mathematics.md#probability)

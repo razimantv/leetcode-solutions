@@ -39,6 +39,6 @@ class Solution:
 ```
 ## Tags
 
-* [Binary search](/README.md#Binary_search)
-* [Greedy](/README.md#Greedy)
-* [Array scanning](/README.md#Array_scanning) > [Contiguous region](/README.md#Array_scanning-Contiguous_region)
+* [Binary search](/Collections/binary-search.md#binary-search)
+* [Greedy](/Collections/greedy.md#greedy)
+* [Array scanning](/Collections/array-scanning.md#array-scanning) > [Contiguous region](/Collections/array-scanning.md#contiguous-region)

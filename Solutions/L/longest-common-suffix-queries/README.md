@@ -37,5 +37,5 @@ class Solution:
 ```
 ## Tags
 
-* [Trie](/README.md#Trie)
-* [String](/README.md#String) > [Search](/README.md#String-Search) > [Trie](/README.md#String-Search-Trie)
+* [Trie](/Collections/trie.md#trie)
+* [String](/Collections/string.md#string) > [Search](/Collections/string.md#search) > [Trie](/Collections/string.md#trie)

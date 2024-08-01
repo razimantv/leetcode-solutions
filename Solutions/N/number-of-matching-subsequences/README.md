@@ -35,6 +35,6 @@ class Solution {
 ```
 ## Tags
 
-* [String](/README.md#String) > [Subsequence](/README.md#String-Subsequence)
-* [Greedy](/README.md#Greedy)
-* [Process multiple vectors together](/README.md#Process_multiple_vectors_together)
+* [String](/Collections/string.md#string) > [Subsequence](/Collections/string.md#subsequence)
+* [Greedy](/Collections/greedy.md#greedy)
+* [Process multiple vectors together](/Collections/process-multiple-vectors-together.md#process-multiple-vectors-together)

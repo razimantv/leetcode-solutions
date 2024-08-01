@@ -32,5 +32,5 @@ class Solution {
 ```
 ## Tags
 
-* [Mathematics](/README.md#Mathematics) > [Number theory](/README.md#Mathematics-Number_theory) > [Basic](/README.md#Mathematics-Number_theory-Basic)
-* [Search by iterative bound improvement](/README.md#Search_by_iterative_bound_improvement)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Number theory](/Collections/mathematics.md#number-theory) > [Basic](/Collections/mathematics.md#basic)
+* [Search by iterative bound improvement](/Collections/search-by-iterative-bound-improvement.md#search-by-iterative-bound-improvement)

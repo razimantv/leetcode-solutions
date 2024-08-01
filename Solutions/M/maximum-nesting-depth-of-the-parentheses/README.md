@@ -19,4 +19,4 @@ class Solution:
 ```
 ## Tags
 
-* [Prefix](/README.md#Prefix) > [Sum](/README.md#Prefix-Sum) > [Valid brackets](/README.md#Prefix-Sum-Valid_brackets)
+* [Prefix](/Collections/prefix.md#prefix) > [Sum](/Collections/prefix.md#sum) > [Valid brackets](/Collections/prefix.md#valid-brackets)

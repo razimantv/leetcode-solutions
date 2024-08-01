@@ -26,5 +26,5 @@ class Solution {
 ```
 ## Tags
 
-* [Hashmap](/README.md#Hashmap)
-* [Prefix](/README.md#Prefix) > [Sum](/README.md#Prefix-Sum)
+* [Hashmap](/Collections/hashmap.md#hashmap)
+* [Prefix](/Collections/prefix.md#prefix) > [Sum](/Collections/prefix.md#sum)

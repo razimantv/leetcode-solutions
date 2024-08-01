@@ -15,4 +15,4 @@ class Solution:
 ```
 ## Tags
 
-* [Sorting](/README.md#Sorting)
+* [Sorting](/Collections/sorting.md#sorting)

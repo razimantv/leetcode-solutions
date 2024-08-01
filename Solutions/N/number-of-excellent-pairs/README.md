@@ -27,5 +27,5 @@ class Solution {
 ```
 ## Tags
 
-* [Bitwise operation](/README.md#Bitwise_operation)
-* [Hashmap](/README.md#Hashmap)
+* [Bitwise operation](/Collections/bitwise-operation.md#bitwise-operation)
+* [Hashmap](/Collections/hashmap.md#hashmap)

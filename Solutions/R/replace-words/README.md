@@ -40,4 +40,4 @@ class Solution:
 ```
 ## Tags
 
-* [Trie](/README.md#Trie)
+* [Trie](/Collections/trie.md#trie)

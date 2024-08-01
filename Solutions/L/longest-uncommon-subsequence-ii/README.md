@@ -45,6 +45,6 @@ class Solution {
 ```
 ## Tags
 
-* [Brute force enumeration](/README.md#Brute_force_enumeration) > [Combinatorial](/README.md#Brute_force_enumeration-Combinatorial)
-* [Bitwise operation](/README.md#Bitwise_operation)
-* [String](/README.md#String) > [Subsequence](/README.md#String-Subsequence)
+* [Brute force enumeration](/Collections/brute-force-enumeration.md#brute-force-enumeration) > [Combinatorial](/Collections/brute-force-enumeration.md#combinatorial)
+* [Bitwise operation](/Collections/bitwise-operation.md#bitwise-operation)
+* [String](/Collections/string.md#string) > [Subsequence](/Collections/string.md#subsequence)

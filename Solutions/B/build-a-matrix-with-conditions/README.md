@@ -46,5 +46,5 @@ class Solution {
 ```
 ## Tags
 
-* [Graph theory](/README.md#Graph_theory) > [Topological sort](/README.md#Graph_theory-Topological_sort)
-* [Permutation](/README.md#Permutation) > [Inverse](/README.md#Permutation-Inverse)
+* [Graph theory](/Collections/graph-theory.md#graph-theory) > [Topological sort](/Collections/graph-theory.md#topological-sort)
+* [Permutation](/Collections/permutation.md#permutation) > [Inverse](/Collections/permutation.md#inverse)

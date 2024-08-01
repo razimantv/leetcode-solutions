@@ -26,5 +26,5 @@ class Solution:
 ```
 ## Tags
 
-* [Hashmap](/README.md#Hashmap)
-* [Linked list](/README.md#Linked_list) > [Recursion](/README.md#Linked_list-Recursion)
+* [Hashmap](/Collections/hashmap.md#hashmap)
+* [Linked list](/Collections/linked-list.md#linked-list) > [Recursion](/Collections/linked-list.md#recursion)

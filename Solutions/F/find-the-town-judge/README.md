@@ -28,5 +28,5 @@ class Solution {
 ```
 ## Tags
 
-* [Simple implementation](/README.md#Simple_implementation)
-* [Graph theory](/README.md#Graph_theory) > [Degree counting](/README.md#Graph_theory-Degree_counting)
+* [Simple implementation](/Collections/simple-implementation.md#simple-implementation)
+* [Graph theory](/Collections/graph-theory.md#graph-theory) > [Degree counting](/Collections/graph-theory.md#degree-counting)

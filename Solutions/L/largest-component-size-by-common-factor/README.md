@@ -48,5 +48,5 @@ class Solution {
 ```
 ## Tags
 
-* [Disjoint set union](/README.md#Disjoint_set_union)
-* [Mathematics](/README.md#Mathematics) > [Number theory](/README.md#Mathematics-Number_theory) > [Prime sieving](/README.md#Mathematics-Number_theory-Prime_sieving)
+* [Disjoint set union](/Collections/disjoint-set-union.md#disjoint-set-union)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Number theory](/Collections/mathematics.md#number-theory) > [Prime sieving](/Collections/mathematics.md#prime-sieving)

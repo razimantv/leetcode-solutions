@@ -26,5 +26,5 @@ class Solution:
 ```
 ## Tags
 
-* [Hashmap](/README.md#Hashmap)
-* [Array scanning](/README.md#Array_scanning)
+* [Hashmap](/Collections/hashmap.md#hashmap)
+* [Array scanning](/Collections/array-scanning.md#array-scanning)

@@ -21,5 +21,5 @@ class Solution:
 ```
 ## Tags
 
-* [Prefix](/README.md#Prefix) > [Bitwise operation](/README.md#Prefix-Bitwise_operation)
-* [Bitwise operation](/README.md#Bitwise_operation) > [Self-inverse property of xor](/README.md#Bitwise_operation-Self_inverse_property_of_xor)
+* [Prefix](/Collections/prefix.md#prefix) > [Bitwise operation](/Collections/prefix.md#bitwise-operation)
+* [Bitwise operation](/Collections/bitwise-operation.md#bitwise-operation) > [Self-inverse property of xor](/Collections/bitwise-operation.md#self-inverse-property-of-xor)

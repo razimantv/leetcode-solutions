@@ -45,7 +45,7 @@ class Solution {
 ```
 ## Tags
 
-* [Offline query processing](/README.md#Offline_query_processing)
-* [Disjoint set union](/README.md#Disjoint_set_union)
-* [Sorting](/README.md#Sorting) > [Custom](/README.md#Sorting-Custom)
-* [Sorting](/README.md#Sorting) > [Index array](/README.md#Sorting-Index_array)
+* [Offline query processing](/Collections/offline-query-processing.md#offline-query-processing)
+* [Disjoint set union](/Collections/disjoint-set-union.md#disjoint-set-union)
+* [Sorting](/Collections/sorting.md#sorting) > [Custom](/Collections/sorting.md#custom)
+* [Sorting](/Collections/sorting.md#sorting) > [Index array](/Collections/sorting.md#index-array)

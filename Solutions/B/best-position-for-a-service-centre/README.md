@@ -33,5 +33,5 @@ class Solution {
 ```
 ## Tags
 
-* [Mathematics](/README.md#Mathematics) > [Advanced](/README.md#Mathematics-Advanced)
-* [Mathematics](/README.md#Mathematics) > [Geometry](/README.md#Mathematics-Geometry) > [Geometric median](/README.md#Mathematics-Geometry-Geometric_median)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Advanced](/Collections/mathematics.md#advanced)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Geometry](/Collections/mathematics.md#geometry) > [Geometric median](/Collections/mathematics.md#geometric-median)

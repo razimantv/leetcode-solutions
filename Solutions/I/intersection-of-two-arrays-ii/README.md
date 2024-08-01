@@ -23,5 +23,5 @@ class Solution {
 ```
 ## Tags
 
-* [Hashmap](/README.md#Hashmap)
-* [Counting elements in array](/README.md#Counting_elements_in_array)
+* [Hashmap](/Collections/hashmap.md#hashmap)
+* [Counting elements in array](/Collections/counting-elements-in-array.md#counting-elements-in-array)

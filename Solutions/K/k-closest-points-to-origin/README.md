@@ -23,5 +23,5 @@ class Solution {
 ```
 ## Tags
 
-* [Sorting](/README.md#Sorting) > [Custom](/README.md#Sorting-Custom)
-* [Sorting](/README.md#Sorting) > [Partial](/README.md#Sorting-Partial)
+* [Sorting](/Collections/sorting.md#sorting) > [Custom](/Collections/sorting.md#custom)
+* [Sorting](/Collections/sorting.md#sorting) > [Partial](/Collections/sorting.md#partial)

@@ -22,5 +22,5 @@ class Solution {
 ```
 ## Tags
 
-* [Bitwise operation](/README.md#Bitwise_operation)
-* [Suboptimal solution](/README.md#Suboptimal_solution)
+* [Bitwise operation](/Collections/bitwise-operation.md#bitwise-operation)
+* [Suboptimal solution](/Collections/suboptimal-solution.md#suboptimal-solution)

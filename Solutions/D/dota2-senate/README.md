@@ -37,5 +37,5 @@ class Solution {
 ```
 ## Tags
 
-* [Greedy](/README.md#Greedy)
-* [Array scanning](/README.md#Array_scanning)
+* [Greedy](/Collections/greedy.md#greedy)
+* [Array scanning](/Collections/array-scanning.md#array-scanning)

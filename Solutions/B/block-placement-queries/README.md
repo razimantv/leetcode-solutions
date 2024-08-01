@@ -83,5 +83,5 @@ class Solution:
 ```
 ## Tags
 
-* [Segment tree](/README.md#Segment_tree) > [Lazy propagation](/README.md#Segment_tree-Lazy_propagation)
-* [Binary search](/README.md#Binary_search)
+* [Segment tree](/Collections/segment-tree.md#segment-tree) > [Lazy propagation](/Collections/segment-tree.md#lazy-propagation)
+* [Binary search](/Collections/binary-search.md#binary-search)

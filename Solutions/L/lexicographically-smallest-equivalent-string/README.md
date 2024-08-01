@@ -30,4 +30,4 @@ class Solution {
 ```
 ## Tags
 
-* [Disjoint set union](/README.md#Disjoint_set_union)
+* [Disjoint set union](/Collections/disjoint-set-union.md#disjoint-set-union)

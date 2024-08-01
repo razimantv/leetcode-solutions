@@ -39,6 +39,6 @@ class Solution {
 ```
 ## Tags
 
-* [Simple implementation](/README.md#Simple_implementation)
-* [Priority queue](/README.md#Priority_queue) > [K smallest/largest elements](/README.md#Priority_queue-K_smallest_largest_elements)
-* [Matrix](/README.md#Matrix) > [Traversal](/README.md#Matrix-Traversal)
+* [Simple implementation](/Collections/simple-implementation.md#simple-implementation)
+* [Priority queue](/Collections/priority-queue.md#priority-queue) > [K smallest/largest elements](/Collections/priority-queue.md#k-smallest-largest-elements)
+* [Matrix](/Collections/matrix.md#matrix) > [Traversal](/Collections/matrix.md#traversal)

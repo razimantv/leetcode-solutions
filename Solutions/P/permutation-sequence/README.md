@@ -39,5 +39,5 @@ class Solution {
 ```
 ## Tags
 
-* [Permutation](/README.md#Permutation)
-* [Mathematics](/README.md#Mathematics) > [Combinatorics](/README.md#Mathematics-Combinatorics)
+* [Permutation](/Collections/permutation.md#permutation)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Combinatorics](/Collections/mathematics.md#combinatorics)

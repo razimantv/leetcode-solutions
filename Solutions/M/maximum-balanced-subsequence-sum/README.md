@@ -33,6 +33,6 @@ class Solution {
 ```
 ## Tags
 
-* [Binary search](/README.md#Binary_search) > [C++ set](/README.md#Binary_search-C___set)
-* [Dynamic programming](/README.md#Dynamic_programming)
-* [Mathematics](/README.md#Mathematics) > [Expression rearrangement](/README.md#Mathematics-Expression_rearrangement)
+* [Binary search](/Collections/binary-search.md#binary-search) > [C++ set](/Collections/binary-search.md#c---set)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Expression rearrangement](/Collections/mathematics.md#expression-rearrangement)

@@ -39,5 +39,5 @@ class Solution {
 ```
 ## Tags
 
-* [Hashmap](/README.md#Hashmap)
-* [Process in unusual order](/README.md#Process_in_unusual_order)
+* [Hashmap](/Collections/hashmap.md#hashmap)
+* [Process in unusual order](/Collections/process-in-unusual-order.md#process-in-unusual-order)

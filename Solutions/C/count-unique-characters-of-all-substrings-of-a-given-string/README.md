@@ -27,6 +27,6 @@ class Solution {
 ```
 ## Tags
 
-* [Unique elements in subarray](/README.md#Unique_elements_in_subarray)
-* [Array scanning](/README.md#Array_scanning) > [Location of previous element with same value](/README.md#Array_scanning-Location_of_previous_element_with_same_value)
-* [Dynamic programming](/README.md#Dynamic_programming)
+* [Unique elements in subarray](/Collections/unique-elements-in-subarray.md#unique-elements-in-subarray)
+* [Array scanning](/Collections/array-scanning.md#array-scanning) > [Location of previous element with same value](/Collections/array-scanning.md#location-of-previous-element-with-same-value)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming)

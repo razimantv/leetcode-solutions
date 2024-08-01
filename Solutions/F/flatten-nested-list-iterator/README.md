@@ -56,5 +56,5 @@ class NestedIterator {
 ```
 ## Tags
 
-* [Flattening](/README.md#Flattening)
-* [Suboptimal solution](/README.md#Suboptimal_solution)
+* [Flattening](/Collections/flattening.md#flattening)
+* [Suboptimal solution](/Collections/suboptimal-solution.md#suboptimal-solution)

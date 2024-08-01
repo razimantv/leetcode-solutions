@@ -23,5 +23,5 @@ class Solution {
 ```
 ## Tags
 
-* [Sorting](/README.md#Sorting)
-* [Mathematics](/README.md#Mathematics) > [Basic](/README.md#Mathematics-Basic)
+* [Sorting](/Collections/sorting.md#sorting)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Basic](/Collections/mathematics.md#basic)

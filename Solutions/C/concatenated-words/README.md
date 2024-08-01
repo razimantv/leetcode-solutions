@@ -45,6 +45,6 @@ class Solution {
 ```
 ## Tags
 
-* [Sorting](/README.md#Sorting) > [Custom](/README.md#Sorting-Custom)
-* [String](/README.md#String) > [Search](/README.md#String-Search) > [Hashing](/README.md#String-Search-Hashing)
-* [Dynamic programming](/README.md#Dynamic_programming)
+* [Sorting](/Collections/sorting.md#sorting) > [Custom](/Collections/sorting.md#custom)
+* [String](/Collections/string.md#string) > [Search](/Collections/string.md#search) > [Hashing](/Collections/string.md#hashing)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming)

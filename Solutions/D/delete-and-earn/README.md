@@ -21,5 +21,5 @@ class Solution {
 ```
 ## Tags
 
-* [Hashmap](/README.md#Hashmap)
-* [Dynamic programming](/README.md#Dynamic_programming)
+* [Hashmap](/Collections/hashmap.md#hashmap)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming)

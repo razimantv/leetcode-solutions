@@ -19,5 +19,5 @@ class Solution {
 ```
 ## Tags
 
-* [Simple implementation](/README.md#Simple_implementation)
-* [Array scanning](/README.md#Array_scanning) > [In-place modification](/README.md#Array_scanning-In_place_modification)
+* [Simple implementation](/Collections/simple-implementation.md#simple-implementation)
+* [Array scanning](/Collections/array-scanning.md#array-scanning) > [In-place modification](/Collections/array-scanning.md#in-place-modification)

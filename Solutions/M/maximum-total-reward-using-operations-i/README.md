@@ -46,5 +46,5 @@ class Solution:
 ```
 ## Tags
 
-* [Intervals](/README.md#Intervals) > [Union](/README.md#Intervals-Union)
-* [Binary search](/README.md#Binary_search) > [Python SortedList](/README.md#Binary_search-Python_SortedList)
+* [Intervals](/Collections/intervals.md#intervals) > [Union](/Collections/intervals.md#union)
+* [Binary search](/Collections/binary-search.md#binary-search) > [Python SortedList](/Collections/binary-search.md#python-sortedlist)

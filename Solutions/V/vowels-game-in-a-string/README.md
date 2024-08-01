@@ -15,4 +15,4 @@ class Solution:
 ```
 ## Tags
 
-* [Two player games](/README.md#Two_player_games)
+* [Two player games](/Collections/two-player-games.md#two-player-games)

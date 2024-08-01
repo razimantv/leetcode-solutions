@@ -38,5 +38,5 @@ class Solution {
 ```
 ## Tags
 
-* [Segment tree](/README.md#Segment_tree)
-* [Mathematics](/README.md#Mathematics) > [Expression rearrangement](/README.md#Mathematics-Expression_rearrangement)
+* [Segment tree](/Collections/segment-tree.md#segment-tree)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Expression rearrangement](/Collections/mathematics.md#expression-rearrangement)

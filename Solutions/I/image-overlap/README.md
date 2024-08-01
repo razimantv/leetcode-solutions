@@ -30,5 +30,5 @@ class Solution {
 ```
 ## Tags
 
-* [Simple implementation](/README.md#Simple_implementation)
-* [Matrix](/README.md#Matrix) > [Geometric transformation](/README.md#Matrix-Geometric_transformation)
+* [Simple implementation](/Collections/simple-implementation.md#simple-implementation)
+* [Matrix](/Collections/matrix.md#matrix) > [Geometric transformation](/Collections/matrix.md#geometric-transformation)

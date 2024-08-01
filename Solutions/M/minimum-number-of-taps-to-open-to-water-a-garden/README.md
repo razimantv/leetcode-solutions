@@ -53,6 +53,6 @@ class Solution {
 ```
 ## Tags
 
-* [Sorting](/README.md#Sorting) > [Custom](/README.md#Sorting-Custom)
-* [Greedy](/README.md#Greedy)
-* [Intervals](/README.md#Intervals)
+* [Sorting](/Collections/sorting.md#sorting) > [Custom](/Collections/sorting.md#custom)
+* [Greedy](/Collections/greedy.md#greedy)
+* [Intervals](/Collections/intervals.md#intervals)

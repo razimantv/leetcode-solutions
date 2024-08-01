@@ -20,4 +20,4 @@ class Solution:
 ```
 ## Tags
 
-* [Mathematics](/README.md#Mathematics) > [Physics observation](/README.md#Mathematics-Physics_observation)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Physics observation](/Collections/mathematics.md#physics-observation)

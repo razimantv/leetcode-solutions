@@ -37,4 +37,4 @@ class Solution:
 ```
 ## Tags
 
-* [Dynamic programming](/README.md#Dynamic_programming) > [Length-wise processing](/README.md#Dynamic_programming-Length_wise_processing)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming) > [Length-wise processing](/Collections/dynamic-programming.md#length-wise-processing)

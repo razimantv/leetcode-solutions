@@ -31,5 +31,5 @@ class Solution {
 ```
 ## Tags
 
-* [Hashmap](/README.md#Hashmap)
-* [Priority queue](/README.md#Priority_queue)
+* [Hashmap](/Collections/hashmap.md#hashmap)
+* [Priority queue](/Collections/priority-queue.md#priority-queue)

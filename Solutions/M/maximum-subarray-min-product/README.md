@@ -37,5 +37,5 @@ class Solution {
 ```
 ## Tags
 
-* [Prefix](/README.md#Prefix) > [Sum](/README.md#Prefix-Sum)
-* [Stack](/README.md#Stack) > [Monotonic stack](/README.md#Stack-Monotonic_stack)
+* [Prefix](/Collections/prefix.md#prefix) > [Sum](/Collections/prefix.md#sum)
+* [Stack](/Collections/stack.md#stack) > [Monotonic stack](/Collections/stack.md#monotonic-stack)

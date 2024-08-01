@@ -38,6 +38,6 @@ class Solution {
 ```
 ## Tags
 
-* [Dynamic programming](/README.md#Dynamic_programming)
-* [Mathematics](/README.md#Mathematics) > [Combinatorics](/README.md#Mathematics-Combinatorics)
-* [Sliding window](/README.md#Sliding_window)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Combinatorics](/Collections/mathematics.md#combinatorics)
+* [Sliding window](/Collections/sliding-window.md#sliding-window)

@@ -33,5 +33,5 @@ class Solution:
 ```
 ## Tags
 
-* [Sorting](/README.md#Sorting)
-* [Majority element](/README.md#Majority_element)
+* [Sorting](/Collections/sorting.md#sorting)
+* [Majority element](/Collections/majority-element.md#majority-element)

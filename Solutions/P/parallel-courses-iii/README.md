@@ -40,5 +40,5 @@ class Solution:
 ```
 ## Tags
 
-* [Graph theory](/README.md#Graph_theory) > [Topological sort](/README.md#Graph_theory-Topological_sort) > [Dynamic Programming](/README.md#Graph_theory-Topological_sort-Dynamic_Programming)
-* [Priority queue](/README.md#Priority_queue)
+* [Graph theory](/Collections/graph-theory.md#graph-theory) > [Topological sort](/Collections/graph-theory.md#topological-sort) > [Dynamic Programming](/Collections/graph-theory.md#dynamic-programming)
+* [Priority queue](/Collections/priority-queue.md#priority-queue)

@@ -26,4 +26,4 @@ class Solution:
 ```
 ## Tags
 
-* [Divide and conquer](/README.md#Divide_and_conquer)
+* [Divide and conquer](/Collections/divide-and-conquer.md#divide-and-conquer)

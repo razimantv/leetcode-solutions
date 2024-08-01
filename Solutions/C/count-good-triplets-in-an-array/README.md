@@ -41,5 +41,5 @@ class Solution:
 ```
 ## Tags
 
-* [Permutation](/README.md#Permutation) > [Inverse](/README.md#Permutation-Inverse)
-* [Segment tree](/README.md#Segment_tree)
+* [Permutation](/Collections/permutation.md#permutation) > [Inverse](/Collections/permutation.md#inverse)
+* [Segment tree](/Collections/segment-tree.md#segment-tree)

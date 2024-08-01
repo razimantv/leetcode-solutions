@@ -28,5 +28,5 @@ class Solution {
 ```
 ## Tags
 
-* [Hashmap](/README.md#Hashmap)
-* [String](/README.md#String) > [Anagrams](/README.md#String-Anagrams)
+* [Hashmap](/Collections/hashmap.md#hashmap)
+* [String](/Collections/string.md#string) > [Anagrams](/Collections/string.md#anagrams)

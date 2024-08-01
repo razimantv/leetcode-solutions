@@ -40,4 +40,4 @@ class Solution {
 ```
 ## Tags
 
-* [Priority queue](/README.md#Priority_queue) > [Dijkstra-like processing of subarrays](/README.md#Priority_queue-Dijkstra_like_processing_of_subarrays)
+* [Priority queue](/Collections/priority-queue.md#priority-queue) > [Dijkstra-like processing of subarrays](/Collections/priority-queue.md#dijkstra-like-processing-of-subarrays)

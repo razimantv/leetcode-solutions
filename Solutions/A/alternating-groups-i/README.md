@@ -25,5 +25,5 @@ class Solution:
 ```
 ## Tags
 
-* [Array scanning](/README.md#Array_scanning) > [Contiguous region](/README.md#Array_scanning-Contiguous_region)
-* [Array scanning](/README.md#Array_scanning) > [Cyclic array](/README.md#Array_scanning-Cyclic_array)
+* [Array scanning](/Collections/array-scanning.md#array-scanning) > [Contiguous region](/Collections/array-scanning.md#contiguous-region)
+* [Array scanning](/Collections/array-scanning.md#array-scanning) > [Cyclic array](/Collections/array-scanning.md#cyclic-array)

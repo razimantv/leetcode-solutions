@@ -44,5 +44,5 @@ class Solution {
 ```
 ## Tags
 
-* [Prefix](/README.md#Prefix) > [Sum](/README.md#Prefix-Sum)
-* [Sorting](/README.md#Sorting) > [Queries and updates together](/README.md#Sorting-Queries_and_updates_together)
+* [Prefix](/Collections/prefix.md#prefix) > [Sum](/Collections/prefix.md#sum)
+* [Sorting](/Collections/sorting.md#sorting) > [Queries and updates together](/Collections/sorting.md#queries-and-updates-together)

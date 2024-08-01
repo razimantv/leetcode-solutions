@@ -37,5 +37,5 @@ class Solution {
 ```
 ## Tags
 
-* [Backtracking](/README.md#Backtracking) > [Push and pop for efficient state update](/README.md#Backtracking-Push_and_pop_for_efficient_state_update)
-* [ChatGPT](/README.md#ChatGPT)
+* [Backtracking](/Collections/backtracking.md#backtracking) > [Push and pop for efficient state update](/Collections/backtracking.md#push-and-pop-for-efficient-state-update)
+* [ChatGPT](/Collections/chatgpt.md#chatgpt)

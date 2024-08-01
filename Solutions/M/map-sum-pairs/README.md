@@ -37,5 +37,5 @@ class MapSum {
 ```
 ## Tags
 
-* [Suboptimal solution](/README.md#Suboptimal_solution)
-* [Hashmap](/README.md#Hashmap)
+* [Suboptimal solution](/Collections/suboptimal-solution.md#suboptimal-solution)
+* [Hashmap](/Collections/hashmap.md#hashmap)

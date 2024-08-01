@@ -44,4 +44,4 @@ class MyQueue {
 ```
 ## Tags
 
-* [Design data structure](/README.md#Design_data_structure) > [Interconversion](/README.md#Design_data_structure-Interconversion)
+* [Design data structure](/Collections/design-data-structure.md#design-data-structure) > [Interconversion](/Collections/design-data-structure.md#interconversion)

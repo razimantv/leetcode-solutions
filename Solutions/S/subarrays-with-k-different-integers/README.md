@@ -30,5 +30,5 @@ class Solution:
 ```
 ## Tags
 
-* [Sliding window](/README.md#Sliding_window)
-* [Hashmap](/README.md#Hashmap) > [Counter](/README.md#Hashmap-Counter)
+* [Sliding window](/Collections/sliding-window.md#sliding-window)
+* [Hashmap](/Collections/hashmap.md#hashmap) > [Counter](/Collections/hashmap.md#counter)

@@ -31,5 +31,5 @@ class Solution {
 ```
 ## Tags
 
-* [Greedy](/README.md#Greedy)
-* [Sorting](/README.md#Sorting) > [Custom](/README.md#Sorting-Custom)
+* [Greedy](/Collections/greedy.md#greedy)
+* [Sorting](/Collections/sorting.md#sorting) > [Custom](/Collections/sorting.md#custom)

@@ -36,5 +36,5 @@ class Solution {
 ```
 ## Tags
 
-* [String](/README.md#String) > [Subsequence](/README.md#String-Subsequence)
-* [Binary search](/README.md#Binary_search)
+* [String](/Collections/string.md#string) > [Subsequence](/Collections/string.md#subsequence)
+* [Binary search](/Collections/binary-search.md#binary-search)

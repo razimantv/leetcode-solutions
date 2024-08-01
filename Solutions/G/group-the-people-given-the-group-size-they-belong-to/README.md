@@ -29,4 +29,4 @@ public:
 ```
 ## Tags
 
-* [Hashmap](/README.md#Hashmap) > [Group items](/README.md#Hashmap-Group_items)
+* [Hashmap](/Collections/hashmap.md#hashmap) > [Group items](/Collections/hashmap.md#group-items)

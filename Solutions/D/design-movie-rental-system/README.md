@@ -71,5 +71,5 @@ class MovieRentingSystem {
 ```
 ## Tags
 
-* [Design data structure](/README.md#Design_data_structure)
-* [Binary search](/README.md#Binary_search)
+* [Design data structure](/Collections/design-data-structure.md#design-data-structure)
+* [Binary search](/Collections/binary-search.md#binary-search)

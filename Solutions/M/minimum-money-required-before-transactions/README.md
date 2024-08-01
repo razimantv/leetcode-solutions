@@ -28,4 +28,4 @@ class Solution {
 ```
 ## Tags
 
-* [Greedy](/README.md#Greedy)
+* [Greedy](/Collections/greedy.md#greedy)

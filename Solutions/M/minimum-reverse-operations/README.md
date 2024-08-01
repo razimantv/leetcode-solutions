@@ -50,6 +50,6 @@ class Solution {
 ```
 ## Tags
 
-* [Binary search](/README.md#Binary_search) > [C++ set](/README.md#Binary_search-C___set)
-* [Graph theory](/README.md#Graph_theory) > [Breadth first search](/README.md#Graph_theory-Breadth_first_search)
-* [Mathematics](/README.md#Mathematics) > [Parity](/README.md#Mathematics-Parity)
+* [Binary search](/Collections/binary-search.md#binary-search) > [C++ set](/Collections/binary-search.md#c---set)
+* [Graph theory](/Collections/graph-theory.md#graph-theory) > [Breadth first search](/Collections/graph-theory.md#breadth-first-search)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Parity](/Collections/mathematics.md#parity)

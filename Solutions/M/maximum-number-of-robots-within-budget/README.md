@@ -32,6 +32,6 @@ class Solution {
 ```
 ## Tags
 
-* [Binary search](/README.md#Binary_search)
-* [Deque](/README.md#Deque) > [Monotonic deque](/README.md#Deque-Monotonic_deque)
-* [Sliding window](/README.md#Sliding_window) > [Monotonic deque](/README.md#Sliding_window-Monotonic_deque)
+* [Binary search](/Collections/binary-search.md#binary-search)
+* [Deque](/Collections/deque.md#deque) > [Monotonic deque](/Collections/deque.md#monotonic-deque)
+* [Sliding window](/Collections/sliding-window.md#sliding-window) > [Monotonic deque](/Collections/sliding-window.md#monotonic-deque)

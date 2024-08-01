@@ -39,5 +39,5 @@ class Solution {
 ```
 ## Tags
 
-* [Dynamic programming](/README.md#Dynamic_programming) > [Array reuse](/README.md#Dynamic_programming-Array_reuse)
-* [Dynamic programming](/README.md#Dynamic_programming) > [Element with special meaning](/README.md#Dynamic_programming-Element_with_special_meaning)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming) > [Array reuse](/Collections/dynamic-programming.md#array-reuse)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming) > [Element with special meaning](/Collections/dynamic-programming.md#element-with-special-meaning)

@@ -38,4 +38,4 @@ class Solution {
 ```
 ## Tags
 
-* [Dynamic programming](/README.md#Dynamic_programming) > [Construction](/README.md#Dynamic_programming-Construction)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming) > [Construction](/Collections/dynamic-programming.md#construction)

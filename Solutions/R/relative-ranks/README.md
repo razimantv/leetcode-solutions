@@ -20,5 +20,5 @@ class Solution:
 ```
 ## Tags
 
-* [Sorting](/README.md#Sorting) > [Remembering index](/README.md#Sorting-Remembering_index)
-* [Permutation](/README.md#Permutation) > [Inverse](/README.md#Permutation-Inverse)
+* [Sorting](/Collections/sorting.md#sorting) > [Remembering index](/Collections/sorting.md#remembering-index)
+* [Permutation](/Collections/permutation.md#permutation) > [Inverse](/Collections/permutation.md#inverse)

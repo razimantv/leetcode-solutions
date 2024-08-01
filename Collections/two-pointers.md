@@ -1,0 +1,18 @@
+
+# <a id="two-pointers">Two pointers</a>
+* [Assign cookies](../Solutions/A/assign-cookies)
+* [Find all people with secret](../Solutions/F/find-all-people-with-secret)
+* [Find indices with index and value difference i](../Solutions/F/find-indices-with-index-and-value-difference-i)
+* [Find indices with index and value difference ii](../Solutions/F/find-indices-with-index-and-value-difference-ii)
+* [Find k closest elements](../Solutions/F/find-k-closest-elements)
+* [Find the integer added to array ii](../Solutions/F/find-the-integer-added-to-array-ii)
+* [Find the longest semi repetitive substring](../Solutions/F/find-the-longest-semi-repetitive-substring)
+* [Make lexicographically smallest array by swapping elements](../Solutions/M/make-lexicographically-smallest-array-by-swapping-elements)
+* [Maximize greatness of an array](../Solutions/M/maximize-greatness-of-an-array)
+* [Merge two 2d arrays by summing values](../Solutions/M/merge-two-2d-arrays-by-summing-values)
+* [Minimum common value](../Solutions/M/minimum-common-value)
+* [Minimum length of string after deleting similar ends](../Solutions/M/minimum-length-of-string-after-deleting-similar-ends)
+* [Most profit assigning work](../Solutions/M/most-profit-assigning-work)
+* [Number of subsequences that satisfy the given sum condition](../Solutions/N/number-of-subsequences-that-satisfy-the-given-sum-condition)
+* [Rearrange array elements by sign](../Solutions/R/rearrange-array-elements-by-sign)
+* [Reverse vowels of a string](../Solutions/R/reverse-vowels-of-a-string)

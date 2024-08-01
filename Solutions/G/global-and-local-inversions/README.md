@@ -23,5 +23,5 @@ class Solution {
 ```
 ## Tags
 
-* [Prefix](/README.md#Prefix) > [Extremum](/README.md#Prefix-Extremum)
-* [Permutation](/README.md#Permutation) > [Inversions](/README.md#Permutation-Inversions)
+* [Prefix](/Collections/prefix.md#prefix) > [Extremum](/Collections/prefix.md#extremum)
+* [Permutation](/Collections/permutation.md#permutation) > [Inversions](/Collections/permutation.md#inversions)

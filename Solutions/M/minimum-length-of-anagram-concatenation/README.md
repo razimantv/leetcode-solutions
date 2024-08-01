@@ -42,5 +42,5 @@ class Solution:
 ```
 ## Tags
 
-* [Hashmap](/README.md#Hashmap) > [Counter](/README.md#Hashmap-Counter)
-* [Mathematics](/README.md#Mathematics) > [Number theory](/README.md#Mathematics-Number_theory) > [Factor listing in sqrt(N)](/README.md#Mathematics-Number_theory-Factor_listing_in_sqrt_N_)
+* [Hashmap](/Collections/hashmap.md#hashmap) > [Counter](/Collections/hashmap.md#counter)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Number theory](/Collections/mathematics.md#number-theory) > [Factor listing in sqrt(N)](/Collections/mathematics.md#factor-listing-in-sqrt-n-)

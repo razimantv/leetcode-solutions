@@ -21,5 +21,5 @@ class Solution {
 ```
 ## Tags
 
-* [Mathematics](/README.md#Mathematics) > [Closed form expressions](/README.md#Mathematics-Closed_form_expressions)
-* [Simple implementation](/README.md#Simple_implementation)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Closed form expressions](/Collections/mathematics.md#closed-form-expressions)
+* [Simple implementation](/Collections/simple-implementation.md#simple-implementation)

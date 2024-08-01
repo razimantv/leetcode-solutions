@@ -28,6 +28,6 @@ class Solution {
 ```
 ## Tags
 
-* [Array scanning](/README.md#Array_scanning) > [Right to left](/README.md#Array_scanning-Right_to_left)
-* [Hashmap](/README.md#Hashmap)
-* [Bitwise operation](/README.md#Bitwise_operation)
+* [Array scanning](/Collections/array-scanning.md#array-scanning) > [Right to left](/Collections/array-scanning.md#right-to-left)
+* [Hashmap](/Collections/hashmap.md#hashmap)
+* [Bitwise operation](/Collections/bitwise-operation.md#bitwise-operation)

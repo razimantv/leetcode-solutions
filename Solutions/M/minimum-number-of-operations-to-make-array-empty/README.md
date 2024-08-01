@@ -25,5 +25,5 @@ class Solution {
 ```
 ## Tags
 
-* [Hashmap](/README.md#Hashmap)
-* [Mathematics](/README.md#Mathematics) > [Basic](/README.md#Mathematics-Basic)
+* [Hashmap](/Collections/hashmap.md#hashmap)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Basic](/Collections/mathematics.md#basic)

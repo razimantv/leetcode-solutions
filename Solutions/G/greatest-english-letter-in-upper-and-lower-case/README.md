@@ -26,5 +26,5 @@ class Solution {
 ```
 ## Tags
 
-* [Simple implementation](/README.md#Simple_implementation)
-* [Hashmap](/README.md#Hashmap)
+* [Simple implementation](/Collections/simple-implementation.md#simple-implementation)
+* [Hashmap](/Collections/hashmap.md#hashmap)

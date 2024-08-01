@@ -42,5 +42,5 @@ class Solution {
 ```
 ## Tags
 
-* [Palindrome](/README.md#Palindrome)
-* [Dynamic programming](/README.md#Dynamic_programming) > [Memoised recursion](/README.md#Dynamic_programming-Memoised_recursion)
+* [Palindrome](/Collections/palindrome.md#palindrome)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming) > [Memoised recursion](/Collections/dynamic-programming.md#memoised-recursion)

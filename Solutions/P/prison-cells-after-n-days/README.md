@@ -41,6 +41,6 @@ class Solution {
 ```
 ## Tags
 
-* [Bitwise operation](/README.md#Bitwise_operation)
-* [Binary lifting](/README.md#Binary_lifting)
-* [Dynamic programming](/README.md#Dynamic_programming) > [Array reuse](/README.md#Dynamic_programming-Array_reuse)
+* [Bitwise operation](/Collections/bitwise-operation.md#bitwise-operation)
+* [Binary lifting](/Collections/binary-lifting.md#binary-lifting)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming) > [Array reuse](/Collections/dynamic-programming.md#array-reuse)

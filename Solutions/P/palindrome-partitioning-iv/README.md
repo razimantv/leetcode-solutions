@@ -41,5 +41,5 @@ class Solution {
 ```
 ## Tags
 
-* [Palindrome](/README.md#Palindrome)
-* [Dynamic programming](/README.md#Dynamic_programming)
+* [Palindrome](/Collections/palindrome.md#palindrome)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming)

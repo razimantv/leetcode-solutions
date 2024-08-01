@@ -53,5 +53,5 @@ class Solution {
 ```
 ## Tags
 
-* [Bitwise operation](/README.md#Bitwise_operation)
-* [Sliding window](/README.md#Sliding_window)
+* [Bitwise operation](/Collections/bitwise-operation.md#bitwise-operation)
+* [Sliding window](/Collections/sliding-window.md#sliding-window)

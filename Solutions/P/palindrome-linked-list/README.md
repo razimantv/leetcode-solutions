@@ -43,5 +43,5 @@ class Solution {
 ```
 ## Tags
 
-* [Palindrome](/README.md#Palindrome)
-* [Linked list](/README.md#Linked_list) > [Recursion](/README.md#Linked_list-Recursion)
+* [Palindrome](/Collections/palindrome.md#palindrome)
+* [Linked list](/Collections/linked-list.md#linked-list) > [Recursion](/Collections/linked-list.md#recursion)

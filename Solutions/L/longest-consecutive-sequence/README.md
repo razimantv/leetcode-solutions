@@ -39,4 +39,4 @@ class Solution {
 ```
 ## Tags
 
-* [Hashmap](/README.md#Hashmap)
+* [Hashmap](/Collections/hashmap.md#hashmap)

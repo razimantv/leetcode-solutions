@@ -28,5 +28,5 @@ class Solution {
 ```
 ## Tags
 
-* [Sliding window](/README.md#Sliding_window)
-* [Hashmap](/README.md#Hashmap)
+* [Sliding window](/Collections/sliding-window.md#sliding-window)
+* [Hashmap](/Collections/hashmap.md#hashmap)

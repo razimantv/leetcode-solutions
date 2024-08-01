@@ -30,4 +30,4 @@ class Solution {
 ```
 ## Tags
 
-* [Sliding window](/README.md#Sliding_window)
+* [Sliding window](/Collections/sliding-window.md#sliding-window)

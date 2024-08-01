@@ -31,6 +31,6 @@ class Solution {
 ```
 ## Tags
 
-* [ChatGPT](/README.md#ChatGPT) > [Fixed](/README.md#ChatGPT-Fixed)
-* [Dynamic programming](/README.md#Dynamic_programming)
-* [Mathematics](/README.md#Mathematics) > [Combinatorics](/README.md#Mathematics-Combinatorics)
+* [ChatGPT](/Collections/chatgpt.md#chatgpt) > [Fixed](/Collections/chatgpt.md#fixed)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Combinatorics](/Collections/mathematics.md#combinatorics)

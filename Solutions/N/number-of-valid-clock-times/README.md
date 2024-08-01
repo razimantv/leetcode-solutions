@@ -29,5 +29,5 @@ class Solution {
 ```
 ## Tags
 
-* [String](/README.md#String) > [Validation](/README.md#String-Validation)
-* [Backtracking](/README.md#Backtracking)
+* [String](/Collections/string.md#string) > [Validation](/Collections/string.md#validation)
+* [Backtracking](/Collections/backtracking.md#backtracking)

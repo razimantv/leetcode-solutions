@@ -40,6 +40,6 @@ class Solution:
 ```
 ## Tags
 
-* [Dynamic programming](/README.md#Dynamic_programming) > [Memoised recursion](/README.md#Dynamic_programming-Memoised_recursion)
-* [Dynamic programming](/README.md#Dynamic_programming) > [Subsets](/README.md#Dynamic_programming-Subsets)
-* [Permutation](/README.md#Permutation)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming) > [Memoised recursion](/Collections/dynamic-programming.md#memoised-recursion)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming) > [Subsets](/Collections/dynamic-programming.md#subsets)
+* [Permutation](/Collections/permutation.md#permutation)

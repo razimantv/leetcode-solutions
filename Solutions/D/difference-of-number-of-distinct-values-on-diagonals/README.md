@@ -29,5 +29,5 @@ class Solution {
 ```
 ## Tags
 
-* [Matrix](/README.md#Matrix)
-* [Hashmap](/README.md#Hashmap)
+* [Matrix](/Collections/matrix.md#matrix)
+* [Hashmap](/Collections/hashmap.md#hashmap)

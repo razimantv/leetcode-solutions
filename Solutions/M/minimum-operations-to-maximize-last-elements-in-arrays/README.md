@@ -37,4 +37,4 @@ class Solution:
 ```
 ## Tags
 
-* [Array scanning](/README.md#Array_scanning)
+* [Array scanning](/Collections/array-scanning.md#array-scanning)

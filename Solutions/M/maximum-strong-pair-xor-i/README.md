@@ -57,6 +57,6 @@ class Solution:
 ```
 ## Tags
 
-* [Trie](/README.md#Trie)
-* [Sliding window](/README.md#Sliding_window)
-* [Bitwise operation](/README.md#Bitwise_operation)
+* [Trie](/Collections/trie.md#trie)
+* [Sliding window](/Collections/sliding-window.md#sliding-window)
+* [Bitwise operation](/Collections/bitwise-operation.md#bitwise-operation)

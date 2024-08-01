@@ -50,5 +50,5 @@ class Solution {
 ```
 ## Tags
 
-* [Linked list](/README.md#Linked_list) > [Iteration](/README.md#Linked_list-Iteration)
-* [Mathematics](/README.md#Mathematics) > [Probability](/README.md#Mathematics-Probability)
+* [Linked list](/Collections/linked-list.md#linked-list) > [Iteration](/Collections/linked-list.md#iteration)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Probability](/Collections/mathematics.md#probability)

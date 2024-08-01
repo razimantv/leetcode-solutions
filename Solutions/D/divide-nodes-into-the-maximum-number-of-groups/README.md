@@ -72,7 +72,7 @@ class Solution {
 ```
 ## Tags
 
-* [Graph theory](/README.md#Graph_theory) > [Breadth first search](/README.md#Graph_theory-Breadth_first_search)
-* [Graph theory](/README.md#Graph_theory) > [Depth first search](/README.md#Graph_theory-Depth_first_search) > [Component decomposition](/README.md#Graph_theory-Depth_first_search-Component_decomposition)
-* [Graph theory](/README.md#Graph_theory) > [Bipartite graph](/README.md#Graph_theory-Bipartite_graph)
-* [Graph theory](/README.md#Graph_theory) > [Reuse visited array](/README.md#Graph_theory-Reuse_visited_array)
+* [Graph theory](/Collections/graph-theory.md#graph-theory) > [Breadth first search](/Collections/graph-theory.md#breadth-first-search)
+* [Graph theory](/Collections/graph-theory.md#graph-theory) > [Depth first search](/Collections/graph-theory.md#depth-first-search) > [Component decomposition](/Collections/graph-theory.md#component-decomposition)
+* [Graph theory](/Collections/graph-theory.md#graph-theory) > [Bipartite graph](/Collections/graph-theory.md#bipartite-graph)
+* [Graph theory](/Collections/graph-theory.md#graph-theory) > [Reuse visited array](/Collections/graph-theory.md#reuse-visited-array)

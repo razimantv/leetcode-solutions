@@ -25,4 +25,4 @@ class Solution:
 ```
 ## Tags
 
-* [Array scanning](/README.md#Array_scanning) > [Middle element of triplet](/README.md#Array_scanning-Middle_element_of_triplet)
+* [Array scanning](/Collections/array-scanning.md#array-scanning) > [Middle element of triplet](/Collections/array-scanning.md#middle-element-of-triplet)

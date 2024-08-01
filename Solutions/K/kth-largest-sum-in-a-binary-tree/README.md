@@ -31,5 +31,5 @@ class Solution {
 ```
 ## Tags
 
-* [Tree](/README.md#Tree) > [Binary tree](/README.md#Tree-Binary_tree) > [Recursion](/README.md#Tree-Binary_tree-Recursion)
-* [Sorting](/README.md#Sorting) > [Partial](/README.md#Sorting-Partial)
+* [Tree](/Collections/tree.md#tree) > [Binary tree](/Collections/tree.md#binary-tree) > [Recursion](/Collections/tree.md#recursion)
+* [Sorting](/Collections/sorting.md#sorting) > [Partial](/Collections/sorting.md#partial)

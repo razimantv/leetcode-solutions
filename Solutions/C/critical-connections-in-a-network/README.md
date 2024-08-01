@@ -49,5 +49,5 @@ class Solution {
 ```
 ## Tags
 
-* [Graph theory](/README.md#Graph_theory) > [Depth first search](/README.md#Graph_theory-Depth_first_search)
-* [Graph theory](/README.md#Graph_theory) > [Bridges/Articulation points](/README.md#Graph_theory-Bridges_Articulation_points)
+* [Graph theory](/Collections/graph-theory.md#graph-theory) > [Depth first search](/Collections/graph-theory.md#depth-first-search)
+* [Graph theory](/Collections/graph-theory.md#graph-theory) > [Bridges/Articulation points](/Collections/graph-theory.md#bridges-articulation-points)

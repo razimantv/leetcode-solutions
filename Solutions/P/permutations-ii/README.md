@@ -23,4 +23,4 @@ class Solution {
 ```
 ## Tags
 
-* [Permutation](/README.md#Permutation) > [Next/Previous](/README.md#Permutation-Next_Previous)
+* [Permutation](/Collections/permutation.md#permutation) > [Next/Previous](/Collections/permutation.md#next-previous)

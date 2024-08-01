@@ -39,6 +39,6 @@ class Solution {
 ```
 ## Tags
 
-* [Backtracking](/README.md#Backtracking) > [Push and pop for efficient state update](/README.md#Backtracking-Push_and_pop_for_efficient_state_update)
-* [Hashmap](/README.md#Hashmap)
-* [Tree](/README.md#Tree) > [Binary tree](/README.md#Tree-Binary_tree) > [Recursion](/README.md#Tree-Binary_tree-Recursion)
+* [Backtracking](/Collections/backtracking.md#backtracking) > [Push and pop for efficient state update](/Collections/backtracking.md#push-and-pop-for-efficient-state-update)
+* [Hashmap](/Collections/hashmap.md#hashmap)
+* [Tree](/Collections/tree.md#tree) > [Binary tree](/Collections/tree.md#binary-tree) > [Recursion](/Collections/tree.md#recursion)

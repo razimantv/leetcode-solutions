@@ -23,5 +23,5 @@ class Solution {
 ```
 ## Tags
 
-* [Array scanning](/README.md#Array_scanning) > [Modify element with index](/README.md#Array_scanning-Modify_element_with_index)
-* [Prefix](/README.md#Prefix) > [Extremum](/README.md#Prefix-Extremum)
+* [Array scanning](/Collections/array-scanning.md#array-scanning) > [Modify element with index](/Collections/array-scanning.md#modify-element-with-index)
+* [Prefix](/Collections/prefix.md#prefix) > [Extremum](/Collections/prefix.md#extremum)

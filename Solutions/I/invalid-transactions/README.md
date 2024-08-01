@@ -96,10 +96,10 @@ class Solution {
 ```
 ## Tags
 
-* [Sorting](/README.md#Sorting) > [Remembering index](/README.md#Sorting-Remembering_index)
-* [Array scanning](/README.md#Array_scanning) > [Contiguous region](/README.md#Array_scanning-Contiguous_region)
-* [Hashmap](/README.md#Hashmap)
-* [Prefix](/README.md#Prefix) > [Sum](/README.md#Prefix-Sum) > [For range updates](/README.md#Prefix-Sum-For_range_updates)
-* [Range updates using prefix sum](/README.md#Range_updates_using_prefix_sum)
-* [String](/README.md#String) > [Parsing](/README.md#String-Parsing)
-* [Sliding window](/README.md#Sliding_window)
+* [Sorting](/Collections/sorting.md#sorting) > [Remembering index](/Collections/sorting.md#remembering-index)
+* [Array scanning](/Collections/array-scanning.md#array-scanning) > [Contiguous region](/Collections/array-scanning.md#contiguous-region)
+* [Hashmap](/Collections/hashmap.md#hashmap)
+* [Prefix](/Collections/prefix.md#prefix) > [Sum](/Collections/prefix.md#sum) > [For range updates](/Collections/prefix.md#for-range-updates)
+* [Range updates using prefix sum](/Collections/range-updates-using-prefix-sum.md#range-updates-using-prefix-sum)
+* [String](/Collections/string.md#string) > [Parsing](/Collections/string.md#parsing)
+* [Sliding window](/Collections/sliding-window.md#sliding-window)

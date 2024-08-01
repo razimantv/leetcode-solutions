@@ -34,5 +34,5 @@ class Solution {
 ```
 ## Tags
 
-* [Hashmap](/README.md#Hashmap)
-* [Mathematics](/README.md#Mathematics) > [Geometry](/README.md#Mathematics-Geometry)
+* [Hashmap](/Collections/hashmap.md#hashmap)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Geometry](/Collections/mathematics.md#geometry)

@@ -29,5 +29,5 @@ class Solution:
 ```
 ## Tags
 
-* [Greedy](/README.md#Greedy)
-* [Mathematics](/README.md#Mathematics) > [Median](/README.md#Mathematics-Median)
+* [Greedy](/Collections/greedy.md#greedy)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Median](/Collections/mathematics.md#median)

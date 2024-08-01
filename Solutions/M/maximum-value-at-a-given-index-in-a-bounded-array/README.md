@@ -41,5 +41,5 @@ class Solution {
 ```
 ## Tags
 
-* [Binary search](/README.md#Binary_search)
-* [Mathematics](/README.md#Mathematics) > [Closed form expressions](/README.md#Mathematics-Closed_form_expressions)
+* [Binary search](/Collections/binary-search.md#binary-search)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Closed form expressions](/Collections/mathematics.md#closed-form-expressions)

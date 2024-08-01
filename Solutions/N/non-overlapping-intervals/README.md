@@ -29,6 +29,6 @@ class Solution {
 ```
 ## Tags
 
-* [Sorting](/README.md#Sorting) > [Custom](/README.md#Sorting-Custom)
-* [Intervals](/README.md#Intervals) > [Overlap](/README.md#Intervals-Overlap)
-* [Greedy](/README.md#Greedy)
+* [Sorting](/Collections/sorting.md#sorting) > [Custom](/Collections/sorting.md#custom)
+* [Intervals](/Collections/intervals.md#intervals) > [Overlap](/Collections/intervals.md#overlap)
+* [Greedy](/Collections/greedy.md#greedy)

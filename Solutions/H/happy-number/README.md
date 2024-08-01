@@ -31,4 +31,4 @@ class Solution {
 ```
 ## Tags
 
-* [Graph theory](/README.md#Graph_theory) > [Cycle detection](/README.md#Graph_theory-Cycle_detection)
+* [Graph theory](/Collections/graph-theory.md#graph-theory) > [Cycle detection](/Collections/graph-theory.md#cycle-detection)

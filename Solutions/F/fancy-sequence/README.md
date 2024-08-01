@@ -57,5 +57,5 @@ class Fancy {
 ```
 ## Tags
 
-* [Segment tree](/README.md#Segment_tree)
-* [Mathematics](/README.md#Mathematics) > [Composition of operations](/README.md#Mathematics-Composition_of_operations)
+* [Segment tree](/Collections/segment-tree.md#segment-tree)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Composition of operations](/Collections/mathematics.md#composition-of-operations)

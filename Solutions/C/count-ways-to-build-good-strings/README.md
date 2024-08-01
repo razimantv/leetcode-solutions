@@ -33,4 +33,4 @@ class Solution {
 ```
 ## Tags
 
-* [Dynamic programming](/README.md#Dynamic_programming)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming)

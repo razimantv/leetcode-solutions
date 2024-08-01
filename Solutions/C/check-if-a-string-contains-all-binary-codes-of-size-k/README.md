@@ -30,5 +30,5 @@ class Solution {
 ```
 ## Tags
 
-* [Simple implementation](/README.md#Simple_implementation)
-* [Bitwise operation](/README.md#Bitwise_operation)
+* [Simple implementation](/Collections/simple-implementation.md#simple-implementation)
+* [Bitwise operation](/Collections/bitwise-operation.md#bitwise-operation)

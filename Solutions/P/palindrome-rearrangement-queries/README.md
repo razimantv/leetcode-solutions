@@ -70,6 +70,6 @@ class Solution:
 ```
 ## Tags
 
-* [Palindrome](/README.md#Palindrome)
-* [Intervals](/README.md#Intervals) > [Overlap](/README.md#Intervals-Overlap)
-* [Prefix](/README.md#Prefix) > [Sum](/README.md#Prefix-Sum)
+* [Palindrome](/Collections/palindrome.md#palindrome)
+* [Intervals](/Collections/intervals.md#intervals) > [Overlap](/Collections/intervals.md#overlap)
+* [Prefix](/Collections/prefix.md#prefix) > [Sum](/Collections/prefix.md#sum)

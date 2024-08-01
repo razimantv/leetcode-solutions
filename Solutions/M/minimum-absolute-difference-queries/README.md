@@ -49,5 +49,5 @@ class Solution {
 ```
 ## Tags
 
-* [Prefix](/README.md#Prefix) > [Sum](/README.md#Prefix-Sum)
-* [Offline query processing](/README.md#Offline_query_processing)
+* [Prefix](/Collections/prefix.md#prefix) > [Sum](/Collections/prefix.md#sum)
+* [Offline query processing](/Collections/offline-query-processing.md#offline-query-processing)

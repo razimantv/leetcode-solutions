@@ -38,5 +38,5 @@ class Solution {
 ```
 ## Tags
 
-* [Permutation](/README.md#Permutation) > [Next/Previous](/README.md#Permutation-Next_Previous)
-* [Permutation](/README.md#Permutation) > [Inversions](/README.md#Permutation-Inversions)
+* [Permutation](/Collections/permutation.md#permutation) > [Next/Previous](/Collections/permutation.md#next-previous)
+* [Permutation](/Collections/permutation.md#permutation) > [Inversions](/Collections/permutation.md#inversions)

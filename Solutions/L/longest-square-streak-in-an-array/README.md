@@ -22,5 +22,5 @@ class Solution {
 ```
 ## Tags
 
-* [Sorting](/README.md#Sorting)
-* [Hashmap](/README.md#Hashmap)
+* [Sorting](/Collections/sorting.md#sorting)
+* [Hashmap](/Collections/hashmap.md#hashmap)

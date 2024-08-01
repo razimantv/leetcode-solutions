@@ -49,5 +49,5 @@ class Solution {
 ```
 ## Tags
 
-* [Graph theory](/README.md#Graph_theory) > [Topological sort](/README.md#Graph_theory-Topological_sort) > [Dynamic Programming](/README.md#Graph_theory-Topological_sort-Dynamic_Programming)
-* [Dynamic programming](/README.md#Dynamic_programming) > [Topological sort](/README.md#Dynamic_programming-Topological_sort)
+* [Graph theory](/Collections/graph-theory.md#graph-theory) > [Topological sort](/Collections/graph-theory.md#topological-sort) > [Dynamic Programming](/Collections/graph-theory.md#dynamic-programming)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming) > [Topological sort](/Collections/dynamic-programming.md#topological-sort)

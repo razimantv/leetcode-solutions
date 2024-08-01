@@ -33,6 +33,6 @@ class Solution {
 ```
 ## Tags
 
-* [Sorting](/README.md#Sorting) > [Custom](/README.md#Sorting-Custom)
-* [Sorting](/README.md#Sorting) > [Index array](/README.md#Sorting-Index_array)
-* [Dynamic programming](/README.md#Dynamic_programming)
+* [Sorting](/Collections/sorting.md#sorting) > [Custom](/Collections/sorting.md#custom)
+* [Sorting](/Collections/sorting.md#sorting) > [Index array](/Collections/sorting.md#index-array)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming)

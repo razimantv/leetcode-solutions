@@ -16,5 +16,5 @@ class Solution:
 ```
 ## Tags
 
-* [Hashmap](/README.md#Hashmap)
-* [Sorting](/README.md#Sorting) > [Custom](/README.md#Sorting-Custom)
+* [Hashmap](/Collections/hashmap.md#hashmap)
+* [Sorting](/Collections/sorting.md#sorting) > [Custom](/Collections/sorting.md#custom)

@@ -25,6 +25,6 @@ class Solution:
 ```
 ## Tags
 
-* [Array scanning](/README.md#Array_scanning) > [Contiguous region](/README.md#Array_scanning-Contiguous_region)
-* [Sorting](/README.md#Sorting)
-* [Matrix](/README.md#Matrix)
+* [Array scanning](/Collections/array-scanning.md#array-scanning) > [Contiguous region](/Collections/array-scanning.md#contiguous-region)
+* [Sorting](/Collections/sorting.md#sorting)
+* [Matrix](/Collections/matrix.md#matrix)

@@ -78,5 +78,5 @@ vector<int> Solution::ppow{};
 ```
 ## Tags
 
-* [String](/README.md#String) > [Search](/README.md#String-Search) > [Hashing](/README.md#String-Search-Hashing)
-* [Palindrome](/README.md#Palindrome) > [Hashing](/README.md#Palindrome-Hashing)
+* [String](/Collections/string.md#string) > [Search](/Collections/string.md#search) > [Hashing](/Collections/string.md#hashing)
+* [Palindrome](/Collections/palindrome.md#palindrome) > [Hashing](/Collections/palindrome.md#hashing)

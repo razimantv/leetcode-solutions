@@ -24,5 +24,5 @@ class Solution:
 ```
 ## Tags
 
-* [Hashmap](/README.md#Hashmap) > [Counter](/README.md#Hashmap-Counter)
-* [Array scanning](/README.md#Array_scanning)
+* [Hashmap](/Collections/hashmap.md#hashmap) > [Counter](/Collections/hashmap.md#counter)
+* [Array scanning](/Collections/array-scanning.md#array-scanning)

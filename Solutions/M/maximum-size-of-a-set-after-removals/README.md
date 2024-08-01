@@ -20,4 +20,4 @@ class Solution:
 ```
 ## Tags
 
-* [Mathematics](/README.md#Mathematics) > [Set theory](/README.md#Mathematics-Set_theory)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Set theory](/Collections/mathematics.md#set-theory)

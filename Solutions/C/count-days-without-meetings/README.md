@@ -27,4 +27,4 @@ class Solution:
 ```
 ## Tags
 
-* [Intervals](/README.md#Intervals) > [Endpoint sorting](/README.md#Intervals-Endpoint_sorting)
+* [Intervals](/Collections/intervals.md#intervals) > [Endpoint sorting](/Collections/intervals.md#endpoint-sorting)

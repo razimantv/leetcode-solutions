@@ -37,5 +37,5 @@ class Solution {
 ```
 ## Tags
 
-* [ChatGPT](/README.md#ChatGPT)
-* [Dynamic programming](/README.md#Dynamic_programming)
+* [ChatGPT](/Collections/chatgpt.md#chatgpt)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming)

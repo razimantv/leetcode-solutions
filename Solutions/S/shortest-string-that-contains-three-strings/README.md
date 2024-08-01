@@ -52,5 +52,5 @@ class Solution {
 ```
 ## Tags
 
-* [String](/README.md#String) > [Search](/README.md#String-Search) > [Prefix/Suffix](/README.md#String-Search-Prefix_Suffix)
-* [Brute force enumeration](/README.md#Brute_force_enumeration) > [Combinatorial](/README.md#Brute_force_enumeration-Combinatorial)
+* [String](/Collections/string.md#string) > [Search](/Collections/string.md#search) > [Prefix/Suffix](/Collections/string.md#prefix-suffix)
+* [Brute force enumeration](/Collections/brute-force-enumeration.md#brute-force-enumeration) > [Combinatorial](/Collections/brute-force-enumeration.md#combinatorial)

@@ -29,6 +29,6 @@ class Solution:
 ```
 ## Tags
 
-* [Greedy](/README.md#Greedy)
-* [Priority queue](/README.md#Priority_queue)
-* [Time reversed simulation](/README.md#Time_reversed_simulation)
+* [Greedy](/Collections/greedy.md#greedy)
+* [Priority queue](/Collections/priority-queue.md#priority-queue)
+* [Time reversed simulation](/Collections/time-reversed-simulation.md#time-reversed-simulation)

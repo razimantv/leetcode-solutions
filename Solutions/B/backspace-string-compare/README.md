@@ -33,4 +33,4 @@ class Solution {
 ```
 ## Tags
 
-* [Time reversed simulation](/README.md#Time_reversed_simulation)
+* [Time reversed simulation](/Collections/time-reversed-simulation.md#time-reversed-simulation)

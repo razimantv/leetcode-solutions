@@ -99,4 +99,4 @@ class Solution:
 ```
 ## Tags
 
-* [Backtracking](/README.md#Backtracking) > [Minimum option optimisation](/README.md#Backtracking-Minimum_option_optimisation)
+* [Backtracking](/Collections/backtracking.md#backtracking) > [Minimum option optimisation](/Collections/backtracking.md#minimum-option-optimisation)

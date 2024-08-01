@@ -62,4 +62,4 @@ class Solution:
 ```
 ## Tags
 
-* [Graph theory](/README.md#Graph_theory) > [Breadth first search](/README.md#Graph_theory-Breadth_first_search) > [0-1 BFS](/README.md#Graph_theory-Breadth_first_search-0_1_BFS)
+* [Graph theory](/Collections/graph-theory.md#graph-theory) > [Breadth first search](/Collections/graph-theory.md#breadth-first-search) > [0-1 BFS](/Collections/graph-theory.md#0-1-bfs)

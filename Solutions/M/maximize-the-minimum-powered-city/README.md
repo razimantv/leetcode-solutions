@@ -41,6 +41,6 @@ class Solution {
 ```
 ## Tags
 
-* [Binary search](/README.md#Binary_search)
-* [Prefix](/README.md#Prefix) > [Sum](/README.md#Prefix-Sum) > [For range updates](/README.md#Prefix-Sum-For_range_updates)
-* [Greedy](/README.md#Greedy)
+* [Binary search](/Collections/binary-search.md#binary-search)
+* [Prefix](/Collections/prefix.md#prefix) > [Sum](/Collections/prefix.md#sum) > [For range updates](/Collections/prefix.md#for-range-updates)
+* [Greedy](/Collections/greedy.md#greedy)

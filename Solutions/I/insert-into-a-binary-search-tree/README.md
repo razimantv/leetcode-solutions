@@ -35,4 +35,4 @@ class Solution {
 ```
 ## Tags
 
-* [Tree](/README.md#Tree) > [Binary search tree](/README.md#Tree-Binary_search_tree)
+* [Tree](/Collections/tree.md#tree) > [Binary search tree](/Collections/tree.md#binary-search-tree)

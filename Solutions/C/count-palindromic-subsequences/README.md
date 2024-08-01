@@ -40,6 +40,6 @@ class Solution {
 ```
 ## Tags
 
-* [Array scanning](/README.md#Array_scanning) > [From both ends of array](/README.md#Array_scanning-From_both_ends_of_array)
-* [Palindrome](/README.md#Palindrome)
-* [Dynamic programming](/README.md#Dynamic_programming)
+* [Array scanning](/Collections/array-scanning.md#array-scanning) > [From both ends of array](/Collections/array-scanning.md#from-both-ends-of-array)
+* [Palindrome](/Collections/palindrome.md#palindrome)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming)

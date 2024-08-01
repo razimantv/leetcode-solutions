@@ -83,7 +83,7 @@ class Solution {
 ```
 ## Tags
 
-* [Binary lifting](/README.md#Binary_lifting)
-* [Graph theory](/README.md#Graph_theory) > [Depth first search](/README.md#Graph_theory-Depth_first_search)
-* [Graph theory](/README.md#Graph_theory) > [Lowest common ancestor](/README.md#Graph_theory-Lowest_common_ancestor)
-* [Prefix](/README.md#Prefix) > [Sum](/README.md#Prefix-Sum)
+* [Binary lifting](/Collections/binary-lifting.md#binary-lifting)
+* [Graph theory](/Collections/graph-theory.md#graph-theory) > [Depth first search](/Collections/graph-theory.md#depth-first-search)
+* [Graph theory](/Collections/graph-theory.md#graph-theory) > [Lowest common ancestor](/Collections/graph-theory.md#lowest-common-ancestor)
+* [Prefix](/Collections/prefix.md#prefix) > [Sum](/Collections/prefix.md#sum)

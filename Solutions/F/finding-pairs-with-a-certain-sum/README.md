@@ -42,4 +42,4 @@ class FindSumPairs {
 ```
 ## Tags
 
-* [Hashmap](/README.md#Hashmap) > [Update using insert and delete](/README.md#Hashmap-Update_using_insert_and_delete)
+* [Hashmap](/Collections/hashmap.md#hashmap) > [Update using insert and delete](/Collections/hashmap.md#update-using-insert-and-delete)

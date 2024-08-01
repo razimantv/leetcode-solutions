@@ -25,4 +25,4 @@ class Solution {
 ```
 ## Tags
 
-* [Linked list](/README.md#Linked_list) > [Recursion](/README.md#Linked_list-Recursion)
+* [Linked list](/Collections/linked-list.md#linked-list) > [Recursion](/Collections/linked-list.md#recursion)

@@ -21,4 +21,4 @@ class Solution:
 ```
 ## Tags
 
-* [Priority queue](/README.md#Priority_queue)
+* [Priority queue](/Collections/priority-queue.md#priority-queue)

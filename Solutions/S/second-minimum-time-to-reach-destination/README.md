@@ -48,5 +48,5 @@ class Solution:
 ```
 ## Tags
 
-* [Graph theory](/README.md#Graph_theory) > [Breadth first search](/README.md#Graph_theory-Breadth_first_search)
-* [Graph theory](/README.md#Graph_theory) > [Search from source and target](/README.md#Graph_theory-Search_from_source_and_target)
+* [Graph theory](/Collections/graph-theory.md#graph-theory) > [Breadth first search](/Collections/graph-theory.md#breadth-first-search)
+* [Graph theory](/Collections/graph-theory.md#graph-theory) > [Search from source and target](/Collections/graph-theory.md#search-from-source-and-target)

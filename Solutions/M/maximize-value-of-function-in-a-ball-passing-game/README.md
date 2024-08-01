@@ -48,5 +48,5 @@ class Solution {
 ```
 ## Tags
 
-* [Binary lifting](/README.md#Binary_lifting)
-* [Dynamic programming](/README.md#Dynamic_programming) > [Binary lifting](/README.md#Dynamic_programming-Binary_lifting)
+* [Binary lifting](/Collections/binary-lifting.md#binary-lifting)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming) > [Binary lifting](/Collections/dynamic-programming.md#binary-lifting)

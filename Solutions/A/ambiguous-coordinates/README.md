@@ -41,4 +41,4 @@ class Solution {
 ```
 ## Tags
 
-* [String](/README.md#String) > [Validation](/README.md#String-Validation)
+* [String](/Collections/string.md#string) > [Validation](/Collections/string.md#validation)

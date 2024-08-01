@@ -29,5 +29,5 @@ class Solution {
 ```
 ## Tags
 
-* [Binary search](/README.md#Binary_search)
-* [Suboptimal solution](/README.md#Suboptimal_solution)
+* [Binary search](/Collections/binary-search.md#binary-search)
+* [Suboptimal solution](/Collections/suboptimal-solution.md#suboptimal-solution)

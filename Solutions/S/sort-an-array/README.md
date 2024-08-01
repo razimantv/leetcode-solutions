@@ -38,5 +38,5 @@ class Solution {
 ```
 ## Tags
 
-* [Sorting](/README.md#Sorting) > [Implementation](/README.md#Sorting-Implementation)
-* [Priority queue](/README.md#Priority_queue)
+* [Sorting](/Collections/sorting.md#sorting) > [Implementation](/Collections/sorting.md#implementation)
+* [Priority queue](/Collections/priority-queue.md#priority-queue)

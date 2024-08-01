@@ -59,4 +59,4 @@ class Solution {
 ```
 ## Tags
 
-* [Formatted output](/README.md#Formatted_output)
+* [Formatted output](/Collections/formatted-output.md#formatted-output)

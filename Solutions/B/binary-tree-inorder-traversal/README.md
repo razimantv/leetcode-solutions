@@ -47,5 +47,5 @@ class Solution {
 ```
 ## Tags
 
-* [Tree](/README.md#Tree) > [Binary tree](/README.md#Tree-Binary_tree) > [Iteration](/README.md#Tree-Binary_tree-Iteration)
-* [Stack](/README.md#Stack) > [Depth first search](/README.md#Stack-Depth_first_search)
+* [Tree](/Collections/tree.md#tree) > [Binary tree](/Collections/tree.md#binary-tree) > [Iteration](/Collections/tree.md#iteration)
+* [Stack](/Collections/stack.md#stack) > [Depth first search](/Collections/stack.md#depth-first-search)

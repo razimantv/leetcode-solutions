@@ -27,6 +27,6 @@ class Solution {
 ```
 ## Tags
 
-* [Sorting](/README.md#Sorting)
-* [Sliding window](/README.md#Sliding_window)
-* [Mathematics](/README.md#Mathematics) > [Combinatorics](/README.md#Mathematics-Combinatorics)
+* [Sorting](/Collections/sorting.md#sorting)
+* [Sliding window](/Collections/sliding-window.md#sliding-window)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Combinatorics](/Collections/mathematics.md#combinatorics)

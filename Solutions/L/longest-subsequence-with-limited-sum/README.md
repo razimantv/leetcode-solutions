@@ -26,6 +26,6 @@ class Solution {
 ```
 ## Tags
 
-* [Greedy](/README.md#Greedy)
-* [Prefix](/README.md#Prefix) > [Sum](/README.md#Prefix-Sum)
-* [Binary search](/README.md#Binary_search)
+* [Greedy](/Collections/greedy.md#greedy)
+* [Prefix](/Collections/prefix.md#prefix) > [Sum](/Collections/prefix.md#sum)
+* [Binary search](/Collections/binary-search.md#binary-search)

@@ -26,6 +26,6 @@ class Solution:
 ```
 ## Tags
 
-* [Sorting](/README.md#Sorting) > [Remembering index](/README.md#Sorting-Remembering_index)
-* [Two pointers](/README.md#Two_pointers)
-* [Permutation](/README.md#Permutation) > [Swaps](/README.md#Permutation-Swaps)
+* [Sorting](/Collections/sorting.md#sorting) > [Remembering index](/Collections/sorting.md#remembering-index)
+* [Two pointers](/Collections/two-pointers.md#two-pointers)
+* [Permutation](/Collections/permutation.md#permutation) > [Swaps](/Collections/permutation.md#swaps)

@@ -48,5 +48,5 @@ class Solution {
 ```
 ## Tags
 
-* [Bitwise operation](/README.md#Bitwise_operation)
-* [Priority queue](/README.md#Priority_queue)
+* [Bitwise operation](/Collections/bitwise-operation.md#bitwise-operation)
+* [Priority queue](/Collections/priority-queue.md#priority-queue)

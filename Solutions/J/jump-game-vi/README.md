@@ -31,5 +31,5 @@ class Solution {
 ```
 ## Tags
 
-* [Array scanning](/README.md#Array_scanning) > [Right to left](/README.md#Array_scanning-Right_to_left)
-* [Priority queue](/README.md#Priority_queue)
+* [Array scanning](/Collections/array-scanning.md#array-scanning) > [Right to left](/Collections/array-scanning.md#right-to-left)
+* [Priority queue](/Collections/priority-queue.md#priority-queue)

@@ -25,5 +25,5 @@ class Solution:
 ```
 ## Tags
 
-* [Hashmap](/README.md#Hashmap)
-* [Unique/duplicate element finding with bizarro algorithms](/README.md#Unique_duplicate_element_finding_with_bizarro_algorithms)
+* [Hashmap](/Collections/hashmap.md#hashmap)
+* [Unique/duplicate element finding with bizarro algorithms](/Collections/unique-duplicate-element-finding-with-bizarro-algorithms.md#unique-duplicate-element-finding-with-bizarro-algorithms)

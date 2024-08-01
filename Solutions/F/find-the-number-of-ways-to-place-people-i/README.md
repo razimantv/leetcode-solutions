@@ -24,5 +24,5 @@ class Solution:
 ```
 ## Tags
 
-* [Sorting](/README.md#Sorting) > [Custom](/README.md#Sorting-Custom)
-* [Points in 2D plane](/README.md#Points_in_2D_plane)
+* [Sorting](/Collections/sorting.md#sorting) > [Custom](/Collections/sorting.md#custom)
+* [Points in 2D plane](/Collections/points-in-2d-plane.md#points-in-2d-plane)

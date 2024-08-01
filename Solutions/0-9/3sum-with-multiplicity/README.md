@@ -38,5 +38,5 @@ class Solution {
 ```
 ## Tags
 
-* [Counting elements in array](/README.md#Counting_elements_in_array)
-* [Mathematics](/README.md#Mathematics) > [Combinatorics](/README.md#Mathematics-Combinatorics)
+* [Counting elements in array](/Collections/counting-elements-in-array.md#counting-elements-in-array)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Combinatorics](/Collections/mathematics.md#combinatorics)

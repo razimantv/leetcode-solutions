@@ -44,6 +44,6 @@ class Solution:
 ```
 ## Tags
 
-* [Sorting](/README.md#Sorting)
-* [Two pointers](/README.md#Two_pointers)
-* [Disjoint set union](/README.md#Disjoint_set_union)
+* [Sorting](/Collections/sorting.md#sorting)
+* [Two pointers](/Collections/two-pointers.md#two-pointers)
+* [Disjoint set union](/Collections/disjoint-set-union.md#disjoint-set-union)

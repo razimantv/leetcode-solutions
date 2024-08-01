@@ -33,4 +33,4 @@ class Solution:
 ```
 ## Tags
 
-* [Sorting](/README.md#Sorting) > [Remembering index](/README.md#Sorting-Remembering_index)
+* [Sorting](/Collections/sorting.md#sorting) > [Remembering index](/Collections/sorting.md#remembering-index)

@@ -118,5 +118,5 @@ class Solution {
 ```
 ## Tags
 
-* [Trie](/README.md#Trie)
-* [Backtracking](/README.md#Backtracking) > [Push and pop for efficient state update](/README.md#Backtracking-Push_and_pop_for_efficient_state_update)
+* [Trie](/Collections/trie.md#trie)
+* [Backtracking](/Collections/backtracking.md#backtracking) > [Push and pop for efficient state update](/Collections/backtracking.md#push-and-pop-for-efficient-state-update)

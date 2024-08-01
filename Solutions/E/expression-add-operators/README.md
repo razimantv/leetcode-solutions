@@ -30,4 +30,4 @@ class Solution:
 ```
 ## Tags
 
-* [Backtracking](/README.md#Backtracking)
+* [Backtracking](/Collections/backtracking.md#backtracking)

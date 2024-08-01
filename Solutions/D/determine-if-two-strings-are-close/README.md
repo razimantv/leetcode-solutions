@@ -38,5 +38,5 @@ class Solution:
 ```
 ## Tags
 
-* [Counting elements in array](/README.md#Counting_elements_in_array)
-* [Hashmap](/README.md#Hashmap)
+* [Counting elements in array](/Collections/counting-elements-in-array.md#counting-elements-in-array)
+* [Hashmap](/Collections/hashmap.md#hashmap)

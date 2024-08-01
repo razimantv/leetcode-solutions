@@ -26,5 +26,5 @@ class Solution:
 ```
 ## Tags
 
-* [Sliding window](/README.md#Sliding_window)
-* [Sorting](/README.md#Sorting) > [Sorted container](/README.md#Sorting-Sorted_container)
+* [Sliding window](/Collections/sliding-window.md#sliding-window)
+* [Sorting](/Collections/sorting.md#sorting) > [Sorted container](/Collections/sorting.md#sorted-container)

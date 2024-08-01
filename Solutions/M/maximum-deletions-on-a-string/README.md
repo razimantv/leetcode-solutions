@@ -47,5 +47,5 @@ class Solution {
 ```
 ## Tags
 
-* [String](/README.md#String) > [Search](/README.md#String-Search) > [Hashing](/README.md#String-Search-Hashing)
-* [Dynamic programming](/README.md#Dynamic_programming)
+* [String](/Collections/string.md#string) > [Search](/Collections/string.md#search) > [Hashing](/Collections/string.md#hashing)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming)

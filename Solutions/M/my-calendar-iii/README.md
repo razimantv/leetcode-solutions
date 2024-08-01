@@ -32,5 +32,5 @@ class MyCalendarThree {
 ```
 ## Tags
 
-* [Intervals](/README.md#Intervals) > [Endpoint sorting](/README.md#Intervals-Endpoint_sorting)
-* [Intervals](/README.md#Intervals) > [Overlap](/README.md#Intervals-Overlap)
+* [Intervals](/Collections/intervals.md#intervals) > [Endpoint sorting](/Collections/intervals.md#endpoint-sorting)
+* [Intervals](/Collections/intervals.md#intervals) > [Overlap](/Collections/intervals.md#overlap)

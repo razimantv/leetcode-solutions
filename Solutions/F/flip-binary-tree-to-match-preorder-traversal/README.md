@@ -34,5 +34,5 @@ class Solution {
 ```
 ## Tags
 
-* [Tree](/README.md#Tree) > [Binary tree](/README.md#Tree-Binary_tree) > [Recursion](/README.md#Tree-Binary_tree-Recursion)
-* [Tree](/README.md#Tree) > [Order traversal](/README.md#Tree-Order_traversal)
+* [Tree](/Collections/tree.md#tree) > [Binary tree](/Collections/tree.md#binary-tree) > [Recursion](/Collections/tree.md#recursion)
+* [Tree](/Collections/tree.md#tree) > [Order traversal](/Collections/tree.md#order-traversal)

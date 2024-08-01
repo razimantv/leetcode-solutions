@@ -42,6 +42,6 @@ class Solution:
 ```
 ## Tags
 
-* [Brute force enumeration](/README.md#Brute_force_enumeration) > [Combinatorial](/README.md#Brute_force_enumeration-Combinatorial)
-* [Bitwise operation](/README.md#Bitwise_operation)
-* [Graph theory](/README.md#Graph_theory) > [Floyd-Warshall algorithm](/README.md#Graph_theory-Floyd_Warshall_algorithm)
+* [Brute force enumeration](/Collections/brute-force-enumeration.md#brute-force-enumeration) > [Combinatorial](/Collections/brute-force-enumeration.md#combinatorial)
+* [Bitwise operation](/Collections/bitwise-operation.md#bitwise-operation)
+* [Graph theory](/Collections/graph-theory.md#graph-theory) > [Floyd-Warshall algorithm](/Collections/graph-theory.md#floyd-warshall-algorithm)

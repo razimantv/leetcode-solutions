@@ -19,5 +19,5 @@ class Solution:
 ```
 ## Tags
 
-* [Bitwise operation](/README.md#Bitwise_operation)
-* [Greedy](/README.md#Greedy)
+* [Bitwise operation](/Collections/bitwise-operation.md#bitwise-operation)
+* [Greedy](/Collections/greedy.md#greedy)

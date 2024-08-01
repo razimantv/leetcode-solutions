@@ -65,6 +65,6 @@ class Solution:
 ```
 ## Tags
 
-* [Dynamic programming](/README.md#Dynamic_programming)
-* [Stack](/README.md#Stack) > [Monotonic stack](/README.md#Stack-Monotonic_stack)
-* [Dynamic programming](/README.md#Dynamic_programming) > [Monotonic stack/deque](/README.md#Dynamic_programming-Monotonic_stack_deque)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming)
+* [Stack](/Collections/stack.md#stack) > [Monotonic stack](/Collections/stack.md#monotonic-stack)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming) > [Monotonic stack/deque](/Collections/dynamic-programming.md#monotonic-stack-deque)

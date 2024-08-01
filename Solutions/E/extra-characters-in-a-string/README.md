@@ -31,6 +31,6 @@ class Solution {
 ```
 ## Tags
 
-* [Dynamic programming](/README.md#Dynamic_programming)
-* [Hashmap](/README.md#Hashmap)
-* [Suboptimal solution](/README.md#Suboptimal_solution)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming)
+* [Hashmap](/Collections/hashmap.md#hashmap)
+* [Suboptimal solution](/Collections/suboptimal-solution.md#suboptimal-solution)

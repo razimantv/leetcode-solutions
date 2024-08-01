@@ -44,6 +44,6 @@ class Solution:
 ```
 ## Tags
 
-* [Dynamic programming](/README.md#Dynamic_programming) > [Trie](/README.md#Dynamic_programming-Trie)
-* [Trie](/README.md#Trie)
-* [String](/README.md#String) > [Search](/README.md#String-Search) > [Trie](/README.md#String-Search-Trie)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming) > [Trie](/Collections/dynamic-programming.md#trie)
+* [Trie](/Collections/trie.md#trie)
+* [String](/Collections/string.md#string) > [Search](/Collections/string.md#search) > [Trie](/Collections/string.md#trie)

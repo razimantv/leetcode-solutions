@@ -44,6 +44,6 @@ class Solution {
 ```
 ## Tags
 
-* [Prefix](/README.md#Prefix) > [Sum](/README.md#Prefix-Sum) > [2D](/README.md#Prefix-Sum-2D)
-* [Design data structure](/README.md#Design_data_structure)
-* [QuadTree](/README.md#QuadTree)
+* [Prefix](/Collections/prefix.md#prefix) > [Sum](/Collections/prefix.md#sum) > [2D](/Collections/prefix.md#2d)
+* [Design data structure](/Collections/design-data-structure.md#design-data-structure)
+* [QuadTree](/Collections/quadtree.md#quadtree)

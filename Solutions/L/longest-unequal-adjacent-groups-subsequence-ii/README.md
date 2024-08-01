@@ -44,4 +44,4 @@ class Solution:
 ```
 ## Tags
 
-* [Dynamic programming](/README.md#Dynamic_programming) > [Reconstructing optimal solution](/README.md#Dynamic_programming-Reconstructing_optimal_solution)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming) > [Reconstructing optimal solution](/Collections/dynamic-programming.md#reconstructing-optimal-solution)

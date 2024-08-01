@@ -27,5 +27,5 @@ class Solution {
 ```
 ## Tags
 
-* [Dynamic programming](/README.md#Dynamic_programming) > [Longest increasing subsequence](/README.md#Dynamic_programming-Longest_increasing_subsequence)
-* [Binary search](/README.md#Binary_search)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming) > [Longest increasing subsequence](/Collections/dynamic-programming.md#longest-increasing-subsequence)
+* [Binary search](/Collections/binary-search.md#binary-search)

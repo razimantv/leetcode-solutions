@@ -59,4 +59,4 @@ class Solution {
 ```
 ## Tags
 
-* [Mathematics](/README.md#Mathematics) > [Geometry](/README.md#Mathematics-Geometry) > [Convex hull](/README.md#Mathematics-Geometry-Convex_hull)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Geometry](/Collections/mathematics.md#geometry) > [Convex hull](/Collections/mathematics.md#convex-hull)

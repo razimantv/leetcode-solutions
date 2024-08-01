@@ -56,4 +56,4 @@ class Foo {
 ```
 ## Tags
 
-* [Concurrency](/README.md#Concurrency)
+* [Concurrency](/Collections/concurrency.md#concurrency)

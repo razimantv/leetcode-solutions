@@ -65,7 +65,7 @@ class Solution:
 ```
 ## Tags
 
-* [Bitwise operation](/README.md#Bitwise_operation)
-* [Array scanning](/README.md#Array_scanning) > [Location of previous element with bit value](/README.md#Array_scanning-Location_of_previous_element_with_bit_value)
-* [Segment tree](/README.md#Segment_tree)
-* [Dynamic programming](/README.md#Dynamic_programming) > [Array reuse](/README.md#Dynamic_programming-Array_reuse)
+* [Bitwise operation](/Collections/bitwise-operation.md#bitwise-operation)
+* [Array scanning](/Collections/array-scanning.md#array-scanning) > [Location of previous element with bit value](/Collections/array-scanning.md#location-of-previous-element-with-bit-value)
+* [Segment tree](/Collections/segment-tree.md#segment-tree)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming) > [Array reuse](/Collections/dynamic-programming.md#array-reuse)

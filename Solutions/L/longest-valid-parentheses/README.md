@@ -33,5 +33,5 @@ class Solution {
 ```
 ## Tags
 
-* [Prefix](/README.md#Prefix) > [Sum](/README.md#Prefix-Sum)
-* [Stack](/README.md#Stack) > [From array elements](/README.md#Stack-From_array_elements)
+* [Prefix](/Collections/prefix.md#prefix) > [Sum](/Collections/prefix.md#sum)
+* [Stack](/Collections/stack.md#stack) > [From array elements](/Collections/stack.md#from-array-elements)

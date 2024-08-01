@@ -20,4 +20,4 @@ class Solution {
 ```
 ## Tags
 
-* [Permutation](/README.md#Permutation) > [Inverse](/README.md#Permutation-Inverse)
+* [Permutation](/Collections/permutation.md#permutation) > [Inverse](/Collections/permutation.md#inverse)

@@ -23,5 +23,5 @@ class Solution:
 ```
 ## Tags
 
-* [Sorting](/README.md#Sorting)
-* [Sliding window](/README.md#Sliding_window)
+* [Sorting](/Collections/sorting.md#sorting)
+* [Sliding window](/Collections/sliding-window.md#sliding-window)

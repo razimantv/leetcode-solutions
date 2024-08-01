@@ -33,5 +33,5 @@ class Solution {
 ```
 ## Tags
 
-* [Prefix](/README.md#Prefix) > [Extremum](/README.md#Prefix-Extremum)
-* [Binary search](/README.md#Binary_search) > [C++ set](/README.md#Binary_search-C___set)
+* [Prefix](/Collections/prefix.md#prefix) > [Extremum](/Collections/prefix.md#extremum)
+* [Binary search](/Collections/binary-search.md#binary-search) > [C++ set](/Collections/binary-search.md#c---set)

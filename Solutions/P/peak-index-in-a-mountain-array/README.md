@@ -31,5 +31,5 @@ class Solution {
 ```
 ## Tags
 
-* [ChatGPT](/README.md#ChatGPT)
-* [Binary search](/README.md#Binary_search)
+* [ChatGPT](/Collections/chatgpt.md#chatgpt)
+* [Binary search](/Collections/binary-search.md#binary-search)

@@ -34,5 +34,5 @@ class Solution {
 ```
 ## Tags
 
-* [Prefix](/README.md#Prefix) > [Sum](/README.md#Prefix-Sum) > [2D](/README.md#Prefix-Sum-2D)
-* [Matrix](/README.md#Matrix) > [Row pair processing](/README.md#Matrix-Row_pair_processing)
+* [Prefix](/Collections/prefix.md#prefix) > [Sum](/Collections/prefix.md#sum) > [2D](/Collections/prefix.md#2d)
+* [Matrix](/Collections/matrix.md#matrix) > [Row pair processing](/Collections/matrix.md#row-pair-processing)

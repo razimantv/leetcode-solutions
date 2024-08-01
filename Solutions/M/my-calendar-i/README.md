@@ -30,4 +30,4 @@ class MyCalendar {
 ```
 ## Tags
 
-* [Binary search](/README.md#Binary_search) > [C++ set](/README.md#Binary_search-C___set)
+* [Binary search](/Collections/binary-search.md#binary-search) > [C++ set](/Collections/binary-search.md#c---set)

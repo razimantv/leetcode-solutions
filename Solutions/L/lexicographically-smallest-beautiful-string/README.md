@@ -34,4 +34,4 @@ class Solution {
 ```
 ## Tags
 
-* [Palindrome](/README.md#Palindrome)
+* [Palindrome](/Collections/palindrome.md#palindrome)

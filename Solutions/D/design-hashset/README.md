@@ -52,4 +52,4 @@ class MyHashSet {
 ```
 ## Tags
 
-* [Design data structure](/README.md#Design_data_structure)
+* [Design data structure](/Collections/design-data-structure.md#design-data-structure)

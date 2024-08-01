@@ -33,6 +33,6 @@ class Solution {
 ```
 ## Tags
 
-* [Mathematics](/README.md#Mathematics) > [Number theory](/README.md#Mathematics-Number_theory) > [Prime sieving](/README.md#Mathematics-Number_theory-Prime_sieving)
-* [Binary search](/README.md#Binary_search)
-* [Greedy](/README.md#Greedy)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Number theory](/Collections/mathematics.md#number-theory) > [Prime sieving](/Collections/mathematics.md#prime-sieving)
+* [Binary search](/Collections/binary-search.md#binary-search)
+* [Greedy](/Collections/greedy.md#greedy)

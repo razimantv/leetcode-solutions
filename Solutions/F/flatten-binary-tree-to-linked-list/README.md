@@ -43,6 +43,6 @@ class Solution {
 ```
 ## Tags
 
-* [Linked list](/README.md#Linked_list) > [Iteration](/README.md#Linked_list-Iteration)
-* [Tree](/README.md#Tree) > [Binary tree](/README.md#Tree-Binary_tree) > [Recursion](/README.md#Tree-Binary_tree-Recursion)
-* [Flattening](/README.md#Flattening)
+* [Linked list](/Collections/linked-list.md#linked-list) > [Iteration](/Collections/linked-list.md#iteration)
+* [Tree](/Collections/tree.md#tree) > [Binary tree](/Collections/tree.md#binary-tree) > [Recursion](/Collections/tree.md#recursion)
+* [Flattening](/Collections/flattening.md#flattening)

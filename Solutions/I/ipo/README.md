@@ -34,5 +34,5 @@ public:
 ```
 ## Tags
 
-* [Sorting](/README.md#Sorting) > [Index array](/README.md#Sorting-Index_array)
-* [Priority queue](/README.md#Priority_queue)
+* [Sorting](/Collections/sorting.md#sorting) > [Index array](/Collections/sorting.md#index-array)
+* [Priority queue](/Collections/priority-queue.md#priority-queue)

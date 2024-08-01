@@ -47,5 +47,5 @@ class Solution {
 ```
 ## Tags
 
-* [ChatGPT](/README.md#ChatGPT)
-* [Dynamic programming](/README.md#Dynamic_programming) > [Longest common subsequence](/README.md#Dynamic_programming-Longest_common_subsequence)
+* [ChatGPT](/Collections/chatgpt.md#chatgpt)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming) > [Longest common subsequence](/Collections/dynamic-programming.md#longest-common-subsequence)

@@ -24,6 +24,6 @@ class Solution:
 ```
 ## Tags
 
-* [Hashmap](/README.md#Hashmap)
-* [Prefix](/README.md#Prefix) > [Sum](/README.md#Prefix-Sum)
-* [Linked list](/README.md#Linked_list) > [Recursion](/README.md#Linked_list-Recursion)
+* [Hashmap](/Collections/hashmap.md#hashmap)
+* [Prefix](/Collections/prefix.md#prefix) > [Sum](/Collections/prefix.md#sum)
+* [Linked list](/Collections/linked-list.md#linked-list) > [Recursion](/Collections/linked-list.md#recursion)

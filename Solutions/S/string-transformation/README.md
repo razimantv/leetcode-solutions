@@ -64,6 +64,6 @@ class Solution {
 ```
 ## Tags
 
-* [String](/README.md#String) > [Search](/README.md#String-Search) > [Hashing](/README.md#String-Search-Hashing)
-* [Mathematics](/README.md#Mathematics) > [Number theory](/README.md#Mathematics-Number_theory) > [Modular exponentiation/inverse](/README.md#Mathematics-Number_theory-Modular_exponentiation_inverse)
-* [Dynamic programming](/README.md#Dynamic_programming) > [Matrix exponentiation](/README.md#Dynamic_programming-Matrix_exponentiation)
+* [String](/Collections/string.md#string) > [Search](/Collections/string.md#search) > [Hashing](/Collections/string.md#hashing)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Number theory](/Collections/mathematics.md#number-theory) > [Modular exponentiation/inverse](/Collections/mathematics.md#modular-exponentiation-inverse)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming) > [Matrix exponentiation](/Collections/dynamic-programming.md#matrix-exponentiation)

@@ -62,5 +62,5 @@ class MyHashMap {
 ```
 ## Tags
 
-* [Hashmap](/README.md#Hashmap)
-* [Design data structure](/README.md#Design_data_structure)
+* [Hashmap](/Collections/hashmap.md#hashmap)
+* [Design data structure](/Collections/design-data-structure.md#design-data-structure)

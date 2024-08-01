@@ -58,5 +58,5 @@ class Trie {
 ```
 ## Tags
 
-* [Design data structure](/README.md#Design_data_structure)
-* [Trie](/README.md#Trie)
+* [Design data structure](/Collections/design-data-structure.md#design-data-structure)
+* [Trie](/Collections/trie.md#trie)

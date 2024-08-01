@@ -63,4 +63,4 @@ class Solution:
 ```
 ## Tags
 
-* [Segment tree](/README.md#Segment_tree)
+* [Segment tree](/Collections/segment-tree.md#segment-tree)

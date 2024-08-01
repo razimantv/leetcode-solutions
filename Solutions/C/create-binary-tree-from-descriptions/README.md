@@ -32,5 +32,5 @@ class Solution:
 ```
 ## Tags
 
-* [Hashmap](/README.md#Hashmap)
-* [Tree](/README.md#Tree) > [Binary tree](/README.md#Tree-Binary_tree)
+* [Hashmap](/Collections/hashmap.md#hashmap)
+* [Tree](/Collections/tree.md#tree) > [Binary tree](/Collections/tree.md#binary-tree)

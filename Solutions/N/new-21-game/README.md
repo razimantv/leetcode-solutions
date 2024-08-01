@@ -27,5 +27,5 @@ class Solution {
 ```
 ## Tags
 
-* [Mathematics](/README.md#Mathematics) > [Probability](/README.md#Mathematics-Probability)
-* [Dynamic programming](/README.md#Dynamic_programming)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Probability](/Collections/mathematics.md#probability)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming)

@@ -29,6 +29,6 @@ class Solution {
 ```
 ## Tags
 
-* [Prefix](/README.md#Prefix) > [Sum](/README.md#Prefix-Sum)
-* [String](/README.md#String) > [Parsing](/README.md#String-Parsing)
-* [Intervals](/README.md#Intervals) > [Overlap](/README.md#Intervals-Overlap)
+* [Prefix](/Collections/prefix.md#prefix) > [Sum](/Collections/prefix.md#sum)
+* [String](/Collections/string.md#string) > [Parsing](/Collections/string.md#parsing)
+* [Intervals](/Collections/intervals.md#intervals) > [Overlap](/Collections/intervals.md#overlap)

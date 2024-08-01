@@ -52,6 +52,6 @@ class Solution:
 ```
 ## Tags
 
-* [Dynamic programming](/README.md#Dynamic_programming)
-* [ChatGPT](/README.md#ChatGPT)
-* [Two player games](/README.md#Two_player_games)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming)
+* [ChatGPT](/Collections/chatgpt.md#chatgpt)
+* [Two player games](/Collections/two-player-games.md#two-player-games)

@@ -37,4 +37,4 @@ class Solution {
 ```
 ## Tags
 
-* [Stack](/README.md#Stack) > [Numerical operations](/README.md#Stack-Numerical_operations)
+* [Stack](/Collections/stack.md#stack) > [Numerical operations](/Collections/stack.md#numerical-operations)

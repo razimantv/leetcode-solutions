@@ -26,5 +26,5 @@ class Solution {
 ```
 ## Tags
 
-* [Dynamic programming](/README.md#Dynamic_programming) > [Array reuse](/README.md#Dynamic_programming-Array_reuse)
-* [Matrix](/README.md#Matrix) > [Path](/README.md#Matrix-Path)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming) > [Array reuse](/Collections/dynamic-programming.md#array-reuse)
+* [Matrix](/Collections/matrix.md#matrix) > [Path](/Collections/matrix.md#path)

@@ -21,5 +21,5 @@ class Solution {
 ```
 ## Tags
 
-* [Palindrome](/README.md#Palindrome)
-* [Simple implementation](/README.md#Simple_implementation)
+* [Palindrome](/Collections/palindrome.md#palindrome)
+* [Simple implementation](/Collections/simple-implementation.md#simple-implementation)

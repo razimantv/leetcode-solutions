@@ -32,6 +32,6 @@ class Solution {
 ```
 ## Tags
 
-* [Mathematics](/README.md#Mathematics) > [Combinatorics](/README.md#Mathematics-Combinatorics)
-* [Mathematics](/README.md#Mathematics) > [Closed form expressions](/README.md#Mathematics-Closed_form_expressions)
-* [Dynamic programming](/README.md#Dynamic_programming) > [Complexity reduction with algebra](/README.md#Dynamic_programming-Complexity_reduction_with_algebra)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Combinatorics](/Collections/mathematics.md#combinatorics)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Closed form expressions](/Collections/mathematics.md#closed-form-expressions)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming) > [Complexity reduction with algebra](/Collections/dynamic-programming.md#complexity-reduction-with-algebra)

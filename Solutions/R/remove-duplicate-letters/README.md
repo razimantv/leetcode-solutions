@@ -43,6 +43,6 @@ class Solution {
 ```
 ## Tags
 
-* [Bitwise operation](/README.md#Bitwise_operation)
-* [Greedy](/README.md#Greedy)
-* [String](/README.md#String) > [Subsequence](/README.md#String-Subsequence)
+* [Bitwise operation](/Collections/bitwise-operation.md#bitwise-operation)
+* [Greedy](/Collections/greedy.md#greedy)
+* [String](/Collections/string.md#string) > [Subsequence](/Collections/string.md#subsequence)

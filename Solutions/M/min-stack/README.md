@@ -44,5 +44,5 @@ class MinStack {
 ```
 ## Tags
 
-* [Stack](/README.md#Stack)
-* [Design data structure](/README.md#Design_data_structure)
+* [Stack](/Collections/stack.md#stack)
+* [Design data structure](/Collections/design-data-structure.md#design-data-structure)

@@ -46,5 +46,5 @@ class Solution {
 ```
 ## Tags
 
-* [Hashmap](/README.md#Hashmap)
-* [Case-by-case analysis](/README.md#Case_by_case_analysis)
+* [Hashmap](/Collections/hashmap.md#hashmap)
+* [Case-by-case analysis](/Collections/case-by-case-analysis.md#case-by-case-analysis)

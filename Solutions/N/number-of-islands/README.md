@@ -52,5 +52,5 @@ class Solution {
 ```
 ## Tags
 
-* [Disjoint set union](/README.md#Disjoint_set_union)
-* [Graph theory](/README.md#Graph_theory) > [Depth first search](/README.md#Graph_theory-Depth_first_search) > [Component decomposition](/README.md#Graph_theory-Depth_first_search-Component_decomposition)
+* [Disjoint set union](/Collections/disjoint-set-union.md#disjoint-set-union)
+* [Graph theory](/Collections/graph-theory.md#graph-theory) > [Depth first search](/Collections/graph-theory.md#depth-first-search) > [Component decomposition](/Collections/graph-theory.md#component-decomposition)

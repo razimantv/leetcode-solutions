@@ -29,6 +29,6 @@ class Solution {
 ```
 ## Tags
 
-* [Bitwise operation](/README.md#Bitwise_operation)
-* [Array scanning](/README.md#Array_scanning) > [Location of previous element with same value](/README.md#Array_scanning-Location_of_previous_element_with_same_value)
-* [Dynamic programming](/README.md#Dynamic_programming)
+* [Bitwise operation](/Collections/bitwise-operation.md#bitwise-operation)
+* [Array scanning](/Collections/array-scanning.md#array-scanning) > [Location of previous element with same value](/Collections/array-scanning.md#location-of-previous-element-with-same-value)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming)

@@ -65,4 +65,4 @@ bool FooBar::stat2 = false;
 ```
 ## Tags
 
-* [Concurrency](/README.md#Concurrency)
+* [Concurrency](/Collections/concurrency.md#concurrency)

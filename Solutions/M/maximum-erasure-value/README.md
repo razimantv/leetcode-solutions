@@ -34,5 +34,5 @@ class Solution {
 ```
 ## Tags
 
-* [Sliding window](/README.md#Sliding_window)
-* [Unique elements in subarray](/README.md#Unique_elements_in_subarray)
+* [Sliding window](/Collections/sliding-window.md#sliding-window)
+* [Unique elements in subarray](/Collections/unique-elements-in-subarray.md#unique-elements-in-subarray)

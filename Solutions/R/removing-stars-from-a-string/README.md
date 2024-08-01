@@ -25,4 +25,4 @@ class Solution {
 ```
 ## Tags
 
-* [Stack](/README.md#Stack)
+* [Stack](/Collections/stack.md#stack)

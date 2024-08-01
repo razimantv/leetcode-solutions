@@ -45,6 +45,6 @@ class Solution {
 ```
 ## Tags
 
-* [Intervals](/README.md#Intervals) > [Endpoint sorting](/README.md#Intervals-Endpoint_sorting)
-* [Intervals](/README.md#Intervals) > [Non-overlapping decomposition](/README.md#Intervals-Non_overlapping_decomposition)
-* [Intervals](/README.md#Intervals) > [2D](/README.md#Intervals-2D)
+* [Intervals](/Collections/intervals.md#intervals) > [Endpoint sorting](/Collections/intervals.md#endpoint-sorting)
+* [Intervals](/Collections/intervals.md#intervals) > [Non-overlapping decomposition](/Collections/intervals.md#non-overlapping-decomposition)
+* [Intervals](/Collections/intervals.md#intervals) > [2D](/Collections/intervals.md#2d)

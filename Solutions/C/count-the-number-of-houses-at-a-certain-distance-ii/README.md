@@ -52,6 +52,6 @@ class Solution:
 ```
 ## Tags
 
-* [Prefix](/README.md#Prefix) > [Sum](/README.md#Prefix-Sum) > [For range updates](/README.md#Prefix-Sum-For_range_updates)
-* [Graph theory](/README.md#Graph_theory) > [Single cycle graphs](/README.md#Graph_theory-Single_cycle_graphs)
-* [Mathematics](/README.md#Mathematics) > [Combinatorics](/README.md#Mathematics-Combinatorics)
+* [Prefix](/Collections/prefix.md#prefix) > [Sum](/Collections/prefix.md#sum) > [For range updates](/Collections/prefix.md#for-range-updates)
+* [Graph theory](/Collections/graph-theory.md#graph-theory) > [Single cycle graphs](/Collections/graph-theory.md#single-cycle-graphs)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Combinatorics](/Collections/mathematics.md#combinatorics)

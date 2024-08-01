@@ -50,6 +50,6 @@ class Solution {
 ```
 ## Tags
 
-* [Sliding window](/README.md#Sliding_window)
-* [Hashmap](/README.md#Hashmap) > [Forward and backward](/README.md#Hashmap-Forward_and_backward)
-* [Hashmap](/README.md#Hashmap) > [Group items](/README.md#Hashmap-Group_items)
+* [Sliding window](/Collections/sliding-window.md#sliding-window)
+* [Hashmap](/Collections/hashmap.md#hashmap) > [Forward and backward](/Collections/hashmap.md#forward-and-backward)
+* [Hashmap](/Collections/hashmap.md#hashmap) > [Group items](/Collections/hashmap.md#group-items)

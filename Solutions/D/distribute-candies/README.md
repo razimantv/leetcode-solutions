@@ -23,5 +23,5 @@ class Solution {
 ```
 ## Tags
 
-* [Array scanning](/README.md#Array_scanning) > [Contiguous region](/README.md#Array_scanning-Contiguous_region)
-* [Simple implementation](/README.md#Simple_implementation)
+* [Array scanning](/Collections/array-scanning.md#array-scanning) > [Contiguous region](/Collections/array-scanning.md#contiguous-region)
+* [Simple implementation](/Collections/simple-implementation.md#simple-implementation)

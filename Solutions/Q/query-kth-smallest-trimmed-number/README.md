@@ -33,5 +33,5 @@ class Solution {
 ```
 ## Tags
 
-* [Sorting](/README.md#Sorting) > [Stable](/README.md#Sorting-Stable)
-* [String](/README.md#String) > [Suffix array](/README.md#String-Suffix_array)
+* [Sorting](/Collections/sorting.md#sorting) > [Stable](/Collections/sorting.md#stable)
+* [String](/Collections/string.md#string) > [Suffix array](/Collections/string.md#suffix-array)

@@ -48,5 +48,5 @@ class Solution:
 ```
 ## Tags
 
-* [Matrix](/README.md#Matrix)
-* [Averaging from total and count](/README.md#Averaging_from_total_and_count)
+* [Matrix](/Collections/matrix.md#matrix)
+* [Averaging from total and count](/Collections/averaging-from-total-and-count.md#averaging-from-total-and-count)

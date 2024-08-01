@@ -1,0 +1,26 @@
+
+# <a id="segment-tree">Segment tree</a>
+* [Count good triplets in an array](../Solutions/C/count-good-triplets-in-an-array)
+* [Count increasing quadruplets](../Solutions/C/count-increasing-quadruplets)
+* [Count of range sum](../Solutions/C/count-of-range-sum)
+* [Count of smaller numbers after self](../Solutions/C/count-of-smaller-numbers-after-self)
+* [Count pairs with xor in a range](../Solutions/C/count-pairs-with-xor-in-a-range)
+* [Create sorted array through instructions](../Solutions/C/create-sorted-array-through-instructions)
+* [Delivering boxes from storage to ports](../Solutions/D/delivering-boxes-from-storage-to-ports)
+* [Distribute elements into two arrays ii](../Solutions/D/distribute-elements-into-two-arrays-ii)
+* [Fancy sequence](../Solutions/F/fancy-sequence)
+* [Jump game vii](../Solutions/J/jump-game-vii)
+* [Longest increasing subsequence ii](../Solutions/L/longest-increasing-subsequence-ii)
+* [Make array empty](../Solutions/M/make-array-empty)
+* [Maximum sum of subsequence with non adjacent elements](../Solutions/M/maximum-sum-of-subsequence-with-non-adjacent-elements)
+* [Minimum sum of values by dividing array](../Solutions/M/minimum-sum-of-values-by-dividing-array)
+* [Next greater element iv](../Solutions/N/next-greater-element-iv)
+* [Number of pairs satisfying inequality](../Solutions/N/number-of-pairs-satisfying-inequality)
+* [Peaks in array](../Solutions/P/peaks-in-array)
+* [Range sum query mutable](../Solutions/R/range-sum-query-mutable)
+
+## <a id="lazy-propagation">Lazy propagation</a>
+* [Block placement queries](../Solutions/B/block-placement-queries)
+* [Handling sum queries after update](../Solutions/H/handling-sum-queries-after-update)
+* [Subarrays distinct element sum of squares i](../Solutions/S/subarrays-distinct-element-sum-of-squares-i)
+* [Subarrays distinct element sum of squares ii](../Solutions/S/subarrays-distinct-element-sum-of-squares-ii)

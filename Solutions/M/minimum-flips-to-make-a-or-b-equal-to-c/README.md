@@ -40,5 +40,5 @@ class Solution {
 ```
 ## Tags
 
-* [Bitwise operation](/README.md#Bitwise_operation)
-* [ChatGPT](/README.md#ChatGPT)
+* [Bitwise operation](/Collections/bitwise-operation.md#bitwise-operation)
+* [ChatGPT](/Collections/chatgpt.md#chatgpt)

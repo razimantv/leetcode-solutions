@@ -30,5 +30,5 @@ class Solution {
 ```
 ## Tags
 
-* [Counting elements in array](/README.md#Counting_elements_in_array)
-* [Sliding window](/README.md#Sliding_window)
+* [Counting elements in array](/Collections/counting-elements-in-array.md#counting-elements-in-array)
+* [Sliding window](/Collections/sliding-window.md#sliding-window)

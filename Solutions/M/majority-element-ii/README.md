@@ -43,4 +43,4 @@ class Solution {
 ```
 ## Tags
 
-* [Majority element](/README.md#Majority_element)
+* [Majority element](/Collections/majority-element.md#majority-element)

@@ -41,4 +41,4 @@ class Solution {
 ```
 ## Tags
 
-* [Binary search](/README.md#Binary_search)
+* [Binary search](/Collections/binary-search.md#binary-search)

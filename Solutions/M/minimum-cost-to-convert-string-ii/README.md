@@ -66,6 +66,6 @@ class Solution:
 ```
 ## Tags
 
-* [Graph theory](/README.md#Graph_theory) > [Floyd-Warshall algorithm](/README.md#Graph_theory-Floyd_Warshall_algorithm)
-* [Hashmap](/README.md#Hashmap)
-* [Dynamic programming](/README.md#Dynamic_programming)
+* [Graph theory](/Collections/graph-theory.md#graph-theory) > [Floyd-Warshall algorithm](/Collections/graph-theory.md#floyd-warshall-algorithm)
+* [Hashmap](/Collections/hashmap.md#hashmap)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming)

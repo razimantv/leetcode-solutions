@@ -37,5 +37,5 @@ class Solution {
 ```
 ## Tags
 
-* [Simple implementation](/README.md#Simple_implementation)
-* [Sorting](/README.md#Sorting)
+* [Simple implementation](/Collections/simple-implementation.md#simple-implementation)
+* [Sorting](/Collections/sorting.md#sorting)

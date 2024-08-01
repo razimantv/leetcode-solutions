@@ -37,4 +37,4 @@ class Solution {
 ```
 ## Tags
 
-* [String](/README.md#String) > [Subsequence](/README.md#String-Subsequence)
+* [String](/Collections/string.md#string) > [Subsequence](/Collections/string.md#subsequence)

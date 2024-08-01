@@ -27,5 +27,5 @@ class Solution {
 ```
 ## Tags
 
-* [Sorting](/README.md#Sorting)
-* [Prefix](/README.md#Prefix) > [Sum](/README.md#Prefix-Sum)
+* [Sorting](/Collections/sorting.md#sorting)
+* [Prefix](/Collections/prefix.md#prefix) > [Sum](/Collections/prefix.md#sum)

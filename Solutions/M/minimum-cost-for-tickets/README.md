@@ -27,5 +27,5 @@ class Solution {
 ```
 ## Tags
 
-* [Dynamic programming](/README.md#Dynamic_programming)
-* [Binary search](/README.md#Binary_search)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming)
+* [Binary search](/Collections/binary-search.md#binary-search)

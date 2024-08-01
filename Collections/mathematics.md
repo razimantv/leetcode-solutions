@@ -1,0 +1,267 @@
+
+# <a id="mathematics">Mathematics</a>
+* [Maximum number of consecutive values you can make](../Solutions/M/maximum-number-of-consecutive-values-you-can-make)
+
+## <a id="advanced">Advanced</a>
+* [Best position for a service centre](../Solutions/B/best-position-for-a-service-centre)
+
+## <a id="basic">Basic</a>
+* [Alice and bob playing flower game](../Solutions/A/alice-and-bob-playing-flower-game)
+* [Angle between hands of a clock](../Solutions/A/angle-between-hands-of-a-clock)
+* [Apply operations to make sum of array greater than or equal to k](../Solutions/A/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k)
+* [Can make arithmetic progression from sequence](../Solutions/C/can-make-arithmetic-progression-from-sequence)
+* [Construct the longest new string](../Solutions/C/construct-the-longest-new-string)
+* [Count of matches in tournament](../Solutions/C/count-of-matches-in-tournament)
+* [Distribute money to maximum children](../Solutions/D/distribute-money-to-maximum-children)
+* [Find minimum operations to make all elements divisible by three](../Solutions/F/find-minimum-operations-to-make-all-elements-divisible-by-three)
+* [Find the child who has the ball after k seconds](../Solutions/F/find-the-child-who-has-the-ball-after-k-seconds)
+* [Find the maximum achievable number](../Solutions/F/find-the-maximum-achievable-number)
+* [Fraction to recurring decimal](../Solutions/F/fraction-to-recurring-decimal)
+* [Largest perimeter triangle](../Solutions/L/largest-perimeter-triangle)
+* [Minimum number of operations to make array empty](../Solutions/M/minimum-number-of-operations-to-make-array-empty)
+* [Poor pigs](../Solutions/P/poor-pigs)
+* [Replace question marks in string to minimize its value](../Solutions/R/replace-question-marks-in-string-to-minimize-its-value)
+* [Strictly palindromic number](../Solutions/S/strictly-palindromic-number)
+* [Sum of absolute differences in a sorted array](../Solutions/S/sum-of-absolute-differences-in-a-sorted-array)
+* [Water bottles](../Solutions/W/water-bottles)
+
+## <a id="closed-form-expressions">Closed form expressions</a>
+* [Calculate money in leetcode bank](../Solutions/C/calculate-money-in-leetcode-bank)
+* [Count anagrams](../Solutions/C/count-anagrams)
+* [Count substrings starting and ending with given character](../Solutions/C/count-substrings-starting-and-ending-with-given-character)
+* [Count total number of colored cells](../Solutions/C/count-total-number-of-colored-cells)
+* [Distribute candies among children i](../Solutions/D/distribute-candies-among-children-i)
+* [Distribute candies among children ii](../Solutions/D/distribute-candies-among-children-ii)
+* [Find number of ways to reach the k th stair](../Solutions/F/find-number-of-ways-to-reach-the-k-th-stair)
+* [Find products of elements of big array](../Solutions/F/find-products-of-elements-of-big-array)
+* [Find the pivot integer](../Solutions/F/find-the-pivot-integer)
+* [Maximum sum with exactly k elements](../Solutions/M/maximum-sum-with-exactly-k-elements)
+* [Maximum value at a given index in a bounded array](../Solutions/M/maximum-value-at-a-given-index-in-a-bounded-array)
+* [Minimum operations to make array equal](../Solutions/M/minimum-operations-to-make-array-equal)
+* [Power of heroes](../Solutions/P/power-of-heroes)
+
+## <a id="combinatorics">Combinatorics</a>
+* [3sum with multiplicity](../Solutions/0-9/3sum-with-multiplicity)
+* [Arithmetic slices ii subsequence](../Solutions/A/arithmetic-slices-ii-subsequence)
+* [Binary trees with factors](../Solutions/B/binary-trees-with-factors)
+* [Build array where you can find the maximum exactly k comparisons](../Solutions/B/build-array-where-you-can-find-the-maximum-exactly-k-comparisons)
+* [Count all possible routes](../Solutions/C/count-all-possible-routes)
+* [Count all valid pickup and delivery options](../Solutions/C/count-all-valid-pickup-and-delivery-options)
+* [Count anagrams](../Solutions/C/count-anagrams)
+* [Count beautiful substrings i](../Solutions/C/count-beautiful-substrings-i)
+* [Count beautiful substrings ii](../Solutions/C/count-beautiful-substrings-ii)
+* [Count collisions of monkeys on a polygon](../Solutions/C/count-collisions-of-monkeys-on-a-polygon)
+* [Count good numbers](../Solutions/C/count-good-numbers)
+* [Count k subsequences of a string with maximum beauty](../Solutions/C/count-k-subsequences-of-a-string-with-maximum-beauty)
+* [Count nice pairs in an array](../Solutions/C/count-nice-pairs-in-an-array)
+* [Count number of bad pairs](../Solutions/C/count-number-of-bad-pairs)
+* [Count number of homogenous substrings](../Solutions/C/count-number-of-homogenous-substrings)
+* [Count number of ways to place houses](../Solutions/C/count-number-of-ways-to-place-houses)
+* [Count pairs of nodes](../Solutions/C/count-pairs-of-nodes)
+* [Count pairs of similar strings](../Solutions/C/count-pairs-of-similar-strings)
+* [Count pairs that form a complete day i](../Solutions/C/count-pairs-that-form-a-complete-day-i)
+* [Count pairs that form a complete day ii](../Solutions/C/count-pairs-that-form-a-complete-day-ii)
+* [Count sorted vowel strings](../Solutions/C/count-sorted-vowel-strings)
+* [Count special integers](../Solutions/C/count-special-integers)
+* [Count substrings starting and ending with given character](../Solutions/C/count-substrings-starting-and-ending-with-given-character)
+* [Count the number of fair pairs](../Solutions/C/count-the-number-of-fair-pairs)
+* [Count the number of good partitions](../Solutions/C/count-the-number-of-good-partitions)
+* [Count the number of houses at a certain distance i](../Solutions/C/count-the-number-of-houses-at-a-certain-distance-i)
+* [Count the number of houses at a certain distance ii](../Solutions/C/count-the-number-of-houses-at-a-certain-distance-ii)
+* [Count the number of ideal arrays](../Solutions/C/count-the-number-of-ideal-arrays)
+* [Count the number of infection sequences](../Solutions/C/count-the-number-of-infection-sequences)
+* [Count the number of inversions](../Solutions/C/count-the-number-of-inversions)
+* [Count unreachable pairs of nodes in an undirected graph](../Solutions/C/count-unreachable-pairs-of-nodes-in-an-undirected-graph)
+* [Count ways to group overlapping ranges](../Solutions/C/count-ways-to-group-overlapping-ranges)
+* [Domino and tromino tiling](../Solutions/D/domino-and-tromino-tiling)
+* [Find number of ways to reach the k th stair](../Solutions/F/find-number-of-ways-to-reach-the-k-th-stair)
+* [Find products of elements of big array](../Solutions/F/find-products-of-elements-of-big-array)
+* [Find the sum of the power of all subsequences](../Solutions/F/find-the-sum-of-the-power-of-all-subsequences)
+* [Find xor beauty of array](../Solutions/F/find-xor-beauty-of-array)
+* [Iterator for combination](../Solutions/I/iterator-for-combination)
+* [Maximum number of groups with increasing length](../Solutions/M/maximum-number-of-groups-with-increasing-length)
+* [Minimum number of operations to make string sorted](../Solutions/M/minimum-number-of-operations-to-make-string-sorted)
+* [Naming a company](../Solutions/N/naming-a-company)
+* [Number of good paths](../Solutions/N/number-of-good-paths)
+* [Number of music playlists](../Solutions/N/number-of-music-playlists)
+* [Number of strings which can be rearranged to contain substring](../Solutions/N/number-of-strings-which-can-be-rearranged-to-contain-substring)
+* [Number of subsequences that satisfy the given sum condition](../Solutions/N/number-of-subsequences-that-satisfy-the-given-sum-condition)
+* [Number of ways to divide a long corridor](../Solutions/N/number-of-ways-to-divide-a-long-corridor)
+* [Number of ways to reach a position after exactly k steps](../Solutions/N/number-of-ways-to-reach-a-position-after-exactly-k-steps)
+* [Number of ways to rearrange sticks with k sticks visible](../Solutions/N/number-of-ways-to-rearrange-sticks-with-k-sticks-visible)
+* [Number of ways to reorder array to get same bst](../Solutions/N/number-of-ways-to-reorder-array-to-get-same-bst)
+* [Permutation sequence](../Solutions/P/permutation-sequence)
+* [Power of heroes](../Solutions/P/power-of-heroes)
+* [Probability of a two boxes having the same number of distinct balls](../Solutions/P/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls)
+* [Right triangles](../Solutions/R/right-triangles)
+* [Sum of digit differences of all pairs](../Solutions/S/sum-of-digit-differences-of-all-pairs)
+* [The number of beautiful subsets](../Solutions/T/the-number-of-beautiful-subsets)
+* [Ways to split array into good subarrays](../Solutions/W/ways-to-split-array-into-good-subarrays)
+
+### <a id="inclusion-exclusion">Inclusion-exclusion</a>
+* [Count increasing quadruplets](../Solutions/C/count-increasing-quadruplets)
+* [Distribute candies among children i](../Solutions/D/distribute-candies-among-children-i)
+* [Distribute candies among children ii](../Solutions/D/distribute-candies-among-children-ii)
+* [Find all possible stable binary arrays i](../Solutions/F/find-all-possible-stable-binary-arrays-i)
+* [Find all possible stable binary arrays ii](../Solutions/F/find-all-possible-stable-binary-arrays-ii)
+* [Find the sum of subsequence powers](../Solutions/F/find-the-sum-of-subsequence-powers)
+* [Kth smallest amount with single denomination combination](../Solutions/K/kth-smallest-amount-with-single-denomination-combination)
+
+## <a id="composition-of-operations">Composition of operations</a>
+* [Bitwise xor of all pairings](../Solutions/B/bitwise-xor-of-all-pairings)
+* [Fancy sequence](../Solutions/F/fancy-sequence)
+* [Find xor sum of all pairs bitwise and](../Solutions/F/find-xor-sum-of-all-pairs-bitwise-and)
+* [Handling sum queries after update](../Solutions/H/handling-sum-queries-after-update)
+
+## <a id="expression-rearrangement">Expression rearrangement</a>
+* [Find maximum non decreasing array length](../Solutions/F/find-maximum-non-decreasing-array-length)
+* [Maximum balanced subsequence sum](../Solutions/M/maximum-balanced-subsequence-sum)
+* [Number of pairs satisfying inequality](../Solutions/N/number-of-pairs-satisfying-inequality)
+
+## <a id="geometry">Geometry</a>
+* [Check if it is a straight line](../Solutions/C/check-if-it-is-a-straight-line)
+* [Check if the rectangle corner is reachable](../Solutions/C/check-if-the-rectangle-corner-is-reachable)
+* [Determine if a cell is reachable at a given time](../Solutions/D/determine-if-a-cell-is-reachable-at-a-given-time)
+* [Max points on a line](../Solutions/M/max-points-on-a-line)
+* [Maximum area of longest diagonal rectangle](../Solutions/M/maximum-area-of-longest-diagonal-rectangle)
+* [Minimize manhattan distances](../Solutions/M/minimize-manhattan-distances)
+* [Minimum cuts to divide a circle](../Solutions/M/minimum-cuts-to-divide-a-circle)
+* [Rectangle area](../Solutions/R/rectangle-area)
+* [Type of triangle ii](../Solutions/T/type-of-triangle-ii)
+
+### <a id="convex-hull">Convex hull</a>
+* [Erect the fence](../Solutions/E/erect-the-fence)
+
+### <a id="geometric-median">Geometric median</a>
+* [Best position for a service centre](../Solutions/B/best-position-for-a-service-centre)
+* [Minimum cost to make array equal](../Solutions/M/minimum-cost-to-make-array-equal)
+
+## <a id="invariants">Invariants</a>
+* [Minimum operations to make array equal ii](../Solutions/M/minimum-operations-to-make-array-equal-ii)
+
+## <a id="median">Median</a>
+* [Apply operations to maximize frequency score](../Solutions/A/apply-operations-to-maximize-frequency-score)
+* [Minimum cost to make array equalindromic](../Solutions/M/minimum-cost-to-make-array-equalindromic)
+* [Minimum operations to make median of array equal to k](../Solutions/M/minimum-operations-to-make-median-of-array-equal-to-k)
+
+## <a id="number-theory">Number theory</a>
+
+### <a id="basic">Basic</a>
+* [Add digits](../Solutions/A/add-digits)
+* [Bulb switcher](../Solutions/B/bulb-switcher)
+* [Check if it is a good array](../Solutions/C/check-if-it-is-a-good-array)
+* [Check if point is reachable](../Solutions/C/check-if-point-is-reachable)
+* [Continuous subarray sum](../Solutions/C/continuous-subarray-sum)
+* [Count beautiful substrings i](../Solutions/C/count-beautiful-substrings-i)
+* [Count beautiful substrings ii](../Solutions/C/count-beautiful-substrings-ii)
+* [Count distinct numbers on board](../Solutions/C/count-distinct-numbers-on-board)
+* [Count of interesting subarrays](../Solutions/C/count-of-interesting-subarrays)
+* [Count pairs of connectable servers in a weighted tree network](../Solutions/C/count-pairs-of-connectable-servers-in-a-weighted-tree-network)
+* [Count pairs that form a complete day i](../Solutions/C/count-pairs-that-form-a-complete-day-i)
+* [Count pairs that form a complete day ii](../Solutions/C/count-pairs-that-form-a-complete-day-ii)
+* [Destroy sequential targets](../Solutions/D/destroy-sequential-targets)
+* [Excel sheet column title](../Solutions/E/excel-sheet-column-title)
+* [Factorial trailing zeroes](../Solutions/F/factorial-trailing-zeroes)
+* [Find the divisibility array of a string](../Solutions/F/find-the-divisibility-array-of-a-string)
+* [Find the maximum length of valid subsequence ii](../Solutions/F/find-the-maximum-length-of-valid-subsequence-ii)
+* [Find the student that will replace the chalk](../Solutions/F/find-the-student-that-will-replace-the-chalk)
+* [Greatest common divisor of strings](../Solutions/G/greatest-common-divisor-of-strings)
+* [Integer break](../Solutions/I/integer-break)
+* [Make k subarray sums equal](../Solutions/M/make-k-subarray-sums-equal)
+* [Maximum element sum of a complete subset of indices](../Solutions/M/maximum-element-sum-of-a-complete-subset-of-indices)
+* [Maximum number of k divisible components](../Solutions/M/maximum-number-of-k-divisible-components)
+* [Maximum prime difference](../Solutions/M/maximum-prime-difference)
+* [Minimize length of array using operations](../Solutions/M/minimize-length-of-array-using-operations)
+* [Minimize the maximum of two arrays](../Solutions/M/minimize-the-maximum-of-two-arrays)
+* [Minimum cost to move chips to the same position](../Solutions/M/minimum-cost-to-move-chips-to-the-same-position)
+* [Minimum deletions to make array divisible](../Solutions/M/minimum-deletions-to-make-array-divisible)
+* [Minimum number of groups to create a valid assignment](../Solutions/M/minimum-number-of-groups-to-create-a-valid-assignment)
+* [Minimum number of operations to make all array elements equal to 1](../Solutions/M/minimum-number-of-operations-to-make-all-array-elements-equal-to-1)
+* [Minimum rounds to complete all tasks](../Solutions/M/minimum-rounds-to-complete-all-tasks)
+* [Mirror reflection](../Solutions/M/mirror-reflection)
+* [Most frequent prime](../Solutions/M/most-frequent-prime)
+* [Nth magical number](../Solutions/N/nth-magical-number)
+* [Number of common factors](../Solutions/N/number-of-common-factors)
+* [Number of subarrays with gcd equal to k](../Solutions/N/number-of-subarrays-with-gcd-equal-to-k)
+* [Number of subarrays with lcm equal to k](../Solutions/N/number-of-subarrays-with-lcm-equal-to-k)
+* [Prime in diagonal](../Solutions/P/prime-in-diagonal)
+* [Range product queries of powers](../Solutions/R/range-product-queries-of-powers)
+* [Smallest missing non negative integer after operations](../Solutions/S/smallest-missing-non-negative-integer-after-operations)
+* [Subarray sums divisible by k](../Solutions/S/subarray-sums-divisible-by-k)
+* [Sum multiples](../Solutions/S/sum-multiples)
+* [The number of beautiful subsets](../Solutions/T/the-number-of-beautiful-subsets)
+
+### <a id="dynamic-programming">Dynamic programming</a>
+* [Count the number of square free subsets](../Solutions/C/count-the-number-of-square-free-subsets)
+* [Largest divisible subset](../Solutions/L/largest-divisible-subset)
+
+### <a id="factor-listing-in-sqrt-n-">Factor listing in sqrt(N)</a>
+* [Create components with same value](../Solutions/C/create-components-with-same-value)
+* [Largest divisible subset](../Solutions/L/largest-divisible-subset)
+* [Minimum length of anagram concatenation](../Solutions/M/minimum-length-of-anagram-concatenation)
+* [Smallest value after replacing with sum of prime factors](../Solutions/S/smallest-value-after-replacing-with-sum-of-prime-factors)
+
+### <a id="inclusion-exclusion">Inclusion-exclusion</a>
+* [Kth smallest amount with single denomination combination](../Solutions/K/kth-smallest-amount-with-single-denomination-combination)
+
+### <a id="modular-exponentiation-inverse">Modular exponentiation/inverse</a>
+* [Apply operations to maximize score](../Solutions/A/apply-operations-to-maximize-score)
+* [Count anagrams](../Solutions/C/count-anagrams)
+* [Count collisions of monkeys on a polygon](../Solutions/C/count-collisions-of-monkeys-on-a-polygon)
+* [Count good numbers](../Solutions/C/count-good-numbers)
+* [Count the number of ideal arrays](../Solutions/C/count-the-number-of-ideal-arrays)
+* [Count the number of infection sequences](../Solutions/C/count-the-number-of-infection-sequences)
+* [Double modular exponentiation](../Solutions/D/double-modular-exponentiation)
+* [Find products of elements of big array](../Solutions/F/find-products-of-elements-of-big-array)
+* [Maximize number of nice divisors](../Solutions/M/maximize-number-of-nice-divisors)
+* [Minimum number of operations to make string sorted](../Solutions/M/minimum-number-of-operations-to-make-string-sorted)
+* [Number of subsequences that satisfy the given sum condition](../Solutions/N/number-of-subsequences-that-satisfy-the-given-sum-condition)
+* [String transformation](../Solutions/S/string-transformation)
+
+### <a id="prime-sieving">Prime sieving</a>
+* [Apply operations to maximize score](../Solutions/A/apply-operations-to-maximize-score)
+* [Closest prime numbers in range](../Solutions/C/closest-prime-numbers-in-range)
+* [Count primes](../Solutions/C/count-primes)
+* [Count the number of ideal arrays](../Solutions/C/count-the-number-of-ideal-arrays)
+* [Count valid paths in a tree](../Solutions/C/count-valid-paths-in-a-tree)
+* [Distinct prime factors of product of array](../Solutions/D/distinct-prime-factors-of-product-of-array)
+* [Find the count of numbers which are not special](../Solutions/F/find-the-count-of-numbers-which-are-not-special)
+* [Find the number of good pairs i](../Solutions/F/find-the-number-of-good-pairs-i)
+* [Find the number of good pairs ii](../Solutions/F/find-the-number-of-good-pairs-ii)
+* [Greatest common divisor traversal](../Solutions/G/greatest-common-divisor-traversal)
+* [Largest component size by common factor](../Solutions/L/largest-component-size-by-common-factor)
+* [Maximum element sum of a complete subset of indices](../Solutions/M/maximum-element-sum-of-a-complete-subset-of-indices)
+* [Minimum changes to make k semi palindromes](../Solutions/M/minimum-changes-to-make-k-semi-palindromes)
+* [Number of different subsequences gcds](../Solutions/N/number-of-different-subsequences-gcds)
+* [Prime pairs with target sum](../Solutions/P/prime-pairs-with-target-sum)
+* [Prime subtraction operation](../Solutions/P/prime-subtraction-operation)
+* [Split the array to make coprime products](../Solutions/S/split-the-array-to-make-coprime-products)
+
+### <a id="theorems">Theorems</a>
+* [Perfect squares](../Solutions/P/perfect-squares)
+
+## <a id="parity">Parity</a>
+* [Minimum reverse operations](../Solutions/M/minimum-reverse-operations)
+
+## <a id="physics-observation">Physics observation</a>
+* [Last moment before all ants fall out of a plank](../Solutions/L/last-moment-before-all-ants-fall-out-of-a-plank)
+
+## <a id="probability">Probability</a>
+* [Generate random point in a circle](../Solutions/G/generate-random-point-in-a-circle)
+* [Implement rand10 using rand7](../Solutions/I/implement-rand10-using-rand7)
+* [Insert delete getrandom o1](../Solutions/I/insert-delete-getrandom-o1)
+* [Knight probability in chessboard](../Solutions/K/knight-probability-in-chessboard)
+* [Linked list random node](../Solutions/L/linked-list-random-node)
+* [New 21 game](../Solutions/N/new-21-game)
+* [Probability of a two boxes having the same number of distinct balls](../Solutions/P/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls)
+* [Random pick with weight](../Solutions/R/random-pick-with-weight)
+* [Random point in non overlapping rectangles](../Solutions/R/random-point-in-non-overlapping-rectangles)
+* [Soup servings](../Solutions/S/soup-servings)
+
+## <a id="reduce-problem-dimension-with-proofs">Reduce problem dimension with proofs</a>
+* [Find a good subset of the matrix](../Solutions/F/find-a-good-subset-of-the-matrix)
+* [Soup servings](../Solutions/S/soup-servings)
+
+## <a id="set-theory">Set theory</a>
+* [Find unique binary string](../Solutions/F/find-unique-binary-string)
+* [Maximum size of a set after removals](../Solutions/M/maximum-size-of-a-set-after-removals)

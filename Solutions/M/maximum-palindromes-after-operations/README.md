@@ -24,6 +24,6 @@ class Solution:
 ```
 ## Tags
 
-* [Greedy](/README.md#Greedy)
-* [Hashmap](/README.md#Hashmap) > [Counter](/README.md#Hashmap-Counter)
-* [Palindrome](/README.md#Palindrome)
+* [Greedy](/Collections/greedy.md#greedy)
+* [Hashmap](/Collections/hashmap.md#hashmap) > [Counter](/Collections/hashmap.md#counter)
+* [Palindrome](/Collections/palindrome.md#palindrome)

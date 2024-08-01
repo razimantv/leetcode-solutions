@@ -61,7 +61,7 @@ class Solution {
 ```
 ## Tags
 
-* [Segment tree](/README.md#Segment_tree)
-* [Binary search](/README.md#Binary_search) > [Prefix sum](/README.md#Binary_search-Prefix_sum)
-* [Prefix](/README.md#Prefix) > [Sum](/README.md#Prefix-Sum)
-* [Dynamic programming](/README.md#Dynamic_programming) > [Segment tree](/README.md#Dynamic_programming-Segment_tree)
+* [Segment tree](/Collections/segment-tree.md#segment-tree)
+* [Binary search](/Collections/binary-search.md#binary-search) > [Prefix sum](/Collections/binary-search.md#prefix-sum)
+* [Prefix](/Collections/prefix.md#prefix) > [Sum](/Collections/prefix.md#sum)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming) > [Segment tree](/Collections/dynamic-programming.md#segment-tree)

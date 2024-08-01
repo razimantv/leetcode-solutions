@@ -37,5 +37,5 @@ class Solution:
 ```
 ## Tags
 
-* [Hashmap](/README.md#Hashmap)
-* [String](/README.md#String) > [Search](/README.md#String-Search)
+* [Hashmap](/Collections/hashmap.md#hashmap)
+* [String](/Collections/string.md#string) > [Search](/Collections/string.md#search)

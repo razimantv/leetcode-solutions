@@ -51,5 +51,5 @@ class Solution {
 ```
 ## Tags
 
-* [Integer operations on strings](/README.md#Integer_operations_on_strings)
-* [Linked list](/README.md#Linked_list) > [Iteration](/README.md#Linked_list-Iteration)
+* [Integer operations on strings](/Collections/integer-operations-on-strings.md#integer-operations-on-strings)
+* [Linked list](/Collections/linked-list.md#linked-list) > [Iteration](/Collections/linked-list.md#iteration)

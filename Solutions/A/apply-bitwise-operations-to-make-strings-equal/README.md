@@ -24,4 +24,4 @@ class Solution {
 ```
 ## Tags
 
-* [Bitwise operation](/README.md#Bitwise_operation)
+* [Bitwise operation](/Collections/bitwise-operation.md#bitwise-operation)

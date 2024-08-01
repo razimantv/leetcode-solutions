@@ -32,4 +32,4 @@ class Solution {
 ```
 ## Tags
 
-* [Construction](/README.md#Construction)
+* [Construction](/Collections/construction.md#construction)

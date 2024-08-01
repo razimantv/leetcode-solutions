@@ -28,5 +28,5 @@ class Solution {
 ```
 ## Tags
 
-* [Intervals](/README.md#Intervals) > [Dynamic programming](/README.md#Intervals-Dynamic_programming) > [With binary search](/README.md#Intervals-Dynamic_programming-With_binary_search)
-* [Dynamic programming](/README.md#Dynamic_programming) > [Intervals](/README.md#Dynamic_programming-Intervals)
+* [Intervals](/Collections/intervals.md#intervals) > [Dynamic programming](/Collections/intervals.md#dynamic-programming) > [With binary search](/Collections/intervals.md#with-binary-search)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming) > [Intervals](/Collections/dynamic-programming.md#intervals)

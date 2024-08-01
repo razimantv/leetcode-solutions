@@ -38,6 +38,6 @@ class Solution {
 ```
 ## Tags
 
-* [Two player games](/README.md#Two_player_games)
-* [ChatGPT](/README.md#ChatGPT)
-* [Dynamic programming](/README.md#Dynamic_programming) > [Memoised recursion](/README.md#Dynamic_programming-Memoised_recursion)
+* [Two player games](/Collections/two-player-games.md#two-player-games)
+* [ChatGPT](/Collections/chatgpt.md#chatgpt)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming) > [Memoised recursion](/Collections/dynamic-programming.md#memoised-recursion)

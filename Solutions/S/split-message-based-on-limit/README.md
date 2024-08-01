@@ -42,5 +42,5 @@ class Solution {
 ```
 ## Tags
 
-* [String](/README.md#String) > [Parsing](/README.md#String-Parsing)
-* [Suboptimal solution](/README.md#Suboptimal_solution)
+* [String](/Collections/string.md#string) > [Parsing](/Collections/string.md#parsing)
+* [Suboptimal solution](/Collections/suboptimal-solution.md#suboptimal-solution)

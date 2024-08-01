@@ -29,5 +29,5 @@ class Solution {
 ```
 ## Tags
 
-* [Sorting](/README.md#Sorting) > [Remembering index](/README.md#Sorting-Remembering_index)
-* [Binary search](/README.md#Binary_search)
+* [Sorting](/Collections/sorting.md#sorting) > [Remembering index](/Collections/sorting.md#remembering-index)
+* [Binary search](/Collections/binary-search.md#binary-search)

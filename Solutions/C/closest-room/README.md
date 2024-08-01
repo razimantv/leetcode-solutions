@@ -48,5 +48,5 @@ class Solution {
 ```
 ## Tags
 
-* [Binary search](/README.md#Binary_search) > [C++ set](/README.md#Binary_search-C___set)
-* [Sorting](/README.md#Sorting) > [Custom](/README.md#Sorting-Custom)
+* [Binary search](/Collections/binary-search.md#binary-search) > [C++ set](/Collections/binary-search.md#c---set)
+* [Sorting](/Collections/sorting.md#sorting) > [Custom](/Collections/sorting.md#custom)

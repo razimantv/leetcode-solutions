@@ -41,5 +41,5 @@ class Solution {
 ```
 ## Tags
 
-* [Binary search](/README.md#Binary_search)
-* [Two pointers](/README.md#Two_pointers)
+* [Binary search](/Collections/binary-search.md#binary-search)
+* [Two pointers](/Collections/two-pointers.md#two-pointers)

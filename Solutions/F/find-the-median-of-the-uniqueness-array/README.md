@@ -40,6 +40,6 @@ class Solution:
 ```
 ## Tags
 
-* [Binary search](/README.md#Binary_search)
-* [Sliding window](/README.md#Sliding_window)
-* [Hashmap](/README.md#Hashmap)
+* [Binary search](/Collections/binary-search.md#binary-search)
+* [Sliding window](/Collections/sliding-window.md#sliding-window)
+* [Hashmap](/Collections/hashmap.md#hashmap)

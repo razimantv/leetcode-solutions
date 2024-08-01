@@ -27,5 +27,5 @@ class Solution:
 ```
 ## Tags
 
-* [Bitwise operation](/README.md#Bitwise_operation) > [Self-inverse property of xor](/README.md#Bitwise_operation-Self_inverse_property_of_xor)
-* [Greedy](/README.md#Greedy)
+* [Bitwise operation](/Collections/bitwise-operation.md#bitwise-operation) > [Self-inverse property of xor](/Collections/bitwise-operation.md#self-inverse-property-of-xor)
+* [Greedy](/Collections/greedy.md#greedy)

@@ -33,5 +33,5 @@ class Solution:
 ```
 ## Tags
 
-* [Greedy](/README.md#Greedy)
-* [Stack](/README.md#Stack)
+* [Greedy](/Collections/greedy.md#greedy)
+* [Stack](/Collections/stack.md#stack)

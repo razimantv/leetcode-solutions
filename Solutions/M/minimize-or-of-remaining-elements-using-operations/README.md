@@ -31,4 +31,4 @@ class Solution:
 ```
 ## Tags
 
-* [Bitwise operation](/README.md#Bitwise_operation) > [Build result bit-by-bit](/README.md#Bitwise_operation-Build_result_bit_by_bit)
+* [Bitwise operation](/Collections/bitwise-operation.md#bitwise-operation) > [Build result bit-by-bit](/Collections/bitwise-operation.md#build-result-bit-by-bit)

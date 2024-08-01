@@ -29,6 +29,6 @@ class Solution {
 ```
 ## Tags
 
-* [Sorting](/README.md#Sorting) > [Custom](/README.md#Sorting-Custom)
-* [Dynamic programming](/README.md#Dynamic_programming) > [Intervals](/README.md#Dynamic_programming-Intervals)
-* [Intervals](/README.md#Intervals) > [Dynamic Programming](/README.md#Intervals-Dynamic_Programming)
+* [Sorting](/Collections/sorting.md#sorting) > [Custom](/Collections/sorting.md#custom)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming) > [Intervals](/Collections/dynamic-programming.md#intervals)
+* [Intervals](/Collections/intervals.md#intervals) > [Dynamic Programming](/Collections/intervals.md#dynamic-programming)

@@ -61,6 +61,6 @@ class Solution {
 ```
 ## Tags
 
-* [Stack](/README.md#Stack) > [Numerical operations](/README.md#Stack-Numerical_operations)
-* [String](/README.md#String) > [Parsing](/README.md#String-Parsing)
-* [Dynamic programming](/README.md#Dynamic_programming) > [Trees](/README.md#Dynamic_programming-Trees)
+* [Stack](/Collections/stack.md#stack) > [Numerical operations](/Collections/stack.md#numerical-operations)
+* [String](/Collections/string.md#string) > [Parsing](/Collections/string.md#parsing)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming) > [Trees](/Collections/dynamic-programming.md#trees)

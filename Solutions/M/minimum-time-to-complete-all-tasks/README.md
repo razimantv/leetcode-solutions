@@ -33,5 +33,5 @@ class Solution {
 ```
 ## Tags
 
-* [Greedy](/README.md#Greedy)
-* [Intervals](/README.md#Intervals) > [Overlap](/README.md#Intervals-Overlap)
+* [Greedy](/Collections/greedy.md#greedy)
+* [Intervals](/Collections/intervals.md#intervals) > [Overlap](/Collections/intervals.md#overlap)

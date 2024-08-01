@@ -42,5 +42,5 @@ class Solution {
 ```
 ## Tags
 
-* [Intervals](/README.md#Intervals) > [Endpoint sorting](/README.md#Intervals-Endpoint_sorting)
-* [Priority queue](/README.md#Priority_queue)
+* [Intervals](/Collections/intervals.md#intervals) > [Endpoint sorting](/Collections/intervals.md#endpoint-sorting)
+* [Priority queue](/Collections/priority-queue.md#priority-queue)

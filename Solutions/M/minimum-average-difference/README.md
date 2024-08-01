@@ -30,5 +30,5 @@ class Solution {
 ```
 ## Tags
 
-* [Averaging from total and count](/README.md#Averaging_from_total_and_count)
-* [Array scanning](/README.md#Array_scanning) > [From both ends of array](/README.md#Array_scanning-From_both_ends_of_array)
+* [Averaging from total and count](/Collections/averaging-from-total-and-count.md#averaging-from-total-and-count)
+* [Array scanning](/Collections/array-scanning.md#array-scanning) > [From both ends of array](/Collections/array-scanning.md#from-both-ends-of-array)

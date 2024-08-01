@@ -34,4 +34,4 @@ class Solution {
 ```
 ## Tags
 
-* [Permutation](/README.md#Permutation) > [Cycle](/README.md#Permutation-Cycle)
+* [Permutation](/Collections/permutation.md#permutation) > [Cycle](/Collections/permutation.md#cycle)

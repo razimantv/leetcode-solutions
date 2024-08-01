@@ -29,5 +29,5 @@ class Solution {
 ```
 ## Tags
 
-* [Dynamic programming](/README.md#Dynamic_programming)
-* [Counting elements in array](/README.md#Counting_elements_in_array)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming)
+* [Counting elements in array](/Collections/counting-elements-in-array.md#counting-elements-in-array)

@@ -27,4 +27,4 @@ class Solution:
 ```
 ## Tags
 
-* [Two pointers](/README.md#Two_pointers)
+* [Two pointers](/Collections/two-pointers.md#two-pointers)

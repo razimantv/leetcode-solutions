@@ -25,5 +25,5 @@ class Solution {
 ```
 ## Tags
 
-* [Bitwise operation](/README.md#Bitwise_operation)
-* [Number transformations based on mathematical rules](/README.md#Number_transformations_based_on_mathematical_rules)
+* [Bitwise operation](/Collections/bitwise-operation.md#bitwise-operation)
+* [Number transformations based on mathematical rules](/Collections/number-transformations-based-on-mathematical-rules.md#number-transformations-based-on-mathematical-rules)

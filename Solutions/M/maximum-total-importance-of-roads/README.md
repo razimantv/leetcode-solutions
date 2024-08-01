@@ -19,6 +19,6 @@ class Solution:
 ```
 ## Tags
 
-* [Graph theory](/README.md#Graph_theory) > [Degree counting](/README.md#Graph_theory-Degree_counting)
-* [Greedy](/README.md#Greedy)
-* [Hashmap](/README.md#Hashmap) > [Counter](/README.md#Hashmap-Counter)
+* [Graph theory](/Collections/graph-theory.md#graph-theory) > [Degree counting](/Collections/graph-theory.md#degree-counting)
+* [Greedy](/Collections/greedy.md#greedy)
+* [Hashmap](/Collections/hashmap.md#hashmap) > [Counter](/Collections/hashmap.md#counter)

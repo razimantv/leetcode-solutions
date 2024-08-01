@@ -25,4 +25,4 @@ class Solution {
 ```
 ## Tags
 
-* [Meet in the middle](/README.md#Meet_in_the_middle)
+* [Meet in the middle](/Collections/meet-in-the-middle.md#meet-in-the-middle)

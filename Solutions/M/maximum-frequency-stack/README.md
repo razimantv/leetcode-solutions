@@ -36,5 +36,5 @@ class FreqStack {
 ```
 ## Tags
 
-* [Priority queue](/README.md#Priority_queue)
-* [Design data structure](/README.md#Design_data_structure)
+* [Priority queue](/Collections/priority-queue.md#priority-queue)
+* [Design data structure](/Collections/design-data-structure.md#design-data-structure)

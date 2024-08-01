@@ -33,5 +33,5 @@ class Solution:
 ```
 ## Tags
 
-* [Matrix](/README.md#Matrix) > [Path](/README.md#Matrix-Path)
-* [Backtracking](/README.md#Backtracking) > [Push and pop for efficient state update](/README.md#Backtracking-Push_and_pop_for_efficient_state_update)
+* [Matrix](/Collections/matrix.md#matrix) > [Path](/Collections/matrix.md#path)
+* [Backtracking](/Collections/backtracking.md#backtracking) > [Push and pop for efficient state update](/Collections/backtracking.md#push-and-pop-for-efficient-state-update)

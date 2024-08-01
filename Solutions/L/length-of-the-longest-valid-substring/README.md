@@ -60,7 +60,7 @@ class Solution {
 ```
 ## Tags
 
-* [Trie](/README.md#Trie)
-* [String](/README.md#String) > [Search](/README.md#String-Search) > [Trie](/README.md#String-Search-Trie)
-* [Priority queue](/README.md#Priority_queue)
-* [Intervals](/README.md#Intervals)
+* [Trie](/Collections/trie.md#trie)
+* [String](/Collections/string.md#string) > [Search](/Collections/string.md#search) > [Trie](/Collections/string.md#trie)
+* [Priority queue](/Collections/priority-queue.md#priority-queue)
+* [Intervals](/Collections/intervals.md#intervals)

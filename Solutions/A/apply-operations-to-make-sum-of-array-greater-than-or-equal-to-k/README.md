@@ -15,5 +15,5 @@ class Solution:
 ```
 ## Tags
 
-* [Mathematics](/README.md#Mathematics) > [Basic](/README.md#Mathematics-Basic)
-* [Suboptimal solution](/README.md#Suboptimal_solution)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Basic](/Collections/mathematics.md#basic)
+* [Suboptimal solution](/Collections/suboptimal-solution.md#suboptimal-solution)

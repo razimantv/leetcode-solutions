@@ -30,5 +30,5 @@ class Solution {
 ```
 ## Tags
 
-* [Bitwise operation](/README.md#Bitwise_operation)
-* [Tree](/README.md#Tree) > [Binary tree](/README.md#Tree-Binary_tree)
+* [Bitwise operation](/Collections/bitwise-operation.md#bitwise-operation)
+* [Tree](/Collections/tree.md#tree) > [Binary tree](/Collections/tree.md#binary-tree)

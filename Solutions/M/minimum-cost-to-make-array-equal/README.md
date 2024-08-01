@@ -41,7 +41,7 @@ class Solution {
 ```
 ## Tags
 
-* [Greedy](/README.md#Greedy)
-* [Mathematics](/README.md#Mathematics) > [Geometry](/README.md#Mathematics-Geometry) > [Geometric median](/README.md#Mathematics-Geometry-Geometric_median)
-* [Dynamic programming](/README.md#Dynamic_programming)
-* [Array scanning](/README.md#Array_scanning) > [From both ends of array](/README.md#Array_scanning-From_both_ends_of_array)
+* [Greedy](/Collections/greedy.md#greedy)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Geometry](/Collections/mathematics.md#geometry) > [Geometric median](/Collections/mathematics.md#geometric-median)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming)
+* [Array scanning](/Collections/array-scanning.md#array-scanning) > [From both ends of array](/Collections/array-scanning.md#from-both-ends-of-array)

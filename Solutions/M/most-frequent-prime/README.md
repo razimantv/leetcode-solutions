@@ -43,5 +43,5 @@ class Solution:
 ```
 ## Tags
 
-* [Matrix](/README.md#Matrix) > [Path](/README.md#Matrix-Path)
-* [Mathematics](/README.md#Mathematics) > [Number theory](/README.md#Mathematics-Number_theory) > [Basic](/README.md#Mathematics-Number_theory-Basic)
+* [Matrix](/Collections/matrix.md#matrix) > [Path](/Collections/matrix.md#path)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Number theory](/Collections/mathematics.md#number-theory) > [Basic](/Collections/mathematics.md#basic)

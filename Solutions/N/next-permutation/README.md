@@ -18,5 +18,5 @@ class Solution {
 ```
 ## Tags
 
-* [Fraud](/README.md#Fraud)
-* [Permutation](/README.md#Permutation) > [Next/Previous](/README.md#Permutation-Next_Previous)
+* [Fraud](/Collections/fraud.md#fraud)
+* [Permutation](/Collections/permutation.md#permutation) > [Next/Previous](/Collections/permutation.md#next-previous)

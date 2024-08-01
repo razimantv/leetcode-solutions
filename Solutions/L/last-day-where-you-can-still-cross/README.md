@@ -44,5 +44,5 @@ class Solution {
 ```
 ## Tags
 
-* [Disjoint set union](/README.md#Disjoint_set_union)
-* [Matrix](/README.md#Matrix) > [Path](/README.md#Matrix-Path)
+* [Disjoint set union](/Collections/disjoint-set-union.md#disjoint-set-union)
+* [Matrix](/Collections/matrix.md#matrix) > [Path](/Collections/matrix.md#path)

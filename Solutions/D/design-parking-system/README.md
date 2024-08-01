@@ -33,5 +33,5 @@ class ParkingSystem {
 ```
 ## Tags
 
-* [Design data structure](/README.md#Design_data_structure)
-* [ChatGPT](/README.md#ChatGPT)
+* [Design data structure](/Collections/design-data-structure.md#design-data-structure)
+* [ChatGPT](/Collections/chatgpt.md#chatgpt)

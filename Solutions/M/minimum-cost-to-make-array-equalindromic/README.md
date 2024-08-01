@@ -38,5 +38,5 @@ class Solution:
 ```
 ## Tags
 
-* [Palindrome](/README.md#Palindrome)
-* [Mathematics](/README.md#Mathematics) > [Median](/README.md#Mathematics-Median)
+* [Palindrome](/Collections/palindrome.md#palindrome)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Median](/Collections/mathematics.md#median)

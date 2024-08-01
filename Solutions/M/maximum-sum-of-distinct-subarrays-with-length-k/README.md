@@ -33,5 +33,5 @@ class Solution {
 ```
 ## Tags
 
-* [Hashmap](/README.md#Hashmap)
-* [Sliding window](/README.md#Sliding_window)
+* [Hashmap](/Collections/hashmap.md#hashmap)
+* [Sliding window](/Collections/sliding-window.md#sliding-window)

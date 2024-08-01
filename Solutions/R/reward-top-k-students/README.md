@@ -40,6 +40,6 @@ class Solution {
 ```
 ## Tags
 
-* [Sorting](/README.md#Sorting) > [Custom](/README.md#Sorting-Custom)
-* [String](/README.md#String) > [Parsing](/README.md#String-Parsing)
-* [Hashmap](/README.md#Hashmap)
+* [Sorting](/Collections/sorting.md#sorting) > [Custom](/Collections/sorting.md#custom)
+* [String](/Collections/string.md#string) > [Parsing](/Collections/string.md#parsing)
+* [Hashmap](/Collections/hashmap.md#hashmap)

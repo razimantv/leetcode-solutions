@@ -45,6 +45,6 @@ class Solution {
 ```
 ## Tags
 
-* [Stack](/README.md#Stack) > [Monotonic stack](/README.md#Stack-Monotonic_stack)
-* [Array scanning](/README.md#Array_scanning) > [From both ends of array](/README.md#Array_scanning-From_both_ends_of_array)
-* [Dynamic programming](/README.md#Dynamic_programming)
+* [Stack](/Collections/stack.md#stack) > [Monotonic stack](/Collections/stack.md#monotonic-stack)
+* [Array scanning](/Collections/array-scanning.md#array-scanning) > [From both ends of array](/Collections/array-scanning.md#from-both-ends-of-array)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming)

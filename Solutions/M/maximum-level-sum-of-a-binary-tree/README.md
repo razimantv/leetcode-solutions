@@ -50,7 +50,7 @@ class Solution {
 ```
 ## Tags
 
-* [Tree](/README.md#Tree) > [Binary tree](/README.md#Tree-Binary_tree) > [Iteration](/README.md#Tree-Binary_tree-Iteration)
-* [Tree](/README.md#Tree) > [Level-wise processing](/README.md#Tree-Level_wise_processing)
-* [Graph theory](/README.md#Graph_theory) > [Breadth first search](/README.md#Graph_theory-Breadth_first_search)
-* [ChatGPT](/README.md#ChatGPT)
+* [Tree](/Collections/tree.md#tree) > [Binary tree](/Collections/tree.md#binary-tree) > [Iteration](/Collections/tree.md#iteration)
+* [Tree](/Collections/tree.md#tree) > [Level-wise processing](/Collections/tree.md#level-wise-processing)
+* [Graph theory](/Collections/graph-theory.md#graph-theory) > [Breadth first search](/Collections/graph-theory.md#breadth-first-search)
+* [ChatGPT](/Collections/chatgpt.md#chatgpt)

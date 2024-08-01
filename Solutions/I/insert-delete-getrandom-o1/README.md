@@ -56,6 +56,6 @@ class RandomizedSet {
 ```
 ## Tags
 
-* [Hashmap](/README.md#Hashmap) > [Forward and backward](/README.md#Hashmap-Forward_and_backward)
-* [Mathematics](/README.md#Mathematics) > [Probability](/README.md#Mathematics-Probability)
-* [Design data structure](/README.md#Design_data_structure)
+* [Hashmap](/Collections/hashmap.md#hashmap) > [Forward and backward](/Collections/hashmap.md#forward-and-backward)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Probability](/Collections/mathematics.md#probability)
+* [Design data structure](/Collections/design-data-structure.md#design-data-structure)

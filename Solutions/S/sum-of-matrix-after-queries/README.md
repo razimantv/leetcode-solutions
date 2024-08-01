@@ -31,5 +31,5 @@ class Solution {
 ```
 ## Tags
 
-* [Time reversed simulation](/README.md#Time_reversed_simulation)
-* [Hashmap](/README.md#Hashmap)
+* [Time reversed simulation](/Collections/time-reversed-simulation.md#time-reversed-simulation)
+* [Hashmap](/Collections/hashmap.md#hashmap)

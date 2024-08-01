@@ -67,5 +67,5 @@ class Solution:
 ```
 ## Tags
 
-* [Backtracking](/README.md#Backtracking)
-* [Brute force enumeration](/README.md#Brute_force_enumeration) > [Combinatorial](/README.md#Brute_force_enumeration-Combinatorial)
+* [Backtracking](/Collections/backtracking.md#backtracking)
+* [Brute force enumeration](/Collections/brute-force-enumeration.md#brute-force-enumeration) > [Combinatorial](/Collections/brute-force-enumeration.md#combinatorial)

@@ -27,5 +27,5 @@ class Solution {
 ```
 ## Tags
 
-* [Array scanning](/README.md#Array_scanning) > [In-place modification](/README.md#Array_scanning-In_place_modification)
-* [Two pointers](/README.md#Two_pointers)
+* [Array scanning](/Collections/array-scanning.md#array-scanning) > [In-place modification](/Collections/array-scanning.md#in-place-modification)
+* [Two pointers](/Collections/two-pointers.md#two-pointers)

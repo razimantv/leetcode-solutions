@@ -30,6 +30,6 @@ class Solution:
 ```
 ## Tags
 
-* [Intervals](/README.md#Intervals) > [Endpoint sorting](/README.md#Intervals-Endpoint_sorting)
-* [Intervals](/README.md#Intervals) > [Overlap](/README.md#Intervals-Overlap)
-* [Sorting](/README.md#Sorting) > [Queries and updates together](/README.md#Sorting-Queries_and_updates_together)
+* [Intervals](/Collections/intervals.md#intervals) > [Endpoint sorting](/Collections/intervals.md#endpoint-sorting)
+* [Intervals](/Collections/intervals.md#intervals) > [Overlap](/Collections/intervals.md#overlap)
+* [Sorting](/Collections/sorting.md#sorting) > [Queries and updates together](/Collections/sorting.md#queries-and-updates-together)

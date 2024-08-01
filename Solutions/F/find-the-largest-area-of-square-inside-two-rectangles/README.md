@@ -27,4 +27,4 @@ class Solution:
 ```
 ## Tags
 
-* [Intervals](/README.md#Intervals) > [Overlap](/README.md#Intervals-Overlap)
+* [Intervals](/Collections/intervals.md#intervals) > [Overlap](/Collections/intervals.md#overlap)

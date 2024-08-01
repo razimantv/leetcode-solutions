@@ -41,4 +41,4 @@ class Solution {
 ```
 ## Tags
 
-* [Suboptimal solution](/README.md#Suboptimal_solution)
+* [Suboptimal solution](/Collections/suboptimal-solution.md#suboptimal-solution)

@@ -59,5 +59,5 @@ class Solution {
 ```
 ## Tags
 
-* [Backtracking](/README.md#Backtracking)
-* [Heuristic optimisation](/README.md#Heuristic_optimisation)
+* [Backtracking](/Collections/backtracking.md#backtracking)
+* [Heuristic optimisation](/Collections/heuristic-optimisation.md#heuristic-optimisation)

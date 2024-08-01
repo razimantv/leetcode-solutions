@@ -35,6 +35,6 @@ class Solution {
 ```
 ## Tags
 
-* [Prefix](/README.md#Prefix) > [Sum](/README.md#Prefix-Sum)
-* [Binary search](/README.md#Binary_search) > [Prefix sum](/README.md#Binary_search-Prefix_sum)
-* [Matrix](/README.md#Matrix) > [Row pair processing](/README.md#Matrix-Row_pair_processing)
+* [Prefix](/Collections/prefix.md#prefix) > [Sum](/Collections/prefix.md#sum)
+* [Binary search](/Collections/binary-search.md#binary-search) > [Prefix sum](/Collections/binary-search.md#prefix-sum)
+* [Matrix](/Collections/matrix.md#matrix) > [Row pair processing](/Collections/matrix.md#row-pair-processing)

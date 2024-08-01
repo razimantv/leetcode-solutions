@@ -28,5 +28,5 @@ class Solution {
 ```
 ## Tags
 
-* [Simple implementation](/README.md#Simple_implementation)
-* [Matrix](/README.md#Matrix)
+* [Simple implementation](/Collections/simple-implementation.md#simple-implementation)
+* [Matrix](/Collections/matrix.md#matrix)

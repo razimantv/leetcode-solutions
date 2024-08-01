@@ -28,5 +28,5 @@ class Solution:
 ```
 ## Tags
 
-* [Hashmap](/README.md#Hashmap) > [Counter](/README.md#Hashmap-Counter)
-* [Dynamic programming](/README.md#Dynamic_programming)
+* [Hashmap](/Collections/hashmap.md#hashmap) > [Counter](/Collections/hashmap.md#counter)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming)

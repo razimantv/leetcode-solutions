@@ -32,4 +32,4 @@ class Solution {
 ```
 ## Tags
 
-* [String](/README.md#String) > [Parsing](/README.md#String-Parsing) > [Recursive](/README.md#String-Parsing-Recursive)
+* [String](/Collections/string.md#string) > [Parsing](/Collections/string.md#parsing) > [Recursive](/Collections/string.md#recursive)

@@ -48,5 +48,5 @@ class Solution {
 ```
 ## Tags
 
-* [Greedy](/README.md#Greedy)
-* [Priority queue](/README.md#Priority_queue)
+* [Greedy](/Collections/greedy.md#greedy)
+* [Priority queue](/Collections/priority-queue.md#priority-queue)

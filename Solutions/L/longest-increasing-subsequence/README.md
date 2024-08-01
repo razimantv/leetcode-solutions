@@ -28,5 +28,5 @@ class Solution {
 ```
 ## Tags
 
-* [Suboptimal solution](/README.md#Suboptimal_solution)
-* [Dynamic programming](/README.md#Dynamic_programming) > [Longest increasing subsequence](/README.md#Dynamic_programming-Longest_increasing_subsequence)
+* [Suboptimal solution](/Collections/suboptimal-solution.md#suboptimal-solution)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming) > [Longest increasing subsequence](/Collections/dynamic-programming.md#longest-increasing-subsequence)

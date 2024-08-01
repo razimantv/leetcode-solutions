@@ -48,5 +48,5 @@ class Solution {
 ```
 ## Tags
 
-* [Stack](/README.md#Stack) > [Numerical operations](/README.md#Stack-Numerical_operations)
-* [String](/README.md#String) > [Parsing](/README.md#String-Parsing)
+* [Stack](/Collections/stack.md#stack) > [Numerical operations](/Collections/stack.md#numerical-operations)
+* [String](/Collections/string.md#string) > [Parsing](/Collections/string.md#parsing)

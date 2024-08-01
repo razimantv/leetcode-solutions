@@ -46,5 +46,5 @@ class Solution {
 ```
 ## Tags
 
-* [Priority queue](/README.md#Priority_queue) > [K smallest/largest elements](/README.md#Priority_queue-K_smallest_largest_elements) > [Transfer between the two](/README.md#Priority_queue-K_smallest_largest_elements-Transfer_between_the_two)
-* [Sliding window](/README.md#Sliding_window)
+* [Priority queue](/Collections/priority-queue.md#priority-queue) > [K smallest/largest elements](/Collections/priority-queue.md#k-smallest-largest-elements) > [Transfer between the two](/Collections/priority-queue.md#transfer-between-the-two)
+* [Sliding window](/Collections/sliding-window.md#sliding-window)

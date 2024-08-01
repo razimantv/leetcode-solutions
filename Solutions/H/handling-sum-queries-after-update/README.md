@@ -69,5 +69,5 @@ class Solution {
 ```
 ## Tags
 
-* [Segment tree](/README.md#Segment_tree) > [Lazy propagation](/README.md#Segment_tree-Lazy_propagation)
-* [Mathematics](/README.md#Mathematics) > [Composition of operations](/README.md#Mathematics-Composition_of_operations)
+* [Segment tree](/Collections/segment-tree.md#segment-tree) > [Lazy propagation](/Collections/segment-tree.md#lazy-propagation)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Composition of operations](/Collections/mathematics.md#composition-of-operations)

@@ -43,5 +43,5 @@ class Solution {
 ```
 ## Tags
 
-* [Binary search](/README.md#Binary_search)
-* [Matrix](/README.md#Matrix) > [Path](/README.md#Matrix-Path)
+* [Binary search](/Collections/binary-search.md#binary-search)
+* [Matrix](/Collections/matrix.md#matrix) > [Path](/Collections/matrix.md#path)

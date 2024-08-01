@@ -37,4 +37,4 @@ class Solution {
 ```
 ## Tags
 
-* [Stack](/README.md#Stack) > [From array elements](/README.md#Stack-From_array_elements)
+* [Stack](/Collections/stack.md#stack) > [From array elements](/Collections/stack.md#from-array-elements)

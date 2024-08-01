@@ -50,5 +50,5 @@ class Solution {
 ```
 ## Tags
 
-* [Priority queue](/README.md#Priority_queue) > [Dynamic sorted neighbour](/README.md#Priority_queue-Dynamic_sorted_neighbour)
-* [Dynamic update of left and right neighbours](/README.md#Dynamic_update_of_left_and_right_neighbours)
+* [Priority queue](/Collections/priority-queue.md#priority-queue) > [Dynamic sorted neighbour](/Collections/priority-queue.md#dynamic-sorted-neighbour)
+* [Dynamic update of left and right neighbours](/Collections/dynamic-update-of-left-and-right-neighbours.md#dynamic-update-of-left-and-right-neighbours)

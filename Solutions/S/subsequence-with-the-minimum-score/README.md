@@ -38,6 +38,6 @@ class Solution {
 ```
 ## Tags
 
-* [Array scanning](/README.md#Array_scanning) > [From both ends of array](/README.md#Array_scanning-From_both_ends_of_array)
-* [Sliding window](/README.md#Sliding_window)
-* [String](/README.md#String) > [Subsequence](/README.md#String-Subsequence)
+* [Array scanning](/Collections/array-scanning.md#array-scanning) > [From both ends of array](/Collections/array-scanning.md#from-both-ends-of-array)
+* [Sliding window](/Collections/sliding-window.md#sliding-window)
+* [String](/Collections/string.md#string) > [Subsequence](/Collections/string.md#subsequence)

@@ -32,4 +32,4 @@ class Solution {
 ```
 ## Tags
 
-* [Matrix](/README.md#Matrix) > [Traversal](/README.md#Matrix-Traversal)
+* [Matrix](/Collections/matrix.md#matrix) > [Traversal](/Collections/matrix.md#traversal)

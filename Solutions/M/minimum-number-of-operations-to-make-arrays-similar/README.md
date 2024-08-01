@@ -56,5 +56,5 @@ class Solution:
 ```
 ## Tags
 
-* [Sorting](/README.md#Sorting)
-* [Greedy](/README.md#Greedy)
+* [Sorting](/Collections/sorting.md#sorting)
+* [Greedy](/Collections/greedy.md#greedy)

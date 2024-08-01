@@ -42,5 +42,5 @@ class Solution {
 ```
 ## Tags
 
-* [Graph theory](/README.md#Graph_theory) > [Minimum spanning tree](/README.md#Graph_theory-Minimum_spanning_tree)
-* [Disjoint set union](/README.md#Disjoint_set_union)
+* [Graph theory](/Collections/graph-theory.md#graph-theory) > [Minimum spanning tree](/Collections/graph-theory.md#minimum-spanning-tree)
+* [Disjoint set union](/Collections/disjoint-set-union.md#disjoint-set-union)

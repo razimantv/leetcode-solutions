@@ -35,5 +35,5 @@ class Solution {
 ```
 ## Tags
 
-* [Palindrome](/README.md#Palindrome)
-* [Counting elements in array](/README.md#Counting_elements_in_array)
+* [Palindrome](/Collections/palindrome.md#palindrome)
+* [Counting elements in array](/Collections/counting-elements-in-array.md#counting-elements-in-array)

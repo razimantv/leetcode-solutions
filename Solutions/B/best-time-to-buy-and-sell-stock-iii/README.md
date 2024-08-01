@@ -33,6 +33,6 @@ class Solution {
 ```
 ## Tags
 
-* [Prefix](/README.md#Prefix) > [Extremum](/README.md#Prefix-Extremum)
-* [Dynamic programming](/README.md#Dynamic_programming)
-* [Array scanning](/README.md#Array_scanning) > [From both ends of array](/README.md#Array_scanning-From_both_ends_of_array)
+* [Prefix](/Collections/prefix.md#prefix) > [Extremum](/Collections/prefix.md#extremum)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming)
+* [Array scanning](/Collections/array-scanning.md#array-scanning) > [From both ends of array](/Collections/array-scanning.md#from-both-ends-of-array)

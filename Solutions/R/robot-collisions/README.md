@@ -65,6 +65,6 @@ class Solution {
 ```
 ## Tags
 
-* [Sorting](/README.md#Sorting) > [Index array](/README.md#Sorting-Index_array)
-* [Priority queue](/README.md#Priority_queue)
-* [Dynamic update of left and right neighbours](/README.md#Dynamic_update_of_left_and_right_neighbours)
+* [Sorting](/Collections/sorting.md#sorting) > [Index array](/Collections/sorting.md#index-array)
+* [Priority queue](/Collections/priority-queue.md#priority-queue)
+* [Dynamic update of left and right neighbours](/Collections/dynamic-update-of-left-and-right-neighbours.md#dynamic-update-of-left-and-right-neighbours)

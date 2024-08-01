@@ -41,5 +41,5 @@ class Solution {
 ```
 ## Tags
 
-* [Bitwise operation](/README.md#Bitwise_operation)
-* [Dynamic programming](/README.md#Dynamic_programming) > [Digits](/README.md#Dynamic_programming-Digits)
+* [Bitwise operation](/Collections/bitwise-operation.md#bitwise-operation)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming) > [Digits](/Collections/dynamic-programming.md#digits)

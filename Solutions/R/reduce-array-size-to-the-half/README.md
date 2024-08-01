@@ -40,6 +40,6 @@ class Solution {
 ```
 ## Tags
 
-* [Hashmap](/README.md#Hashmap)
-* [Array scanning](/README.md#Array_scanning) > [Contiguous region](/README.md#Array_scanning-Contiguous_region)
-* [Greedy](/README.md#Greedy)
+* [Hashmap](/Collections/hashmap.md#hashmap)
+* [Array scanning](/Collections/array-scanning.md#array-scanning) > [Contiguous region](/Collections/array-scanning.md#contiguous-region)
+* [Greedy](/Collections/greedy.md#greedy)

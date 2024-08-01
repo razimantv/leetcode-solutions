@@ -28,4 +28,4 @@ class Solution {
 ```
 ## Tags
 
-* [Simple implementation](/README.md#Simple_implementation)
+* [Simple implementation](/Collections/simple-implementation.md#simple-implementation)

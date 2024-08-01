@@ -38,7 +38,7 @@ class Solution {
 ```
 ## Tags
 
-* [Hashmap](/README.md#Hashmap) > [Group items](/README.md#Hashmap-Group_items)
-* [Disjoint set union](/README.md#Disjoint_set_union)
-* [Mathematics](/README.md#Mathematics) > [Combinatorics](/README.md#Mathematics-Combinatorics)
-* [Sorting](/README.md#Sorting) > [Queries and updates together](/README.md#Sorting-Queries_and_updates_together)
+* [Hashmap](/Collections/hashmap.md#hashmap) > [Group items](/Collections/hashmap.md#group-items)
+* [Disjoint set union](/Collections/disjoint-set-union.md#disjoint-set-union)
+* [Mathematics](/Collections/mathematics.md#mathematics) > [Combinatorics](/Collections/mathematics.md#combinatorics)
+* [Sorting](/Collections/sorting.md#sorting) > [Queries and updates together](/Collections/sorting.md#queries-and-updates-together)

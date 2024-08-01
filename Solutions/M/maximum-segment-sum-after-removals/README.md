@@ -43,5 +43,5 @@ class Solution {
 ```
 ## Tags
 
-* [Disjoint set union](/README.md#Disjoint_set_union)
-* [Time reversed simulation](/README.md#Time_reversed_simulation)
+* [Disjoint set union](/Collections/disjoint-set-union.md#disjoint-set-union)
+* [Time reversed simulation](/Collections/time-reversed-simulation.md#time-reversed-simulation)

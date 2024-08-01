@@ -27,5 +27,5 @@ class Solution {
 ```
 ## Tags
 
-* [Array scanning](/README.md#Array_scanning) > [Right to left](/README.md#Array_scanning-Right_to_left)
-* [Integer operations on strings](/README.md#Integer_operations_on_strings)
+* [Array scanning](/Collections/array-scanning.md#array-scanning) > [Right to left](/Collections/array-scanning.md#right-to-left)
+* [Integer operations on strings](/Collections/integer-operations-on-strings.md#integer-operations-on-strings)

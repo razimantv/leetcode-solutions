@@ -38,6 +38,6 @@ class Solution {
 ```
 ## Tags
 
-* [Sorting](/README.md#Sorting) > [Custom](/README.md#Sorting-Custom)
-* [Intervals](/README.md#Intervals) > [Dynamic programming](/README.md#Intervals-Dynamic_programming) > [With binary search](/README.md#Intervals-Dynamic_programming-With_binary_search)
-* [Dynamic programming](/README.md#Dynamic_programming) > [Intervals](/README.md#Dynamic_programming-Intervals)
+* [Sorting](/Collections/sorting.md#sorting) > [Custom](/Collections/sorting.md#custom)
+* [Intervals](/Collections/intervals.md#intervals) > [Dynamic programming](/Collections/intervals.md#dynamic-programming) > [With binary search](/Collections/intervals.md#with-binary-search)
+* [Dynamic programming](/Collections/dynamic-programming.md#dynamic-programming) > [Intervals](/Collections/dynamic-programming.md#intervals)

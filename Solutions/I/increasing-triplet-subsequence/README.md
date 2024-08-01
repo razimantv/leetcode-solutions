@@ -26,4 +26,4 @@ class Solution {
 ```
 ## Tags
 
-* [Prefix](/README.md#Prefix) > [Extremum](/README.md#Prefix-Extremum)
+* [Prefix](/Collections/prefix.md#prefix) > [Extremum](/Collections/prefix.md#extremum)

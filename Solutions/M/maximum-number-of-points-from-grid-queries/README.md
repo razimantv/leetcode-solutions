@@ -50,7 +50,7 @@ class Solution {
 ```
 ## Tags
 
-* [Sorting](/README.md#Sorting) > [Custom](/README.md#Sorting-Custom)
-* [Graph theory](/README.md#Graph_theory) > [Prim's algorithm](/README.md#Graph_theory-Prim_s_algorithm)
-* [Priority queue](/README.md#Priority_queue)
-* [Binary search](/README.md#Binary_search) > [C++ set](/README.md#Binary_search-C___set)
+* [Sorting](/Collections/sorting.md#sorting) > [Custom](/Collections/sorting.md#custom)
+* [Graph theory](/Collections/graph-theory.md#graph-theory) > [Prim's algorithm](/Collections/graph-theory.md#prim-s-algorithm)
+* [Priority queue](/Collections/priority-queue.md#priority-queue)
+* [Binary search](/Collections/binary-search.md#binary-search) > [C++ set](/Collections/binary-search.md#c---set)

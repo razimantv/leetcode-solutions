@@ -33,5 +33,5 @@ class Solution {
 ```
 ## Tags
 
-* [Prefix](/README.md#Prefix) > [Extremum](/README.md#Prefix-Extremum)
-* [Valid subarray counting](/README.md#Valid_subarray_counting) > [Iterate one endpoint and keep valid range for other](/README.md#Valid_subarray_counting-Iterate_one_endpoint_and_keep_valid_range_for_other)
+* [Prefix](/Collections/prefix.md#prefix) > [Extremum](/Collections/prefix.md#extremum)
+* [Valid subarray counting](/Collections/valid-subarray-counting.md#valid-subarray-counting) > [Iterate one endpoint and keep valid range for other](/Collections/valid-subarray-counting.md#iterate-one-endpoint-and-keep-valid-range-for-other)

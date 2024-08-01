@@ -20,4 +20,4 @@ class Solution {
 ```
 ## Tags
 
-* [Sorting](/README.md#Sorting) > [Partial](/README.md#Sorting-Partial)
+* [Sorting](/Collections/sorting.md#sorting) > [Partial](/Collections/sorting.md#partial)

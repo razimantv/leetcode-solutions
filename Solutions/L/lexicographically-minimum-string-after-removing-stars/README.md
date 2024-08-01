@@ -26,5 +26,5 @@ class Solution:
 ```
 ## Tags
 
-* [Hashmap](/README.md#Hashmap)
-* [Greedy](/README.md#Greedy)
+* [Hashmap](/Collections/hashmap.md#hashmap)
+* [Greedy](/Collections/greedy.md#greedy)

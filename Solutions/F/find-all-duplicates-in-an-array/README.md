@@ -29,5 +29,5 @@ class Solution {
 ```
 ## Tags
 
-* [Unique/duplicate element finding with bizarro algorithms](/README.md#Unique_duplicate_element_finding_with_bizarro_algorithms)
-* [Array scanning](/README.md#Array_scanning) > [In-place modification](/README.md#Array_scanning-In_place_modification)
+* [Unique/duplicate element finding with bizarro algorithms](/Collections/unique-duplicate-element-finding-with-bizarro-algorithms.md#unique-duplicate-element-finding-with-bizarro-algorithms)
+* [Array scanning](/Collections/array-scanning.md#array-scanning) > [In-place modification](/Collections/array-scanning.md#in-place-modification)

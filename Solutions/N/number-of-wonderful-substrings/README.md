@@ -20,7 +20,7 @@ class Solution:
 ```
 ## Tags
 
-* [Palindrome](/README.md#Palindrome)
-* [Bitwise operation](/README.md#Bitwise_operation) > [Self-inverse property of xor](/README.md#Bitwise_operation-Self_inverse_property_of_xor)
-* [Hashmap](/README.md#Hashmap)
-* [Prefix](/README.md#Prefix) > [Bitwise operation](/README.md#Prefix-Bitwise_operation)
+* [Palindrome](/Collections/palindrome.md#palindrome)
+* [Bitwise operation](/Collections/bitwise-operation.md#bitwise-operation) > [Self-inverse property of xor](/Collections/bitwise-operation.md#self-inverse-property-of-xor)
+* [Hashmap](/Collections/hashmap.md#hashmap)
+* [Prefix](/Collections/prefix.md#prefix) > [Bitwise operation](/Collections/prefix.md#bitwise-operation)

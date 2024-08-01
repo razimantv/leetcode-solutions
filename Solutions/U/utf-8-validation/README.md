@@ -32,5 +32,5 @@ class Solution {
 ```
 ## Tags
 
-* [String](/README.md#String) > [Parsing](/README.md#String-Parsing)
-* [Bitwise operation](/README.md#Bitwise_operation)
+* [String](/Collections/string.md#string) > [Parsing](/Collections/string.md#parsing)
+* [Bitwise operation](/Collections/bitwise-operation.md#bitwise-operation)
