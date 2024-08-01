@@ -108,7 +108,7 @@ void print_tag_list(std::map<Tag, std::set<Problem>>& tag_map) {
       tag_label += sanitize(tag[level]);
       std::cout << "\n"
                 << std::string(level + 2, '#') << " "
-                << "<a name=\"" << tag_label << "\">" << tag[level] << "</a>\n";
+                << "<a id=\"" << tag_label << "\">" << tag[level] << "</a>\n";
       ++level;
     }
 
