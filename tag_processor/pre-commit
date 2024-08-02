@@ -18,4 +18,4 @@ then
 fi
 
 cd ../Solutions || exit 1
-git add . ../README.md
+git add . ../README.md ../Collections

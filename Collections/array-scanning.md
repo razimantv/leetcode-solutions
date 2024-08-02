@@ -62,6 +62,7 @@
 ## <a id="cyclic-array">Cyclic array</a>
 * [Alternating groups i](../Solutions/A/alternating-groups-i)
 * [Alternating groups ii](../Solutions/A/alternating-groups-ii)
+* [Minimum swaps to group all 1s together ii](../Solutions/M/minimum-swaps-to-group-all-1s-together-ii)
 
 ## <a id="from-both-ends-of-array">From both ends of array</a>
 * [Beautiful towers ii](../Solutions/B/beautiful-towers-ii)

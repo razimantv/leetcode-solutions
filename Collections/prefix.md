@@ -71,6 +71,7 @@
 * [Minimum operations to make all array elements equal](../Solutions/M/minimum-operations-to-make-all-array-elements-equal)
 * [Minimum size subarray in infinite array](../Solutions/M/minimum-size-subarray-in-infinite-array)
 * [Minimum space wasted from packaging](../Solutions/M/minimum-space-wasted-from-packaging)
+* [Minimum swaps to group all 1s together ii](../Solutions/M/minimum-swaps-to-group-all-1s-together-ii)
 * [Minimum value to get positive step by step sum](../Solutions/M/minimum-value-to-get-positive-step-by-step-sum)
 * [Movement of robots](../Solutions/M/movement-of-robots)
 * [Number of good leaf nodes pairs](../Solutions/N/number-of-good-leaf-nodes-pairs)
