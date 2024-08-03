@@ -13,6 +13,7 @@
 * [Largest submatrix with rearrangements](../Solutions/L/largest-submatrix-with-rearrangements)
 * [Longest square streak in an array](../Solutions/L/longest-square-streak-in-an-array)
 * [Majority element](../Solutions/M/majority-element)
+* [Make two arrays equal by reversing subarrays](../Solutions/M/make-two-arrays-equal-by-reversing-subarrays)
 * [Maximize area of square hole in grid](../Solutions/M/maximize-area-of-square-hole-in-grid)
 * [Maximum area of a piece of cake after horizontal and vertical cuts](../Solutions/M/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts)
 * [Maximum gap](../Solutions/M/maximum-gap)
