@@ -18,6 +18,7 @@
 * [Global and local inversions](../Solutions/G/global-and-local-inversions)
 * [Increasing triplet subsequence](../Solutions/I/increasing-triplet-subsequence)
 * [Partition array into disjoint intervals](../Solutions/P/partition-array-into-disjoint-intervals)
+* [Time taken to mark all nodes](../Solutions/T/time-taken-to-mark-all-nodes)
 * [Using a robot to print the lexicographically smallest string](../Solutions/U/using-a-robot-to-print-the-lexicographically-smallest-string)
 
 ### <a id="2d">2D</a>

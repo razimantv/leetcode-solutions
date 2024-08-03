@@ -14,6 +14,8 @@
 * [Minimum changes to make k semi palindromes](../Solutions/M/minimum-changes-to-make-k-semi-palindromes)
 * [Minimum cost to make array equalindromic](../Solutions/M/minimum-cost-to-make-array-equalindromic)
 * [Minimum insertion steps to make a string palindrome](../Solutions/M/minimum-insertion-steps-to-make-a-string-palindrome)
+* [Minimum number of flips to make binary grid palindromic i](../Solutions/M/minimum-number-of-flips-to-make-binary-grid-palindromic-i)
+* [Minimum number of flips to make binary grid palindromic ii](../Solutions/M/minimum-number-of-flips-to-make-binary-grid-palindromic-ii)
 * [Number of wonderful substrings](../Solutions/N/number-of-wonderful-substrings)
 * [Palindrome linked list](../Solutions/P/palindrome-linked-list)
 * [Palindrome partitioning](../Solutions/P/palindrome-partitioning)

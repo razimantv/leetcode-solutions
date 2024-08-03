@@ -92,6 +92,7 @@
 * [Reorder routes to make all paths lead to the city zero](../Solutions/R/reorder-routes-to-make-all-paths-lead-to-the-city-zero)
 * [Shortest cycle in a graph](../Solutions/S/shortest-cycle-in-a-graph)
 * [Time needed to inform all employees](../Solutions/T/time-needed-to-inform-all-employees)
+* [Time taken to mark all nodes](../Solutions/T/time-taken-to-mark-all-nodes)
 * [Validate binary tree nodes](../Solutions/V/validate-binary-tree-nodes)
 
 ### <a id="colouring">Colouring</a>

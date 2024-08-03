@@ -313,6 +313,7 @@
 * [Count pairs of connectable servers in a weighted tree network](../Solutions/C/count-pairs-of-connectable-servers-in-a-weighted-tree-network)
 * [Find the maximum sum of node values](../Solutions/F/find-the-maximum-sum-of-node-values)
 * [Number of good leaf nodes pairs](../Solutions/N/number-of-good-leaf-nodes-pairs)
+* [Time taken to mark all nodes](../Solutions/T/time-taken-to-mark-all-nodes)
 
 ## <a id="trie">Trie</a>
 * [Construct string with minimum cost](../Solutions/C/construct-string-with-minimum-cost)

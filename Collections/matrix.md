@@ -8,6 +8,8 @@
 * [Increment submatrices by one](../Solutions/I/increment-submatrices-by-one)
 * [Largest submatrix with rearrangements](../Solutions/L/largest-submatrix-with-rearrangements)
 * [Maximum strictly increasing cells in a matrix](../Solutions/M/maximum-strictly-increasing-cells-in-a-matrix)
+* [Minimum number of flips to make binary grid palindromic i](../Solutions/M/minimum-number-of-flips-to-make-binary-grid-palindromic-i)
+* [Minimum number of flips to make binary grid palindromic ii](../Solutions/M/minimum-number-of-flips-to-make-binary-grid-palindromic-ii)
 * [Modify the matrix](../Solutions/M/modify-the-matrix)
 * [Right triangles](../Solutions/R/right-triangles)
 

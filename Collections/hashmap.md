@@ -152,6 +152,7 @@
 * [Find the maximum number of elements in subset](../Solutions/F/find-the-maximum-number-of-elements-in-subset)
 * [Find the number of good pairs i](../Solutions/F/find-the-number-of-good-pairs-i)
 * [Find the number of good pairs ii](../Solutions/F/find-the-number-of-good-pairs-ii)
+* [Find the number of winning players](../Solutions/F/find-the-number-of-winning-players)
 * [Hand of straights](../Solutions/H/hand-of-straights)
 * [Least number of unique integers after k removals](../Solutions/L/least-number-of-unique-integers-after-k-removals)
 * [Maximum length substring with two occurrences](../Solutions/M/maximum-length-substring-with-two-occurrences)
