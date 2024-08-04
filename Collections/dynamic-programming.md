@@ -192,6 +192,7 @@
 * [Minimum additions to make valid string](../Solutions/M/minimum-additions-to-make-valid-string)
 * [Number of strings which can be rearranged to contain substring](../Solutions/N/number-of-strings-which-can-be-rearranged-to-contain-substring)
 * [Number of ways to paint n 3 grid](../Solutions/N/number-of-ways-to-paint-n-3-grid)
+* [Shortest distance after road addition queries i](../Solutions/S/shortest-distance-after-road-addition-queries-i)
 * [Special permutations](../Solutions/S/special-permutations)
 
 ## <a id="grid">Grid</a>

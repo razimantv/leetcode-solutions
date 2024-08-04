@@ -1,5 +1,6 @@
 
 # <a id="matrix">Matrix</a>
+* [Design neighbor sum service](../Solutions/D/design-neighbor-sum-service)
 * [Difference between ones and zeros in row and column](../Solutions/D/difference-between-ones-and-zeros-in-row-and-column)
 * [Difference of number of distinct values on diagonals](../Solutions/D/difference-of-number-of-distinct-values-on-diagonals)
 * [Find all groups of farmland](../Solutions/F/find-all-groups-of-farmland)

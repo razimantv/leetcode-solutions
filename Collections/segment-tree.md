@@ -1,5 +1,6 @@
 
 # <a id="segment-tree">Segment tree</a>
+* [Alternating groups iii](../Solutions/A/alternating-groups-iii)
 * [Count good triplets in an array](../Solutions/C/count-good-triplets-in-an-array)
 * [Count increasing quadruplets](../Solutions/C/count-increasing-quadruplets)
 * [Count of range sum](../Solutions/C/count-of-range-sum)

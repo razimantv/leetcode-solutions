@@ -23,6 +23,7 @@
 ## <a id="contiguous-region">Contiguous region</a>
 * [Alternating groups i](../Solutions/A/alternating-groups-i)
 * [Alternating groups ii](../Solutions/A/alternating-groups-ii)
+* [Alternating groups iii](../Solutions/A/alternating-groups-iii)
 * [Arithmetic slices](../Solutions/A/arithmetic-slices)
 * [Check if all 1s are at least length k places away](../Solutions/C/check-if-all-1s-are-at-least-length-k-places-away)
 * [Consecutive characters](../Solutions/C/consecutive-characters)
@@ -62,6 +63,7 @@
 ## <a id="cyclic-array">Cyclic array</a>
 * [Alternating groups i](../Solutions/A/alternating-groups-i)
 * [Alternating groups ii](../Solutions/A/alternating-groups-ii)
+* [Alternating groups iii](../Solutions/A/alternating-groups-iii)
 * [Minimum swaps to group all 1s together ii](../Solutions/M/minimum-swaps-to-group-all-1s-together-ii)
 
 ## <a id="from-both-ends-of-array">From both ends of array</a>

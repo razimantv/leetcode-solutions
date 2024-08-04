@@ -146,6 +146,8 @@
 * [All paths from source to target](../Solutions/A/all-paths-from-source-to-target)
 * [Find champion i](../Solutions/F/find-champion-i)
 * [Find champion ii](../Solutions/F/find-champion-ii)
+* [Shortest distance after road addition queries i](../Solutions/S/shortest-distance-after-road-addition-queries-i)
+* [Shortest distance after road addition queries ii](../Solutions/S/shortest-distance-after-road-addition-queries-ii)
 
 ## <a id="floyd-warshall-algorithm">Floyd-Warshall algorithm</a>
 * [Find the city with the smallest number of neighbors at a threshold distance](../Solutions/F/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance)

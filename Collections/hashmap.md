@@ -178,6 +178,7 @@
 * [Unique number of occurrences](../Solutions/U/unique-number-of-occurrences)
 
 ## <a id="forward-and-backward">Forward and backward</a>
+* [Design neighbor sum service](../Solutions/D/design-neighbor-sum-service)
 * [Find and replace pattern](../Solutions/F/find-and-replace-pattern)
 * [Find the longest equal subarray](../Solutions/F/find-the-longest-equal-subarray)
 * [Find the number of distinct colors among the balls](../Solutions/F/find-the-number-of-distinct-colors-among-the-balls)
