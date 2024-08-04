@@ -24,6 +24,9 @@
 ### <a id="2d">2D</a>
 * [Maximum difference score in a grid](../Solutions/M/maximum-difference-score-in-a-grid)
 
+## <a id="of-prefix">Of Prefix</a>
+* [Range sum of sorted subarray sums](../Solutions/R/range-sum-of-sorted-subarray-sums)
+
 ## <a id="sum">Sum</a>
 * [Apply operations to maximize frequency score](../Solutions/A/apply-operations-to-maximize-frequency-score)
 * [Binary subarrays with sum](../Solutions/B/binary-subarrays-with-sum)
@@ -79,6 +82,7 @@
 * [Palindrome rearrangement queries](../Solutions/P/palindrome-rearrangement-queries)
 * [Random pick with weight](../Solutions/R/random-pick-with-weight)
 * [Random point in non overlapping rectangles](../Solutions/R/random-point-in-non-overlapping-rectangles)
+* [Range sum of sorted subarray sums](../Solutions/R/range-sum-of-sorted-subarray-sums)
 * [Range sum query immutable](../Solutions/R/range-sum-query-immutable)
 * [Reducing dishes](../Solutions/R/reducing-dishes)
 * [Remove zero sum consecutive nodes from linked list](../Solutions/R/remove-zero-sum-consecutive-nodes-from-linked-list)

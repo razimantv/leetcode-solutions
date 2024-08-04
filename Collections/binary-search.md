@@ -58,6 +58,7 @@
 * [Partition array such that maximum difference is k](../Solutions/P/partition-array-such-that-maximum-difference-is-k)
 * [Peak index in a mountain array](../Solutions/P/peak-index-in-a-mountain-array)
 * [Prime subtraction operation](../Solutions/P/prime-subtraction-operation)
+* [Range sum of sorted subarray sums](../Solutions/R/range-sum-of-sorted-subarray-sums)
 * [Split array largest sum](../Solutions/S/split-array-largest-sum)
 
 ## <a id="c---set">C++ set</a>
