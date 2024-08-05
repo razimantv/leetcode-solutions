@@ -6,6 +6,7 @@
 * [Dota2 senate](../Solutions/D/dota2-senate)
 * [Find the first player to win k games in a row](../Solutions/F/find-the-first-player-to-win-k-games-in-a-row)
 * [Find the maximum length of valid subsequence i](../Solutions/F/find-the-maximum-length-of-valid-subsequence-i)
+* [Kth distinct string in an array](../Solutions/K/kth-distinct-string-in-an-array)
 * [Maximum enemy forts that can be captured](../Solutions/M/maximum-enemy-forts-that-can-be-captured)
 * [Maximum value of an ordered triplet i](../Solutions/M/maximum-value-of-an-ordered-triplet-i)
 * [Maximum value of an ordered triplet ii](../Solutions/M/maximum-value-of-an-ordered-triplet-ii)

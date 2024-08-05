@@ -1,3 +1,4 @@
+
 Array scanning
 Array scanning>Contiguous region
 Array scanning>Cyclic array
@@ -170,6 +171,7 @@ Precomputation to answer queries efficiently with delta
 Prefix>Bitwise operation
 Prefix>Extremum
 Prefix>Extremum>2D
+Prefix>Of Prefix
 Prefix>Sum
 Prefix>Sum>2D
 Prefix>Sum>For range updates
