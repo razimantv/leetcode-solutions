@@ -17,6 +17,7 @@
 * [Number of islands](../Solutions/N/number-of-islands)
 * [Rank transform of a matrix](../Solutions/R/rank-transform-of-a-matrix)
 * [Redundant connection](../Solutions/R/redundant-connection)
+* [Regions cut by slashes](../Solutions/R/regions-cut-by-slashes)
 * [Remove max number of edges to keep graph fully traversable](../Solutions/R/remove-max-number-of-edges-to-keep-graph-fully-traversable)
 * [Satisfiability of equality equations](../Solutions/S/satisfiability-of-equality-equations)
 * [Similar string groups](../Solutions/S/similar-string-groups)
