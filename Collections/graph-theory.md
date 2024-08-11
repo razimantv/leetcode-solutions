@@ -115,6 +115,7 @@
 * [Making a large island](../Solutions/M/making-a-large-island)
 * [Max area of island](../Solutions/M/max-area-of-island)
 * [Maximum number of fish in a grid](../Solutions/M/maximum-number-of-fish-in-a-grid)
+* [Minimum number of days to disconnect island](../Solutions/M/minimum-number-of-days-to-disconnect-island)
 * [Number of closed islands](../Solutions/N/number-of-closed-islands)
 * [Number of enclaves](../Solutions/N/number-of-enclaves)
 * [Shortest bridge](../Solutions/S/shortest-bridge)
@@ -180,6 +181,7 @@
 
 ## <a id="reuse-visited-array">Reuse visited array</a>
 * [Divide nodes into the maximum number of groups](../Solutions/D/divide-nodes-into-the-maximum-number-of-groups)
+* [Minimum number of days to disconnect island](../Solutions/M/minimum-number-of-days-to-disconnect-island)
 * [Shortest cycle in a graph](../Solutions/S/shortest-cycle-in-a-graph)
 
 ## <a id="search-from-source-and-target">Search from source and target</a>
