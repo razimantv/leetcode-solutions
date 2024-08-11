@@ -164,6 +164,7 @@
 * [Shortest distance to target string in a circular array](../Solutions/S/shortest-distance-to-target-string-in-a-circular-array)
 * [Shuffle the array](../Solutions/S/shuffle-the-array)
 * [Smallest even multiple](../Solutions/S/smallest-even-multiple)
+* [Snake in matrix](../Solutions/S/snake-in-matrix)
 * [Sort vowels in a string](../Solutions/S/sort-vowels-in-a-string)
 * [Special array i](../Solutions/S/special-array-i)
 * [Special positions in a binary matrix](../Solutions/S/special-positions-in-a-binary-matrix)

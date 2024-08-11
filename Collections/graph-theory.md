@@ -60,6 +60,7 @@
 * [Count number of possible root nodes](../Solutions/C/count-number-of-possible-root-nodes)
 * [Count pairs of connectable servers in a weighted tree network](../Solutions/C/count-pairs-of-connectable-servers-in-a-weighted-tree-network)
 * [Count paths that can form a palindrome in a tree](../Solutions/C/count-paths-that-can-form-a-palindrome-in-a-tree)
+* [Count the number of good nodes](../Solutions/C/count-the-number-of-good-nodes)
 * [Count valid paths in a tree](../Solutions/C/count-valid-paths-in-a-tree)
 * [Create components with same value](../Solutions/C/create-components-with-same-value)
 * [Critical connections in a network](../Solutions/C/critical-connections-in-a-network)

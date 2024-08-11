@@ -90,6 +90,8 @@
 * [Decremental string concatenation](../Solutions/D/decremental-string-concatenation)
 * [Delete operation for two strings](../Solutions/D/delete-operation-for-two-strings)
 * [Distinct subsequences](../Solutions/D/distinct-subsequences)
+* [Find the count of monotonic pairs i](../Solutions/F/find-the-count-of-monotonic-pairs-i)
+* [Find the count of monotonic pairs ii](../Solutions/F/find-the-count-of-monotonic-pairs-ii)
 * [Find the maximum length of a good subsequence i](../Solutions/F/find-the-maximum-length-of-a-good-subsequence-i)
 * [Find the maximum length of a good subsequence ii](../Solutions/F/find-the-maximum-length-of-a-good-subsequence-ii)
 * [Find the sum of subsequence powers](../Solutions/F/find-the-sum-of-subsequence-powers)
@@ -151,6 +153,10 @@
 * [Minimum one bit operations to make integers zero](../Solutions/M/minimum-one-bit-operations-to-make-integers-zero)
 * [Number of beautiful partitions](../Solutions/N/number-of-beautiful-partitions)
 * [Number of people aware of a secret](../Solutions/N/number-of-people-aware-of-a-secret)
+
+### <a id="prefix-sum">Prefix sum</a>
+* [Find the count of monotonic pairs i](../Solutions/F/find-the-count-of-monotonic-pairs-i)
+* [Find the count of monotonic pairs ii](../Solutions/F/find-the-count-of-monotonic-pairs-ii)
 
 ## <a id="binary-lifting">Binary lifting</a>
 * [Maximize value of function in a ball passing game](../Solutions/M/maximize-value-of-function-in-a-ball-passing-game)
@@ -290,6 +296,7 @@
 ## <a id="trees">Trees</a>
 * [All nodes distance k in binary tree](../Solutions/A/all-nodes-distance-k-in-binary-tree)
 * [Count number of possible root nodes](../Solutions/C/count-number-of-possible-root-nodes)
+* [Count the number of good nodes](../Solutions/C/count-the-number-of-good-nodes)
 * [Count valid paths in a tree](../Solutions/C/count-valid-paths-in-a-tree)
 * [Cousins in binary tree ii](../Solutions/C/cousins-in-binary-tree-ii)
 * [Diameter of binary tree](../Solutions/D/diameter-of-binary-tree)

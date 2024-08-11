@@ -47,6 +47,8 @@
 * [Delivering boxes from storage to ports](../Solutions/D/delivering-boxes-from-storage-to-ports)
 * [Execution of all suffix instructions staying in a grid](../Solutions/E/execution-of-all-suffix-instructions-staying-in-a-grid)
 * [Find maximum non decreasing array length](../Solutions/F/find-maximum-non-decreasing-array-length)
+* [Find the count of monotonic pairs i](../Solutions/F/find-the-count-of-monotonic-pairs-i)
+* [Find the count of monotonic pairs ii](../Solutions/F/find-the-count-of-monotonic-pairs-ii)
 * [Find the highest altitude](../Solutions/F/find-the-highest-altitude)
 * [Find the n th value after k seconds](../Solutions/F/find-the-n-th-value-after-k-seconds)
 * [Find the score of all prefixes of an array](../Solutions/F/find-the-score-of-all-prefixes-of-an-array)
