@@ -18,6 +18,7 @@
 * [Sudoku solver](../Solutions/S/sudoku-solver)
 
 ## <a id="push-and-pop-for-efficient-state-update">Push and pop for efficient state update</a>
+* [Combination sum ii](../Solutions/C/combination-sum-ii)
 * [Combinations](../Solutions/C/combinations)
 * [Path sum ii](../Solutions/P/path-sum-ii)
 * [Path sum iii](../Solutions/P/path-sum-iii)
