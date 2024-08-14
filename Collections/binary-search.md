@@ -14,6 +14,7 @@
 * [Find first and last position of element in sorted array](../Solutions/F/find-first-and-last-position-of-element-in-sorted-array)
 * [Find in mountain array](../Solutions/F/find-in-mountain-array)
 * [Find k closest elements](../Solutions/F/find-k-closest-elements)
+* [Find k th smallest pair distance](../Solutions/F/find-k-th-smallest-pair-distance)
 * [Find products of elements of big array](../Solutions/F/find-products-of-elements-of-big-array)
 * [Find right interval](../Solutions/F/find-right-interval)
 * [Find smallest letter greater than target](../Solutions/F/find-smallest-letter-greater-than-target)

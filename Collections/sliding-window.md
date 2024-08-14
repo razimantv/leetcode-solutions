@@ -16,6 +16,7 @@
 * [Divide an array into subarrays with minimum cost ii](../Solutions/D/divide-an-array-into-subarrays-with-minimum-cost-ii)
 * [Find a value of a mysterious function closest to target](../Solutions/F/find-a-value-of-a-mysterious-function-closest-to-target)
 * [Find all anagrams in a string](../Solutions/F/find-all-anagrams-in-a-string)
+* [Find k th smallest pair distance](../Solutions/F/find-k-th-smallest-pair-distance)
 * [Find subarray with bitwise and closest to k](../Solutions/F/find-subarray-with-bitwise-and-closest-to-k)
 * [Find the longest equal subarray](../Solutions/F/find-the-longest-equal-subarray)
 * [Find the median of the uniqueness array](../Solutions/F/find-the-median-of-the-uniqueness-array)
