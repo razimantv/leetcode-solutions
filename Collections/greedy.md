@@ -35,6 +35,7 @@
 * [Is subsequence](../Solutions/I/is-subsequence)
 * [Largest number](../Solutions/L/largest-number)
 * [Least number of unique integers after k removals](../Solutions/L/least-number-of-unique-integers-after-k-removals)
+* [Lemonade change](../Solutions/L/lemonade-change)
 * [Lexicographically minimum string after removing stars](../Solutions/L/lexicographically-minimum-string-after-removing-stars)
 * [Lexicographically smallest string after operations with constraint](../Solutions/L/lexicographically-smallest-string-after-operations-with-constraint)
 * [Lexicographically smallest string after substring operation](../Solutions/L/lexicographically-smallest-string-after-substring-operation)
