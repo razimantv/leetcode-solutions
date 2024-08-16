@@ -48,6 +48,7 @@
 * [Maximize happiness of selected children](../Solutions/M/maximize-happiness-of-selected-children)
 * [Maximize the minimum powered city](../Solutions/M/maximize-the-minimum-powered-city)
 * [Maximum bags with full capacity of rocks](../Solutions/M/maximum-bags-with-full-capacity-of-rocks)
+* [Maximum distance in arrays](../Solutions/M/maximum-distance-in-arrays)
 * [Maximum element after decreasing and rearranging](../Solutions/M/maximum-element-after-decreasing-and-rearranging)
 * [Maximum ice cream bars](../Solutions/M/maximum-ice-cream-bars)
 * [Maximum length of pair chain](../Solutions/M/maximum-length-of-pair-chain)

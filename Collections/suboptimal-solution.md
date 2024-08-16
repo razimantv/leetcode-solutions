@@ -17,6 +17,7 @@
 * [Longest word in dictionary](../Solutions/L/longest-word-in-dictionary)
 * [Map sum pairs](../Solutions/M/map-sum-pairs)
 * [Maximum distance between a pair of values](../Solutions/M/maximum-distance-between-a-pair-of-values)
+* [Maximum distance in arrays](../Solutions/M/maximum-distance-in-arrays)
 * [Maximum length substring with two occurrences](../Solutions/M/maximum-length-substring-with-two-occurrences)
 * [Maximum score after splitting a string](../Solutions/M/maximum-score-after-splitting-a-string)
 * [Next greater element i](../Solutions/N/next-greater-element-i)
