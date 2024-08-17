@@ -39,6 +39,7 @@
 * [Maximum value at a given index in a bounded array](../Solutions/M/maximum-value-at-a-given-index-in-a-bounded-array)
 * [Minimum operations to make array equal](../Solutions/M/minimum-operations-to-make-array-equal)
 * [Power of heroes](../Solutions/P/power-of-heroes)
+* [Sell diminishing valued colored balls](../Solutions/S/sell-diminishing-valued-colored-balls)
 
 ## <a id="combinatorics">Combinatorics</a>
 * [3sum with multiplicity](../Solutions/0-9/3sum-with-multiplicity)
