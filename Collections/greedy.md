@@ -70,6 +70,8 @@
 * [Maximum total importance of roads](../Solutions/M/maximum-total-importance-of-roads)
 * [Maximum units on a truck](../Solutions/M/maximum-units-on-a-truck)
 * [Maximum value after insertion](../Solutions/M/maximum-value-after-insertion)
+* [Maximum value sum by placing three rooks i](../Solutions/M/maximum-value-sum-by-placing-three-rooks-i)
+* [Maximum value sum by placing three rooks ii](../Solutions/M/maximum-value-sum-by-placing-three-rooks-ii)
 * [Maximum xor product](../Solutions/M/maximum-xor-product)
 * [Mice and cheese](../Solutions/M/mice-and-cheese)
 * [Minimize maximum pair sum in array](../Solutions/M/minimize-maximum-pair-sum-in-array)

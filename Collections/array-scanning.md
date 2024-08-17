@@ -37,6 +37,8 @@
 * [Find longest special substring that occurs thrice i](../Solutions/F/find-longest-special-substring-that-occurs-thrice-i)
 * [Find longest special substring that occurs thrice ii](../Solutions/F/find-longest-special-substring-that-occurs-thrice-ii)
 * [Find the longest balanced substring of a binary string](../Solutions/F/find-the-longest-balanced-substring-of-a-binary-string)
+* [Find the power of k size subarrays i](../Solutions/F/find-the-power-of-k-size-subarrays-i)
+* [Find the power of k size subarrays ii](../Solutions/F/find-the-power-of-k-size-subarrays-ii)
 * [Invalid transactions](../Solutions/I/invalid-transactions)
 * [Largest submatrix with rearrangements](../Solutions/L/largest-submatrix-with-rearrangements)
 * [Length of the longest alphabetical continuous substring](../Solutions/L/length-of-the-longest-alphabetical-continuous-substring)
