@@ -74,6 +74,7 @@
 * [Best time to buy and sell stock iii](../Solutions/B/best-time-to-buy-and-sell-stock-iii)
 * [Candy](../Solutions/C/candy)
 * [Count palindromic subsequences](../Solutions/C/count-palindromic-subsequences)
+* [Count substrings that satisfy k constraint ii](../Solutions/C/count-substrings-that-satisfy-k-constraint-ii)
 * [Count the number of incremovable subarrays i](../Solutions/C/count-the-number-of-incremovable-subarrays-i)
 * [Count the number of incremovable subarrays ii](../Solutions/C/count-the-number-of-incremovable-subarrays-ii)
 * [Find all good indices](../Solutions/F/find-all-good-indices)
@@ -118,6 +119,7 @@
 * [Number of subarrays with and value of k](../Solutions/N/number-of-subarrays-with-and-value-of-k)
 
 ## <a id="location-of-previous-element-with-same-value">Location of previous element with same value</a>
+* [Count substrings that satisfy k constraint ii](../Solutions/C/count-substrings-that-satisfy-k-constraint-ii)
 * [Count the number of good partitions](../Solutions/C/count-the-number-of-good-partitions)
 * [Count the number of substrings with dominant ones](../Solutions/C/count-the-number-of-substrings-with-dominant-ones)
 * [Count unique characters of all substrings of a given string](../Solutions/C/count-unique-characters-of-all-substrings-of-a-given-string)

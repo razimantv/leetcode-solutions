@@ -24,6 +24,7 @@
 
 ## <a id="lazy-propagation">Lazy propagation</a>
 * [Block placement queries](../Solutions/B/block-placement-queries)
+* [Count substrings that satisfy k constraint ii](../Solutions/C/count-substrings-that-satisfy-k-constraint-ii)
 * [Handling sum queries after update](../Solutions/H/handling-sum-queries-after-update)
 * [Subarrays distinct element sum of squares i](../Solutions/S/subarrays-distinct-element-sum-of-squares-i)
 * [Subarrays distinct element sum of squares ii](../Solutions/S/subarrays-distinct-element-sum-of-squares-ii)

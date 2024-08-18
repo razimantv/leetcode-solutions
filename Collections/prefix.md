@@ -41,6 +41,7 @@
 * [Count subarrays where max element appears at least k times](../Solutions/C/count-subarrays-where-max-element-appears-at-least-k-times)
 * [Count subarrays with median k](../Solutions/C/count-subarrays-with-median-k)
 * [Count subarrays with score less than k](../Solutions/C/count-subarrays-with-score-less-than-k)
+* [Count substrings that satisfy k constraint ii](../Solutions/C/count-substrings-that-satisfy-k-constraint-ii)
 * [Count tested devices after test operations](../Solutions/C/count-tested-devices-after-test-operations)
 * [Count the number of inversions](../Solutions/C/count-the-number-of-inversions)
 * [Count vowel strings in ranges](../Solutions/C/count-vowel-strings-in-ranges)

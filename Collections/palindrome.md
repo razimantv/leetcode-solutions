@@ -4,6 +4,7 @@
 * [Count palindromic subsequences](../Solutions/C/count-palindromic-subsequences)
 * [Count paths that can form a palindrome in a tree](../Solutions/C/count-paths-that-can-form-a-palindrome-in-a-tree)
 * [Find first palindromic string in the array](../Solutions/F/find-first-palindromic-string-in-the-array)
+* [Find the largest palindrome divisible by k](../Solutions/F/find-the-largest-palindrome-divisible-by-k)
 * [Largest palindromic number](../Solutions/L/largest-palindromic-number)
 * [Lexicographically smallest beautiful string](../Solutions/L/lexicographically-smallest-beautiful-string)
 * [Lexicographically smallest palindrome](../Solutions/L/lexicographically-smallest-palindrome)
