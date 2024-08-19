@@ -194,10 +194,12 @@
 * [The number of beautiful subsets](../Solutions/T/the-number-of-beautiful-subsets)
 
 ### <a id="dynamic-programming">Dynamic programming</a>
+* [2 keys keyboard](../Solutions/0-9/2-keys-keyboard)
 * [Count the number of square free subsets](../Solutions/C/count-the-number-of-square-free-subsets)
 * [Largest divisible subset](../Solutions/L/largest-divisible-subset)
 
 ### <a id="factor-listing-in-sqrt-n-">Factor listing in sqrt(N)</a>
+* [2 keys keyboard](../Solutions/0-9/2-keys-keyboard)
 * [Create components with same value](../Solutions/C/create-components-with-same-value)
 * [Largest divisible subset](../Solutions/L/largest-divisible-subset)
 * [Minimum length of anagram concatenation](../Solutions/M/minimum-length-of-anagram-concatenation)

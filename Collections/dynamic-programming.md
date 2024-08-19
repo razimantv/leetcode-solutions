@@ -249,6 +249,7 @@
 * [String transformation](../Solutions/S/string-transformation)
 
 ## <a id="memoised-recursion">Memoised recursion</a>
+* [2 keys keyboard](../Solutions/0-9/2-keys-keyboard)
 * [All ancestors of a node in a directed acyclic graph](../Solutions/A/all-ancestors-of-a-node-in-a-directed-acyclic-graph)
 * [Build array where you can find the maximum exactly k comparisons](../Solutions/B/build-array-where-you-can-find-the-maximum-exactly-k-comparisons)
 * [Combination sum iv](../Solutions/C/combination-sum-iv)
@@ -267,6 +268,7 @@
 * [Minimum difficulty of a job schedule](../Solutions/M/minimum-difficulty-of-a-job-schedule)
 
 ## <a id="number-theory">Number theory</a>
+* [2 keys keyboard](../Solutions/0-9/2-keys-keyboard)
 * [Count the number of ideal arrays](../Solutions/C/count-the-number-of-ideal-arrays)
 * [Largest divisible subset](../Solutions/L/largest-divisible-subset)
 
