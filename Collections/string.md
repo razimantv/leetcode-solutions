@@ -15,6 +15,7 @@
 * [Detect capital](../Solutions/D/detect-capital)
 * [Evaluate the bracket pairs of a string](../Solutions/E/evaluate-the-bracket-pairs-of-a-string)
 * [Find duplicate file in system](../Solutions/F/find-duplicate-file-in-system)
+* [Fraction addition and subtraction](../Solutions/F/fraction-addition-and-subtraction)
 * [Goat latin](../Solutions/G/goat-latin)
 * [Invalid transactions](../Solutions/I/invalid-transactions)
 * [Length of last word](../Solutions/L/length-of-last-word)
