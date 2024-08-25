@@ -2,6 +2,8 @@
 # <a id="priority-queue">Priority queue</a>
 * [Constrained subsequence sum](../Solutions/C/constrained-subsequence-sum)
 * [Earliest second to mark indices ii](../Solutions/E/earliest-second-to-mark-indices-ii)
+* [Final array state after k multiplication operations i](../Solutions/F/final-array-state-after-k-multiplication-operations-i)
+* [Final array state after k multiplication operations ii](../Solutions/F/final-array-state-after-k-multiplication-operations-ii)
 * [Find original array from doubled array](../Solutions/F/find-original-array-from-doubled-array)
 * [Find valid matrix given row and column sums](../Solutions/F/find-valid-matrix-given-row-and-column-sums)
 * [First unique character in a string](../Solutions/F/first-unique-character-in-a-string)

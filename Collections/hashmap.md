@@ -11,6 +11,7 @@
 * [Contiguous array](../Solutions/C/contiguous-array)
 * [Continuous subarray sum](../Solutions/C/continuous-subarray-sum)
 * [Convert an array into a 2d array with conditions](../Solutions/C/convert-an-array-into-a-2d-array-with-conditions)
+* [Count almost equal pairs i](../Solutions/C/count-almost-equal-pairs-i)
 * [Count anagrams](../Solutions/C/count-anagrams)
 * [Count beautiful substrings i](../Solutions/C/count-beautiful-substrings-i)
 * [Count beautiful substrings ii](../Solutions/C/count-beautiful-substrings-ii)
@@ -144,6 +145,7 @@
 ## <a id="counter">Counter</a>
 * [Apply operations to make string empty](../Solutions/A/apply-operations-to-make-string-empty)
 * [Combination sum ii](../Solutions/C/combination-sum-ii)
+* [Count almost equal pairs ii](../Solutions/C/count-almost-equal-pairs-ii)
 * [Count elements with maximum frequency](../Solutions/C/count-elements-with-maximum-frequency)
 * [Count pairs that form a complete day i](../Solutions/C/count-pairs-that-form-a-complete-day-i)
 * [Count pairs that form a complete day ii](../Solutions/C/count-pairs-that-form-a-complete-day-ii)
@@ -191,6 +193,7 @@
 * [Most frequent ids](../Solutions/M/most-frequent-ids)
 
 ## <a id="group-items">Group items</a>
+* [Count almost equal pairs ii](../Solutions/C/count-almost-equal-pairs-ii)
 * [Find the longest equal subarray](../Solutions/F/find-the-longest-equal-subarray)
 * [Group the people given the group size they belong to](../Solutions/G/group-the-people-given-the-group-size-they-belong-to)
 * [Jump game iv](../Solutions/J/jump-game-iv)

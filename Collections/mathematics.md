@@ -217,6 +217,8 @@
 * [Count the number of ideal arrays](../Solutions/C/count-the-number-of-ideal-arrays)
 * [Count the number of infection sequences](../Solutions/C/count-the-number-of-infection-sequences)
 * [Double modular exponentiation](../Solutions/D/double-modular-exponentiation)
+* [Final array state after k multiplication operations i](../Solutions/F/final-array-state-after-k-multiplication-operations-i)
+* [Final array state after k multiplication operations ii](../Solutions/F/final-array-state-after-k-multiplication-operations-ii)
 * [Find products of elements of big array](../Solutions/F/find-products-of-elements-of-big-array)
 * [Maximize number of nice divisors](../Solutions/M/maximize-number-of-nice-divisors)
 * [Minimum number of operations to make string sorted](../Solutions/M/minimum-number-of-operations-to-make-string-sorted)

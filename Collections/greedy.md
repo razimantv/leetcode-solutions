@@ -20,6 +20,8 @@
 * [Earliest second to mark indices i](../Solutions/E/earliest-second-to-mark-indices-i)
 * [Earliest second to mark indices ii](../Solutions/E/earliest-second-to-mark-indices-ii)
 * [Eliminate maximum number of monsters](../Solutions/E/eliminate-maximum-number-of-monsters)
+* [Final array state after k multiplication operations i](../Solutions/F/final-array-state-after-k-multiplication-operations-i)
+* [Final array state after k multiplication operations ii](../Solutions/F/final-array-state-after-k-multiplication-operations-ii)
 * [Find minimum diameter after merging two trees](../Solutions/F/find-minimum-diameter-after-merging-two-trees)
 * [Find polygon with the largest perimeter](../Solutions/F/find-polygon-with-the-largest-perimeter)
 * [Find the largest palindrome divisible by k](../Solutions/F/find-the-largest-palindrome-divisible-by-k)
