@@ -42,6 +42,7 @@
 * [Binary tree level order traversal](../Solutions/B/binary-tree-level-order-traversal)
 * [Binary tree level order traversal ii](../Solutions/B/binary-tree-level-order-traversal-ii)
 * [Binary tree maximum path sum](../Solutions/B/binary-tree-maximum-path-sum)
+* [Binary tree postorder traversal](../Solutions/B/binary-tree-postorder-traversal)
 * [Binary tree preorder traversal](../Solutions/B/binary-tree-preorder-traversal)
 * [Binary tree pruning](../Solutions/B/binary-tree-pruning)
 * [Binary tree right side view](../Solutions/B/binary-tree-right-side-view)
@@ -117,6 +118,7 @@
 
 ## <a id="order-traversal">Order traversal</a>
 * [Balance a binary search tree](../Solutions/B/balance-a-binary-search-tree)
+* [Binary tree postorder traversal](../Solutions/B/binary-tree-postorder-traversal)
 * [Binary tree preorder traversal](../Solutions/B/binary-tree-preorder-traversal)
 * [Construct binary tree from inorder and postorder traversal](../Solutions/C/construct-binary-tree-from-inorder-and-postorder-traversal)
 * [Construct binary tree from preorder and inorder traversal](../Solutions/C/construct-binary-tree-from-preorder-and-inorder-traversal)
