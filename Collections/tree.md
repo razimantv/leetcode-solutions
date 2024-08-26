@@ -116,6 +116,9 @@
 * [Maximum level sum of a binary tree](../Solutions/M/maximum-level-sum-of-a-binary-tree)
 * [Minimum number of operations to sort a binary tree by level](../Solutions/M/minimum-number-of-operations-to-sort-a-binary-tree-by-level)
 
+## <a id="n-ary-tree">N-ary tree</a>
+* [N ary tree postorder traversal](../Solutions/N/n-ary-tree-postorder-traversal)
+
 ## <a id="order-traversal">Order traversal</a>
 * [Balance a binary search tree](../Solutions/B/balance-a-binary-search-tree)
 * [Binary tree postorder traversal](../Solutions/B/binary-tree-postorder-traversal)
@@ -125,6 +128,7 @@
 * [Flip binary tree to match preorder traversal](../Solutions/F/flip-binary-tree-to-match-preorder-traversal)
 * [Height of binary tree after subtree removal queries](../Solutions/H/height-of-binary-tree-after-subtree-removal-queries)
 * [N ary tree level order traversal](../Solutions/N/n-ary-tree-level-order-traversal)
+* [N ary tree postorder traversal](../Solutions/N/n-ary-tree-postorder-traversal)
 * [N ary tree preorder traversal](../Solutions/N/n-ary-tree-preorder-traversal)
 * [Reverse odd levels of binary tree](../Solutions/R/reverse-odd-levels-of-binary-tree)
 
