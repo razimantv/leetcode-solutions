@@ -97,3 +97,4 @@
 * [Number of wonderful substrings](../Solutions/N/number-of-wonderful-substrings)
 * [Pseudo palindromic paths in a binary tree](../Solutions/P/pseudo-palindromic-paths-in-a-binary-tree)
 * [Substring xor queries](../Solutions/S/substring-xor-queries)
+* [Xor operation in an array](../Solutions/X/xor-operation-in-an-array)
