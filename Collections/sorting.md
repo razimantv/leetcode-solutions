@@ -82,6 +82,7 @@
 * [Maximum elegance of a k length subsequence](../Solutions/M/maximum-elegance-of-a-k-length-subsequence)
 * [Maximum subsequence score](../Solutions/M/maximum-subsequence-score)
 * [Maximum sum queries](../Solutions/M/maximum-sum-queries)
+* [Minimum amount of damage dealt to bob](../Solutions/M/minimum-amount-of-damage-dealt-to-bob)
 * [Minimum time to make array sum at most x](../Solutions/M/minimum-time-to-make-array-sum-at-most-x)
 * [Robot collisions](../Solutions/R/robot-collisions)
 

@@ -152,6 +152,7 @@
 * [Count substrings starting and ending with given character](../Solutions/C/count-substrings-starting-and-ending-with-given-character)
 * [Divide array in sets of k consecutive numbers](../Solutions/D/divide-array-in-sets-of-k-consecutive-numbers)
 * [Find common characters](../Solutions/F/find-common-characters)
+* [Find the count of good integers](../Solutions/F/find-the-count-of-good-integers)
 * [Find the maximum number of elements in subset](../Solutions/F/find-the-maximum-number-of-elements-in-subset)
 * [Find the number of good pairs i](../Solutions/F/find-the-number-of-good-pairs-i)
 * [Find the number of good pairs ii](../Solutions/F/find-the-number-of-good-pairs-ii)
