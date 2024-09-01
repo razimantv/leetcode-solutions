@@ -28,6 +28,7 @@
 * [Check if two string arrays are equivalent](../Solutions/C/check-if-two-string-arrays-are-equivalent)
 * [Check if word equals summation of two words](../Solutions/C/check-if-word-equals-summation-of-two-words)
 * [Check knight tour configuration](../Solutions/C/check-knight-tour-configuration)
+* [Convert 1d array into 2d array](../Solutions/C/convert-1d-array-into-2d-array)
 * [Convert the temperature](../Solutions/C/convert-the-temperature)
 * [Count and say](../Solutions/C/count-and-say)
 * [Count asterisks](../Solutions/C/count-asterisks)
