@@ -25,6 +25,7 @@
 * [Check if number is a sum of powers of three](../Solutions/C/check-if-number-is-a-sum-of-powers-of-three)
 * [Check if strings can be made equal with operations i](../Solutions/C/check-if-strings-can-be-made-equal-with-operations-i)
 * [Check if the sentence is pangram](../Solutions/C/check-if-the-sentence-is-pangram)
+* [Check if two chessboard squares have the same color](../Solutions/C/check-if-two-chessboard-squares-have-the-same-color)
 * [Check if two string arrays are equivalent](../Solutions/C/check-if-two-string-arrays-are-equivalent)
 * [Check if word equals summation of two words](../Solutions/C/check-if-word-equals-summation-of-two-words)
 * [Check knight tour configuration](../Solutions/C/check-knight-tour-configuration)

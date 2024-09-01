@@ -81,3 +81,6 @@
 * [Path with maximum probability](../Solutions/P/path-with-maximum-probability)
 * [Reachable nodes in subdivided graph](../Solutions/R/reachable-nodes-in-subdivided-graph)
 * [Take gifts from the richest pile](../Solutions/T/take-gifts-from-the-richest-pile)
+
+## <a id="python-sortedlist">Python SortedList</a>
+* [K th nearest obstacle queries](../Solutions/K/k-th-nearest-obstacle-queries)

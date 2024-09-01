@@ -151,6 +151,7 @@
 * [Best time to buy and sell stock with transaction fee](../Solutions/B/best-time-to-buy-and-sell-stock-with-transaction-fee)
 * [Count of integers](../Solutions/C/count-of-integers)
 * [Maximum score from grid operations](../Solutions/M/maximum-score-from-grid-operations)
+* [Maximum xor score subarray queries](../Solutions/M/maximum-xor-score-subarray-queries)
 * [Minimum changes to make k semi palindromes](../Solutions/M/minimum-changes-to-make-k-semi-palindromes)
 * [Minimum one bit operations to make integers zero](../Solutions/M/minimum-one-bit-operations-to-make-integers-zero)
 * [Number of beautiful partitions](../Solutions/N/number-of-beautiful-partitions)
@@ -232,6 +233,7 @@
 
 ## <a id="length-wise-processing">Length-wise processing</a>
 * [Apply operations to make two strings equal](../Solutions/A/apply-operations-to-make-two-strings-equal)
+* [Maximum xor score subarray queries](../Solutions/M/maximum-xor-score-subarray-queries)
 
 ## <a id="longest-common-subsequence">Longest common subsequence</a>
 * [Delete operation for two strings](../Solutions/D/delete-operation-for-two-strings)
@@ -262,6 +264,7 @@
 * [Partition string into minimum beautiful substrings](../Solutions/P/partition-string-into-minimum-beautiful-substrings)
 * [Partition to k equal sum subsets](../Solutions/P/partition-to-k-equal-sum-subsets)
 * [Predict the winner](../Solutions/P/predict-the-winner)
+* [Select cells in grid with maximum score](../Solutions/S/select-cells-in-grid-with-maximum-score)
 
 ## <a id="monotonic-stack-deque">Monotonic stack/deque</a>
 * [Find maximum non decreasing array length](../Solutions/F/find-maximum-non-decreasing-array-length)
@@ -291,6 +294,7 @@
 * [Find the shortest superstring](../Solutions/F/find-the-shortest-superstring)
 * [Maximize score after n operations](../Solutions/M/maximize-score-after-n-operations)
 * [Minimum xor sum of two arrays](../Solutions/M/minimum-xor-sum-of-two-arrays)
+* [Select cells in grid with maximum score](../Solutions/S/select-cells-in-grid-with-maximum-score)
 * [Smallest sufficient team](../Solutions/S/smallest-sufficient-team)
 * [Special permutations](../Solutions/S/special-permutations)
 

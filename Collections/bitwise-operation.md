@@ -92,9 +92,13 @@
 * [Find the original array of prefix xor](../Solutions/F/find-the-original-array-of-prefix-xor)
 * [Find the xor of numbers which appear twice](../Solutions/F/find-the-xor-of-numbers-which-appear-twice)
 * [Maximum xor product](../Solutions/M/maximum-xor-product)
+* [Maximum xor score subarray queries](../Solutions/M/maximum-xor-score-subarray-queries)
 * [Minimum number of operations to make array xor equal to k](../Solutions/M/minimum-number-of-operations-to-make-array-xor-equal-to-k)
 * [Neighboring bitwise xor](../Solutions/N/neighboring-bitwise-xor)
 * [Number of wonderful substrings](../Solutions/N/number-of-wonderful-substrings)
 * [Pseudo palindromic paths in a binary tree](../Solutions/P/pseudo-palindromic-paths-in-a-binary-tree)
 * [Substring xor queries](../Solutions/S/substring-xor-queries)
 * [Xor operation in an array](../Solutions/X/xor-operation-in-an-array)
+
+## <a id="subset-enumeration">Subset enumeration</a>
+* [Select cells in grid with maximum score](../Solutions/S/select-cells-in-grid-with-maximum-score)

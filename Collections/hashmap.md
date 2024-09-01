@@ -128,6 +128,7 @@
 * [Relocate marbles](../Solutions/R/relocate-marbles)
 * [Remove zero sum consecutive nodes from linked list](../Solutions/R/remove-zero-sum-consecutive-nodes-from-linked-list)
 * [Reward top k students](../Solutions/R/reward-top-k-students)
+* [Select cells in grid with maximum score](../Solutions/S/select-cells-in-grid-with-maximum-score)
 * [Shortest uncommon substring in an array](../Solutions/S/shortest-uncommon-substring-in-an-array)
 * [Sliding subarray beauty](../Solutions/S/sliding-subarray-beauty)
 * [Smallest subarrays with maximum bitwise or](../Solutions/S/smallest-subarrays-with-maximum-bitwise-or)
