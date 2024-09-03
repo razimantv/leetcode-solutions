@@ -23,6 +23,7 @@ Binary search>Python SortedList
 Bitwise operation
 Bitwise operation>Build result bit-by-bit
 Bitwise operation>Self-inverse property of xor
+Bitwise operation>Subset enumeration
 Brute force enumeration>Combinatorial
 Brute force enumeration>Elementwise processing using a vector
 Case-by-case analysis
@@ -184,6 +185,7 @@ Priority queue>Dynamic sorted neighbour
 Priority queue>K smallest/largest elements
 Priority queue>K smallest/largest elements>Transfer between the two
 Priority queue>Key update using insert and remove on C++ set
+Priority queue>Python SortedList
 Process in unusual order
 Process multiple vectors together
 QuadTree

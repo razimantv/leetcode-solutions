@@ -173,6 +173,7 @@
 * [Sort vowels in a string](../Solutions/S/sort-vowels-in-a-string)
 * [Special array i](../Solutions/S/special-array-i)
 * [Special positions in a binary matrix](../Solutions/S/special-positions-in-a-binary-matrix)
+* [Sum of digits of string after convert](../Solutions/S/sum-of-digits-of-string-after-convert)
 * [Sum of number and its reverse](../Solutions/S/sum-of-number-and-its-reverse)
 * [Sum of squares of special elements](../Solutions/S/sum-of-squares-of-special-elements)
 * [The employee that worked on the longest task](../Solutions/T/the-employee-that-worked-on-the-longest-task)
