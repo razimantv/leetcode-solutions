@@ -138,6 +138,7 @@
 * [Sum of matrix after queries](../Solutions/S/sum-of-matrix-after-queries)
 * [Sum of prefix scores of strings](../Solutions/S/sum-of-prefix-scores-of-strings)
 * [Take k of each character from left and right](../Solutions/T/take-k-of-each-character-from-left-and-right)
+* [Walking robot simulation](../Solutions/W/walking-robot-simulation)
 
 ## <a id="coordinate-compression">Coordinate compression</a>
 * [Design underground system](../Solutions/D/design-underground-system)
