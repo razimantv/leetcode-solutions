@@ -165,6 +165,7 @@
 * [Destroy sequential targets](../Solutions/D/destroy-sequential-targets)
 * [Excel sheet column title](../Solutions/E/excel-sheet-column-title)
 * [Factorial trailing zeroes](../Solutions/F/factorial-trailing-zeroes)
+* [Find missing observations](../Solutions/F/find-missing-observations)
 * [Find the divisibility array of a string](../Solutions/F/find-the-divisibility-array-of-a-string)
 * [Find the largest palindrome divisible by k](../Solutions/F/find-the-largest-palindrome-divisible-by-k)
 * [Find the maximum length of valid subsequence ii](../Solutions/F/find-the-maximum-length-of-valid-subsequence-ii)
