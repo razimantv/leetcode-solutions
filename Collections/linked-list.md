@@ -34,6 +34,7 @@
 * [Delete nodes from linked list present in array](../Solutions/D/delete-nodes-from-linked-list-present-in-array)
 * [Double a number represented as a linked list](../Solutions/D/double-a-number-represented-as-a-linked-list)
 * [Flatten a multilevel doubly linked list](../Solutions/F/flatten-a-multilevel-doubly-linked-list)
+* [Linked list in binary tree](../Solutions/L/linked-list-in-binary-tree)
 * [Maximum twin sum of a linked list](../Solutions/M/maximum-twin-sum-of-a-linked-list)
 * [Merge nodes in between zeros](../Solutions/M/merge-nodes-in-between-zeros)
 * [Palindrome linked list](../Solutions/P/palindrome-linked-list)

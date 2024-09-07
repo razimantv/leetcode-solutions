@@ -83,6 +83,7 @@
 * [Kth largest sum in a binary tree](../Solutions/K/kth-largest-sum-in-a-binary-tree)
 * [Kth smallest element in a bst](../Solutions/K/kth-smallest-element-in-a-bst)
 * [Leaf similar trees](../Solutions/L/leaf-similar-trees)
+* [Linked list in binary tree](../Solutions/L/linked-list-in-binary-tree)
 * [Longest univalue path](../Solutions/L/longest-univalue-path)
 * [Longest zigzag path in a binary tree](../Solutions/L/longest-zigzag-path-in-a-binary-tree)
 * [Lowest common ancestor of a binary search tree](../Solutions/L/lowest-common-ancestor-of-a-binary-search-tree)
