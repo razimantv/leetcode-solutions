@@ -1,14 +1,5 @@
 // https://leetcode.com/problems/employee-importance
 
-/*
-// Definition for Employee.
-class Employee {
-public:
-    int id;
-    int importance;
-    vector<int> subordinates;
-};
-*/
 
 class Solution {
  public:

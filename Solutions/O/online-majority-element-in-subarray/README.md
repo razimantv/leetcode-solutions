@@ -42,11 +42,6 @@ class MajorityChecker {
   }
 };
 
-/**
- * Your MajorityChecker object will be instantiated and called as such:
- * MajorityChecker* obj = new MajorityChecker(arr);
- * int param_1 = obj->query(left,right,threshold);
- */
 ```
 ## Tags
 

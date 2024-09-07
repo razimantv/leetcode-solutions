@@ -9,15 +9,6 @@
 ```cpp
 // https://leetcode.com/problems/serialize-and-deserialize-binary-tree
 
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
- * };
- */
 class Codec {
   TreeNode* work(const string& data, int& pos) {
     string cur;
@@ -43,8 +34,4 @@ class Codec {
     return work(data, pos);
   }
 };
-
-// Your Codec object will be instantiated and called as such:
-// Codec ser, deser;
-// TreeNode* ans = deser.deserialize(ser.serialize(root));
 ```

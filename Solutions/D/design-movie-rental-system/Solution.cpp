@@ -51,11 +51,3 @@ class MovieRentingSystem {
   }
 };
 
-/**
- * Your MovieRentingSystem object will be instantiated and called as such:
- * MovieRentingSystem* obj = new MovieRentingSystem(n, entries);
- * vector<int> param_1 = obj->search(movie);
- * obj->rent(shop,movie);
- * obj->drop(shop,movie);
- * vector<vector<int>> param_4 = obj->report();
- */

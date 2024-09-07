@@ -23,9 +23,3 @@ class FoodRatings {
   string highestRated(string cuisine) { return wut[cuisine].begin()->second; }
 };
 
-/**
- * Your FoodRatings object will be instantiated and called as such:
- * FoodRatings* obj = new FoodRatings(foods, cuisines, ratings);
- * obj->changeRating(food,newRating);
- * string param_2 = obj->highestRated(cuisine);
- */

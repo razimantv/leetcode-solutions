@@ -27,12 +27,6 @@ class FreqStack {
   }
 };
 
-/**
- * Your FreqStack object will be instantiated and called as such:
- * FreqStack* obj = new FreqStack();
- * obj->push(x);
- * int param_2 = obj->pop();
- */
 ```
 ## Tags
 
