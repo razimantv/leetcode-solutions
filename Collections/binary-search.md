@@ -37,6 +37,7 @@
 * [Longest palindromic substring](../Solutions/L/longest-palindromic-substring)
 * [Longest subsequence with limited sum](../Solutions/L/longest-subsequence-with-limited-sum)
 * [Magnetic force between two balls](../Solutions/M/magnetic-force-between-two-balls)
+* [Maximize score of numbers in ranges](../Solutions/M/maximize-score-of-numbers-in-ranges)
 * [Maximize the minimum powered city](../Solutions/M/maximize-the-minimum-powered-city)
 * [Maximum distance between a pair of values](../Solutions/M/maximum-distance-between-a-pair-of-values)
 * [Maximum number of alloys](../Solutions/M/maximum-number-of-alloys)

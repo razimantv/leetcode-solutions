@@ -20,6 +20,7 @@
 * [Find the safest path in a grid](../Solutions/F/find-the-safest-path-in-a-grid)
 * [Jump game iv](../Solutions/J/jump-game-iv)
 * [Maximum level sum of a binary tree](../Solutions/M/maximum-level-sum-of-a-binary-tree)
+* [Maximum number of moves to kill all pawns](../Solutions/M/maximum-number-of-moves-to-kill-all-pawns)
 * [Minimum genetic mutation](../Solutions/M/minimum-genetic-mutation)
 * [Minimum moves to capture the queen](../Solutions/M/minimum-moves-to-capture-the-queen)
 * [Minimum number of visited cells in a grid](../Solutions/M/minimum-number-of-visited-cells-in-a-grid)
@@ -210,3 +211,6 @@
 ### <a id="dynamic-programming">Dynamic Programming</a>
 * [Largest color value in a directed graph](../Solutions/L/largest-color-value-in-a-directed-graph)
 * [Parallel courses iii](../Solutions/P/parallel-courses-iii)
+
+## <a id="travelling-salesman-problem">Travelling salesman problem</a>
+* [Maximum number of moves to kill all pawns](../Solutions/M/maximum-number-of-moves-to-kill-all-pawns)
