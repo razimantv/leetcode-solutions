@@ -38,6 +38,7 @@
 * [Maximum xor for each query](../Solutions/M/maximum-xor-for-each-query)
 * [Minimize xor](../Solutions/M/minimize-xor)
 * [Minimum array end](../Solutions/M/minimum-array-end)
+* [Minimum bit flips to convert number](../Solutions/M/minimum-bit-flips-to-convert-number)
 * [Minimum flips to make a or b equal to c](../Solutions/M/minimum-flips-to-make-a-or-b-equal-to-c)
 * [Minimum impossible or](../Solutions/M/minimum-impossible-or)
 * [Minimum one bit operations to make integers zero](../Solutions/M/minimum-one-bit-operations-to-make-integers-zero)
