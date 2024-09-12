@@ -40,6 +40,7 @@
 * [Count substrings that satisfy k constraint i](../Solutions/C/count-substrings-that-satisfy-k-constraint-i)
 * [Count symmetric integers](../Solutions/C/count-symmetric-integers)
 * [Count the digits that divide a number](../Solutions/C/count-the-digits-that-divide-a-number)
+* [Count the number of consistent strings](../Solutions/C/count-the-number-of-consistent-strings)
 * [Count the number of special characters i](../Solutions/C/count-the-number-of-special-characters-i)
 * [Count the number of vowel strings in range](../Solutions/C/count-the-number-of-vowel-strings-in-range)
 * [Delete columns to make sorted](../Solutions/D/delete-columns-to-make-sorted)
