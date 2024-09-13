@@ -100,6 +100,7 @@
 * [Pseudo palindromic paths in a binary tree](../Solutions/P/pseudo-palindromic-paths-in-a-binary-tree)
 * [Substring xor queries](../Solutions/S/substring-xor-queries)
 * [Xor operation in an array](../Solutions/X/xor-operation-in-an-array)
+* [Xor queries of a subarray](../Solutions/X/xor-queries-of-a-subarray)
 
 ## <a id="subset-enumeration">Subset enumeration</a>
 * [Select cells in grid with maximum score](../Solutions/S/select-cells-in-grid-with-maximum-score)

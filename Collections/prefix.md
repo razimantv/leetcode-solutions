@@ -7,6 +7,7 @@
 * [Minimum number of k consecutive bit flips](../Solutions/M/minimum-number-of-k-consecutive-bit-flips)
 * [Number of wonderful substrings](../Solutions/N/number-of-wonderful-substrings)
 * [Unique length 3 palindromic subsequences](../Solutions/U/unique-length-3-palindromic-subsequences)
+* [Xor queries of a subarray](../Solutions/X/xor-queries-of-a-subarray)
 
 ## <a id="extremum">Extremum</a>
 * [132 pattern](../Solutions/0-9/132-pattern)
