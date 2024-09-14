@@ -60,6 +60,7 @@
 * [Find common elements between two arrays](../Solutions/F/find-common-elements-between-two-arrays)
 * [Find first palindromic string in the array](../Solutions/F/find-first-palindromic-string-in-the-array)
 * [Find if digit game can be won](../Solutions/F/find-if-digit-game-can-be-won)
+* [Find indices of stable mountains](../Solutions/F/find-indices-of-stable-mountains)
 * [Find nearest point that has the same x or y coordinate](../Solutions/F/find-nearest-point-that-has-the-same-x-or-y-coordinate)
 * [Find numbers with even number of digits](../Solutions/F/find-numbers-with-even-number-of-digits)
 * [Find occurrences of an element in an array](../Solutions/F/find-occurrences-of-an-element-in-an-array)

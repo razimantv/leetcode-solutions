@@ -95,6 +95,7 @@
 * [Find the count of monotonic pairs ii](../Solutions/F/find-the-count-of-monotonic-pairs-ii)
 * [Find the maximum length of a good subsequence i](../Solutions/F/find-the-maximum-length-of-a-good-subsequence-i)
 * [Find the maximum length of a good subsequence ii](../Solutions/F/find-the-maximum-length-of-a-good-subsequence-ii)
+* [Find the maximum sequence value of array](../Solutions/F/find-the-maximum-sequence-value-of-array)
 * [Find the sum of subsequence powers](../Solutions/F/find-the-sum-of-subsequence-powers)
 * [Find the sum of the power of all subsequences](../Solutions/F/find-the-sum-of-the-power-of-all-subsequences)
 * [Freedom trail](../Solutions/F/freedom-trail)
@@ -219,6 +220,7 @@
 * [Coin change 2](../Solutions/C/coin-change-2)
 * [Count all possible routes](../Solutions/C/count-all-possible-routes)
 * [Count of sub multisets with bounded sum](../Solutions/C/count-of-sub-multisets-with-bounded-sum)
+* [Find the maximum sequence value of array](../Solutions/F/find-the-maximum-sequence-value-of-array)
 * [Find the sum of the power of all subsequences](../Solutions/F/find-the-sum-of-the-power-of-all-subsequences)
 * [Length of the longest subsequence that sums to target](../Solutions/L/length-of-the-longest-subsequence-that-sums-to-target)
 * [Maximum value of k coins from piles](../Solutions/M/maximum-value-of-k-coins-from-piles)
@@ -244,6 +246,7 @@
 
 ## <a id="longest-increasing-subsequence">Longest increasing subsequence</a>
 * [Find the longest valid obstacle course at each position](../Solutions/F/find-the-longest-valid-obstacle-course-at-each-position)
+* [Length of the longest increasing path](../Solutions/L/length-of-the-longest-increasing-path)
 * [Longest increasing subsequence](../Solutions/L/longest-increasing-subsequence)
 * [Number of longest increasing subsequence](../Solutions/N/number-of-longest-increasing-subsequence)
 
