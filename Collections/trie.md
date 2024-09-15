@@ -7,5 +7,6 @@
 * [Longest common suffix queries](../Solutions/L/longest-common-suffix-queries)
 * [Maximum strong pair xor i](../Solutions/M/maximum-strong-pair-xor-i)
 * [Maximum strong pair xor ii](../Solutions/M/maximum-strong-pair-xor-ii)
+* [Minimum number of valid strings to form target i](../Solutions/M/minimum-number-of-valid-strings-to-form-target-i)
 * [Replace words](../Solutions/R/replace-words)
 * [Word search ii](../Solutions/W/word-search-ii)

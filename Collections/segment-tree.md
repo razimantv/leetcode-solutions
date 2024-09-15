@@ -16,6 +16,7 @@
 * [Maximum sum of subsequence with non adjacent elements](../Solutions/M/maximum-sum-of-subsequence-with-non-adjacent-elements)
 * [Maximum value sum by placing three rooks i](../Solutions/M/maximum-value-sum-by-placing-three-rooks-i)
 * [Maximum value sum by placing three rooks ii](../Solutions/M/maximum-value-sum-by-placing-three-rooks-ii)
+* [Minimum number of valid strings to form target ii](../Solutions/M/minimum-number-of-valid-strings-to-form-target-ii)
 * [Minimum sum of values by dividing array](../Solutions/M/minimum-sum-of-values-by-dividing-array)
 * [Next greater element iv](../Solutions/N/next-greater-element-iv)
 * [Number of pairs satisfying inequality](../Solutions/N/number-of-pairs-satisfying-inequality)

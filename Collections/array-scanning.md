@@ -158,6 +158,7 @@
 * [Longest binary subsequence less than or equal to k](../Solutions/L/longest-binary-subsequence-less-than-or-equal-to-k)
 * [Maximize the number of partitions after operations](../Solutions/M/maximize-the-number-of-partitions-after-operations)
 * [Maximum number of operations to move ones to the end](../Solutions/M/maximum-number-of-operations-to-move-ones-to-the-end)
+* [Minimum number of valid strings to form target i](../Solutions/M/minimum-number-of-valid-strings-to-form-target-i)
 * [Minimum operations to collect elements](../Solutions/M/minimum-operations-to-collect-elements)
 * [Minimum operations to make a special number](../Solutions/M/minimum-operations-to-make-a-special-number)
 * [Minimum replacements to sort the array](../Solutions/M/minimum-replacements-to-sort-the-array)

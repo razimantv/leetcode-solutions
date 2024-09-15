@@ -44,6 +44,7 @@
 * [Implement strstr](../Solutions/I/implement-strstr)
 * [Longest duplicate substring](../Solutions/L/longest-duplicate-substring)
 * [Maximum deletions on a string](../Solutions/M/maximum-deletions-on-a-string)
+* [Minimum number of valid strings to form target ii](../Solutions/M/minimum-number-of-valid-strings-to-form-target-ii)
 * [Minimum time to revert word to initial state i](../Solutions/M/minimum-time-to-revert-word-to-initial-state-i)
 * [Minimum time to revert word to initial state ii](../Solutions/M/minimum-time-to-revert-word-to-initial-state-ii)
 * [Number of subarrays that match a pattern i](../Solutions/N/number-of-subarrays-that-match-a-pattern-i)
@@ -60,6 +61,7 @@
 * [Construct string with minimum cost](../Solutions/C/construct-string-with-minimum-cost)
 * [Length of the longest valid substring](../Solutions/L/length-of-the-longest-valid-substring)
 * [Longest common suffix queries](../Solutions/L/longest-common-suffix-queries)
+* [Minimum number of valid strings to form target i](../Solutions/M/minimum-number-of-valid-strings-to-form-target-i)
 
 ## <a id="subsequence">Subsequence</a>
 * [Append characters to string to make subsequence](../Solutions/A/append-characters-to-string-to-make-subsequence)

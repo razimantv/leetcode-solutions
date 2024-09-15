@@ -112,6 +112,7 @@
 * [Maximum difference score in a grid](../Solutions/M/maximum-difference-score-in-a-grid)
 * [Maximum energy boost from two drinks](../Solutions/M/maximum-energy-boost-from-two-drinks)
 * [Maximum length of repeated subarray](../Solutions/M/maximum-length-of-repeated-subarray)
+* [Maximum multiplication score](../Solutions/M/maximum-multiplication-score)
 * [Maximum number of points with cost](../Solutions/M/maximum-number-of-points-with-cost)
 * [Maximum score from grid operations](../Solutions/M/maximum-score-from-grid-operations)
 * [Maximum score from performing multiplication operations](../Solutions/M/maximum-score-from-performing-multiplication-operations)
@@ -290,6 +291,7 @@
 ## <a id="segment-tree">Segment tree</a>
 * [Count increasing quadruplets](../Solutions/C/count-increasing-quadruplets)
 * [Delivering boxes from storage to ports](../Solutions/D/delivering-boxes-from-storage-to-ports)
+* [Minimum number of valid strings to form target ii](../Solutions/M/minimum-number-of-valid-strings-to-form-target-ii)
 
 ## <a id="subsets">Subsets</a>
 * [Construct smallest number from di string](../Solutions/C/construct-smallest-number-from-di-string)
@@ -338,3 +340,4 @@
 
 ## <a id="trie">Trie</a>
 * [Construct string with minimum cost](../Solutions/C/construct-string-with-minimum-cost)
+* [Minimum number of valid strings to form target i](../Solutions/M/minimum-number-of-valid-strings-to-form-target-i)
