@@ -48,6 +48,7 @@
 * [Find the difference of two arrays](../Solutions/F/find-the-difference-of-two-arrays)
 * [Find the distinct difference array](../Solutions/F/find-the-distinct-difference-array)
 * [Find the length of the longest common prefix](../Solutions/F/find-the-length-of-the-longest-common-prefix)
+* [Find the longest substring containing vowels in even counts](../Solutions/F/find-the-longest-substring-containing-vowels-in-even-counts)
 * [Find the maximum length of a good subsequence i](../Solutions/F/find-the-maximum-length-of-a-good-subsequence-i)
 * [Find the maximum length of a good subsequence ii](../Solutions/F/find-the-maximum-length-of-a-good-subsequence-ii)
 * [Find the median of the uniqueness array](../Solutions/F/find-the-median-of-the-uniqueness-array)

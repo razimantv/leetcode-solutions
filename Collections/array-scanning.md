@@ -116,6 +116,9 @@
 * [Remove element](../Solutions/R/remove-element)
 * [Reverse vowels of a string](../Solutions/R/reverse-vowels-of-a-string)
 
+## <a id="location-of-first-element-with-same-value">Location of first element with same value</a>
+* [Find the longest substring containing vowels in even counts](../Solutions/F/find-the-longest-substring-containing-vowels-in-even-counts)
+
 ## <a id="location-of-previous-element-with-bit-value">Location of previous element with bit value</a>
 * [Minimum sum of values by dividing array](../Solutions/M/minimum-sum-of-values-by-dividing-array)
 * [Number of subarrays with and value of k](../Solutions/N/number-of-subarrays-with-and-value-of-k)

@@ -90,6 +90,7 @@
 * [Count paths that can form a palindrome in a tree](../Solutions/C/count-paths-that-can-form-a-palindrome-in-a-tree)
 * [Count the number of beautiful subarrays](../Solutions/C/count-the-number-of-beautiful-subarrays)
 * [Count triplets that can form two arrays of equal xor](../Solutions/C/count-triplets-that-can-form-two-arrays-of-equal-xor)
+* [Find the longest substring containing vowels in even counts](../Solutions/F/find-the-longest-substring-containing-vowels-in-even-counts)
 * [Find the maximum sum of node values](../Solutions/F/find-the-maximum-sum-of-node-values)
 * [Find the original array of prefix xor](../Solutions/F/find-the-original-array-of-prefix-xor)
 * [Find the xor of numbers which appear twice](../Solutions/F/find-the-xor-of-numbers-which-appear-twice)

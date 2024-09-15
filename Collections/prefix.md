@@ -3,6 +3,7 @@
 
 ## <a id="bitwise-operation">Bitwise operation</a>
 * [Count triplets that can form two arrays of equal xor](../Solutions/C/count-triplets-that-can-form-two-arrays-of-equal-xor)
+* [Find the longest substring containing vowels in even counts](../Solutions/F/find-the-longest-substring-containing-vowels-in-even-counts)
 * [Maximum or](../Solutions/M/maximum-or)
 * [Minimum number of k consecutive bit flips](../Solutions/M/minimum-number-of-k-consecutive-bit-flips)
 * [Number of wonderful substrings](../Solutions/N/number-of-wonderful-substrings)

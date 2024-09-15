@@ -5,6 +5,7 @@ Array scanning>Cyclic array
 Array scanning>From both ends of array
 Array scanning>From both ends of array>Element exclusion
 Array scanning>In-place modification
+Array scanning>Location of first element with same value
 Array scanning>Location of previous element with bit value
 Array scanning>Location of previous element with same value
 Array scanning>Middle element of triplet
