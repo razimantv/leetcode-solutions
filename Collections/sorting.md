@@ -21,6 +21,7 @@
 * [Minimum absolute difference](../Solutions/M/minimum-absolute-difference)
 * [Minimum number of operations to make array continuous](../Solutions/M/minimum-number-of-operations-to-make-array-continuous)
 * [Minimum number of operations to make arrays similar](../Solutions/M/minimum-number-of-operations-to-make-arrays-similar)
+* [Minimum time difference](../Solutions/M/minimum-time-difference)
 * [Movement of robots](../Solutions/M/movement-of-robots)
 * [Number of distinct averages](../Solutions/N/number-of-distinct-averages)
 * [Reduction operations to make the array elements equal](../Solutions/R/reduction-operations-to-make-the-array-elements-equal)
