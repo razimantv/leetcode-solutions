@@ -184,6 +184,7 @@
 * [Subarrays with k different integers](../Solutions/S/subarrays-with-k-different-integers)
 * [Sum of digit differences of all pairs](../Solutions/S/sum-of-digit-differences-of-all-pairs)
 * [The two sneaky numbers of digitville](../Solutions/T/the-two-sneaky-numbers-of-digitville)
+* [Uncommon words from two sentences](../Solutions/U/uncommon-words-from-two-sentences)
 * [Unique number of occurrences](../Solutions/U/unique-number-of-occurrences)
 
 ## <a id="forward-and-backward">Forward and backward</a>
