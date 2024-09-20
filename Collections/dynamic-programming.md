@@ -259,6 +259,7 @@
 * [All ancestors of a node in a directed acyclic graph](../Solutions/A/all-ancestors-of-a-node-in-a-directed-acyclic-graph)
 * [Build array where you can find the maximum exactly k comparisons](../Solutions/B/build-array-where-you-can-find-the-maximum-exactly-k-comparisons)
 * [Combination sum iv](../Solutions/C/combination-sum-iv)
+* [Different ways to add parentheses](../Solutions/D/different-ways-to-add-parentheses)
 * [Find the minimum cost array permutation](../Solutions/F/find-the-minimum-cost-array-permutation)
 * [Maximum number of moves to kill all pawns](../Solutions/M/maximum-number-of-moves-to-kill-all-pawns)
 * [Maximum number of operations with the same score ii](../Solutions/M/maximum-number-of-operations-with-the-same-score-ii)

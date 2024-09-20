@@ -13,6 +13,7 @@
 * [Count anagrams](../Solutions/C/count-anagrams)
 * [Count days spent together](../Solutions/C/count-days-spent-together)
 * [Detect capital](../Solutions/D/detect-capital)
+* [Different ways to add parentheses](../Solutions/D/different-ways-to-add-parentheses)
 * [Evaluate the bracket pairs of a string](../Solutions/E/evaluate-the-bracket-pairs-of-a-string)
 * [Find duplicate file in system](../Solutions/F/find-duplicate-file-in-system)
 * [Fraction addition and subtraction](../Solutions/F/fraction-addition-and-subtraction)
