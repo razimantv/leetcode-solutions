@@ -8,6 +8,8 @@
 * [Contains duplicate ii](../Solutions/C/contains-duplicate-ii)
 * [Continuous subarrays](../Solutions/C/continuous-subarrays)
 * [Count pairs of nodes](../Solutions/C/count-pairs-of-nodes)
+* [Count substrings that can be rearranged to contain a string i](../Solutions/C/count-substrings-that-can-be-rearranged-to-contain-a-string-i)
+* [Count substrings that can be rearranged to contain a string ii](../Solutions/C/count-substrings-that-can-be-rearranged-to-contain-a-string-ii)
 * [Count the number of fair pairs](../Solutions/C/count-the-number-of-fair-pairs)
 * [Count the number of good subarrays](../Solutions/C/count-the-number-of-good-subarrays)
 * [Count the number of incremovable subarrays i](../Solutions/C/count-the-number-of-incremovable-subarrays-i)
