@@ -37,6 +37,7 @@
 * [Hand of straights](../Solutions/H/hand-of-straights)
 * [Happy students](../Solutions/H/happy-students)
 * [Is subsequence](../Solutions/I/is-subsequence)
+* [K th smallest in lexicographical order](../Solutions/K/k-th-smallest-in-lexicographical-order)
 * [Largest number](../Solutions/L/largest-number)
 * [Least number of unique integers after k removals](../Solutions/L/least-number-of-unique-integers-after-k-removals)
 * [Lemonade change](../Solutions/L/lemonade-change)

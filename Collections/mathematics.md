@@ -82,6 +82,7 @@
 * [Find the sum of the power of all subsequences](../Solutions/F/find-the-sum-of-the-power-of-all-subsequences)
 * [Find xor beauty of array](../Solutions/F/find-xor-beauty-of-array)
 * [Iterator for combination](../Solutions/I/iterator-for-combination)
+* [K th smallest in lexicographical order](../Solutions/K/k-th-smallest-in-lexicographical-order)
 * [Maximum number of groups with increasing length](../Solutions/M/maximum-number-of-groups-with-increasing-length)
 * [Minimum number of operations to make string sorted](../Solutions/M/minimum-number-of-operations-to-make-string-sorted)
 * [Naming a company](../Solutions/N/naming-a-company)

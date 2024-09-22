@@ -187,6 +187,7 @@
 * [Count stepping numbers in range](../Solutions/C/count-stepping-numbers-in-range)
 * [Count the number of powerful integers](../Solutions/C/count-the-number-of-powerful-integers)
 * [Find products of elements of big array](../Solutions/F/find-products-of-elements-of-big-array)
+* [K th smallest in lexicographical order](../Solutions/K/k-th-smallest-in-lexicographical-order)
 * [Maximum number that sum of the prices is less than or equal to k](../Solutions/M/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k)
 * [Non negative integers without consecutive ones](../Solutions/N/non-negative-integers-without-consecutive-ones)
 * [Number of beautiful integers in the range](../Solutions/N/number-of-beautiful-integers-in-the-range)
