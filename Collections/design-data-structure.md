@@ -1,5 +1,6 @@
 
 # <a id="design-data-structure">Design data structure</a>
+* [All oone data structure](../Solutions/A/all-oone-data-structure)
 * [Construct quad tree](../Solutions/C/construct-quad-tree)
 * [Data stream as disjoint intervals](../Solutions/D/data-stream-as-disjoint-intervals)
 * [Design a food rating system](../Solutions/D/design-a-food-rating-system)
