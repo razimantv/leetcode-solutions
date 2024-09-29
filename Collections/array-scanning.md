@@ -81,6 +81,7 @@
 * [Count the number of incremovable subarrays ii](../Solutions/C/count-the-number-of-incremovable-subarrays-ii)
 * [Find all good indices](../Solutions/F/find-all-good-indices)
 * [Find the distinct difference array](../Solutions/F/find-the-distinct-difference-array)
+* [Find the lexicographically smallest valid sequence](../Solutions/F/find-the-lexicographically-smallest-valid-sequence)
 * [Find the maximum sequence value of array](../Solutions/F/find-the-maximum-sequence-value-of-array)
 * [Largest plus sign](../Solutions/L/largest-plus-sign)
 * [Left and right sum differences](../Solutions/L/left-and-right-sum-differences)

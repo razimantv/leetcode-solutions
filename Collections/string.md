@@ -42,6 +42,7 @@
 * [Count prefix and suffix pairs ii](../Solutions/C/count-prefix-and-suffix-pairs-ii)
 * [Find beautiful indices in the given array i](../Solutions/F/find-beautiful-indices-in-the-given-array-i)
 * [Find beautiful indices in the given array ii](../Solutions/F/find-beautiful-indices-in-the-given-array-ii)
+* [Find the occurrence of first almost equal substring](../Solutions/F/find-the-occurrence-of-first-almost-equal-substring)
 * [Implement strstr](../Solutions/I/implement-strstr)
 * [Longest duplicate substring](../Solutions/L/longest-duplicate-substring)
 * [Maximum deletions on a string](../Solutions/M/maximum-deletions-on-a-string)
@@ -55,6 +56,7 @@
 * [Sum of prefix scores of strings](../Solutions/S/sum-of-prefix-scores-of-strings)
 
 ### <a id="prefix-suffix">Prefix/Suffix</a>
+* [Find the occurrence of first almost equal substring](../Solutions/F/find-the-occurrence-of-first-almost-equal-substring)
 * [Prefix and suffix search](../Solutions/P/prefix-and-suffix-search)
 * [Shortest string that contains three strings](../Solutions/S/shortest-string-that-contains-three-strings)
 
@@ -66,6 +68,7 @@
 
 ## <a id="subsequence">Subsequence</a>
 * [Append characters to string to make subsequence](../Solutions/A/append-characters-to-string-to-make-subsequence)
+* [Find the lexicographically smallest valid sequence](../Solutions/F/find-the-lexicographically-smallest-valid-sequence)
 * [Is subsequence](../Solutions/I/is-subsequence)
 * [Longest common subsequence](../Solutions/L/longest-common-subsequence)
 * [Longest uncommon subsequence ii](../Solutions/L/longest-uncommon-subsequence-ii)

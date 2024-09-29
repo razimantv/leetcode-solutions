@@ -22,6 +22,7 @@
 * [Find the longest valid obstacle course at each position](../Solutions/F/find-the-longest-valid-obstacle-course-at-each-position)
 * [Find the maximum number of marked indices](../Solutions/F/find-the-maximum-number-of-marked-indices)
 * [Find the median of the uniqueness array](../Solutions/F/find-the-median-of-the-uniqueness-array)
+* [Find the occurrence of first almost equal substring](../Solutions/F/find-the-occurrence-of-first-almost-equal-substring)
 * [Find the smallest divisor given a threshold](../Solutions/F/find-the-smallest-divisor-given-a-threshold)
 * [Find the sum of subsequence powers](../Solutions/F/find-the-sum-of-subsequence-powers)
 * [First bad version](../Solutions/F/first-bad-version)

@@ -132,6 +132,7 @@
 * [Minimum changes to make alternating binary string](../Solutions/M/minimum-changes-to-make-alternating-binary-string)
 * [Minimum distance to the target element](../Solutions/M/minimum-distance-to-the-target-element)
 * [Minimum domino rotations for equal row](../Solutions/M/minimum-domino-rotations-for-equal-row)
+* [Minimum element after replacement with digit sum](../Solutions/M/minimum-element-after-replacement-with-digit-sum)
 * [Minimum hours of training to win a competition](../Solutions/M/minimum-hours-of-training-to-win-a-competition)
 * [Minimum number game](../Solutions/M/minimum-number-game)
 * [Minimum number of swaps to make the binary string alternating](../Solutions/M/minimum-number-of-swaps-to-make-the-binary-string-alternating)

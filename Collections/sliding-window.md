@@ -64,4 +64,5 @@
 ## <a id="string-hashing">String hashing</a>
 * [Find beautiful indices in the given array i](../Solutions/F/find-beautiful-indices-in-the-given-array-i)
 * [Find beautiful indices in the given array ii](../Solutions/F/find-beautiful-indices-in-the-given-array-ii)
+* [Find the occurrence of first almost equal substring](../Solutions/F/find-the-occurrence-of-first-almost-equal-substring)
 * [Implement strstr](../Solutions/I/implement-strstr)
