@@ -68,6 +68,7 @@
 * [Find the array concatenation value](../Solutions/F/find-the-array-concatenation-value)
 * [Find the distance value between two arrays](../Solutions/F/find-the-distance-value-between-two-arrays)
 * [Find the encrypted string](../Solutions/F/find-the-encrypted-string)
+* [Find the k th character in string game i](../Solutions/F/find-the-k-th-character-in-string-game-i)
 * [Find the key of the numbers](../Solutions/F/find-the-key-of-the-numbers)
 * [Find the losers of the circular game](../Solutions/F/find-the-losers-of-the-circular-game)
 * [Find the maximum divisibility score](../Solutions/F/find-the-maximum-divisibility-score)

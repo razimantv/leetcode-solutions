@@ -151,6 +151,8 @@
 * [Combination sum ii](../Solutions/C/combination-sum-ii)
 * [Count almost equal pairs ii](../Solutions/C/count-almost-equal-pairs-ii)
 * [Count elements with maximum frequency](../Solutions/C/count-elements-with-maximum-frequency)
+* [Count of substrings containing every vowel and k consonants i](../Solutions/C/count-of-substrings-containing-every-vowel-and-k-consonants-i)
+* [Count of substrings containing every vowel and k consonants ii](../Solutions/C/count-of-substrings-containing-every-vowel-and-k-consonants-ii)
 * [Count pairs that form a complete day i](../Solutions/C/count-pairs-that-form-a-complete-day-i)
 * [Count pairs that form a complete day ii](../Solutions/C/count-pairs-that-form-a-complete-day-ii)
 * [Count substrings starting and ending with given character](../Solutions/C/count-substrings-starting-and-ending-with-given-character)

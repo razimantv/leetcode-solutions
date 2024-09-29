@@ -66,3 +66,7 @@
 * [Find beautiful indices in the given array ii](../Solutions/F/find-beautiful-indices-in-the-given-array-ii)
 * [Find the occurrence of first almost equal substring](../Solutions/F/find-the-occurrence-of-first-almost-equal-substring)
 * [Implement strstr](../Solutions/I/implement-strstr)
+
+## <a id="two-windows">Two windows</a>
+* [Count of substrings containing every vowel and k consonants i](../Solutions/C/count-of-substrings-containing-every-vowel-and-k-consonants-i)
+* [Count of substrings containing every vowel and k consonants ii](../Solutions/C/count-of-substrings-containing-every-vowel-and-k-consonants-ii)
