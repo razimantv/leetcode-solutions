@@ -5,6 +5,7 @@
 * [Data stream as disjoint intervals](../Solutions/D/data-stream-as-disjoint-intervals)
 * [Design a food rating system](../Solutions/D/design-a-food-rating-system)
 * [Design a number container system](../Solutions/D/design-a-number-container-system)
+* [Design a stack with increment operation](../Solutions/D/design-a-stack-with-increment-operation)
 * [Design add and search words data structure](../Solutions/D/design-add-and-search-words-data-structure)
 * [Design authentication manager](../Solutions/D/design-authentication-manager)
 * [Design browser history](../Solutions/D/design-browser-history)

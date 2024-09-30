@@ -1,4 +1,3 @@
-
 Array scanning
 Array scanning>Contiguous region
 Array scanning>Cyclic array
@@ -202,6 +201,7 @@ Simple implementation
 Sliding window
 Sliding window>Monotonic deque
 Sliding window>String hashing
+Sliding window>Two windows
 Sorting
 Sorting>Custom
 Sorting>Implementation
