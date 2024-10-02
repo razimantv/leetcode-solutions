@@ -120,6 +120,7 @@
 * [Powerful integers](../Solutions/P/powerful-integers)
 * [Prefix and suffix search](../Solutions/P/prefix-and-suffix-search)
 * [Rabbits in forest](../Solutions/R/rabbits-in-forest)
+* [Rank transform of an array](../Solutions/R/rank-transform-of-an-array)
 * [Ransom note](../Solutions/R/ransom-note)
 * [Rearranging fruits](../Solutions/R/rearranging-fruits)
 * [Reconstruct original digits from english](../Solutions/R/reconstruct-original-digits-from-english)
