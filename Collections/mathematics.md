@@ -175,6 +175,7 @@
 * [Greatest common divisor of strings](../Solutions/G/greatest-common-divisor-of-strings)
 * [Integer break](../Solutions/I/integer-break)
 * [Make k subarray sums equal](../Solutions/M/make-k-subarray-sums-equal)
+* [Make sum divisible by p](../Solutions/M/make-sum-divisible-by-p)
 * [Maximum element sum of a complete subset of indices](../Solutions/M/maximum-element-sum-of-a-complete-subset-of-indices)
 * [Maximum number of k divisible components](../Solutions/M/maximum-number-of-k-divisible-components)
 * [Maximum prime difference](../Solutions/M/maximum-prime-difference)

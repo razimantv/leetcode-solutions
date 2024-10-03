@@ -60,6 +60,7 @@
 * [Left and right sum differences](../Solutions/L/left-and-right-sum-differences)
 * [Longest subsequence with limited sum](../Solutions/L/longest-subsequence-with-limited-sum)
 * [Longest valid parentheses](../Solutions/L/longest-valid-parentheses)
+* [Make sum divisible by p](../Solutions/M/make-sum-divisible-by-p)
 * [Max sum of rectangle no larger than k](../Solutions/M/max-sum-of-rectangle-no-larger-than-k)
 * [Maximal rectangle](../Solutions/M/maximal-rectangle)
 * [Maximum good subarray sum](../Solutions/M/maximum-good-subarray-sum)
