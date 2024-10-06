@@ -20,6 +20,7 @@
 * [Merge two sorted lists](../Solutions/M/merge-two-sorted-lists)
 * [Odd even linked list](../Solutions/O/odd-even-linked-list)
 * [Partition list](../Solutions/P/partition-list)
+* [Remove duplicates from sorted list ii](../Solutions/R/remove-duplicates-from-sorted-list-ii)
 * [Reorder list](../Solutions/R/reorder-list)
 
 ### <a id="slow-and-fast-pointers">Slow and fast pointers</a>
