@@ -8,6 +8,7 @@
 * [Matchsticks to square](../Solutions/M/matchsticks-to-square)
 * [Maximum length of a concatenated string with unique characters](../Solutions/M/maximum-length-of-a-concatenated-string-with-unique-characters)
 * [Maximum number of achievable transfer requests](../Solutions/M/maximum-number-of-achievable-transfer-requests)
+* [Maximum possible number by binary concatenation](../Solutions/M/maximum-possible-number-by-binary-concatenation)
 * [Maximum rows covered by columns](../Solutions/M/maximum-rows-covered-by-columns)
 * [Maximum strength of a group](../Solutions/M/maximum-strength-of-a-group)
 * [Minimum moves to spread stones over grid](../Solutions/M/minimum-moves-to-spread-stones-over-grid)

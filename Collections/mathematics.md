@@ -41,6 +41,7 @@
 * [Minimum operations to make array equal](../Solutions/M/minimum-operations-to-make-array-equal)
 * [Power of heroes](../Solutions/P/power-of-heroes)
 * [Sell diminishing valued colored balls](../Solutions/S/sell-diminishing-valued-colored-balls)
+* [Sorted gcd pair queries](../Solutions/S/sorted-gcd-pair-queries)
 
 ## <a id="combinatorics">Combinatorics</a>
 * [3sum with multiplicity](../Solutions/0-9/3sum-with-multiplicity)
@@ -110,6 +111,7 @@
 * [Find all possible stable binary arrays ii](../Solutions/F/find-all-possible-stable-binary-arrays-ii)
 * [Find the sum of subsequence powers](../Solutions/F/find-the-sum-of-subsequence-powers)
 * [Kth smallest amount with single denomination combination](../Solutions/K/kth-smallest-amount-with-single-denomination-combination)
+* [Sorted gcd pair queries](../Solutions/S/sorted-gcd-pair-queries)
 
 ## <a id="composition-of-operations">Composition of operations</a>
 * [Bitwise xor of all pairings](../Solutions/B/bitwise-xor-of-all-pairings)
@@ -203,6 +205,7 @@
 * [2 keys keyboard](../Solutions/0-9/2-keys-keyboard)
 * [Count the number of square free subsets](../Solutions/C/count-the-number-of-square-free-subsets)
 * [Largest divisible subset](../Solutions/L/largest-divisible-subset)
+* [Sorted gcd pair queries](../Solutions/S/sorted-gcd-pair-queries)
 
 ### <a id="factor-listing-in-sqrt-n-">Factor listing in sqrt(N)</a>
 * [2 keys keyboard](../Solutions/0-9/2-keys-keyboard)
@@ -213,6 +216,7 @@
 
 ### <a id="inclusion-exclusion">Inclusion-exclusion</a>
 * [Kth smallest amount with single denomination combination](../Solutions/K/kth-smallest-amount-with-single-denomination-combination)
+* [Sorted gcd pair queries](../Solutions/S/sorted-gcd-pair-queries)
 
 ### <a id="modular-exponentiation-inverse">Modular exponentiation/inverse</a>
 * [Apply operations to maximize score](../Solutions/A/apply-operations-to-maximize-score)
@@ -247,6 +251,7 @@
 * [Number of different subsequences gcds](../Solutions/N/number-of-different-subsequences-gcds)
 * [Prime pairs with target sum](../Solutions/P/prime-pairs-with-target-sum)
 * [Prime subtraction operation](../Solutions/P/prime-subtraction-operation)
+* [Sorted gcd pair queries](../Solutions/S/sorted-gcd-pair-queries)
 * [Split the array to make coprime products](../Solutions/S/split-the-array-to-make-coprime-products)
 
 ### <a id="theorems">Theorems</a>

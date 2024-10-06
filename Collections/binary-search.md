@@ -66,6 +66,7 @@
 * [Prime subtraction operation](../Solutions/P/prime-subtraction-operation)
 * [Range sum of sorted subarray sums](../Solutions/R/range-sum-of-sorted-subarray-sums)
 * [Sell diminishing valued colored balls](../Solutions/S/sell-diminishing-valued-colored-balls)
+* [Sorted gcd pair queries](../Solutions/S/sorted-gcd-pair-queries)
 * [Split array largest sum](../Solutions/S/split-array-largest-sum)
 
 ## <a id="c---set">C++ set</a>

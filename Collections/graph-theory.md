@@ -49,6 +49,7 @@
 ## <a id="degree-counting">Degree counting</a>
 * [Add edges to make degrees of all nodes even](../Solutions/A/add-edges-to-make-degrees-of-all-nodes-even)
 * [Collect coins in a tree](../Solutions/C/collect-coins-in-a-tree)
+* [Construct 2d grid matching graph layout](../Solutions/C/construct-2d-grid-matching-graph-layout)
 * [Find champion i](../Solutions/F/find-champion-i)
 * [Find champion ii](../Solutions/F/find-champion-ii)
 * [Find the town judge](../Solutions/F/find-the-town-judge)
@@ -92,6 +93,7 @@
 * [Number of increasing paths in a grid](../Solutions/N/number-of-increasing-paths-in-a-grid)
 * [Number of nodes in the sub tree with the same label](../Solutions/N/number-of-nodes-in-the-sub-tree-with-the-same-label)
 * [Reachable nodes with restrictions](../Solutions/R/reachable-nodes-with-restrictions)
+* [Remove methods from project](../Solutions/R/remove-methods-from-project)
 * [Reorder routes to make all paths lead to the city zero](../Solutions/R/reorder-routes-to-make-all-paths-lead-to-the-city-zero)
 * [Shortest cycle in a graph](../Solutions/S/shortest-cycle-in-a-graph)
 * [Time needed to inform all employees](../Solutions/T/time-needed-to-inform-all-employees)
