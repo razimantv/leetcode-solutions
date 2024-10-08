@@ -121,6 +121,7 @@
 
 ### <a id="valid-brackets">Valid brackets</a>
 * [Maximum nesting depth of the parentheses](../Solutions/M/maximum-nesting-depth-of-the-parentheses)
+* [Minimum number of swaps to make the string balanced](../Solutions/M/minimum-number-of-swaps-to-make-the-string-balanced)
 * [Minimum remove to make valid parentheses](../Solutions/M/minimum-remove-to-make-valid-parentheses)
 * [Remove invalid parentheses](../Solutions/R/remove-invalid-parentheses)
 * [Reverse substrings between each pair of parentheses](../Solutions/R/reverse-substrings-between-each-pair-of-parentheses)

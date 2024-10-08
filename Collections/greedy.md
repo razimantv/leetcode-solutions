@@ -111,6 +111,7 @@
 * [Minimum number of operations to make arrays similar](../Solutions/M/minimum-number-of-operations-to-make-arrays-similar)
 * [Minimum number of pushes to type word i](../Solutions/M/minimum-number-of-pushes-to-type-word-i)
 * [Minimum number of pushes to type word ii](../Solutions/M/minimum-number-of-pushes-to-type-word-ii)
+* [Minimum number of swaps to make the string balanced](../Solutions/M/minimum-number-of-swaps-to-make-the-string-balanced)
 * [Minimum number of taps to open to water a garden](../Solutions/M/minimum-number-of-taps-to-open-to-water-a-garden)
 * [Minimum operations to make a special number](../Solutions/M/minimum-operations-to-make-a-special-number)
 * [Minimum operations to make array equal ii](../Solutions/M/minimum-operations-to-make-array-equal-ii)
