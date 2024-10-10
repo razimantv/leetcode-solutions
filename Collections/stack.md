@@ -30,6 +30,7 @@
 * [Maximum score of a good subarray](../Solutions/M/maximum-score-of-a-good-subarray)
 * [Maximum subarray min product](../Solutions/M/maximum-subarray-min-product)
 * [Maximum sum queries](../Solutions/M/maximum-sum-queries)
+* [Maximum width ramp](../Solutions/M/maximum-width-ramp)
 * [Minimum difficulty of a job schedule](../Solutions/M/minimum-difficulty-of-a-job-schedule)
 * [Next greater element ii](../Solutions/N/next-greater-element-ii)
 * [Online stock span](../Solutions/O/online-stock-span)

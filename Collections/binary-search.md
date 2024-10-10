@@ -48,6 +48,7 @@
 * [Maximum running time of n computers](../Solutions/M/maximum-running-time-of-n-computers)
 * [Maximum tastiness of candy basket](../Solutions/M/maximum-tastiness-of-candy-basket)
 * [Maximum value at a given index in a bounded array](../Solutions/M/maximum-value-at-a-given-index-in-a-bounded-array)
+* [Maximum width ramp](../Solutions/M/maximum-width-ramp)
 * [Maximum xor of two numbers in an array](../Solutions/M/maximum-xor-of-two-numbers-in-an-array)
 * [Median of two sorted arrays](../Solutions/M/median-of-two-sorted-arrays)
 * [Minimize maximum of array](../Solutions/M/minimize-maximum-of-array)
