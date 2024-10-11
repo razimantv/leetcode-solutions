@@ -30,6 +30,7 @@
 * [Reorganize string](../Solutions/R/reorganize-string)
 * [Robot collisions](../Solutions/R/robot-collisions)
 * [Sort an array](../Solutions/S/sort-an-array)
+* [The number of the smallest unoccupied chair](../Solutions/T/the-number-of-the-smallest-unoccupied-chair)
 * [Time to cross a bridge](../Solutions/T/time-to-cross-a-bridge)
 * [Total cost to hire k workers](../Solutions/T/total-cost-to-hire-k-workers)
 

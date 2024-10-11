@@ -68,6 +68,7 @@
 * [Sort the jumbled numbers](../Solutions/S/sort-the-jumbled-numbers)
 * [Sort the people](../Solutions/S/sort-the-people)
 * [Sort the students by their kth score](../Solutions/S/sort-the-students-by-their-kth-score)
+* [The number of the smallest unoccupied chair](../Solutions/T/the-number-of-the-smallest-unoccupied-chair)
 
 ## <a id="implementation">Implementation</a>
 * [Sort an array](../Solutions/S/sort-an-array)
