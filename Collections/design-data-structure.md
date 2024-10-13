@@ -19,6 +19,8 @@
 * [Design underground system](../Solutions/D/design-underground-system)
 * [Encode and decode tinyurl](../Solutions/E/encode-and-decode-tinyurl)
 * [Find consecutive integers from a data stream](../Solutions/F/find-consecutive-integers-from-a-data-stream)
+* [Find x sum of all k long subarrays i](../Solutions/F/find-x-sum-of-all-k-long-subarrays-i)
+* [Find x sum of all k long subarrays ii](../Solutions/F/find-x-sum-of-all-k-long-subarrays-ii)
 * [Frequency tracker](../Solutions/F/frequency-tracker)
 * [Implement trie prefix tree](../Solutions/I/implement-trie-prefix-tree)
 * [Insert delete getrandom o1](../Solutions/I/insert-delete-getrandom-o1)

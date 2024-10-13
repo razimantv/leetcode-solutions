@@ -62,7 +62,13 @@
 * [Divide an array into subarrays with minimum cost i](../Solutions/D/divide-an-array-into-subarrays-with-minimum-cost-i)
 * [Divide an array into subarrays with minimum cost ii](../Solutions/D/divide-an-array-into-subarrays-with-minimum-cost-ii)
 * [Find median from data stream](../Solutions/F/find-median-from-data-stream)
+* [Find x sum of all k long subarrays i](../Solutions/F/find-x-sum-of-all-k-long-subarrays-i)
+* [Find x sum of all k long subarrays ii](../Solutions/F/find-x-sum-of-all-k-long-subarrays-ii)
 * [Finding mk average](../Solutions/F/finding-mk-average)
+
+## <a id="key-update-using-insert-and-remove">Key update using insert and remove</a>
+* [Find x sum of all k long subarrays i](../Solutions/F/find-x-sum-of-all-k-long-subarrays-i)
+* [Find x sum of all k long subarrays ii](../Solutions/F/find-x-sum-of-all-k-long-subarrays-ii)
 
 ## <a id="key-update-using-insert-and-remove-on-c---set">Key update using insert and remove on C++ set</a>
 * [Count zero request servers](../Solutions/C/count-zero-request-servers)
@@ -84,4 +90,6 @@
 * [Take gifts from the richest pile](../Solutions/T/take-gifts-from-the-richest-pile)
 
 ## <a id="python-sortedlist">Python SortedList</a>
+* [Find x sum of all k long subarrays i](../Solutions/F/find-x-sum-of-all-k-long-subarrays-i)
+* [Find x sum of all k long subarrays ii](../Solutions/F/find-x-sum-of-all-k-long-subarrays-ii)
 * [K th nearest obstacle queries](../Solutions/K/k-th-nearest-obstacle-queries)

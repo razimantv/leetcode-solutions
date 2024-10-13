@@ -22,6 +22,8 @@
 * [Find subarray with bitwise and closest to k](../Solutions/F/find-subarray-with-bitwise-and-closest-to-k)
 * [Find the longest equal subarray](../Solutions/F/find-the-longest-equal-subarray)
 * [Find the median of the uniqueness array](../Solutions/F/find-the-median-of-the-uniqueness-array)
+* [Find x sum of all k long subarrays i](../Solutions/F/find-x-sum-of-all-k-long-subarrays-i)
+* [Find x sum of all k long subarrays ii](../Solutions/F/find-x-sum-of-all-k-long-subarrays-ii)
 * [Frequency of the most frequent element](../Solutions/F/frequency-of-the-most-frequent-element)
 * [Fruit into baskets](../Solutions/F/fruit-into-baskets)
 * [Get equal substrings within budget](../Solutions/G/get-equal-substrings-within-budget)

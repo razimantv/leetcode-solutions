@@ -88,6 +88,7 @@
 * [Coin change](../Solutions/C/coin-change)
 * [Coin change 2](../Solutions/C/coin-change-2)
 * [Count the number of inversions](../Solutions/C/count-the-number-of-inversions)
+* [Count the number of winning sequences](../Solutions/C/count-the-number-of-winning-sequences)
 * [Decremental string concatenation](../Solutions/D/decremental-string-concatenation)
 * [Delete operation for two strings](../Solutions/D/delete-operation-for-two-strings)
 * [Distinct subsequences](../Solutions/D/distinct-subsequences)
@@ -200,6 +201,7 @@
 * [Make array strictly increasing](../Solutions/M/make-array-strictly-increasing)
 
 ## <a id="graph-like-state-transitions">Graph-like state transitions</a>
+* [Count the number of winning sequences](../Solutions/C/count-the-number-of-winning-sequences)
 * [Knight dialer](../Solutions/K/knight-dialer)
 * [Knight probability in chessboard](../Solutions/K/knight-probability-in-chessboard)
 * [Maximum number of non overlapping palindrome substrings](../Solutions/M/maximum-number-of-non-overlapping-palindrome-substrings)

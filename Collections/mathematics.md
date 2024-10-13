@@ -74,6 +74,7 @@
 * [Count the number of ideal arrays](../Solutions/C/count-the-number-of-ideal-arrays)
 * [Count the number of infection sequences](../Solutions/C/count-the-number-of-infection-sequences)
 * [Count the number of inversions](../Solutions/C/count-the-number-of-inversions)
+* [Count the number of winning sequences](../Solutions/C/count-the-number-of-winning-sequences)
 * [Count unreachable pairs of nodes in an undirected graph](../Solutions/C/count-unreachable-pairs-of-nodes-in-an-undirected-graph)
 * [Count ways to group overlapping ranges](../Solutions/C/count-ways-to-group-overlapping-ranges)
 * [Domino and tromino tiling](../Solutions/D/domino-and-tromino-tiling)
