@@ -68,6 +68,7 @@
 
 ## <a id="subsequence">Subsequence</a>
 * [Append characters to string to make subsequence](../Solutions/A/append-characters-to-string-to-make-subsequence)
+* [Find maximum removals from source string](../Solutions/F/find-maximum-removals-from-source-string)
 * [Find the lexicographically smallest valid sequence](../Solutions/F/find-the-lexicographically-smallest-valid-sequence)
 * [Is subsequence](../Solutions/I/is-subsequence)
 * [Longest common subsequence](../Solutions/L/longest-common-subsequence)

@@ -80,6 +80,7 @@
 * [Find number of ways to reach the k th stair](../Solutions/F/find-number-of-ways-to-reach-the-k-th-stair)
 * [Find products of elements of big array](../Solutions/F/find-products-of-elements-of-big-array)
 * [Find the count of good integers](../Solutions/F/find-the-count-of-good-integers)
+* [Find the number of possible ways for an event](../Solutions/F/find-the-number-of-possible-ways-for-an-event)
 * [Find the sum of the power of all subsequences](../Solutions/F/find-the-sum-of-the-power-of-all-subsequences)
 * [Find xor beauty of array](../Solutions/F/find-xor-beauty-of-array)
 * [Iterator for combination](../Solutions/I/iterator-for-combination)

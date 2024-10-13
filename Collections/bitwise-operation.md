@@ -9,6 +9,8 @@
 * [Cinema seat allocation](../Solutions/C/cinema-seat-allocation)
 * [Complement of base 10 integer](../Solutions/C/complement-of-base-10-integer)
 * [Concatenation of consecutive binary numbers](../Solutions/C/concatenation-of-consecutive-binary-numbers)
+* [Construct the minimum bitwise array i](../Solutions/C/construct-the-minimum-bitwise-array-i)
+* [Construct the minimum bitwise array ii](../Solutions/C/construct-the-minimum-bitwise-array-ii)
 * [Count pairs with xor in a range](../Solutions/C/count-pairs-with-xor-in-a-range)
 * [Counting bits](../Solutions/C/counting-bits)
 * [Cycle length queries in a tree](../Solutions/C/cycle-length-queries-in-a-tree)

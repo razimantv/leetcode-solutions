@@ -91,11 +91,13 @@
 * [Decremental string concatenation](../Solutions/D/decremental-string-concatenation)
 * [Delete operation for two strings](../Solutions/D/delete-operation-for-two-strings)
 * [Distinct subsequences](../Solutions/D/distinct-subsequences)
+* [Find maximum removals from source string](../Solutions/F/find-maximum-removals-from-source-string)
 * [Find the count of monotonic pairs i](../Solutions/F/find-the-count-of-monotonic-pairs-i)
 * [Find the count of monotonic pairs ii](../Solutions/F/find-the-count-of-monotonic-pairs-ii)
 * [Find the maximum length of a good subsequence i](../Solutions/F/find-the-maximum-length-of-a-good-subsequence-i)
 * [Find the maximum length of a good subsequence ii](../Solutions/F/find-the-maximum-length-of-a-good-subsequence-ii)
 * [Find the maximum sequence value of array](../Solutions/F/find-the-maximum-sequence-value-of-array)
+* [Find the number of possible ways for an event](../Solutions/F/find-the-number-of-possible-ways-for-an-event)
 * [Find the sum of subsequence powers](../Solutions/F/find-the-sum-of-subsequence-powers)
 * [Find the sum of the power of all subsequences](../Solutions/F/find-the-sum-of-the-power-of-all-subsequences)
 * [Freedom trail](../Solutions/F/freedom-trail)
@@ -241,6 +243,7 @@
 
 ## <a id="longest-common-subsequence">Longest common subsequence</a>
 * [Delete operation for two strings](../Solutions/D/delete-operation-for-two-strings)
+* [Find maximum removals from source string](../Solutions/F/find-maximum-removals-from-source-string)
 * [Longest common subsequence](../Solutions/L/longest-common-subsequence)
 * [Max dot product of two subsequences](../Solutions/M/max-dot-product-of-two-subsequences)
 * [Maximum length of repeated subarray](../Solutions/M/maximum-length-of-repeated-subarray)
