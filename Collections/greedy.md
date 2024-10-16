@@ -46,6 +46,7 @@
 * [Lexicographically minimum string after removing stars](../Solutions/L/lexicographically-minimum-string-after-removing-stars)
 * [Lexicographically smallest string after operations with constraint](../Solutions/L/lexicographically-smallest-string-after-operations-with-constraint)
 * [Lexicographically smallest string after substring operation](../Solutions/L/lexicographically-smallest-string-after-substring-operation)
+* [Longest happy string](../Solutions/L/longest-happy-string)
 * [Longest subsequence with limited sum](../Solutions/L/longest-subsequence-with-limited-sum)
 * [Magnetic force between two balls](../Solutions/M/magnetic-force-between-two-balls)
 * [Make array zero by subtracting equal amounts](../Solutions/M/make-array-zero-by-subtracting-equal-amounts)
