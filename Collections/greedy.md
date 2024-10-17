@@ -76,6 +76,7 @@
 * [Maximum product of two elements in an array](../Solutions/M/maximum-product-of-two-elements-in-an-array)
 * [Maximum score from removing substrings](../Solutions/M/maximum-score-from-removing-substrings)
 * [Maximum spending after buying items](../Solutions/M/maximum-spending-after-buying-items)
+* [Maximum swap](../Solutions/M/maximum-swap)
 * [Maximum tastiness of candy basket](../Solutions/M/maximum-tastiness-of-candy-basket)
 * [Maximum total importance of roads](../Solutions/M/maximum-total-importance-of-roads)
 * [Maximum units on a truck](../Solutions/M/maximum-units-on-a-truck)
