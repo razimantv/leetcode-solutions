@@ -107,4 +107,5 @@
 * [Xor queries of a subarray](../Solutions/X/xor-queries-of-a-subarray)
 
 ## <a id="subset-enumeration">Subset enumeration</a>
+* [Count number of maximum bitwise or subsets](../Solutions/C/count-number-of-maximum-bitwise-or-subsets)
 * [Select cells in grid with maximum score](../Solutions/S/select-cells-in-grid-with-maximum-score)

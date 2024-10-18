@@ -2,6 +2,7 @@
 # <a id="brute-force-enumeration">Brute force enumeration</a>
 
 ## <a id="combinatorial">Combinatorial</a>
+* [Count number of maximum bitwise or subsets](../Solutions/C/count-number-of-maximum-bitwise-or-subsets)
 * [Fair distribution of cookies](../Solutions/F/fair-distribution-of-cookies)
 * [Iterator for combination](../Solutions/I/iterator-for-combination)
 * [Longest uncommon subsequence ii](../Solutions/L/longest-uncommon-subsequence-ii)
