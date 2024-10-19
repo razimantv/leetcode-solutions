@@ -19,6 +19,7 @@
 * [Find a good subset of the matrix](../Solutions/F/find-a-good-subset-of-the-matrix)
 * [Find a value of a mysterious function closest to target](../Solutions/F/find-a-value-of-a-mysterious-function-closest-to-target)
 * [Find if array can be sorted](../Solutions/F/find-if-array-can-be-sorted)
+* [Find kth bit in nth binary string](../Solutions/F/find-kth-bit-in-nth-binary-string)
 * [Find products of elements of big array](../Solutions/F/find-products-of-elements-of-big-array)
 * [Find subarray with bitwise and closest to k](../Solutions/F/find-subarray-with-bitwise-and-closest-to-k)
 * [Find the k or of an array](../Solutions/F/find-the-k-or-of-an-array)
