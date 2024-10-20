@@ -122,6 +122,7 @@
 * [Maximum strength of k disjoint subarrays](../Solutions/M/maximum-strength-of-k-disjoint-subarrays)
 * [Maximum value of k coins from piles](../Solutions/M/maximum-value-of-k-coins-from-piles)
 * [Minimum additions to make valid string](../Solutions/M/minimum-additions-to-make-valid-string)
+* [Minimum division operations to make array non decreasing](../Solutions/M/minimum-division-operations-to-make-array-non-decreasing)
 * [Minimum falling path sum](../Solutions/M/minimum-falling-path-sum)
 * [Minimum falling path sum ii](../Solutions/M/minimum-falling-path-sum-ii)
 * [Minimum insertion steps to make a string palindrome](../Solutions/M/minimum-insertion-steps-to-make-a-string-palindrome)
@@ -340,6 +341,7 @@
 * [Most profitable path in a tree](../Solutions/M/most-profitable-path-in-a-tree)
 
 ### <a id="dp-over-children">DP over children</a>
+* [Check if dfs strings are palindromes](../Solutions/C/check-if-dfs-strings-are-palindromes)
 * [Count pairs of connectable servers in a weighted tree network](../Solutions/C/count-pairs-of-connectable-servers-in-a-weighted-tree-network)
 * [Find the maximum sum of node values](../Solutions/F/find-the-maximum-sum-of-node-values)
 * [Number of good leaf nodes pairs](../Solutions/N/number-of-good-leaf-nodes-pairs)

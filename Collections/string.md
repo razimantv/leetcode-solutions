@@ -56,6 +56,9 @@
 * [String transformation](../Solutions/S/string-transformation)
 * [Sum of prefix scores of strings](../Solutions/S/sum-of-prefix-scores-of-strings)
 
+#### <a id="double-hashing">Double hashing</a>
+* [Check if dfs strings are palindromes](../Solutions/C/check-if-dfs-strings-are-palindromes)
+
 ### <a id="prefix-suffix">Prefix/Suffix</a>
 * [Find the occurrence of first almost equal substring](../Solutions/F/find-the-occurrence-of-first-almost-equal-substring)
 * [Prefix and suffix search](../Solutions/P/prefix-and-suffix-search)

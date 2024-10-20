@@ -31,5 +31,6 @@
 * [Unique length 3 palindromic subsequences](../Solutions/U/unique-length-3-palindromic-subsequences)
 
 ## <a id="hashing">Hashing</a>
+* [Check if dfs strings are palindromes](../Solutions/C/check-if-dfs-strings-are-palindromes)
 * [Longest palindromic substring](../Solutions/L/longest-palindromic-substring)
 * [Palindrome pairs](../Solutions/P/palindrome-pairs)

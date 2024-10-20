@@ -160,6 +160,7 @@
 * [Count substrings starting and ending with given character](../Solutions/C/count-substrings-starting-and-ending-with-given-character)
 * [Count substrings that can be rearranged to contain a string i](../Solutions/C/count-substrings-that-can-be-rearranged-to-contain-a-string-i)
 * [Count substrings that can be rearranged to contain a string ii](../Solutions/C/count-substrings-that-can-be-rearranged-to-contain-a-string-ii)
+* [Count substrings with k frequency characters i](../Solutions/C/count-substrings-with-k-frequency-characters-i)
 * [Divide array in sets of k consecutive numbers](../Solutions/D/divide-array-in-sets-of-k-consecutive-numbers)
 * [Find common characters](../Solutions/F/find-common-characters)
 * [Find the count of good integers](../Solutions/F/find-the-count-of-good-integers)

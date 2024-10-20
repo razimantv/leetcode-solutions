@@ -60,6 +60,7 @@
 
 ## <a id="depth-first-search">Depth first search</a>
 * [Amount of time for binary tree to be infected](../Solutions/A/amount-of-time-for-binary-tree-to-be-infected)
+* [Check if dfs strings are palindromes](../Solutions/C/check-if-dfs-strings-are-palindromes)
 * [Count number of possible root nodes](../Solutions/C/count-number-of-possible-root-nodes)
 * [Count pairs of connectable servers in a weighted tree network](../Solutions/C/count-pairs-of-connectable-servers-in-a-weighted-tree-network)
 * [Count paths that can form a palindrome in a tree](../Solutions/C/count-paths-that-can-form-a-palindrome-in-a-tree)

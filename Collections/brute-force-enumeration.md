@@ -23,6 +23,7 @@
 * [Shortest string that contains three strings](../Solutions/S/shortest-string-that-contains-three-strings)
 
 ## <a id="elementwise-processing-using-a-vector">Elementwise processing using a vector</a>
+* [Find the sequence of strings appeared on the screen](../Solutions/F/find-the-sequence-of-strings-appeared-on-the-screen)
 * [Generate binary strings without adjacent zeros](../Solutions/G/generate-binary-strings-without-adjacent-zeros)
 * [Kth smallest amount with single denomination combination](../Solutions/K/kth-smallest-amount-with-single-denomination-combination)
 * [Letter case permutation](../Solutions/L/letter-case-permutation)
