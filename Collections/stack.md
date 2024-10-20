@@ -41,3 +41,7 @@
 * [Basic calculator ii](../Solutions/B/basic-calculator-ii)
 * [Evaluate reverse polish notation](../Solutions/E/evaluate-reverse-polish-notation)
 * [Minimum cost to change the final value of expression](../Solutions/M/minimum-cost-to-change-the-final-value-of-expression)
+* [Parsing a boolean expression](../Solutions/P/parsing-a-boolean-expression)
+
+## <a id="valid-brackets">Valid brackets</a>
+* [Parsing a boolean expression](../Solutions/P/parsing-a-boolean-expression)

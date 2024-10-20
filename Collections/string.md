@@ -31,6 +31,7 @@
 ### <a id="recursive">Recursive</a>
 * [Decode string](../Solutions/D/decode-string)
 * [Number of atoms](../Solutions/N/number-of-atoms)
+* [Parsing a boolean expression](../Solutions/P/parsing-a-boolean-expression)
 * [Reverse substrings between each pair of parentheses](../Solutions/R/reverse-substrings-between-each-pair-of-parentheses)
 
 ## <a id="search">Search</a>
