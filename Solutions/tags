@@ -224,6 +224,7 @@ String>Parsing
 String>Parsing>Recursive
 String>Search>
 String>Search>Hashing
+String>Search>Hashing>Double hashing
 String>Search>Prefix/Suffix
 String>Search>Trie
 String>Subsequence

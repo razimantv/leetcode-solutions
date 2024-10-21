@@ -25,4 +25,5 @@
 * [Path sum iii](../Solutions/P/path-sum-iii)
 * [Path with maximum gold](../Solutions/P/path-with-maximum-gold)
 * [Reconstruct itinerary](../Solutions/R/reconstruct-itinerary)
+* [Split a string into the max number of unique substrings](../Solutions/S/split-a-string-into-the-max-number-of-unique-substrings)
 * [Word search ii](../Solutions/W/word-search-ii)
