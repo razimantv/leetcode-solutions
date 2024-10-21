@@ -270,6 +270,7 @@
 * [Find the minimum cost array permutation](../Solutions/F/find-the-minimum-cost-array-permutation)
 * [Maximum number of moves to kill all pawns](../Solutions/M/maximum-number-of-moves-to-kill-all-pawns)
 * [Maximum number of operations with the same score ii](../Solutions/M/maximum-number-of-operations-with-the-same-score-ii)
+* [Minimum cost to merge stones](../Solutions/M/minimum-cost-to-merge-stones)
 * [Minimum number of days to eat n oranges](../Solutions/M/minimum-number-of-days-to-eat-n-oranges)
 * [Number of dice rolls with target sum](../Solutions/N/number-of-dice-rolls-with-target-sum)
 * [Out of boundary paths](../Solutions/O/out-of-boundary-paths)

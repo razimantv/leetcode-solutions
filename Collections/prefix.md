@@ -75,6 +75,7 @@
 * [Minimum absolute difference queries](../Solutions/M/minimum-absolute-difference-queries)
 * [Minimum amount of time to collect garbage](../Solutions/M/minimum-amount-of-time-to-collect-garbage)
 * [Minimum cost to make all characters equal](../Solutions/M/minimum-cost-to-make-all-characters-equal)
+* [Minimum cost to merge stones](../Solutions/M/minimum-cost-to-merge-stones)
 * [Minimum edge weight equilibrium queries in a tree](../Solutions/M/minimum-edge-weight-equilibrium-queries-in-a-tree)
 * [Minimum moves to pick k ones](../Solutions/M/minimum-moves-to-pick-k-ones)
 * [Minimum number of chairs in a waiting room](../Solutions/M/minimum-number-of-chairs-in-a-waiting-room)
