@@ -76,6 +76,7 @@
 * [Find mode in binary search tree](../Solutions/F/find-mode-in-binary-search-tree)
 * [Flatten binary tree to linked list](../Solutions/F/flatten-binary-tree-to-linked-list)
 * [Flip binary tree to match preorder traversal](../Solutions/F/flip-binary-tree-to-match-preorder-traversal)
+* [Flip equivalent binary trees](../Solutions/F/flip-equivalent-binary-trees)
 * [Height of binary tree after subtree removal queries](../Solutions/H/height-of-binary-tree-after-subtree-removal-queries)
 * [House robber iii](../Solutions/H/house-robber-iii)
 * [Increasing order search tree](../Solutions/I/increasing-order-search-tree)
