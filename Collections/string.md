@@ -62,6 +62,7 @@
 ### <a id="prefix-suffix">Prefix/Suffix</a>
 * [Find the occurrence of first almost equal substring](../Solutions/F/find-the-occurrence-of-first-almost-equal-substring)
 * [Prefix and suffix search](../Solutions/P/prefix-and-suffix-search)
+* [Remove sub folders from the filesystem](../Solutions/R/remove-sub-folders-from-the-filesystem)
 * [Shortest string that contains three strings](../Solutions/S/shortest-string-that-contains-three-strings)
 
 ### <a id="trie">Trie</a>
