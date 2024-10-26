@@ -111,6 +111,7 @@
 * [Distribute candies among children ii](../Solutions/D/distribute-candies-among-children-ii)
 * [Find all possible stable binary arrays i](../Solutions/F/find-all-possible-stable-binary-arrays-i)
 * [Find all possible stable binary arrays ii](../Solutions/F/find-all-possible-stable-binary-arrays-ii)
+* [Find the original typed string ii](../Solutions/F/find-the-original-typed-string-ii)
 * [Find the sum of subsequence powers](../Solutions/F/find-the-sum-of-subsequence-powers)
 * [Kth smallest amount with single denomination combination](../Solutions/K/kth-smallest-amount-with-single-denomination-combination)
 * [Sorted gcd pair queries](../Solutions/S/sorted-gcd-pair-queries)

@@ -74,6 +74,7 @@
 * [Employee importance](../Solutions/E/employee-importance)
 * [Find if path exists in graph](../Solutions/F/find-if-path-exists-in-graph)
 * [Find number of coins to place in tree nodes](../Solutions/F/find-number-of-coins-to-place-in-tree-nodes)
+* [Find subtree sizes after changes](../Solutions/F/find-subtree-sizes-after-changes)
 * [Find the maximum sum of node values](../Solutions/F/find-the-maximum-sum-of-node-values)
 * [Jump game iii](../Solutions/J/jump-game-iii)
 * [Keys and rooms](../Solutions/K/keys-and-rooms)

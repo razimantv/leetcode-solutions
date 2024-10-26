@@ -45,6 +45,7 @@
 * [Find mode in binary search tree](../Solutions/F/find-mode-in-binary-search-tree)
 * [Find players with zero or one losses](../Solutions/F/find-players-with-zero-or-one-losses)
 * [Find subarrays with equal sum](../Solutions/F/find-subarrays-with-equal-sum)
+* [Find subtree sizes after changes](../Solutions/F/find-subtree-sizes-after-changes)
 * [Find the difference of two arrays](../Solutions/F/find-the-difference-of-two-arrays)
 * [Find the distinct difference array](../Solutions/F/find-the-distinct-difference-array)
 * [Find the length of the longest common prefix](../Solutions/F/find-the-length-of-the-longest-common-prefix)

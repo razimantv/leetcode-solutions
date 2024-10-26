@@ -54,6 +54,7 @@
 * [Find the count of monotonic pairs ii](../Solutions/F/find-the-count-of-monotonic-pairs-ii)
 * [Find the highest altitude](../Solutions/F/find-the-highest-altitude)
 * [Find the n th value after k seconds](../Solutions/F/find-the-n-th-value-after-k-seconds)
+* [Find the original typed string ii](../Solutions/F/find-the-original-typed-string-ii)
 * [Find the score of all prefixes of an array](../Solutions/F/find-the-score-of-all-prefixes-of-an-array)
 * [Find the substring with maximum cost](../Solutions/F/find-the-substring-with-maximum-cost)
 * [Gas station](../Solutions/G/gas-station)

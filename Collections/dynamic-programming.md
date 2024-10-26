@@ -99,6 +99,7 @@
 * [Find the maximum length of a good subsequence ii](../Solutions/F/find-the-maximum-length-of-a-good-subsequence-ii)
 * [Find the maximum sequence value of array](../Solutions/F/find-the-maximum-sequence-value-of-array)
 * [Find the number of possible ways for an event](../Solutions/F/find-the-number-of-possible-ways-for-an-event)
+* [Find the original typed string ii](../Solutions/F/find-the-original-typed-string-ii)
 * [Find the sum of subsequence powers](../Solutions/F/find-the-sum-of-subsequence-powers)
 * [Find the sum of the power of all subsequences](../Solutions/F/find-the-sum-of-the-power-of-all-subsequences)
 * [Freedom trail](../Solutions/F/freedom-trail)
@@ -117,6 +118,7 @@
 * [Maximum length of repeated subarray](../Solutions/M/maximum-length-of-repeated-subarray)
 * [Maximum multiplication score](../Solutions/M/maximum-multiplication-score)
 * [Maximum number of points with cost](../Solutions/M/maximum-number-of-points-with-cost)
+* [Maximum points tourist can earn](../Solutions/M/maximum-points-tourist-can-earn)
 * [Maximum score from grid operations](../Solutions/M/maximum-score-from-grid-operations)
 * [Maximum score from performing multiplication operations](../Solutions/M/maximum-score-from-performing-multiplication-operations)
 * [Maximum strength of k disjoint subarrays](../Solutions/M/maximum-strength-of-k-disjoint-subarrays)
@@ -166,6 +168,7 @@
 ### <a id="prefix-sum">Prefix sum</a>
 * [Find the count of monotonic pairs i](../Solutions/F/find-the-count-of-monotonic-pairs-i)
 * [Find the count of monotonic pairs ii](../Solutions/F/find-the-count-of-monotonic-pairs-ii)
+* [Find the original typed string ii](../Solutions/F/find-the-original-typed-string-ii)
 
 ## <a id="binary-lifting">Binary lifting</a>
 * [Maximize value of function in a ball passing game](../Solutions/M/maximize-value-of-function-in-a-ball-passing-game)

@@ -72,6 +72,7 @@
 * [Find the key of the numbers](../Solutions/F/find-the-key-of-the-numbers)
 * [Find the losers of the circular game](../Solutions/F/find-the-losers-of-the-circular-game)
 * [Find the maximum divisibility score](../Solutions/F/find-the-maximum-divisibility-score)
+* [Find the original typed string i](../Solutions/F/find-the-original-typed-string-i)
 * [Find the peaks](../Solutions/F/find-the-peaks)
 * [Find the pivot integer](../Solutions/F/find-the-pivot-integer)
 * [Find the sum of encrypted integers](../Solutions/F/find-the-sum-of-encrypted-integers)
