@@ -99,6 +99,7 @@
 * [Find the maximum length of a good subsequence ii](../Solutions/F/find-the-maximum-length-of-a-good-subsequence-ii)
 * [Find the maximum sequence value of array](../Solutions/F/find-the-maximum-sequence-value-of-array)
 * [Find the number of possible ways for an event](../Solutions/F/find-the-number-of-possible-ways-for-an-event)
+* [Find the number of subsequences with equal gcd](../Solutions/F/find-the-number-of-subsequences-with-equal-gcd)
 * [Find the original typed string ii](../Solutions/F/find-the-original-typed-string-ii)
 * [Find the sum of subsequence powers](../Solutions/F/find-the-sum-of-subsequence-powers)
 * [Find the sum of the power of all subsequences](../Solutions/F/find-the-sum-of-the-power-of-all-subsequences)
@@ -152,6 +153,7 @@
 * [String compression ii](../Solutions/S/string-compression-ii)
 * [Taking maximum energy from the mystic dungeon](../Solutions/T/taking-maximum-energy-from-the-mystic-dungeon)
 * [Tallest billboard](../Solutions/T/tallest-billboard)
+* [Total characters in string after transformations i](../Solutions/T/total-characters-in-string-after-transformations-i)
 * [Visit array positions to maximize score](../Solutions/V/visit-array-positions-to-maximize-score)
 
 ## <a id="auxiliary-array">Auxiliary array</a>
@@ -214,6 +216,7 @@
 * [Number of ways to paint n 3 grid](../Solutions/N/number-of-ways-to-paint-n-3-grid)
 * [Shortest distance after road addition queries i](../Solutions/S/shortest-distance-after-road-addition-queries-i)
 * [Special permutations](../Solutions/S/special-permutations)
+* [Total characters in string after transformations ii](../Solutions/T/total-characters-in-string-after-transformations-ii)
 
 ## <a id="grid">Grid</a>
 * [Maximum difference score in a grid](../Solutions/M/maximum-difference-score-in-a-grid)
@@ -263,6 +266,7 @@
 
 ## <a id="matrix-exponentiation">Matrix exponentiation</a>
 * [String transformation](../Solutions/S/string-transformation)
+* [Total characters in string after transformations ii](../Solutions/T/total-characters-in-string-after-transformations-ii)
 
 ## <a id="memoised-recursion">Memoised recursion</a>
 * [2 keys keyboard](../Solutions/0-9/2-keys-keyboard)
