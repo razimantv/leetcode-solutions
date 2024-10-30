@@ -262,6 +262,7 @@
 * [Find the longest valid obstacle course at each position](../Solutions/F/find-the-longest-valid-obstacle-course-at-each-position)
 * [Length of the longest increasing path](../Solutions/L/length-of-the-longest-increasing-path)
 * [Longest increasing subsequence](../Solutions/L/longest-increasing-subsequence)
+* [Minimum number of removals to make mountain array](../Solutions/M/minimum-number-of-removals-to-make-mountain-array)
 * [Number of longest increasing subsequence](../Solutions/N/number-of-longest-increasing-subsequence)
 
 ## <a id="matrix-exponentiation">Matrix exponentiation</a>

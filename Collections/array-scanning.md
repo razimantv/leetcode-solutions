@@ -96,6 +96,7 @@
 * [Minimum cost to make array equal](../Solutions/M/minimum-cost-to-make-array-equal)
 * [Minimum index of a valid split](../Solutions/M/minimum-index-of-a-valid-split)
 * [Minimum number of flips to make the binary string alternating](../Solutions/M/minimum-number-of-flips-to-make-the-binary-string-alternating)
+* [Minimum number of removals to make mountain array](../Solutions/M/minimum-number-of-removals-to-make-mountain-array)
 * [Minimum remove to make valid parentheses](../Solutions/M/minimum-remove-to-make-valid-parentheses)
 * [Minimum sum of mountain triplets i](../Solutions/M/minimum-sum-of-mountain-triplets-i)
 * [Minimum sum of mountain triplets ii](../Solutions/M/minimum-sum-of-mountain-triplets-ii)

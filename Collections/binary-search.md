@@ -55,6 +55,7 @@
 * [Minimize the maximum difference of pairs](../Solutions/M/minimize-the-maximum-difference-of-pairs)
 * [Minimum cost for tickets](../Solutions/M/minimum-cost-for-tickets)
 * [Minimum number of days to make m bouquets](../Solutions/M/minimum-number-of-days-to-make-m-bouquets)
+* [Minimum number of removals to make mountain array](../Solutions/M/minimum-number-of-removals-to-make-mountain-array)
 * [Minimum number of seconds to make mountain height zero](../Solutions/M/minimum-number-of-seconds-to-make-mountain-height-zero)
 * [Minimum number of valid strings to form target ii](../Solutions/M/minimum-number-of-valid-strings-to-form-target-ii)
 * [Minimum operations to make all array elements equal](../Solutions/M/minimum-operations-to-make-all-array-elements-equal)
