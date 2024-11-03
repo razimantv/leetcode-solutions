@@ -37,6 +37,9 @@
 ## <a id="search">Search</a>
 * [Shortest uncommon substring in an array](../Solutions/S/shortest-uncommon-substring-in-an-array)
 
+### <a id="cylic-array">Cylic array</a>
+* [Rotate string](../Solutions/R/rotate-string)
+
 ### <a id="hashing">Hashing</a>
 * [Concatenated words](../Solutions/C/concatenated-words)
 * [Count prefix and suffix pairs i](../Solutions/C/count-prefix-and-suffix-pairs-i)
