@@ -154,6 +154,7 @@
 * [Combination sum ii](../Solutions/C/combination-sum-ii)
 * [Count almost equal pairs ii](../Solutions/C/count-almost-equal-pairs-ii)
 * [Count elements with maximum frequency](../Solutions/C/count-elements-with-maximum-frequency)
+* [Count number of balanced permutations](../Solutions/C/count-number-of-balanced-permutations)
 * [Count of substrings containing every vowel and k consonants i](../Solutions/C/count-of-substrings-containing-every-vowel-and-k-consonants-i)
 * [Count of substrings containing every vowel and k consonants ii](../Solutions/C/count-of-substrings-containing-every-vowel-and-k-consonants-ii)
 * [Count pairs that form a complete day i](../Solutions/C/count-pairs-that-form-a-complete-day-i)

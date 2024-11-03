@@ -67,6 +67,8 @@
 * [Finding mk average](../Solutions/F/finding-mk-average)
 
 ## <a id="key-update-using-insert-and-remove">Key update using insert and remove</a>
+* [Find minimum time to reach last room i](../Solutions/F/find-minimum-time-to-reach-last-room-i)
+* [Find minimum time to reach last room ii](../Solutions/F/find-minimum-time-to-reach-last-room-ii)
 * [Find x sum of all k long subarrays i](../Solutions/F/find-x-sum-of-all-k-long-subarrays-i)
 * [Find x sum of all k long subarrays ii](../Solutions/F/find-x-sum-of-all-k-long-subarrays-ii)
 
@@ -90,6 +92,8 @@
 * [Take gifts from the richest pile](../Solutions/T/take-gifts-from-the-richest-pile)
 
 ## <a id="python-sortedlist">Python SortedList</a>
+* [Find minimum time to reach last room i](../Solutions/F/find-minimum-time-to-reach-last-room-i)
+* [Find minimum time to reach last room ii](../Solutions/F/find-minimum-time-to-reach-last-room-ii)
 * [Find x sum of all k long subarrays i](../Solutions/F/find-x-sum-of-all-k-long-subarrays-i)
 * [Find x sum of all k long subarrays ii](../Solutions/F/find-x-sum-of-all-k-long-subarrays-ii)
 * [K th nearest obstacle queries](../Solutions/K/k-th-nearest-obstacle-queries)

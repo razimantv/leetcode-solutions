@@ -28,6 +28,7 @@
 ## <a id="closed-form-expressions">Closed form expressions</a>
 * [Calculate money in leetcode bank](../Solutions/C/calculate-money-in-leetcode-bank)
 * [Count anagrams](../Solutions/C/count-anagrams)
+* [Count number of balanced permutations](../Solutions/C/count-number-of-balanced-permutations)
 * [Count substrings starting and ending with given character](../Solutions/C/count-substrings-starting-and-ending-with-given-character)
 * [Count total number of colored cells](../Solutions/C/count-total-number-of-colored-cells)
 * [Distribute candies among children i](../Solutions/D/distribute-candies-among-children-i)
@@ -58,6 +59,7 @@
 * [Count k subsequences of a string with maximum beauty](../Solutions/C/count-k-subsequences-of-a-string-with-maximum-beauty)
 * [Count nice pairs in an array](../Solutions/C/count-nice-pairs-in-an-array)
 * [Count number of bad pairs](../Solutions/C/count-number-of-bad-pairs)
+* [Count number of balanced permutations](../Solutions/C/count-number-of-balanced-permutations)
 * [Count number of homogenous substrings](../Solutions/C/count-number-of-homogenous-substrings)
 * [Count number of ways to place houses](../Solutions/C/count-number-of-ways-to-place-houses)
 * [Count pairs of nodes](../Solutions/C/count-pairs-of-nodes)
@@ -158,6 +160,7 @@
 ### <a id="basic">Basic</a>
 * [Add digits](../Solutions/A/add-digits)
 * [Bulb switcher](../Solutions/B/bulb-switcher)
+* [Check balanced string](../Solutions/C/check-balanced-string)
 * [Check if it is a good array](../Solutions/C/check-if-it-is-a-good-array)
 * [Check if point is reachable](../Solutions/C/check-if-point-is-reachable)
 * [Continuous subarray sum](../Solutions/C/continuous-subarray-sum)

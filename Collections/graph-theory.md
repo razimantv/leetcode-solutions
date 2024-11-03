@@ -136,6 +136,8 @@
 
 ## <a id="dijkstra-s-algorithm">Dijkstra's algorithm</a>
 * [Design graph with shortest path calculator](../Solutions/D/design-graph-with-shortest-path-calculator)
+* [Find minimum time to reach last room i](../Solutions/F/find-minimum-time-to-reach-last-room-i)
+* [Find minimum time to reach last room ii](../Solutions/F/find-minimum-time-to-reach-last-room-ii)
 * [Minimum cost of a path with special roads](../Solutions/M/minimum-cost-of-a-path-with-special-roads)
 * [Minimum time to visit a cell in a grid](../Solutions/M/minimum-time-to-visit-a-cell-in-a-grid)
 * [Minimum time to visit disappearing nodes](../Solutions/M/minimum-time-to-visit-disappearing-nodes)
