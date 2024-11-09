@@ -202,6 +202,7 @@
 * [Number of beautiful integers in the range](../Solutions/N/number-of-beautiful-integers-in-the-range)
 * [Number of digit one](../Solutions/N/number-of-digit-one)
 * [Numbers at most n given digit set](../Solutions/N/numbers-at-most-n-given-digit-set)
+* [Smallest divisible digit product ii](../Solutions/S/smallest-divisible-digit-product-ii)
 
 ## <a id="element-with-special-meaning">Element with special meaning</a>
 * [Make array strictly increasing](../Solutions/M/make-array-strictly-increasing)

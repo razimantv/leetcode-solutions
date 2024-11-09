@@ -153,6 +153,7 @@
 * [Replace question marks in string to minimize its value](../Solutions/R/replace-question-marks-in-string-to-minimize-its-value)
 * [Score after flipping matrix](../Solutions/S/score-after-flipping-matrix)
 * [Sell diminishing valued colored balls](../Solutions/S/sell-diminishing-valued-colored-balls)
+* [Smallest divisible digit product ii](../Solutions/S/smallest-divisible-digit-product-ii)
 * [Smallest missing non negative integer after operations](../Solutions/S/smallest-missing-non-negative-integer-after-operations)
 * [Split array largest sum](../Solutions/S/split-array-largest-sum)
 * [Split with minimum sum](../Solutions/S/split-with-minimum-sum)

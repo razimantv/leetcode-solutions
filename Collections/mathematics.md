@@ -204,6 +204,7 @@
 * [Number of subarrays with lcm equal to k](../Solutions/N/number-of-subarrays-with-lcm-equal-to-k)
 * [Prime in diagonal](../Solutions/P/prime-in-diagonal)
 * [Range product queries of powers](../Solutions/R/range-product-queries-of-powers)
+* [Smallest divisible digit product ii](../Solutions/S/smallest-divisible-digit-product-ii)
 * [Smallest missing non negative integer after operations](../Solutions/S/smallest-missing-non-negative-integer-after-operations)
 * [Subarray sums divisible by k](../Solutions/S/subarray-sums-divisible-by-k)
 * [Sum multiples](../Solutions/S/sum-multiples)
