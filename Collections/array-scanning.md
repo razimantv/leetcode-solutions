@@ -75,6 +75,8 @@
 * [Minimum time difference](../Solutions/M/minimum-time-difference)
 
 ## <a id="from-both-ends-of-array">From both ends of array</a>
+* [Adjacent increasing subarrays detection i](../Solutions/A/adjacent-increasing-subarrays-detection-i)
+* [Adjacent increasing subarrays detection ii](../Solutions/A/adjacent-increasing-subarrays-detection-ii)
 * [Beautiful towers ii](../Solutions/B/beautiful-towers-ii)
 * [Best time to buy and sell stock iii](../Solutions/B/best-time-to-buy-and-sell-stock-iii)
 * [Candy](../Solutions/C/candy)
@@ -150,6 +152,8 @@
 * [Ways to split array into good subarrays](../Solutions/W/ways-to-split-array-into-good-subarrays)
 
 ## <a id="middle-element-of-triplet">Middle element of triplet</a>
+* [Adjacent increasing subarrays detection i](../Solutions/A/adjacent-increasing-subarrays-detection-i)
+* [Adjacent increasing subarrays detection ii](../Solutions/A/adjacent-increasing-subarrays-detection-ii)
 * [Count number of teams](../Solutions/C/count-number-of-teams)
 
 ## <a id="modify-element-with-index">Modify element with index</a>

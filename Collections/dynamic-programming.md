@@ -166,6 +166,7 @@
 * [Minimum one bit operations to make integers zero](../Solutions/M/minimum-one-bit-operations-to-make-integers-zero)
 * [Number of beautiful partitions](../Solutions/N/number-of-beautiful-partitions)
 * [Number of people aware of a secret](../Solutions/N/number-of-people-aware-of-a-secret)
+* [Sum of good subsequences](../Solutions/S/sum-of-good-subsequences)
 
 ### <a id="prefix-sum">Prefix sum</a>
 * [Find the count of monotonic pairs i](../Solutions/F/find-the-count-of-monotonic-pairs-i)
@@ -191,6 +192,7 @@
 * [Pizza with 3n slices](../Solutions/P/pizza-with-3n-slices)
 
 ## <a id="digits">Digits</a>
+* [Count k reducible numbers less than n](../Solutions/C/count-k-reducible-numbers-less-than-n)
 * [Count of integers](../Solutions/C/count-of-integers)
 * [Count special integers](../Solutions/C/count-special-integers)
 * [Count stepping numbers in range](../Solutions/C/count-stepping-numbers-in-range)

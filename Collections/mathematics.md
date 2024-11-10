@@ -28,6 +28,7 @@
 ## <a id="closed-form-expressions">Closed form expressions</a>
 * [Calculate money in leetcode bank](../Solutions/C/calculate-money-in-leetcode-bank)
 * [Count anagrams](../Solutions/C/count-anagrams)
+* [Count k reducible numbers less than n](../Solutions/C/count-k-reducible-numbers-less-than-n)
 * [Count number of balanced permutations](../Solutions/C/count-number-of-balanced-permutations)
 * [Count substrings starting and ending with given character](../Solutions/C/count-substrings-starting-and-ending-with-given-character)
 * [Count total number of colored cells](../Solutions/C/count-total-number-of-colored-cells)
@@ -56,6 +57,7 @@
 * [Count beautiful substrings ii](../Solutions/C/count-beautiful-substrings-ii)
 * [Count collisions of monkeys on a polygon](../Solutions/C/count-collisions-of-monkeys-on-a-polygon)
 * [Count good numbers](../Solutions/C/count-good-numbers)
+* [Count k reducible numbers less than n](../Solutions/C/count-k-reducible-numbers-less-than-n)
 * [Count k subsequences of a string with maximum beauty](../Solutions/C/count-k-subsequences-of-a-string-with-maximum-beauty)
 * [Count nice pairs in an array](../Solutions/C/count-nice-pairs-in-an-array)
 * [Count number of bad pairs](../Solutions/C/count-number-of-bad-pairs)
@@ -104,6 +106,7 @@
 * [Probability of a two boxes having the same number of distinct balls](../Solutions/P/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls)
 * [Right triangles](../Solutions/R/right-triangles)
 * [Sum of digit differences of all pairs](../Solutions/S/sum-of-digit-differences-of-all-pairs)
+* [Sum of good subsequences](../Solutions/S/sum-of-good-subsequences)
 * [The number of beautiful subsets](../Solutions/T/the-number-of-beautiful-subsets)
 * [Ways to split array into good subarrays](../Solutions/W/ways-to-split-array-into-good-subarrays)
 
