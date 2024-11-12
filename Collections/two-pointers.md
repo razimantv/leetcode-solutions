@@ -12,6 +12,7 @@
 * [Merge two 2d arrays by summing values](../Solutions/M/merge-two-2d-arrays-by-summing-values)
 * [Minimum common value](../Solutions/M/minimum-common-value)
 * [Minimum length of string after deleting similar ends](../Solutions/M/minimum-length-of-string-after-deleting-similar-ends)
+* [Most beautiful item for each query](../Solutions/M/most-beautiful-item-for-each-query)
 * [Most profit assigning work](../Solutions/M/most-profit-assigning-work)
 * [Number of subsequences that satisfy the given sum condition](../Solutions/N/number-of-subsequences-that-satisfy-the-given-sum-condition)
 * [Rearrange array elements by sign](../Solutions/R/rearrange-array-elements-by-sign)
