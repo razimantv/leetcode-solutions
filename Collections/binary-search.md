@@ -53,6 +53,7 @@
 * [Median of two sorted arrays](../Solutions/M/median-of-two-sorted-arrays)
 * [Minimize maximum of array](../Solutions/M/minimize-maximum-of-array)
 * [Minimize the maximum difference of pairs](../Solutions/M/minimize-the-maximum-difference-of-pairs)
+* [Minimized maximum of products distributed to any store](../Solutions/M/minimized-maximum-of-products-distributed-to-any-store)
 * [Minimum cost for tickets](../Solutions/M/minimum-cost-for-tickets)
 * [Minimum number of days to make m bouquets](../Solutions/M/minimum-number-of-days-to-make-m-bouquets)
 * [Minimum number of removals to make mountain array](../Solutions/M/minimum-number-of-removals-to-make-mountain-array)
