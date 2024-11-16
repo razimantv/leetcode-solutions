@@ -104,6 +104,7 @@
 * [Minimum sum of mountain triplets ii](../Solutions/M/minimum-sum-of-mountain-triplets-ii)
 * [Partition array into disjoint intervals](../Solutions/P/partition-array-into-disjoint-intervals)
 * [Product of array except self](../Solutions/P/product-of-array-except-self)
+* [Shortest subarray to be removed to make array sorted](../Solutions/S/shortest-subarray-to-be-removed-to-make-array-sorted)
 * [Subsequence with the minimum score](../Solutions/S/subsequence-with-the-minimum-score)
 * [Sum of distances](../Solutions/S/sum-of-distances)
 * [Take k of each character from left and right](../Solutions/T/take-k-of-each-character-from-left-and-right)
