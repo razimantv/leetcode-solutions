@@ -52,6 +52,7 @@
 * [Maximum xor of two numbers in an array](../Solutions/M/maximum-xor-of-two-numbers-in-an-array)
 * [Median of two sorted arrays](../Solutions/M/median-of-two-sorted-arrays)
 * [Minimize maximum of array](../Solutions/M/minimize-maximum-of-array)
+* [Minimize the maximum adjacent element difference](../Solutions/M/minimize-the-maximum-adjacent-element-difference)
 * [Minimize the maximum difference of pairs](../Solutions/M/minimize-the-maximum-difference-of-pairs)
 * [Minimized maximum of products distributed to any store](../Solutions/M/minimized-maximum-of-products-distributed-to-any-store)
 * [Minimum cost for tickets](../Solutions/M/minimum-cost-for-tickets)
@@ -72,6 +73,7 @@
 * [Smallest divisible digit product ii](../Solutions/S/smallest-divisible-digit-product-ii)
 * [Sorted gcd pair queries](../Solutions/S/sorted-gcd-pair-queries)
 * [Split array largest sum](../Solutions/S/split-array-largest-sum)
+* [Zero array transformation ii](../Solutions/Z/zero-array-transformation-ii)
 
 ## <a id="c---set">C++ set</a>
 * [132 pattern](../Solutions/0-9/132-pattern)

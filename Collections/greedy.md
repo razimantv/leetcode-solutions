@@ -86,6 +86,7 @@
 * [Maximum xor product](../Solutions/M/maximum-xor-product)
 * [Mice and cheese](../Solutions/M/mice-and-cheese)
 * [Minimize maximum pair sum in array](../Solutions/M/minimize-maximum-pair-sum-in-array)
+* [Minimize the maximum adjacent element difference](../Solutions/M/minimize-the-maximum-adjacent-element-difference)
 * [Minimize the maximum difference of pairs](../Solutions/M/minimize-the-maximum-difference-of-pairs)
 * [Minimum amount of damage dealt to bob](../Solutions/M/minimum-amount-of-damage-dealt-to-bob)
 * [Minimum amount of time to fill cups](../Solutions/M/minimum-amount-of-time-to-fill-cups)

@@ -270,6 +270,9 @@
 ### <a id="theorems">Theorems</a>
 * [Perfect squares](../Solutions/P/perfect-squares)
 
+## <a id="observation">Observation</a>
+* [Make array elements equal to zero](../Solutions/M/make-array-elements-equal-to-zero)
+
 ## <a id="parity">Parity</a>
 * [Minimum number of flips to make binary grid palindromic ii](../Solutions/M/minimum-number-of-flips-to-make-binary-grid-palindromic-ii)
 * [Minimum reverse operations](../Solutions/M/minimum-reverse-operations)

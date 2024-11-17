@@ -120,6 +120,8 @@
 * [Invalid transactions](../Solutions/I/invalid-transactions)
 * [Maximize the minimum powered city](../Solutions/M/maximize-the-minimum-powered-city)
 * [Minimum array changes to make differences equal](../Solutions/M/minimum-array-changes-to-make-differences-equal)
+* [Zero array transformation i](../Solutions/Z/zero-array-transformation-i)
+* [Zero array transformation ii](../Solutions/Z/zero-array-transformation-ii)
 
 ### <a id="valid-brackets">Valid brackets</a>
 * [Maximum nesting depth of the parentheses](../Solutions/M/maximum-nesting-depth-of-the-parentheses)
