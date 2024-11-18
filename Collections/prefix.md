@@ -47,6 +47,7 @@
 * [Count tested devices after test operations](../Solutions/C/count-tested-devices-after-test-operations)
 * [Count the number of inversions](../Solutions/C/count-the-number-of-inversions)
 * [Count vowel strings in ranges](../Solutions/C/count-vowel-strings-in-ranges)
+* [Defuse the bomb](../Solutions/D/defuse-the-bomb)
 * [Delivering boxes from storage to ports](../Solutions/D/delivering-boxes-from-storage-to-ports)
 * [Execution of all suffix instructions staying in a grid](../Solutions/E/execution-of-all-suffix-instructions-staying-in-a-grid)
 * [Find maximum non decreasing array length](../Solutions/F/find-maximum-non-decreasing-array-length)
