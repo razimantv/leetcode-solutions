@@ -1,5 +1,6 @@
 
 # <a id="matrix">Matrix</a>
+* [Count unguarded cells in the grid](../Solutions/C/count-unguarded-cells-in-the-grid)
 * [Design neighbor sum service](../Solutions/D/design-neighbor-sum-service)
 * [Difference between ones and zeros in row and column](../Solutions/D/difference-between-ones-and-zeros-in-row-and-column)
 * [Difference of number of distinct values on diagonals](../Solutions/D/difference-of-number-of-distinct-values-on-diagonals)
