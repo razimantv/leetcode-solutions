@@ -170,6 +170,7 @@
 * [Find the number of good pairs i](../Solutions/F/find-the-number-of-good-pairs-i)
 * [Find the number of good pairs ii](../Solutions/F/find-the-number-of-good-pairs-ii)
 * [Find the number of winning players](../Solutions/F/find-the-number-of-winning-players)
+* [Flip columns for maximum number of equal rows](../Solutions/F/flip-columns-for-maximum-number-of-equal-rows)
 * [Hand of straights](../Solutions/H/hand-of-straights)
 * [Kth distinct string in an array](../Solutions/K/kth-distinct-string-in-an-array)
 * [Largest combination with bitwise and greater than zero](../Solutions/L/largest-combination-with-bitwise-and-greater-than-zero)

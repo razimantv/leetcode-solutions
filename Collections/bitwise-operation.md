@@ -98,6 +98,7 @@
 * [Find the maximum sum of node values](../Solutions/F/find-the-maximum-sum-of-node-values)
 * [Find the original array of prefix xor](../Solutions/F/find-the-original-array-of-prefix-xor)
 * [Find the xor of numbers which appear twice](../Solutions/F/find-the-xor-of-numbers-which-appear-twice)
+* [Flip columns for maximum number of equal rows](../Solutions/F/flip-columns-for-maximum-number-of-equal-rows)
 * [Maximum xor product](../Solutions/M/maximum-xor-product)
 * [Maximum xor score subarray queries](../Solutions/M/maximum-xor-score-subarray-queries)
 * [Minimum number of operations to make array xor equal to k](../Solutions/M/minimum-number-of-operations-to-make-array-xor-equal-to-k)
