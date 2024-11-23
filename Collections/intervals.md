@@ -4,6 +4,7 @@
 * [Length of the longest valid substring](../Solutions/L/length-of-the-longest-valid-substring)
 * [Maximum number of events that can be attended](../Solutions/M/maximum-number-of-events-that-can-be-attended)
 * [Minimum number of taps to open to water a garden](../Solutions/M/minimum-number-of-taps-to-open-to-water-a-garden)
+* [Zero array transformation iii](../Solutions/Z/zero-array-transformation-iii)
 
 ## <a id="2d">2D</a>
 * [Rectangle area ii](../Solutions/R/rectangle-area-ii)

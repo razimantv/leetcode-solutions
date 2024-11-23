@@ -33,6 +33,7 @@
 * [The number of the smallest unoccupied chair](../Solutions/T/the-number-of-the-smallest-unoccupied-chair)
 * [Time to cross a bridge](../Solutions/T/time-to-cross-a-bridge)
 * [Total cost to hire k workers](../Solutions/T/total-cost-to-hire-k-workers)
+* [Zero array transformation iii](../Solutions/Z/zero-array-transformation-iii)
 
 ## <a id="dijkstra-s-algorithm">Dijkstra's algorithm</a>
 * [Design graph with shortest path calculator](../Solutions/D/design-graph-with-shortest-path-calculator)

@@ -158,3 +158,4 @@
 * [Smallest missing non negative integer after operations](../Solutions/S/smallest-missing-non-negative-integer-after-operations)
 * [Split array largest sum](../Solutions/S/split-array-largest-sum)
 * [Split with minimum sum](../Solutions/S/split-with-minimum-sum)
+* [Zero array transformation iii](../Solutions/Z/zero-array-transformation-iii)

@@ -26,6 +26,7 @@
 * [Dungeon game](../Solutions/D/dungeon-game)
 * [Find minimum time to reach last room i](../Solutions/F/find-minimum-time-to-reach-last-room-i)
 * [Find minimum time to reach last room ii](../Solutions/F/find-minimum-time-to-reach-last-room-ii)
+* [Find the maximum number of fruits collected](../Solutions/F/find-the-maximum-number-of-fruits-collected)
 * [Last day where you can still cross](../Solutions/L/last-day-where-you-can-still-cross)
 * [Longest increasing path in a matrix](../Solutions/L/longest-increasing-path-in-a-matrix)
 * [Maximum number of moves in a grid](../Solutions/M/maximum-number-of-moves-in-a-grid)

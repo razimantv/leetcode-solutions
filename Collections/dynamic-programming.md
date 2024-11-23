@@ -97,6 +97,7 @@
 * [Find the count of monotonic pairs ii](../Solutions/F/find-the-count-of-monotonic-pairs-ii)
 * [Find the maximum length of a good subsequence i](../Solutions/F/find-the-maximum-length-of-a-good-subsequence-i)
 * [Find the maximum length of a good subsequence ii](../Solutions/F/find-the-maximum-length-of-a-good-subsequence-ii)
+* [Find the maximum number of fruits collected](../Solutions/F/find-the-maximum-number-of-fruits-collected)
 * [Find the maximum sequence value of array](../Solutions/F/find-the-maximum-sequence-value-of-array)
 * [Find the number of possible ways for an event](../Solutions/F/find-the-number-of-possible-ways-for-an-event)
 * [Find the number of subsequences with equal gcd](../Solutions/F/find-the-number-of-subsequences-with-equal-gcd)
@@ -190,6 +191,7 @@
 * [Minimum number of flips to make the binary string alternating](../Solutions/M/minimum-number-of-flips-to-make-the-binary-string-alternating)
 * [Minimum size subarray in infinite array](../Solutions/M/minimum-size-subarray-in-infinite-array)
 * [Pizza with 3n slices](../Solutions/P/pizza-with-3n-slices)
+* [Shift distance between two strings](../Solutions/S/shift-distance-between-two-strings)
 
 ## <a id="digits">Digits</a>
 * [Count k reducible numbers less than n](../Solutions/C/count-k-reducible-numbers-less-than-n)

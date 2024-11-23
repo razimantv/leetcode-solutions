@@ -95,6 +95,7 @@
 * [Range sum query immutable](../Solutions/R/range-sum-query-immutable)
 * [Reducing dishes](../Solutions/R/reducing-dishes)
 * [Remove zero sum consecutive nodes from linked list](../Solutions/R/remove-zero-sum-consecutive-nodes-from-linked-list)
+* [Shift distance between two strings](../Solutions/S/shift-distance-between-two-strings)
 * [Sorted gcd pair queries](../Solutions/S/sorted-gcd-pair-queries)
 * [Subarray sums divisible by k](../Solutions/S/subarray-sums-divisible-by-k)
 * [Substring with largest variance](../Solutions/S/substring-with-largest-variance)
