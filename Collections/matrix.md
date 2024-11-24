@@ -9,6 +9,7 @@
 * [Find the minimum area to cover all ones i](../Solutions/F/find-the-minimum-area-to-cover-all-ones-i)
 * [Increment submatrices by one](../Solutions/I/increment-submatrices-by-one)
 * [Largest submatrix with rearrangements](../Solutions/L/largest-submatrix-with-rearrangements)
+* [Maximum matrix sum](../Solutions/M/maximum-matrix-sum)
 * [Maximum strictly increasing cells in a matrix](../Solutions/M/maximum-strictly-increasing-cells-in-a-matrix)
 * [Minimum number of flips to make binary grid palindromic i](../Solutions/M/minimum-number-of-flips-to-make-binary-grid-palindromic-i)
 * [Minimum number of flips to make binary grid palindromic ii](../Solutions/M/minimum-number-of-flips-to-make-binary-grid-palindromic-ii)
