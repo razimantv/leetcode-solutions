@@ -82,6 +82,7 @@
 * [Minimum moves to pick k ones](../Solutions/M/minimum-moves-to-pick-k-ones)
 * [Minimum number of chairs in a waiting room](../Solutions/M/minimum-number-of-chairs-in-a-waiting-room)
 * [Minimum operations to make all array elements equal](../Solutions/M/minimum-operations-to-make-all-array-elements-equal)
+* [Minimum positive sum subarray](../Solutions/M/minimum-positive-sum-subarray)
 * [Minimum size subarray in infinite array](../Solutions/M/minimum-size-subarray-in-infinite-array)
 * [Minimum space wasted from packaging](../Solutions/M/minimum-space-wasted-from-packaging)
 * [Minimum swaps to group all 1s together ii](../Solutions/M/minimum-swaps-to-group-all-1s-together-ii)

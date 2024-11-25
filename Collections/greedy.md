@@ -55,6 +55,7 @@
 * [Maximize greatness of an array](../Solutions/M/maximize-greatness-of-an-array)
 * [Maximize happiness of selected children](../Solutions/M/maximize-happiness-of-selected-children)
 * [Maximize score of numbers in ranges](../Solutions/M/maximize-score-of-numbers-in-ranges)
+* [Maximize sum of weights after edge removals](../Solutions/M/maximize-sum-of-weights-after-edge-removals)
 * [Maximize the minimum powered city](../Solutions/M/maximize-the-minimum-powered-city)
 * [Maximize the total height of unique towers](../Solutions/M/maximize-the-total-height-of-unique-towers)
 * [Maximum bags with full capacity of rocks](../Solutions/M/maximum-bags-with-full-capacity-of-rocks)

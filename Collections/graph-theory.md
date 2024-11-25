@@ -80,6 +80,7 @@
 * [Keys and rooms](../Solutions/K/keys-and-rooms)
 * [Longest increasing path in a matrix](../Solutions/L/longest-increasing-path-in-a-matrix)
 * [Longest path with different adjacent characters](../Solutions/L/longest-path-with-different-adjacent-characters)
+* [Maximize sum of weights after edge removals](../Solutions/M/maximize-sum-of-weights-after-edge-removals)
 * [Maximum number of k divisible components](../Solutions/M/maximum-number-of-k-divisible-components)
 * [Maximum points after collecting coins from all nodes](../Solutions/M/maximum-points-after-collecting-coins-from-all-nodes)
 * [Maximum score after applying operations on a tree](../Solutions/M/maximum-score-after-applying-operations-on-a-tree)

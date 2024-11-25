@@ -126,6 +126,7 @@
 * [Maximum strength of k disjoint subarrays](../Solutions/M/maximum-strength-of-k-disjoint-subarrays)
 * [Maximum value of k coins from piles](../Solutions/M/maximum-value-of-k-coins-from-piles)
 * [Minimum additions to make valid string](../Solutions/M/minimum-additions-to-make-valid-string)
+* [Minimum array sum](../Solutions/M/minimum-array-sum)
 * [Minimum division operations to make array non decreasing](../Solutions/M/minimum-division-operations-to-make-array-non-decreasing)
 * [Minimum falling path sum](../Solutions/M/minimum-falling-path-sum)
 * [Minimum falling path sum ii](../Solutions/M/minimum-falling-path-sum-ii)
@@ -359,6 +360,7 @@
 * [Check if dfs strings are palindromes](../Solutions/C/check-if-dfs-strings-are-palindromes)
 * [Count pairs of connectable servers in a weighted tree network](../Solutions/C/count-pairs-of-connectable-servers-in-a-weighted-tree-network)
 * [Find the maximum sum of node values](../Solutions/F/find-the-maximum-sum-of-node-values)
+* [Maximize sum of weights after edge removals](../Solutions/M/maximize-sum-of-weights-after-edge-removals)
 * [Number of good leaf nodes pairs](../Solutions/N/number-of-good-leaf-nodes-pairs)
 * [Time taken to mark all nodes](../Solutions/T/time-taken-to-mark-all-nodes)
 
