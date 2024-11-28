@@ -38,6 +38,7 @@
 ### <a id="0-1-bfs">0-1 BFS</a>
 * [Find a safe walk through a grid](../Solutions/F/find-a-safe-walk-through-a-grid)
 * [Minimum cost to make at least one valid path in a grid](../Solutions/M/minimum-cost-to-make-at-least-one-valid-path-in-a-grid)
+* [Minimum obstacle removal to reach corner](../Solutions/M/minimum-obstacle-removal-to-reach-corner)
 
 ## <a id="bridges-articulation-points">Bridges/Articulation points</a>
 * [Critical connections in a network](../Solutions/C/critical-connections-in-a-network)
