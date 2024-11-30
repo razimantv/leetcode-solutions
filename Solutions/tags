@@ -1,3 +1,4 @@
+
 Array scanning
 Array scanning>Contiguous region
 Array scanning>Cyclic array
@@ -91,6 +92,7 @@ Graph theory>Depth first search>Tree diameter
 Graph theory>Dijkstra's algorithm
 Graph theory>Dijkstra's algorithm>Forward and backward
 Graph theory>Directed acyclic graph
+Graph theory>Euler tour
 Graph theory>Floyd-Warshall algorithm
 Graph theory>Iterative leaf removal
 Graph theory>Lewel-wise processing

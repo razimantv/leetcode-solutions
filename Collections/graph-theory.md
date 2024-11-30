@@ -57,6 +57,7 @@
 * [Maximum total importance of roads](../Solutions/M/maximum-total-importance-of-roads)
 * [Minimum number of vertices to reach all nodes](../Solutions/M/minimum-number-of-vertices-to-reach-all-nodes)
 * [Restore the array from adjacent pairs](../Solutions/R/restore-the-array-from-adjacent-pairs)
+* [Valid arrangement of pairs](../Solutions/V/valid-arrangement-of-pairs)
 * [Validate binary tree nodes](../Solutions/V/validate-binary-tree-nodes)
 
 ## <a id="depth-first-search">Depth first search</a>
@@ -160,6 +161,9 @@
 * [Find champion ii](../Solutions/F/find-champion-ii)
 * [Shortest distance after road addition queries i](../Solutions/S/shortest-distance-after-road-addition-queries-i)
 * [Shortest distance after road addition queries ii](../Solutions/S/shortest-distance-after-road-addition-queries-ii)
+
+## <a id="euler-tour">Euler tour</a>
+* [Valid arrangement of pairs](../Solutions/V/valid-arrangement-of-pairs)
 
 ## <a id="floyd-warshall-algorithm">Floyd-Warshall algorithm</a>
 * [Find the city with the smallest number of neighbors at a threshold distance](../Solutions/F/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance)
