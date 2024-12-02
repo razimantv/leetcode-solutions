@@ -7,6 +7,7 @@
 ## <a id="parsing">Parsing</a>
 * [Basic calculator](../Solutions/B/basic-calculator)
 * [Basic calculator ii](../Solutions/B/basic-calculator-ii)
+* [Check if a word occurs as a prefix of any word in a sentence](../Solutions/C/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence)
 * [Circular sentence](../Solutions/C/circular-sentence)
 * [Compare version numbers](../Solutions/C/compare-version-numbers)
 * [Complex number multiplication](../Solutions/C/complex-number-multiplication)
@@ -63,6 +64,7 @@
 * [Check if dfs strings are palindromes](../Solutions/C/check-if-dfs-strings-are-palindromes)
 
 ### <a id="prefix-suffix">Prefix/Suffix</a>
+* [Check if a word occurs as a prefix of any word in a sentence](../Solutions/C/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence)
 * [Find the occurrence of first almost equal substring](../Solutions/F/find-the-occurrence-of-first-almost-equal-substring)
 * [Prefix and suffix search](../Solutions/P/prefix-and-suffix-search)
 * [Remove sub folders from the filesystem](../Solutions/R/remove-sub-folders-from-the-filesystem)
