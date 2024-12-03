@@ -2,6 +2,7 @@
 # <a id="simple-implementation">Simple implementation</a>
 * [Account balance after rounded purchase](../Solutions/A/account-balance-after-rounded-purchase)
 * [Add to array form of integer](../Solutions/A/add-to-array-form-of-integer)
+* [Adding spaces to a string](../Solutions/A/adding-spaces-to-a-string)
 * [Alternating digit sum](../Solutions/A/alternating-digit-sum)
 * [Ant on the boundary](../Solutions/A/ant-on-the-boundary)
 * [Apply operations to an array](../Solutions/A/apply-operations-to-an-array)
