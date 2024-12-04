@@ -83,6 +83,7 @@
 * [Longest increasing path in a matrix](../Solutions/L/longest-increasing-path-in-a-matrix)
 * [Longest path with different adjacent characters](../Solutions/L/longest-path-with-different-adjacent-characters)
 * [Maximize sum of weights after edge removals](../Solutions/M/maximize-sum-of-weights-after-edge-removals)
+* [Maximize the number of target nodes after connecting trees i](../Solutions/M/maximize-the-number-of-target-nodes-after-connecting-trees-i)
 * [Maximum number of k divisible components](../Solutions/M/maximum-number-of-k-divisible-components)
 * [Maximum points after collecting coins from all nodes](../Solutions/M/maximum-points-after-collecting-coins-from-all-nodes)
 * [Maximum score after applying operations on a tree](../Solutions/M/maximum-score-after-applying-operations-on-a-tree)
@@ -107,6 +108,7 @@
 
 ### <a id="colouring">Colouring</a>
 * [Is graph bipartite](../Solutions/I/is-graph-bipartite)
+* [Maximize the number of target nodes after connecting trees ii](../Solutions/M/maximize-the-number-of-target-nodes-after-connecting-trees-ii)
 * [Possible bipartition](../Solutions/P/possible-bipartition)
 
 ### <a id="component-decomposition">Component decomposition</a>

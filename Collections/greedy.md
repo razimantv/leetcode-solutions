@@ -57,6 +57,7 @@
 * [Maximize score of numbers in ranges](../Solutions/M/maximize-score-of-numbers-in-ranges)
 * [Maximize sum of weights after edge removals](../Solutions/M/maximize-sum-of-weights-after-edge-removals)
 * [Maximize the minimum powered city](../Solutions/M/maximize-the-minimum-powered-city)
+* [Maximize the number of target nodes after connecting trees i](../Solutions/M/maximize-the-number-of-target-nodes-after-connecting-trees-i)
 * [Maximize the total height of unique towers](../Solutions/M/maximize-the-total-height-of-unique-towers)
 * [Maximum bags with full capacity of rocks](../Solutions/M/maximum-bags-with-full-capacity-of-rocks)
 * [Maximum distance in arrays](../Solutions/M/maximum-distance-in-arrays)

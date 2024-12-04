@@ -173,6 +173,7 @@
 * [Find the number of winning players](../Solutions/F/find-the-number-of-winning-players)
 * [Flip columns for maximum number of equal rows](../Solutions/F/flip-columns-for-maximum-number-of-equal-rows)
 * [Hand of straights](../Solutions/H/hand-of-straights)
+* [Identify the largest outlier in an array](../Solutions/I/identify-the-largest-outlier-in-an-array)
 * [Kth distinct string in an array](../Solutions/K/kth-distinct-string-in-an-array)
 * [Largest combination with bitwise and greater than zero](../Solutions/L/largest-combination-with-bitwise-and-greater-than-zero)
 * [Least number of unique integers after k removals](../Solutions/L/least-number-of-unique-integers-after-k-removals)

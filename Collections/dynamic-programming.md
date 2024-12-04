@@ -347,6 +347,7 @@
 * [House robber iii](../Solutions/H/house-robber-iii)
 * [Longest path with different adjacent characters](../Solutions/L/longest-path-with-different-adjacent-characters)
 * [Longest univalue path](../Solutions/L/longest-univalue-path)
+* [Maximize the number of target nodes after connecting trees i](../Solutions/M/maximize-the-number-of-target-nodes-after-connecting-trees-i)
 * [Maximum number of k divisible components](../Solutions/M/maximum-number-of-k-divisible-components)
 * [Maximum points after collecting coins from all nodes](../Solutions/M/maximum-points-after-collecting-coins-from-all-nodes)
 * [Maximum score after applying operations on a tree](../Solutions/M/maximum-score-after-applying-operations-on-a-tree)

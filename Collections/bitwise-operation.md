@@ -73,6 +73,7 @@
 * [Shortest path to get all keys](../Solutions/S/shortest-path-to-get-all-keys)
 * [Shortest subarray with or at least k i](../Solutions/S/shortest-subarray-with-or-at-least-k-i)
 * [Shortest subarray with or at least k ii](../Solutions/S/shortest-subarray-with-or-at-least-k-ii)
+* [Smallest number with all set bits](../Solutions/S/smallest-number-with-all-set-bits)
 * [Smallest subarrays with maximum bitwise or](../Solutions/S/smallest-subarrays-with-maximum-bitwise-or)
 * [Smallest sufficient team](../Solutions/S/smallest-sufficient-team)
 * [Special permutations](../Solutions/S/special-permutations)
