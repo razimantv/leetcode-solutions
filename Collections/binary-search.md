@@ -74,6 +74,7 @@
 * [Smallest divisible digit product ii](../Solutions/S/smallest-divisible-digit-product-ii)
 * [Sorted gcd pair queries](../Solutions/S/sorted-gcd-pair-queries)
 * [Split array largest sum](../Solutions/S/split-array-largest-sum)
+* [Two best non overlapping events](../Solutions/T/two-best-non-overlapping-events)
 * [Zero array transformation ii](../Solutions/Z/zero-array-transformation-ii)
 
 ## <a id="c---set">C++ set</a>
