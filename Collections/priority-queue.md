@@ -37,6 +37,7 @@
 
 ## <a id="dijkstra-s-algorithm">Dijkstra's algorithm</a>
 * [Design graph with shortest path calculator](../Solutions/D/design-graph-with-shortest-path-calculator)
+* [Digit operations to make two integers equal](../Solutions/D/digit-operations-to-make-two-integers-equal)
 * [Minimum cost of a path with special roads](../Solutions/M/minimum-cost-of-a-path-with-special-roads)
 * [Minimum time to visit a cell in a grid](../Solutions/M/minimum-time-to-visit-a-cell-in-a-grid)
 * [Modify graph edge weights](../Solutions/M/modify-graph-edge-weights)
@@ -68,6 +69,7 @@
 * [Finding mk average](../Solutions/F/finding-mk-average)
 
 ## <a id="key-update-using-insert-and-remove">Key update using insert and remove</a>
+* [Digit operations to make two integers equal](../Solutions/D/digit-operations-to-make-two-integers-equal)
 * [Find minimum time to reach last room i](../Solutions/F/find-minimum-time-to-reach-last-room-i)
 * [Find minimum time to reach last room ii](../Solutions/F/find-minimum-time-to-reach-last-room-ii)
 * [Find x sum of all k long subarrays i](../Solutions/F/find-x-sum-of-all-k-long-subarrays-i)
@@ -93,6 +95,7 @@
 * [Take gifts from the richest pile](../Solutions/T/take-gifts-from-the-richest-pile)
 
 ## <a id="python-sortedlist">Python SortedList</a>
+* [Digit operations to make two integers equal](../Solutions/D/digit-operations-to-make-two-integers-equal)
 * [Find minimum time to reach last room i](../Solutions/F/find-minimum-time-to-reach-last-room-i)
 * [Find minimum time to reach last room ii](../Solutions/F/find-minimum-time-to-reach-last-room-ii)
 * [Find x sum of all k long subarrays i](../Solutions/F/find-x-sum-of-all-k-long-subarrays-i)

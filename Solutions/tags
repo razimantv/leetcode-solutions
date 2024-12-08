@@ -25,6 +25,7 @@ Bitwise operation
 Bitwise operation>Build result bit-by-bit
 Bitwise operation>Self-inverse property of xor
 Bitwise operation>Subset enumeration
+Brute force enumeration
 Brute force enumeration>Combinatorial
 Brute force enumeration>Elementwise processing using a vector
 Case-by-case analysis
@@ -144,6 +145,7 @@ Mathematics>Median
 Mathematics>Number theory>Basic
 Mathematics>Number theory>Dynamic programming
 Mathematics>Number theory>Factor listing in sqrt(N)
+Mathematics>Number theory>GCD/LCM
 Mathematics>Number theory>Inclusion-exclusion
 Mathematics>Number theory>Modular exponentiation/inverse
 Mathematics>Number theory>Prime sieving

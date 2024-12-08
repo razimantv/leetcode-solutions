@@ -3,6 +3,7 @@
 * [Accounts merge](../Solutions/A/accounts-merge)
 * [Check if the rectangle corner is reachable](../Solutions/C/check-if-the-rectangle-corner-is-reachable)
 * [Checking existence of edge length limited paths](../Solutions/C/checking-existence-of-edge-length-limited-paths)
+* [Count connected components in lcm graph](../Solutions/C/count-connected-components-in-lcm-graph)
 * [Find all people with secret](../Solutions/F/find-all-people-with-secret)
 * [Find critical and pseudo critical edges in minimum spanning tree](../Solutions/F/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree)
 * [Find the safest path in a grid](../Solutions/F/find-the-safest-path-in-a-grid)

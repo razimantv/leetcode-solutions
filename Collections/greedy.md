@@ -123,6 +123,7 @@
 * [Minimum operations to make a special number](../Solutions/M/minimum-operations-to-make-a-special-number)
 * [Minimum operations to make array equal ii](../Solutions/M/minimum-operations-to-make-array-equal-ii)
 * [Minimum operations to make array equal to target](../Solutions/M/minimum-operations-to-make-array-equal-to-target)
+* [Minimum operations to make array values equal to k](../Solutions/M/minimum-operations-to-make-array-values-equal-to-k)
 * [Minimum operations to make binary array elements equal to one i](../Solutions/M/minimum-operations-to-make-binary-array-elements-equal-to-one-i)
 * [Minimum operations to make binary array elements equal to one ii](../Solutions/M/minimum-operations-to-make-binary-array-elements-equal-to-one-ii)
 * [Minimum operations to make median of array equal to k](../Solutions/M/minimum-operations-to-make-median-of-array-equal-to-k)

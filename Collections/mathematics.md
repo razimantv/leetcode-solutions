@@ -226,6 +226,9 @@
 * [Minimum length of anagram concatenation](../Solutions/M/minimum-length-of-anagram-concatenation)
 * [Smallest value after replacing with sum of prime factors](../Solutions/S/smallest-value-after-replacing-with-sum-of-prime-factors)
 
+### <a id="gcd-lcm">GCD/LCM</a>
+* [Count connected components in lcm graph](../Solutions/C/count-connected-components-in-lcm-graph)
+
 ### <a id="inclusion-exclusion">Inclusion-exclusion</a>
 * [Kth smallest amount with single denomination combination](../Solutions/K/kth-smallest-amount-with-single-denomination-combination)
 * [Sorted gcd pair queries](../Solutions/S/sorted-gcd-pair-queries)
@@ -249,6 +252,7 @@
 ### <a id="prime-sieving">Prime sieving</a>
 * [Apply operations to maximize score](../Solutions/A/apply-operations-to-maximize-score)
 * [Closest prime numbers in range](../Solutions/C/closest-prime-numbers-in-range)
+* [Count connected components in lcm graph](../Solutions/C/count-connected-components-in-lcm-graph)
 * [Count primes](../Solutions/C/count-primes)
 * [Count the number of ideal arrays](../Solutions/C/count-the-number-of-ideal-arrays)
 * [Count valid paths in a tree](../Solutions/C/count-valid-paths-in-a-tree)

@@ -1,5 +1,6 @@
 
 # <a id="brute-force-enumeration">Brute force enumeration</a>
+* [Minimum time to break locks i](../Solutions/M/minimum-time-to-break-locks-i)
 
 ## <a id="combinatorial">Combinatorial</a>
 * [Count number of maximum bitwise or subsets](../Solutions/C/count-number-of-maximum-bitwise-or-subsets)
