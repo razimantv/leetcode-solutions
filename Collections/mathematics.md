@@ -192,6 +192,7 @@
 * [Maximum element sum of a complete subset of indices](../Solutions/M/maximum-element-sum-of-a-complete-subset-of-indices)
 * [Maximum number of k divisible components](../Solutions/M/maximum-number-of-k-divisible-components)
 * [Maximum prime difference](../Solutions/M/maximum-prime-difference)
+* [Maximum subarray sum with length divisible by k](../Solutions/M/maximum-subarray-sum-with-length-divisible-by-k)
 * [Minimize length of array using operations](../Solutions/M/minimize-length-of-array-using-operations)
 * [Minimize the maximum of two arrays](../Solutions/M/minimize-the-maximum-of-two-arrays)
 * [Minimum cost to move chips to the same position](../Solutions/M/minimum-cost-to-move-chips-to-the-same-position)

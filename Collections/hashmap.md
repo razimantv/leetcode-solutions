@@ -147,6 +147,7 @@
 ## <a id="coordinate-compression">Coordinate compression</a>
 * [Design underground system](../Solutions/D/design-underground-system)
 * [Distribute elements into two arrays ii](../Solutions/D/distribute-elements-into-two-arrays-ii)
+* [Maximum area rectangle with point constraints ii](../Solutions/M/maximum-area-rectangle-with-point-constraints-ii)
 
 ## <a id="counter">Counter</a>
 * [Apply operations to make string empty](../Solutions/A/apply-operations-to-make-string-empty)
@@ -222,6 +223,8 @@
 * [Group the people given the group size they belong to](../Solutions/G/group-the-people-given-the-group-size-they-belong-to)
 * [Jump game iv](../Solutions/J/jump-game-iv)
 * [Max pair sum in an array](../Solutions/M/max-pair-sum-in-an-array)
+* [Maximum area rectangle with point constraints i](../Solutions/M/maximum-area-rectangle-with-point-constraints-i)
+* [Maximum area rectangle with point constraints ii](../Solutions/M/maximum-area-rectangle-with-point-constraints-ii)
 * [Minimum seconds to equalize a circular array](../Solutions/M/minimum-seconds-to-equalize-a-circular-array)
 * [Number of good paths](../Solutions/N/number-of-good-paths)
 * [Remove letter to equalize frequency](../Solutions/R/remove-letter-to-equalize-frequency)

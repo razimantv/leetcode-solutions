@@ -8,6 +8,7 @@
 * [Find the maximum length of valid subsequence i](../Solutions/F/find-the-maximum-length-of-valid-subsequence-i)
 * [Kth distinct string in an array](../Solutions/K/kth-distinct-string-in-an-array)
 * [Maximum enemy forts that can be captured](../Solutions/M/maximum-enemy-forts-that-can-be-captured)
+* [Maximum subarray sum with length divisible by k](../Solutions/M/maximum-subarray-sum-with-length-divisible-by-k)
 * [Maximum value of an ordered triplet i](../Solutions/M/maximum-value-of-an-ordered-triplet-i)
 * [Maximum value of an ordered triplet ii](../Solutions/M/maximum-value-of-an-ordered-triplet-ii)
 * [Minimum add to make parentheses valid](../Solutions/M/minimum-add-to-make-parentheses-valid)
@@ -74,6 +75,7 @@
 * [Defuse the bomb](../Solutions/D/defuse-the-bomb)
 * [Minimum swaps to group all 1s together ii](../Solutions/M/minimum-swaps-to-group-all-1s-together-ii)
 * [Minimum time difference](../Solutions/M/minimum-time-difference)
+* [Transformed array](../Solutions/T/transformed-array)
 
 ## <a id="from-both-ends-of-array">From both ends of array</a>
 * [Adjacent increasing subarrays detection i](../Solutions/A/adjacent-increasing-subarrays-detection-i)

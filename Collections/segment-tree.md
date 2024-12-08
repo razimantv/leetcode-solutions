@@ -13,6 +13,7 @@
 * [Jump game vii](../Solutions/J/jump-game-vii)
 * [Longest increasing subsequence ii](../Solutions/L/longest-increasing-subsequence-ii)
 * [Make array empty](../Solutions/M/make-array-empty)
+* [Maximum area rectangle with point constraints ii](../Solutions/M/maximum-area-rectangle-with-point-constraints-ii)
 * [Maximum sum of subsequence with non adjacent elements](../Solutions/M/maximum-sum-of-subsequence-with-non-adjacent-elements)
 * [Maximum value sum by placing three rooks i](../Solutions/M/maximum-value-sum-by-placing-three-rooks-i)
 * [Maximum value sum by placing three rooks ii](../Solutions/M/maximum-value-sum-by-placing-three-rooks-ii)

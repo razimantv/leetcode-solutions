@@ -72,6 +72,7 @@
 * [Maximum score of spliced array](../Solutions/M/maximum-score-of-spliced-array)
 * [Maximum subarray](../Solutions/M/maximum-subarray)
 * [Maximum subarray min product](../Solutions/M/maximum-subarray-min-product)
+* [Maximum subarray sum with length divisible by k](../Solutions/M/maximum-subarray-sum-with-length-divisible-by-k)
 * [Maximum sum circular subarray](../Solutions/M/maximum-sum-circular-subarray)
 * [Maximum xor for each query](../Solutions/M/maximum-xor-for-each-query)
 * [Minimum absolute difference queries](../Solutions/M/minimum-absolute-difference-queries)
