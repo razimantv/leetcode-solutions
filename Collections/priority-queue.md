@@ -13,6 +13,7 @@
 * [Last stone weight](../Solutions/L/last-stone-weight)
 * [Length of the longest valid substring](../Solutions/L/length-of-the-longest-valid-substring)
 * [Maximal score after applying k operations](../Solutions/M/maximal-score-after-applying-k-operations)
+* [Maximum average pass ratio](../Solutions/M/maximum-average-pass-ratio)
 * [Maximum frequency stack](../Solutions/M/maximum-frequency-stack)
 * [Maximum number of events that can be attended](../Solutions/M/maximum-number-of-events-that-can-be-attended)
 * [Maximum number of points from grid queries](../Solutions/M/maximum-number-of-points-from-grid-queries)
