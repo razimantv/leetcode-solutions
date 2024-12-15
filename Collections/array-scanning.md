@@ -1,6 +1,7 @@
 
 # <a id="array-scanning">Array scanning</a>
 * [Apply operations to make string empty](../Solutions/A/apply-operations-to-make-string-empty)
+* [Button with longest push time](../Solutions/B/button-with-longest-push-time)
 * [Count the number of special characters ii](../Solutions/C/count-the-number-of-special-characters-ii)
 * [Crawler log folder](../Solutions/C/crawler-log-folder)
 * [Dota2 senate](../Solutions/D/dota2-senate)

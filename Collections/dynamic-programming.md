@@ -54,6 +54,7 @@
 * [Minimum cost to split an array](../Solutions/M/minimum-cost-to-split-an-array)
 * [Minimum difficulty of a job schedule](../Solutions/M/minimum-difficulty-of-a-job-schedule)
 * [Minimum increment operations to make array beautiful](../Solutions/M/minimum-increment-operations-to-make-array-beautiful)
+* [Minimum operations to make character frequencies equal](../Solutions/M/minimum-operations-to-make-character-frequencies-equal)
 * [Minimum penalty for a shop](../Solutions/M/minimum-penalty-for-a-shop)
 * [Minimum sideway jumps](../Solutions/M/minimum-sideway-jumps)
 * [Minimum substring partition of equal character frequency](../Solutions/M/minimum-substring-partition-of-equal-character-frequency)
@@ -87,6 +88,7 @@
 * [Cherry pickup ii](../Solutions/C/cherry-pickup-ii)
 * [Coin change](../Solutions/C/coin-change)
 * [Coin change 2](../Solutions/C/coin-change-2)
+* [Count beautiful splits in an array](../Solutions/C/count-beautiful-splits-in-an-array)
 * [Count the number of inversions](../Solutions/C/count-the-number-of-inversions)
 * [Count the number of winning sequences](../Solutions/C/count-the-number-of-winning-sequences)
 * [Decremental string concatenation](../Solutions/D/decremental-string-concatenation)
@@ -254,6 +256,7 @@
 
 ## <a id="length-wise-processing">Length-wise processing</a>
 * [Apply operations to make two strings equal](../Solutions/A/apply-operations-to-make-two-strings-equal)
+* [Count beautiful splits in an array](../Solutions/C/count-beautiful-splits-in-an-array)
 * [Maximum xor score subarray queries](../Solutions/M/maximum-xor-score-subarray-queries)
 
 ## <a id="longest-common-subsequence">Longest common subsequence</a>

@@ -191,6 +191,7 @@
 * [Minimum number of operations to satisfy conditions](../Solutions/M/minimum-number-of-operations-to-satisfy-conditions)
 * [Minimum number of pushes to type word i](../Solutions/M/minimum-number-of-pushes-to-type-word-i)
 * [Minimum number of pushes to type word ii](../Solutions/M/minimum-number-of-pushes-to-type-word-ii)
+* [Minimum operations to make character frequencies equal](../Solutions/M/minimum-operations-to-make-character-frequencies-equal)
 * [Minimum operations to write the letter y on a grid](../Solutions/M/minimum-operations-to-write-the-letter-y-on-a-grid)
 * [Minimum substring partition of equal character frequency](../Solutions/M/minimum-substring-partition-of-equal-character-frequency)
 * [Number of students unable to eat lunch](../Solutions/N/number-of-students-unable-to-eat-lunch)
@@ -219,6 +220,7 @@
 
 ## <a id="group-items">Group items</a>
 * [Count almost equal pairs ii](../Solutions/C/count-almost-equal-pairs-ii)
+* [Count beautiful splits in an array](../Solutions/C/count-beautiful-splits-in-an-array)
 * [Find the longest equal subarray](../Solutions/F/find-the-longest-equal-subarray)
 * [Group the people given the group size they belong to](../Solutions/G/group-the-people-given-the-group-size-they-belong-to)
 * [Jump game iv](../Solutions/J/jump-game-iv)

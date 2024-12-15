@@ -82,6 +82,7 @@
 * [Keys and rooms](../Solutions/K/keys-and-rooms)
 * [Longest increasing path in a matrix](../Solutions/L/longest-increasing-path-in-a-matrix)
 * [Longest path with different adjacent characters](../Solutions/L/longest-path-with-different-adjacent-characters)
+* [Maximize amount after two days of conversions](../Solutions/M/maximize-amount-after-two-days-of-conversions)
 * [Maximize sum of weights after edge removals](../Solutions/M/maximize-sum-of-weights-after-edge-removals)
 * [Maximize the number of target nodes after connecting trees i](../Solutions/M/maximize-the-number-of-target-nodes-after-connecting-trees-i)
 * [Maximum number of k divisible components](../Solutions/M/maximum-number-of-k-divisible-components)
