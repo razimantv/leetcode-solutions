@@ -11,6 +11,7 @@
 * [Best time to buy and sell stock ii](../Solutions/B/best-time-to-buy-and-sell-stock-ii)
 * [Boats to save people](../Solutions/B/boats-to-save-people)
 * [Candy](../Solutions/C/candy)
+* [Construct string with repeat limit](../Solutions/C/construct-string-with-repeat-limit)
 * [Course schedule iii](../Solutions/C/course-schedule-iii)
 * [Determine the minimum sum of a k avoiding array](../Solutions/D/determine-the-minimum-sum-of-a-k-avoiding-array)
 * [Divide array in sets of k consecutive numbers](../Solutions/D/divide-array-in-sets-of-k-consecutive-numbers)
