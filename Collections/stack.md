@@ -24,6 +24,7 @@
 * [Apply operations to maximize score](../Solutions/A/apply-operations-to-maximize-score)
 * [Beautiful towers ii](../Solutions/B/beautiful-towers-ii)
 * [Daily temperatures](../Solutions/D/daily-temperatures)
+* [Final prices with a special discount in a shop](../Solutions/F/final-prices-with-a-special-discount-in-a-shop)
 * [Find building where alice and bob can meet](../Solutions/F/find-building-where-alice-and-bob-can-meet)
 * [Find the number of subarrays where boundary elements are maximum](../Solutions/F/find-the-number-of-subarrays-where-boundary-elements-are-maximum)
 * [Largest rectangle in histogram](../Solutions/L/largest-rectangle-in-histogram)

@@ -166,6 +166,7 @@
 
 ## <a id="right-to-left">Right to left</a>
 * [Execution of all suffix instructions staying in a grid](../Solutions/E/execution-of-all-suffix-instructions-staying-in-a-grid)
+* [Final prices with a special discount in a shop](../Solutions/F/final-prices-with-a-special-discount-in-a-shop)
 * [Find the original array of prefix xor](../Solutions/F/find-the-original-array-of-prefix-xor)
 * [Jump game ii](../Solutions/J/jump-game-ii)
 * [Jump game vi](../Solutions/J/jump-game-vi)
