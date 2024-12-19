@@ -53,6 +53,7 @@
 * [Make array zero by subtracting equal amounts](../Solutions/M/make-array-zero-by-subtracting-equal-amounts)
 * [Make costs of paths equal in a binary tree](../Solutions/M/make-costs-of-paths-equal-in-a-binary-tree)
 * [Make string a subsequence using cyclic increments](../Solutions/M/make-string-a-subsequence-using-cyclic-increments)
+* [Max chunks to make sorted](../Solutions/M/max-chunks-to-make-sorted)
 * [Maximize greatness of an array](../Solutions/M/maximize-greatness-of-an-array)
 * [Maximize happiness of selected children](../Solutions/M/maximize-happiness-of-selected-children)
 * [Maximize score of numbers in ranges](../Solutions/M/maximize-score-of-numbers-in-ranges)
