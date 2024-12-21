@@ -200,6 +200,7 @@
 * [Replace question marks in string to minimize its value](../Solutions/R/replace-question-marks-in-string-to-minimize-its-value)
 * [Split the array](../Solutions/S/split-the-array)
 * [Subarrays with k different integers](../Solutions/S/subarrays-with-k-different-integers)
+* [Subsequences with a unique middle mode i](../Solutions/S/subsequences-with-a-unique-middle-mode-i)
 * [Sum of digit differences of all pairs](../Solutions/S/sum-of-digit-differences-of-all-pairs)
 * [The two sneaky numbers of digitville](../Solutions/T/the-two-sneaky-numbers-of-digitville)
 * [Total characters in string after transformations i](../Solutions/T/total-characters-in-string-after-transformations-i)

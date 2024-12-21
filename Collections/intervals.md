@@ -21,6 +21,7 @@
 
 ## <a id="endpoint-sorting">Endpoint sorting</a>
 * [Car pooling](../Solutions/C/car-pooling)
+* [Check if grid can be cut into sections](../Solutions/C/check-if-grid-can-be-cut-into-sections)
 * [Count days without meetings](../Solutions/C/count-days-without-meetings)
 * [Divide intervals into minimum number of groups](../Solutions/D/divide-intervals-into-minimum-number-of-groups)
 * [Maximum frequency of an element after performing operations i](../Solutions/M/maximum-frequency-of-an-element-after-performing-operations-i)

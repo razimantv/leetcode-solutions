@@ -38,6 +38,7 @@
 * [Count number of distinct integers after reverse operations](../Solutions/C/count-number-of-distinct-integers-after-reverse-operations)
 * [Count odd numbers in an interval range](../Solutions/C/count-odd-numbers-in-an-interval-range)
 * [Count pairs whose sum is less than target](../Solutions/C/count-pairs-whose-sum-is-less-than-target)
+* [Count subarrays of length three with a condition](../Solutions/C/count-subarrays-of-length-three-with-a-condition)
 * [Count substrings that satisfy k constraint i](../Solutions/C/count-substrings-that-satisfy-k-constraint-i)
 * [Count symmetric integers](../Solutions/C/count-symmetric-integers)
 * [Count the digits that divide a number](../Solutions/C/count-the-digits-that-divide-a-number)

@@ -161,6 +161,7 @@
 * [Adjacent increasing subarrays detection i](../Solutions/A/adjacent-increasing-subarrays-detection-i)
 * [Adjacent increasing subarrays detection ii](../Solutions/A/adjacent-increasing-subarrays-detection-ii)
 * [Count number of teams](../Solutions/C/count-number-of-teams)
+* [Subsequences with a unique middle mode i](../Solutions/S/subsequences-with-a-unique-middle-mode-i)
 
 ## <a id="modify-element-with-index">Modify element with index</a>
 * [Best sightseeing pair](../Solutions/B/best-sightseeing-pair)

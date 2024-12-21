@@ -227,6 +227,7 @@
 * [Total characters in string after transformations ii](../Solutions/T/total-characters-in-string-after-transformations-ii)
 
 ## <a id="grid">Grid</a>
+* [Count paths with the given xor value](../Solutions/C/count-paths-with-the-given-xor-value)
 * [Maximum difference score in a grid](../Solutions/M/maximum-difference-score-in-a-grid)
 * [Maximum number of moves in a grid](../Solutions/M/maximum-number-of-moves-in-a-grid)
 * [Paths in matrix whose sum is divisible by k](../Solutions/P/paths-in-matrix-whose-sum-is-divisible-by-k)

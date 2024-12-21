@@ -44,6 +44,7 @@
 * [Power of heroes](../Solutions/P/power-of-heroes)
 * [Sell diminishing valued colored balls](../Solutions/S/sell-diminishing-valued-colored-balls)
 * [Sorted gcd pair queries](../Solutions/S/sorted-gcd-pair-queries)
+* [Subsequences with a unique middle mode i](../Solutions/S/subsequences-with-a-unique-middle-mode-i)
 
 ## <a id="combinatorics">Combinatorics</a>
 * [3sum with multiplicity](../Solutions/0-9/3sum-with-multiplicity)
@@ -120,6 +121,7 @@
 * [Find the sum of subsequence powers](../Solutions/F/find-the-sum-of-subsequence-powers)
 * [Kth smallest amount with single denomination combination](../Solutions/K/kth-smallest-amount-with-single-denomination-combination)
 * [Sorted gcd pair queries](../Solutions/S/sorted-gcd-pair-queries)
+* [Subsequences with a unique middle mode i](../Solutions/S/subsequences-with-a-unique-middle-mode-i)
 
 ## <a id="composition-of-operations">Composition of operations</a>
 * [Bitwise xor of all pairings](../Solutions/B/bitwise-xor-of-all-pairings)
