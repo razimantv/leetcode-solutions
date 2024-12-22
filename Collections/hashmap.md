@@ -97,6 +97,7 @@
 * [Minimum cost to split an array](../Solutions/M/minimum-cost-to-split-an-array)
 * [Minimum deletions to make character frequencies unique](../Solutions/M/minimum-deletions-to-make-character-frequencies-unique)
 * [Minimum number of operations to make array empty](../Solutions/M/minimum-number-of-operations-to-make-array-empty)
+* [Minimum number of operations to make elements in array distinct](../Solutions/M/minimum-number-of-operations-to-make-elements-in-array-distinct)
 * [Minimum number of steps to make two strings anagram](../Solutions/M/minimum-number-of-steps-to-make-two-strings-anagram)
 * [Minimum operations to collect elements](../Solutions/M/minimum-operations-to-collect-elements)
 * [Minimum rounds to complete all tasks](../Solutions/M/minimum-rounds-to-complete-all-tasks)

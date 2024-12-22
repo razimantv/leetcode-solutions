@@ -72,6 +72,8 @@
 * [Range sum of sorted subarray sums](../Solutions/R/range-sum-of-sorted-subarray-sums)
 * [Sell diminishing valued colored balls](../Solutions/S/sell-diminishing-valued-colored-balls)
 * [Smallest divisible digit product ii](../Solutions/S/smallest-divisible-digit-product-ii)
+* [Smallest substring with identical characters i](../Solutions/S/smallest-substring-with-identical-characters-i)
+* [Smallest substring with identical characters ii](../Solutions/S/smallest-substring-with-identical-characters-ii)
 * [Sorted gcd pair queries](../Solutions/S/sorted-gcd-pair-queries)
 * [Split array largest sum](../Solutions/S/split-array-largest-sum)
 * [Two best non overlapping events](../Solutions/T/two-best-non-overlapping-events)
