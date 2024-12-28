@@ -315,6 +315,7 @@
 
 ## <a id="reconstructing-optimal-solution">Reconstructing optimal solution</a>
 * [Longest unequal adjacent groups subsequence ii](../Solutions/L/longest-unequal-adjacent-groups-subsequence-ii)
+* [Maximum sum of 3 non overlapping subarrays](../Solutions/M/maximum-sum-of-3-non-overlapping-subarrays)
 
 ## <a id="segment-tree">Segment tree</a>
 * [Count increasing quadruplets](../Solutions/C/count-increasing-quadruplets)

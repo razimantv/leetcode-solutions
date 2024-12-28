@@ -75,6 +75,7 @@
 * [Maximum subarray min product](../Solutions/M/maximum-subarray-min-product)
 * [Maximum subarray sum with length divisible by k](../Solutions/M/maximum-subarray-sum-with-length-divisible-by-k)
 * [Maximum sum circular subarray](../Solutions/M/maximum-sum-circular-subarray)
+* [Maximum sum of 3 non overlapping subarrays](../Solutions/M/maximum-sum-of-3-non-overlapping-subarrays)
 * [Maximum xor for each query](../Solutions/M/maximum-xor-for-each-query)
 * [Minimum absolute difference queries](../Solutions/M/minimum-absolute-difference-queries)
 * [Minimum amount of time to collect garbage](../Solutions/M/minimum-amount-of-time-to-collect-garbage)
