@@ -56,4 +56,5 @@
 * [Count negative numbers in a sorted matrix](../Solutions/C/count-negative-numbers-in-a-sorted-matrix)
 * [Diagonal traverse](../Solutions/D/diagonal-traverse)
 * [Get biggest three rhombus sums in a grid](../Solutions/G/get-biggest-three-rhombus-sums-in-a-grid)
+* [Minimum operations to make columns strictly increasing](../Solutions/M/minimum-operations-to-make-columns-strictly-increasing)
 * [Spiral matrix iii](../Solutions/S/spiral-matrix-iii)

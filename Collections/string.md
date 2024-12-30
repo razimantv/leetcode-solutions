@@ -1,5 +1,6 @@
 
 # <a id="string">String</a>
+* [Find the lexicographically largest string from the box i](../Solutions/F/find-the-lexicographically-largest-string-from-the-box-i)
 
 ## <a id="anagrams">Anagrams</a>
 * [Group anagrams](../Solutions/G/group-anagrams)

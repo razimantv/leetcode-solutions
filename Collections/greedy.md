@@ -26,6 +26,7 @@
 * [Find minimum diameter after merging two trees](../Solutions/F/find-minimum-diameter-after-merging-two-trees)
 * [Find polygon with the largest perimeter](../Solutions/F/find-polygon-with-the-largest-perimeter)
 * [Find the largest palindrome divisible by k](../Solutions/F/find-the-largest-palindrome-divisible-by-k)
+* [Find the lexicographically largest string from the box i](../Solutions/F/find-the-lexicographically-largest-string-from-the-box-i)
 * [Find the lexicographically smallest valid sequence](../Solutions/F/find-the-lexicographically-smallest-valid-sequence)
 * [Find the maximum number of marked indices](../Solutions/F/find-the-maximum-number-of-marked-indices)
 * [Find the maximum sequence value of array](../Solutions/F/find-the-maximum-sequence-value-of-array)

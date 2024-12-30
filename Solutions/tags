@@ -224,6 +224,7 @@ Stack>From array elements
 Stack>Monotonic stack
 Stack>Numerical operations
 Stack>Valid brackets
+String
 String>Anagrams
 String>Parsing
 String>Parsing>Recursive

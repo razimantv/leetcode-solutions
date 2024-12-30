@@ -31,6 +31,7 @@
 * [Count k reducible numbers less than n](../Solutions/C/count-k-reducible-numbers-less-than-n)
 * [Count number of balanced permutations](../Solutions/C/count-number-of-balanced-permutations)
 * [Count substrings starting and ending with given character](../Solutions/C/count-substrings-starting-and-ending-with-given-character)
+* [Count the number of arrays with k matching adjacent elements](../Solutions/C/count-the-number-of-arrays-with-k-matching-adjacent-elements)
 * [Count total number of colored cells](../Solutions/C/count-total-number-of-colored-cells)
 * [Distribute candies among children i](../Solutions/D/distribute-candies-among-children-i)
 * [Distribute candies among children ii](../Solutions/D/distribute-candies-among-children-ii)
@@ -72,6 +73,7 @@
 * [Count sorted vowel strings](../Solutions/C/count-sorted-vowel-strings)
 * [Count special integers](../Solutions/C/count-special-integers)
 * [Count substrings starting and ending with given character](../Solutions/C/count-substrings-starting-and-ending-with-given-character)
+* [Count the number of arrays with k matching adjacent elements](../Solutions/C/count-the-number-of-arrays-with-k-matching-adjacent-elements)
 * [Count the number of fair pairs](../Solutions/C/count-the-number-of-fair-pairs)
 * [Count the number of good partitions](../Solutions/C/count-the-number-of-good-partitions)
 * [Count the number of houses at a certain distance i](../Solutions/C/count-the-number-of-houses-at-a-certain-distance-i)
@@ -130,6 +132,7 @@
 * [Handling sum queries after update](../Solutions/H/handling-sum-queries-after-update)
 
 ## <a id="expression-rearrangement">Expression rearrangement</a>
+* [Count special subsequences](../Solutions/C/count-special-subsequences)
 * [Find maximum non decreasing array length](../Solutions/F/find-maximum-non-decreasing-array-length)
 * [Maximum balanced subsequence sum](../Solutions/M/maximum-balanced-subsequence-sum)
 * [Number of pairs satisfying inequality](../Solutions/N/number-of-pairs-satisfying-inequality)
@@ -231,6 +234,7 @@
 
 ### <a id="gcd-lcm">GCD/LCM</a>
 * [Count connected components in lcm graph](../Solutions/C/count-connected-components-in-lcm-graph)
+* [Count special subsequences](../Solutions/C/count-special-subsequences)
 
 ### <a id="inclusion-exclusion">Inclusion-exclusion</a>
 * [Kth smallest amount with single denomination combination](../Solutions/K/kth-smallest-amount-with-single-denomination-combination)
@@ -241,6 +245,7 @@
 * [Count anagrams](../Solutions/C/count-anagrams)
 * [Count collisions of monkeys on a polygon](../Solutions/C/count-collisions-of-monkeys-on-a-polygon)
 * [Count good numbers](../Solutions/C/count-good-numbers)
+* [Count the number of arrays with k matching adjacent elements](../Solutions/C/count-the-number-of-arrays-with-k-matching-adjacent-elements)
 * [Count the number of ideal arrays](../Solutions/C/count-the-number-of-ideal-arrays)
 * [Count the number of infection sequences](../Solutions/C/count-the-number-of-infection-sequences)
 * [Double modular exponentiation](../Solutions/D/double-modular-exponentiation)
