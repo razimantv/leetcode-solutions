@@ -92,6 +92,7 @@
 * [Minimum value to get positive step by step sum](../Solutions/M/minimum-value-to-get-positive-step-by-step-sum)
 * [Movement of robots](../Solutions/M/movement-of-robots)
 * [Number of good leaf nodes pairs](../Solutions/N/number-of-good-leaf-nodes-pairs)
+* [Number of ways to split array](../Solutions/N/number-of-ways-to-split-array)
 * [Palindrome rearrangement queries](../Solutions/P/palindrome-rearrangement-queries)
 * [Random pick with weight](../Solutions/R/random-pick-with-weight)
 * [Random point in non overlapping rectangles](../Solutions/R/random-point-in-non-overlapping-rectangles)
