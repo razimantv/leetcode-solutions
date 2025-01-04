@@ -38,6 +38,7 @@
 
 ## <a id="search">Search</a>
 * [Shortest uncommon substring in an array](../Solutions/S/shortest-uncommon-substring-in-an-array)
+* [Substring matching pattern](../Solutions/S/substring-matching-pattern)
 
 ### <a id="cylic-array">Cylic array</a>
 * [Rotate string](../Solutions/R/rotate-string)

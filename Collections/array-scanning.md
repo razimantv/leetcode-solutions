@@ -148,6 +148,7 @@
 * [Execution of all suffix instructions staying in a grid](../Solutions/E/execution-of-all-suffix-instructions-staying-in-a-grid)
 * [Largest substring between two equal characters](../Solutions/L/largest-substring-between-two-equal-characters)
 * [Make sum divisible by p](../Solutions/M/make-sum-divisible-by-p)
+* [Maximize subarray sum after removing all occurrences of one element](../Solutions/M/maximize-subarray-sum-after-removing-all-occurrences-of-one-element)
 * [Maximize the number of partitions after operations](../Solutions/M/maximize-the-number-of-partitions-after-operations)
 * [Number of subarrays with bounded maximum](../Solutions/N/number-of-subarrays-with-bounded-maximum)
 * [Number of ways to divide a long corridor](../Solutions/N/number-of-ways-to-divide-a-long-corridor)

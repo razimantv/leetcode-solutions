@@ -184,6 +184,7 @@
 * [Special array i](../Solutions/S/special-array-i)
 * [Special positions in a binary matrix](../Solutions/S/special-positions-in-a-binary-matrix)
 * [Stone removal game](../Solutions/S/stone-removal-game)
+* [Substring matching pattern](../Solutions/S/substring-matching-pattern)
 * [Sum of digits of string after convert](../Solutions/S/sum-of-digits-of-string-after-convert)
 * [Sum of number and its reverse](../Solutions/S/sum-of-number-and-its-reverse)
 * [Sum of squares of special elements](../Solutions/S/sum-of-squares-of-special-elements)

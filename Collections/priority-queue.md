@@ -96,6 +96,7 @@
 * [Take gifts from the richest pile](../Solutions/T/take-gifts-from-the-richest-pile)
 
 ## <a id="python-sortedlist">Python SortedList</a>
+* [Design task manager](../Solutions/D/design-task-manager)
 * [Digit operations to make two integers equal](../Solutions/D/digit-operations-to-make-two-integers-equal)
 * [Find minimum time to reach last room i](../Solutions/F/find-minimum-time-to-reach-last-room-i)
 * [Find minimum time to reach last room ii](../Solutions/F/find-minimum-time-to-reach-last-room-ii)

@@ -236,5 +236,6 @@
 * [Remove letter to equalize frequency](../Solutions/R/remove-letter-to-equalize-frequency)
 
 ## <a id="update-using-insert-and-delete">Update using insert and delete</a>
+* [Design task manager](../Solutions/D/design-task-manager)
 * [Finding pairs with a certain sum](../Solutions/F/finding-pairs-with-a-certain-sum)
 * [Fraction to recurring decimal](../Solutions/F/fraction-to-recurring-decimal)

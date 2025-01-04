@@ -16,6 +16,7 @@
 * [Design memory allocator](../Solutions/D/design-memory-allocator)
 * [Design movie rental system](../Solutions/D/design-movie-rental-system)
 * [Design parking system](../Solutions/D/design-parking-system)
+* [Design task manager](../Solutions/D/design-task-manager)
 * [Design underground system](../Solutions/D/design-underground-system)
 * [Encode and decode tinyurl](../Solutions/E/encode-and-decode-tinyurl)
 * [Find consecutive integers from a data stream](../Solutions/F/find-consecutive-integers-from-a-data-stream)

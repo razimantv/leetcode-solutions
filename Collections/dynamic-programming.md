@@ -114,6 +114,7 @@
 * [Longest binary subsequence less than or equal to k](../Solutions/L/longest-binary-subsequence-less-than-or-equal-to-k)
 * [Longest ideal subsequence](../Solutions/L/longest-ideal-subsequence)
 * [Longest palindromic subsequence](../Solutions/L/longest-palindromic-subsequence)
+* [Longest subsequence with decreasing adjacent difference](../Solutions/L/longest-subsequence-with-decreasing-adjacent-difference)
 * [Make array strictly increasing](../Solutions/M/make-array-strictly-increasing)
 * [Maximize consecutive elements in an array after modification](../Solutions/M/maximize-consecutive-elements-in-an-array-after-modification)
 * [Maximize total cost of alternating subarrays](../Solutions/M/maximize-total-cost-of-alternating-subarrays)
