@@ -237,6 +237,7 @@
 * [Maximize the profit as the salesman](../Solutions/M/maximize-the-profit-as-the-salesman)
 * [Maximum number of events that can be attended ii](../Solutions/M/maximum-number-of-events-that-can-be-attended-ii)
 * [Maximum profit in job scheduling](../Solutions/M/maximum-profit-in-job-scheduling)
+* [Maximum score of non overlapping intervals](../Solutions/M/maximum-score-of-non-overlapping-intervals)
 
 ## <a id="knapsack">Knapsack</a>
 * [Coin change](../Solutions/C/coin-change)

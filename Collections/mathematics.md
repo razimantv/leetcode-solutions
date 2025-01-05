@@ -235,6 +235,7 @@
 ### <a id="gcd-lcm">GCD/LCM</a>
 * [Count connected components in lcm graph](../Solutions/C/count-connected-components-in-lcm-graph)
 * [Count special subsequences](../Solutions/C/count-special-subsequences)
+* [Maximum subarray with equal products](../Solutions/M/maximum-subarray-with-equal-products)
 
 ### <a id="inclusion-exclusion">Inclusion-exclusion</a>
 * [Kth smallest amount with single denomination combination](../Solutions/K/kth-smallest-amount-with-single-denomination-combination)

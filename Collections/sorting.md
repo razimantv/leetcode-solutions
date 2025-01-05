@@ -115,6 +115,7 @@
 * [Invalid transactions](../Solutions/I/invalid-transactions)
 * [Make lexicographically smallest array by swapping elements](../Solutions/M/make-lexicographically-smallest-array-by-swapping-elements)
 * [Mark elements on array by performing queries](../Solutions/M/mark-elements-on-array-by-performing-queries)
+* [Maximum score of non overlapping intervals](../Solutions/M/maximum-score-of-non-overlapping-intervals)
 * [Most beautiful item for each query](../Solutions/M/most-beautiful-item-for-each-query)
 * [Relative ranks](../Solutions/R/relative-ranks)
 * [Sum of subarray minimums](../Solutions/S/sum-of-subarray-minimums)

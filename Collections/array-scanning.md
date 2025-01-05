@@ -146,6 +146,7 @@
 * [Count the number of substrings with dominant ones](../Solutions/C/count-the-number-of-substrings-with-dominant-ones)
 * [Count unique characters of all substrings of a given string](../Solutions/C/count-unique-characters-of-all-substrings-of-a-given-string)
 * [Execution of all suffix instructions staying in a grid](../Solutions/E/execution-of-all-suffix-instructions-staying-in-a-grid)
+* [Find mirror score of a string](../Solutions/F/find-mirror-score-of-a-string)
 * [Largest substring between two equal characters](../Solutions/L/largest-substring-between-two-equal-characters)
 * [Make sum divisible by p](../Solutions/M/make-sum-divisible-by-p)
 * [Maximize subarray sum after removing all occurrences of one element](../Solutions/M/maximize-subarray-sum-after-removing-all-occurrences-of-one-element)

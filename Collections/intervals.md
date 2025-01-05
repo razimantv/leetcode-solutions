@@ -17,6 +17,7 @@
 ### <a id="with-binary-search">With binary search</a>
 * [Maximum number of events that can be attended ii](../Solutions/M/maximum-number-of-events-that-can-be-attended-ii)
 * [Maximum profit in job scheduling](../Solutions/M/maximum-profit-in-job-scheduling)
+* [Maximum score of non overlapping intervals](../Solutions/M/maximum-score-of-non-overlapping-intervals)
 * [Two best non overlapping events](../Solutions/T/two-best-non-overlapping-events)
 
 ## <a id="endpoint-sorting">Endpoint sorting</a>
