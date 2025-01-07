@@ -69,6 +69,7 @@
 * [Sort the jumbled numbers](../Solutions/S/sort-the-jumbled-numbers)
 * [Sort the people](../Solutions/S/sort-the-people)
 * [Sort the students by their kth score](../Solutions/S/sort-the-students-by-their-kth-score)
+* [String matching in an array](../Solutions/S/string-matching-in-an-array)
 * [The number of the smallest unoccupied chair](../Solutions/T/the-number-of-the-smallest-unoccupied-chair)
 * [Two best non overlapping events](../Solutions/T/two-best-non-overlapping-events)
 
