@@ -45,6 +45,7 @@
 * [Count the number of consistent strings](../Solutions/C/count-the-number-of-consistent-strings)
 * [Count the number of special characters i](../Solutions/C/count-the-number-of-special-characters-i)
 * [Count the number of vowel strings in range](../Solutions/C/count-the-number-of-vowel-strings-in-range)
+* [Counting words with a given prefix](../Solutions/C/counting-words-with-a-given-prefix)
 * [Delete characters to make fancy string](../Solutions/D/delete-characters-to-make-fancy-string)
 * [Delete columns to make sorted](../Solutions/D/delete-columns-to-make-sorted)
 * [Determine color of a chessboard square](../Solutions/D/determine-color-of-a-chessboard-square)
