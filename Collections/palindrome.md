@@ -1,6 +1,7 @@
 
 # <a id="palindrome">Palindrome</a>
 * [Break a palindrome](../Solutions/B/break-a-palindrome)
+* [Construct k palindrome strings](../Solutions/C/construct-k-palindrome-strings)
 * [Count palindromic subsequences](../Solutions/C/count-palindromic-subsequences)
 * [Count paths that can form a palindrome in a tree](../Solutions/C/count-paths-that-can-form-a-palindrome-in-a-tree)
 * [Find first palindromic string in the array](../Solutions/F/find-first-palindromic-string-in-the-array)

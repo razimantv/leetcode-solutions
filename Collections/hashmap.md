@@ -155,6 +155,7 @@
 * [Check if array pairs are divisible by k](../Solutions/C/check-if-array-pairs-are-divisible-by-k)
 * [Check if n and its double exist](../Solutions/C/check-if-n-and-its-double-exist)
 * [Combination sum ii](../Solutions/C/combination-sum-ii)
+* [Construct k palindrome strings](../Solutions/C/construct-k-palindrome-strings)
 * [Construct string with repeat limit](../Solutions/C/construct-string-with-repeat-limit)
 * [Count almost equal pairs ii](../Solutions/C/count-almost-equal-pairs-ii)
 * [Count elements with maximum frequency](../Solutions/C/count-elements-with-maximum-frequency)
