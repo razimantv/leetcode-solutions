@@ -46,4 +46,5 @@
 * [Parsing a boolean expression](../Solutions/P/parsing-a-boolean-expression)
 
 ## <a id="valid-brackets">Valid brackets</a>
+* [Check if a parentheses string can be valid](../Solutions/C/check-if-a-parentheses-string-can-be-valid)
 * [Parsing a boolean expression](../Solutions/P/parsing-a-boolean-expression)
