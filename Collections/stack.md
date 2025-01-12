@@ -24,6 +24,7 @@
 ## <a id="monotonic-stack">Monotonic stack</a>
 * [Apply operations to maximize score](../Solutions/A/apply-operations-to-maximize-score)
 * [Beautiful towers ii](../Solutions/B/beautiful-towers-ii)
+* [Count non decreasing subarrays after k operations](../Solutions/C/count-non-decreasing-subarrays-after-k-operations)
 * [Daily temperatures](../Solutions/D/daily-temperatures)
 * [Final prices with a special discount in a shop](../Solutions/F/final-prices-with-a-special-discount-in-a-shop)
 * [Find building where alice and bob can meet](../Solutions/F/find-building-where-alice-and-bob-can-meet)

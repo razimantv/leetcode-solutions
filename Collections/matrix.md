@@ -31,6 +31,7 @@
 * [Find the maximum number of fruits collected](../Solutions/F/find-the-maximum-number-of-fruits-collected)
 * [Last day where you can still cross](../Solutions/L/last-day-where-you-can-still-cross)
 * [Longest increasing path in a matrix](../Solutions/L/longest-increasing-path-in-a-matrix)
+* [Maximum amount of money robot can earn](../Solutions/M/maximum-amount-of-money-robot-can-earn)
 * [Maximum number of moves in a grid](../Solutions/M/maximum-number-of-moves-in-a-grid)
 * [Minimum falling path sum](../Solutions/M/minimum-falling-path-sum)
 * [Minimum falling path sum ii](../Solutions/M/minimum-falling-path-sum-ii)
@@ -58,3 +59,4 @@
 * [Get biggest three rhombus sums in a grid](../Solutions/G/get-biggest-three-rhombus-sums-in-a-grid)
 * [Minimum operations to make columns strictly increasing](../Solutions/M/minimum-operations-to-make-columns-strictly-increasing)
 * [Spiral matrix iii](../Solutions/S/spiral-matrix-iii)
+* [Zigzag grid traversal with skip](../Solutions/Z/zigzag-grid-traversal-with-skip)

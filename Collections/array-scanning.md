@@ -174,6 +174,7 @@
 * [Best sightseeing pair](../Solutions/B/best-sightseeing-pair)
 
 ## <a id="right-to-left">Right to left</a>
+* [Count non decreasing subarrays after k operations](../Solutions/C/count-non-decreasing-subarrays-after-k-operations)
 * [Execution of all suffix instructions staying in a grid](../Solutions/E/execution-of-all-suffix-instructions-staying-in-a-grid)
 * [Final prices with a special discount in a shop](../Solutions/F/final-prices-with-a-special-discount-in-a-shop)
 * [Find the original array of prefix xor](../Solutions/F/find-the-original-array-of-prefix-xor)

@@ -39,6 +39,7 @@
 * [Count beautiful substrings ii](../Solutions/C/count-beautiful-substrings-ii)
 * [Count complete substrings](../Solutions/C/count-complete-substrings)
 * [Count days spent together](../Solutions/C/count-days-spent-together)
+* [Count non decreasing subarrays after k operations](../Solutions/C/count-non-decreasing-subarrays-after-k-operations)
 * [Count number of nice subarrays](../Solutions/C/count-number-of-nice-subarrays)
 * [Count of interesting subarrays](../Solutions/C/count-of-interesting-subarrays)
 * [Count subarrays where max element appears at least k times](../Solutions/C/count-subarrays-where-max-element-appears-at-least-k-times)

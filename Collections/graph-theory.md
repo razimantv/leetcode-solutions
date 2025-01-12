@@ -88,6 +88,7 @@
 * [Maximum number of k divisible components](../Solutions/M/maximum-number-of-k-divisible-components)
 * [Maximum points after collecting coins from all nodes](../Solutions/M/maximum-points-after-collecting-coins-from-all-nodes)
 * [Maximum score after applying operations on a tree](../Solutions/M/maximum-score-after-applying-operations-on-a-tree)
+* [Minimize the maximum edge weight of graph](../Solutions/M/minimize-the-maximum-edge-weight-of-graph)
 * [Minimize the total price of the trips](../Solutions/M/minimize-the-total-price-of-the-trips)
 * [Minimum edge reversals so every node is reachable](../Solutions/M/minimum-edge-reversals-so-every-node-is-reachable)
 * [Minimum edge weight equilibrium queries in a tree](../Solutions/M/minimum-edge-weight-equilibrium-queries-in-a-tree)
@@ -200,6 +201,7 @@
 
 ## <a id="reuse-visited-array">Reuse visited array</a>
 * [Divide nodes into the maximum number of groups](../Solutions/D/divide-nodes-into-the-maximum-number-of-groups)
+* [Minimize the maximum edge weight of graph](../Solutions/M/minimize-the-maximum-edge-weight-of-graph)
 * [Minimum number of days to disconnect island](../Solutions/M/minimum-number-of-days-to-disconnect-island)
 * [Shortest cycle in a graph](../Solutions/S/shortest-cycle-in-a-graph)
 
