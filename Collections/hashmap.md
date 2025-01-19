@@ -73,6 +73,7 @@
 * [Longest consecutive sequence](../Solutions/L/longest-consecutive-sequence)
 * [Longest nice subarray](../Solutions/L/longest-nice-subarray)
 * [Longest palindrome by concatenating two letter words](../Solutions/L/longest-palindrome-by-concatenating-two-letter-words)
+* [Longest special path](../Solutions/L/longest-special-path)
 * [Longest square streak in an array](../Solutions/L/longest-square-streak-in-an-array)
 * [Longest uploaded prefix](../Solutions/L/longest-uploaded-prefix)
 * [Longest word in dictionary](../Solutions/L/longest-word-in-dictionary)

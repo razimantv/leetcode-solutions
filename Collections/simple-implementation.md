@@ -121,6 +121,7 @@
 * [Matrix similarity after cyclic shifts](../Solutions/M/matrix-similarity-after-cyclic-shifts)
 * [Maximum 69 number](../Solutions/M/maximum-69-number)
 * [Maximum count of positive integer and negative integer](../Solutions/M/maximum-count-of-positive-integer-and-negative-integer)
+* [Maximum difference between adjacent elements in a circular array](../Solutions/M/maximum-difference-between-adjacent-elements-in-a-circular-array)
 * [Maximum difference by remapping a digit](../Solutions/M/maximum-difference-by-remapping-a-digit)
 * [Maximum height of a triangle](../Solutions/M/maximum-height-of-a-triangle)
 * [Maximum number of balloons](../Solutions/M/maximum-number-of-balloons)

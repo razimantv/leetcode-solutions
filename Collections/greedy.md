@@ -105,6 +105,7 @@
 * [Minimum cost for cutting cake ii](../Solutions/M/minimum-cost-for-cutting-cake-ii)
 * [Minimum cost to equalize array](../Solutions/M/minimum-cost-to-equalize-array)
 * [Minimum cost to make array equal](../Solutions/M/minimum-cost-to-make-array-equal)
+* [Minimum cost to make arrays identical](../Solutions/M/minimum-cost-to-make-arrays-identical)
 * [Minimum deletions to make string k special](../Solutions/M/minimum-deletions-to-make-string-k-special)
 * [Minimum difference between largest and smallest value in three moves](../Solutions/M/minimum-difference-between-largest-and-smallest-value-in-three-moves)
 * [Minimum division operations to make array non decreasing](../Solutions/M/minimum-division-operations-to-make-array-non-decreasing)

@@ -62,6 +62,7 @@
 * [Find the substring with maximum cost](../Solutions/F/find-the-substring-with-maximum-cost)
 * [Gas station](../Solutions/G/gas-station)
 * [Left and right sum differences](../Solutions/L/left-and-right-sum-differences)
+* [Longest special path](../Solutions/L/longest-special-path)
 * [Longest subsequence with limited sum](../Solutions/L/longest-subsequence-with-limited-sum)
 * [Longest valid parentheses](../Solutions/L/longest-valid-parentheses)
 * [Make sum divisible by p](../Solutions/M/make-sum-divisible-by-p)
