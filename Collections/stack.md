@@ -31,6 +31,7 @@
 * [Find building where alice and bob can meet](../Solutions/F/find-building-where-alice-and-bob-can-meet)
 * [Find the number of subarrays where boundary elements are maximum](../Solutions/F/find-the-number-of-subarrays-where-boundary-elements-are-maximum)
 * [Largest rectangle in histogram](../Solutions/L/largest-rectangle-in-histogram)
+* [Maximum and minimum sums of at most size k subarrays](../Solutions/M/maximum-and-minimum-sums-of-at-most-size-k-subarrays)
 * [Maximum score of a good subarray](../Solutions/M/maximum-score-of-a-good-subarray)
 * [Maximum subarray min product](../Solutions/M/maximum-subarray-min-product)
 * [Maximum sum queries](../Solutions/M/maximum-sum-queries)

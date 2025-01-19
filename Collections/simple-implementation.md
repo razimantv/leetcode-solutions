@@ -190,6 +190,7 @@
 * [Sum of digits of string after convert](../Solutions/S/sum-of-digits-of-string-after-convert)
 * [Sum of number and its reverse](../Solutions/S/sum-of-number-and-its-reverse)
 * [Sum of squares of special elements](../Solutions/S/sum-of-squares-of-special-elements)
+* [Sum of variable length subarrays](../Solutions/S/sum-of-variable-length-subarrays)
 * [The employee that worked on the longest task](../Solutions/T/the-employee-that-worked-on-the-longest-task)
 * [Three consecutive odds](../Solutions/T/three-consecutive-odds)
 * [Time needed to buy tickets](../Solutions/T/time-needed-to-buy-tickets)

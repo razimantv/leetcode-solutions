@@ -63,6 +63,7 @@
 * [Maximize the minimum powered city](../Solutions/M/maximize-the-minimum-powered-city)
 * [Maximize the number of target nodes after connecting trees i](../Solutions/M/maximize-the-number-of-target-nodes-after-connecting-trees-i)
 * [Maximize the total height of unique towers](../Solutions/M/maximize-the-total-height-of-unique-towers)
+* [Maximum and minimum sums of at most size k subsequences](../Solutions/M/maximum-and-minimum-sums-of-at-most-size-k-subsequences)
 * [Maximum average pass ratio](../Solutions/M/maximum-average-pass-ratio)
 * [Maximum bags with full capacity of rocks](../Solutions/M/maximum-bags-with-full-capacity-of-rocks)
 * [Maximum distance in arrays](../Solutions/M/maximum-distance-in-arrays)
