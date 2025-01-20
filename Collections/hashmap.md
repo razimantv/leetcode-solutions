@@ -200,6 +200,7 @@
 * [Minimum operations to write the letter y on a grid](../Solutions/M/minimum-operations-to-write-the-letter-y-on-a-grid)
 * [Minimum substring partition of equal character frequency](../Solutions/M/minimum-substring-partition-of-equal-character-frequency)
 * [Number of students unable to eat lunch](../Solutions/N/number-of-students-unable-to-eat-lunch)
+* [Number of valid words for each puzzle](../Solutions/N/number-of-valid-words-for-each-puzzle)
 * [Rearrange k substrings to form target string](../Solutions/R/rearrange-k-substrings-to-form-target-string)
 * [Replace question marks in string to minimize its value](../Solutions/R/replace-question-marks-in-string-to-minimize-its-value)
 * [Split the array](../Solutions/S/split-the-array)
