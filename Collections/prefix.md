@@ -61,6 +61,7 @@
 * [Find the score of all prefixes of an array](../Solutions/F/find-the-score-of-all-prefixes-of-an-array)
 * [Find the substring with maximum cost](../Solutions/F/find-the-substring-with-maximum-cost)
 * [Gas station](../Solutions/G/gas-station)
+* [Grid game](../Solutions/G/grid-game)
 * [Left and right sum differences](../Solutions/L/left-and-right-sum-differences)
 * [Longest special path](../Solutions/L/longest-special-path)
 * [Longest subsequence with limited sum](../Solutions/L/longest-subsequence-with-limited-sum)
