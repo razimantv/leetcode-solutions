@@ -19,6 +19,7 @@
 * [Divide nodes into the maximum number of groups](../Solutions/D/divide-nodes-into-the-maximum-number-of-groups)
 * [Find the safest path in a grid](../Solutions/F/find-the-safest-path-in-a-grid)
 * [Jump game iv](../Solutions/J/jump-game-iv)
+* [Map of highest peak](../Solutions/M/map-of-highest-peak)
 * [Maximum level sum of a binary tree](../Solutions/M/maximum-level-sum-of-a-binary-tree)
 * [Maximum number of moves to kill all pawns](../Solutions/M/maximum-number-of-moves-to-kill-all-pawns)
 * [Minimum genetic mutation](../Solutions/M/minimum-genetic-mutation)
