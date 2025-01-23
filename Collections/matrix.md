@@ -1,5 +1,6 @@
 
 # <a id="matrix">Matrix</a>
+* [Count servers that communicate](../Solutions/C/count-servers-that-communicate)
 * [Count unguarded cells in the grid](../Solutions/C/count-unguarded-cells-in-the-grid)
 * [Design neighbor sum service](../Solutions/D/design-neighbor-sum-service)
 * [Difference between ones and zeros in row and column](../Solutions/D/difference-between-ones-and-zeros-in-row-and-column)

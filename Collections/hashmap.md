@@ -165,6 +165,7 @@
 * [Count of substrings containing every vowel and k consonants ii](../Solutions/C/count-of-substrings-containing-every-vowel-and-k-consonants-ii)
 * [Count pairs that form a complete day i](../Solutions/C/count-pairs-that-form-a-complete-day-i)
 * [Count pairs that form a complete day ii](../Solutions/C/count-pairs-that-form-a-complete-day-ii)
+* [Count servers that communicate](../Solutions/C/count-servers-that-communicate)
 * [Count special subsequences](../Solutions/C/count-special-subsequences)
 * [Count substrings starting and ending with given character](../Solutions/C/count-substrings-starting-and-ending-with-given-character)
 * [Count substrings that can be rearranged to contain a string i](../Solutions/C/count-substrings-that-can-be-rearranged-to-contain-a-string-i)
