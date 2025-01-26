@@ -69,6 +69,7 @@
 * [Make sum divisible by p](../Solutions/M/make-sum-divisible-by-p)
 * [Max sum of rectangle no larger than k](../Solutions/M/max-sum-of-rectangle-no-larger-than-k)
 * [Maximal rectangle](../Solutions/M/maximal-rectangle)
+* [Maximum frequency after subarray operation](../Solutions/M/maximum-frequency-after-subarray-operation)
 * [Maximum good subarray sum](../Solutions/M/maximum-good-subarray-sum)
 * [Maximum nesting depth of two valid parentheses strings](../Solutions/M/maximum-nesting-depth-of-two-valid-parentheses-strings)
 * [Maximum product subarray](../Solutions/M/maximum-product-subarray)

@@ -293,6 +293,7 @@
 * [Make array elements equal to zero](../Solutions/M/make-array-elements-equal-to-zero)
 
 ## <a id="parity">Parity</a>
+* [Count partitions with even sum difference](../Solutions/C/count-partitions-with-even-sum-difference)
 * [Minimum number of flips to make binary grid palindromic ii](../Solutions/M/minimum-number-of-flips-to-make-binary-grid-palindromic-ii)
 * [Minimum reverse operations](../Solutions/M/minimum-reverse-operations)
 

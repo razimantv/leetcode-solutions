@@ -231,6 +231,7 @@
 * [Course schedule](../Solutions/C/course-schedule)
 * [Course schedule ii](../Solutions/C/course-schedule-ii)
 * [Find eventual safe states](../Solutions/F/find-eventual-safe-states)
+* [Frequencies of shortest supersequences](../Solutions/F/frequencies-of-shortest-supersequences)
 * [Maximum strictly increasing cells in a matrix](../Solutions/M/maximum-strictly-increasing-cells-in-a-matrix)
 
 ### <a id="dynamic-programming">Dynamic Programming</a>

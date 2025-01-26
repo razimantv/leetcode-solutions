@@ -184,6 +184,7 @@
 * [Kth distinct string in an array](../Solutions/K/kth-distinct-string-in-an-array)
 * [Largest combination with bitwise and greater than zero](../Solutions/L/largest-combination-with-bitwise-and-greater-than-zero)
 * [Least number of unique integers after k removals](../Solutions/L/least-number-of-unique-integers-after-k-removals)
+* [Maximum frequency after subarray operation](../Solutions/M/maximum-frequency-after-subarray-operation)
 * [Maximum length substring with two occurrences](../Solutions/M/maximum-length-substring-with-two-occurrences)
 * [Maximum palindromes after operations](../Solutions/M/maximum-palindromes-after-operations)
 * [Maximum total damage with spell casting](../Solutions/M/maximum-total-damage-with-spell-casting)

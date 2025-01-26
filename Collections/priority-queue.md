@@ -1,6 +1,7 @@
 
 # <a id="priority-queue">Priority queue</a>
 * [Constrained subsequence sum](../Solutions/C/constrained-subsequence-sum)
+* [Count mentions per user](../Solutions/C/count-mentions-per-user)
 * [Earliest second to mark indices ii](../Solutions/E/earliest-second-to-mark-indices-ii)
 * [Final array state after k multiplication operations i](../Solutions/F/final-array-state-after-k-multiplication-operations-i)
 * [Final array state after k multiplication operations ii](../Solutions/F/final-array-state-after-k-multiplication-operations-ii)

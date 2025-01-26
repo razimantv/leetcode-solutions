@@ -40,6 +40,7 @@
 * [Closest room](../Solutions/C/closest-room)
 * [Concatenated words](../Solutions/C/concatenated-words)
 * [Container with most water](../Solutions/C/container-with-most-water)
+* [Count mentions per user](../Solutions/C/count-mentions-per-user)
 * [Course schedule iii](../Solutions/C/course-schedule-iii)
 * [Custom sort string](../Solutions/C/custom-sort-string)
 * [Design a food rating system](../Solutions/D/design-a-food-rating-system)
