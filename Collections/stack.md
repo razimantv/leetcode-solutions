@@ -6,6 +6,7 @@
 * [Design a stack with increment operation](../Solutions/D/design-a-stack-with-increment-operation)
 * [Find mirror score of a string](../Solutions/F/find-mirror-score-of-a-string)
 * [Longest special path](../Solutions/L/longest-special-path)
+* [Maximum employees to be invited to a meeting](../Solutions/M/maximum-employees-to-be-invited-to-a-meeting)
 * [Maximum score from removing substrings](../Solutions/M/maximum-score-from-removing-substrings)
 * [Min stack](../Solutions/M/min-stack)
 * [Removing stars from a string](../Solutions/R/removing-stars-from-a-string)

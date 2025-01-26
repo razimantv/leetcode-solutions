@@ -47,6 +47,7 @@
 ## <a id="cycle-detection">Cycle detection</a>
 * [Find closest node to given two nodes](../Solutions/F/find-closest-node-to-given-two-nodes)
 * [Happy number](../Solutions/H/happy-number)
+* [Maximum employees to be invited to a meeting](../Solutions/M/maximum-employees-to-be-invited-to-a-meeting)
 
 ## <a id="degree-counting">Degree counting</a>
 * [Add edges to make degrees of all nodes even](../Solutions/A/add-edges-to-make-degrees-of-all-nodes-even)
@@ -87,6 +88,7 @@
 * [Maximize amount after two days of conversions](../Solutions/M/maximize-amount-after-two-days-of-conversions)
 * [Maximize sum of weights after edge removals](../Solutions/M/maximize-sum-of-weights-after-edge-removals)
 * [Maximize the number of target nodes after connecting trees i](../Solutions/M/maximize-the-number-of-target-nodes-after-connecting-trees-i)
+* [Maximum employees to be invited to a meeting](../Solutions/M/maximum-employees-to-be-invited-to-a-meeting)
 * [Maximum number of k divisible components](../Solutions/M/maximum-number-of-k-divisible-components)
 * [Maximum points after collecting coins from all nodes](../Solutions/M/maximum-points-after-collecting-coins-from-all-nodes)
 * [Maximum score after applying operations on a tree](../Solutions/M/maximum-score-after-applying-operations-on-a-tree)
@@ -203,6 +205,7 @@
 
 ## <a id="reuse-visited-array">Reuse visited array</a>
 * [Divide nodes into the maximum number of groups](../Solutions/D/divide-nodes-into-the-maximum-number-of-groups)
+* [Maximum employees to be invited to a meeting](../Solutions/M/maximum-employees-to-be-invited-to-a-meeting)
 * [Minimize the maximum edge weight of graph](../Solutions/M/minimize-the-maximum-edge-weight-of-graph)
 * [Minimum number of days to disconnect island](../Solutions/M/minimum-number-of-days-to-disconnect-island)
 * [Shortest cycle in a graph](../Solutions/S/shortest-cycle-in-a-graph)
@@ -219,6 +222,7 @@
 * [Destination city](../Solutions/D/destination-city)
 * [Find closest node to given two nodes](../Solutions/F/find-closest-node-to-given-two-nodes)
 * [Longest cycle in a graph](../Solutions/L/longest-cycle-in-a-graph)
+* [Maximum employees to be invited to a meeting](../Solutions/M/maximum-employees-to-be-invited-to-a-meeting)
 * [Node with highest edge score](../Solutions/N/node-with-highest-edge-score)
 * [Where will the ball fall](../Solutions/W/where-will-the-ball-fall)
 
