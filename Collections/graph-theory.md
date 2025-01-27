@@ -166,6 +166,7 @@
 ## <a id="directed-acyclic-graph">Directed acyclic graph</a>
 * [All ancestors of a node in a directed acyclic graph](../Solutions/A/all-ancestors-of-a-node-in-a-directed-acyclic-graph)
 * [All paths from source to target](../Solutions/A/all-paths-from-source-to-target)
+* [Course schedule iv](../Solutions/C/course-schedule-iv)
 * [Find champion i](../Solutions/F/find-champion-i)
 * [Find champion ii](../Solutions/F/find-champion-ii)
 * [Shortest distance after road addition queries i](../Solutions/S/shortest-distance-after-road-addition-queries-i)

@@ -291,6 +291,7 @@
 * [Build array where you can find the maximum exactly k comparisons](../Solutions/B/build-array-where-you-can-find-the-maximum-exactly-k-comparisons)
 * [Combination sum iv](../Solutions/C/combination-sum-iv)
 * [Count number of balanced permutations](../Solutions/C/count-number-of-balanced-permutations)
+* [Course schedule iv](../Solutions/C/course-schedule-iv)
 * [Different ways to add parentheses](../Solutions/D/different-ways-to-add-parentheses)
 * [Find the minimum cost array permutation](../Solutions/F/find-the-minimum-cost-array-permutation)
 * [Maximum number of moves to kill all pawns](../Solutions/M/maximum-number-of-moves-to-kill-all-pawns)
