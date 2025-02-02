@@ -184,6 +184,7 @@
 * [Maximize value of function in a ball passing game](../Solutions/M/maximize-value-of-function-in-a-ball-passing-game)
 
 ## <a id="complexity-reduction-with-algebra">Complexity reduction with algebra</a>
+* [Minimum cost good caption](../Solutions/M/minimum-cost-good-caption)
 * [Power of heroes](../Solutions/P/power-of-heroes)
 
 ## <a id="construction">Construction</a>
@@ -323,6 +324,7 @@
 ## <a id="reconstructing-optimal-solution">Reconstructing optimal solution</a>
 * [Longest unequal adjacent groups subsequence ii](../Solutions/L/longest-unequal-adjacent-groups-subsequence-ii)
 * [Maximum sum of 3 non overlapping subarrays](../Solutions/M/maximum-sum-of-3-non-overlapping-subarrays)
+* [Minimum cost good caption](../Solutions/M/minimum-cost-good-caption)
 
 ## <a id="segment-tree">Segment tree</a>
 * [Count increasing quadruplets](../Solutions/C/count-increasing-quadruplets)

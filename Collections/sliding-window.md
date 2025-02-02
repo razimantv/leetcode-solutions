@@ -58,6 +58,7 @@
 * [Minimum size subarray sum](../Solutions/M/minimum-size-subarray-sum)
 * [Minimum window substring](../Solutions/M/minimum-window-substring)
 * [Permutation in string](../Solutions/P/permutation-in-string)
+* [Reschedule meetings for maximum free time i](../Solutions/R/reschedule-meetings-for-maximum-free-time-i)
 * [Shortest subarray to be removed to make array sorted](../Solutions/S/shortest-subarray-to-be-removed-to-make-array-sorted)
 * [Sliding subarray beauty](../Solutions/S/sliding-subarray-beauty)
 * [Subarrays with k different integers](../Solutions/S/subarrays-with-k-different-integers)

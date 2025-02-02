@@ -178,6 +178,7 @@
 * [Find the number of good pairs i](../Solutions/F/find-the-number-of-good-pairs-i)
 * [Find the number of good pairs ii](../Solutions/F/find-the-number-of-good-pairs-ii)
 * [Find the number of winning players](../Solutions/F/find-the-number-of-winning-players)
+* [Find valid pair of adjacent digits in string](../Solutions/F/find-valid-pair-of-adjacent-digits-in-string)
 * [Flip columns for maximum number of equal rows](../Solutions/F/flip-columns-for-maximum-number-of-equal-rows)
 * [Hand of straights](../Solutions/H/hand-of-straights)
 * [Identify the largest outlier in an array](../Solutions/I/identify-the-largest-outlier-in-an-array)

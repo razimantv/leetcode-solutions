@@ -20,6 +20,7 @@
 * [Global and local inversions](../Solutions/G/global-and-local-inversions)
 * [Increasing triplet subsequence](../Solutions/I/increasing-triplet-subsequence)
 * [Partition array into disjoint intervals](../Solutions/P/partition-array-into-disjoint-intervals)
+* [Reschedule meetings for maximum free time ii](../Solutions/R/reschedule-meetings-for-maximum-free-time-ii)
 * [Time taken to mark all nodes](../Solutions/T/time-taken-to-mark-all-nodes)
 * [Using a robot to print the lexicographically smallest string](../Solutions/U/using-a-robot-to-print-the-lexicographically-smallest-string)
 
@@ -104,6 +105,7 @@
 * [Range sum query immutable](../Solutions/R/range-sum-query-immutable)
 * [Reducing dishes](../Solutions/R/reducing-dishes)
 * [Remove zero sum consecutive nodes from linked list](../Solutions/R/remove-zero-sum-consecutive-nodes-from-linked-list)
+* [Reschedule meetings for maximum free time i](../Solutions/R/reschedule-meetings-for-maximum-free-time-i)
 * [Shift distance between two strings](../Solutions/S/shift-distance-between-two-strings)
 * [Sorted gcd pair queries](../Solutions/S/sorted-gcd-pair-queries)
 * [Subarray sums divisible by k](../Solutions/S/subarray-sums-divisible-by-k)
