@@ -43,6 +43,7 @@
 * [Maximize win from two segments](../Solutions/M/maximize-win-from-two-segments)
 * [Maximum beauty of an array after applying operation](../Solutions/M/maximum-beauty-of-an-array-after-applying-operation)
 * [Maximum coins from k consecutive bags](../Solutions/M/maximum-coins-from-k-consecutive-bags)
+* [Maximum difference between even and odd frequency ii](../Solutions/M/maximum-difference-between-even-and-odd-frequency-ii)
 * [Maximum erasure value](../Solutions/M/maximum-erasure-value)
 * [Maximum number of vowels in a substring of given length](../Solutions/M/maximum-number-of-vowels-in-a-substring-of-given-length)
 * [Maximum points you can obtain from cards](../Solutions/M/maximum-points-you-can-obtain-from-cards)

@@ -241,6 +241,7 @@
 * [Count connected components in lcm graph](../Solutions/C/count-connected-components-in-lcm-graph)
 * [Count special subsequences](../Solutions/C/count-special-subsequences)
 * [Maximum subarray with equal products](../Solutions/M/maximum-subarray-with-equal-products)
+* [Minimum increments for target multiples in an array](../Solutions/M/minimum-increments-for-target-multiples-in-an-array)
 
 ### <a id="inclusion-exclusion">Inclusion-exclusion</a>
 * [Kth smallest amount with single denomination combination](../Solutions/K/kth-smallest-amount-with-single-denomination-combination)
@@ -294,6 +295,7 @@
 
 ## <a id="parity">Parity</a>
 * [Count partitions with even sum difference](../Solutions/C/count-partitions-with-even-sum-difference)
+* [Maximum difference between even and odd frequency ii](../Solutions/M/maximum-difference-between-even-and-odd-frequency-ii)
 * [Minimum number of flips to make binary grid palindromic ii](../Solutions/M/minimum-number-of-flips-to-make-binary-grid-palindromic-ii)
 * [Minimum reverse operations](../Solutions/M/minimum-reverse-operations)
 

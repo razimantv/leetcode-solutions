@@ -114,4 +114,5 @@
 ## <a id="subset-enumeration">Subset enumeration</a>
 * [Count number of maximum bitwise or subsets](../Solutions/C/count-number-of-maximum-bitwise-or-subsets)
 * [Frequencies of shortest supersequences](../Solutions/F/frequencies-of-shortest-supersequences)
+* [Minimum increments for target multiples in an array](../Solutions/M/minimum-increments-for-target-multiples-in-an-array)
 * [Select cells in grid with maximum score](../Solutions/S/select-cells-in-grid-with-maximum-score)

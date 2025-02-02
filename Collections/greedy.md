@@ -70,6 +70,7 @@
 * [Maximum element after decreasing and rearranging](../Solutions/M/maximum-element-after-decreasing-and-rearranging)
 * [Maximum ice cream bars](../Solutions/M/maximum-ice-cream-bars)
 * [Maximum length of pair chain](../Solutions/M/maximum-length-of-pair-chain)
+* [Maximum manhattan distance after k changes](../Solutions/M/maximum-manhattan-distance-after-k-changes)
 * [Maximum matching of players with trainer](../Solutions/M/maximum-matching-of-players-with-trainer)
 * [Maximum matrix sum](../Solutions/M/maximum-matrix-sum)
 * [Maximum number of coins you can get](../Solutions/M/maximum-number-of-coins-you-can-get)
