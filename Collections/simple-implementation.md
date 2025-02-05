@@ -24,6 +24,7 @@
 * [Check if grid satisfies conditions](../Solutions/C/check-if-grid-satisfies-conditions)
 * [Check if matrix is x matrix](../Solutions/C/check-if-matrix-is-x-matrix)
 * [Check if number is a sum of powers of three](../Solutions/C/check-if-number-is-a-sum-of-powers-of-three)
+* [Check if one string swap can make strings equal](../Solutions/C/check-if-one-string-swap-can-make-strings-equal)
 * [Check if strings can be made equal with operations i](../Solutions/C/check-if-strings-can-be-made-equal-with-operations-i)
 * [Check if the sentence is pangram](../Solutions/C/check-if-the-sentence-is-pangram)
 * [Check if two chessboard squares have the same color](../Solutions/C/check-if-two-chessboard-squares-have-the-same-color)
