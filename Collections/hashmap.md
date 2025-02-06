@@ -215,6 +215,7 @@
 * [The two sneaky numbers of digitville](../Solutions/T/the-two-sneaky-numbers-of-digitville)
 * [Total characters in string after transformations i](../Solutions/T/total-characters-in-string-after-transformations-i)
 * [Total characters in string after transformations ii](../Solutions/T/total-characters-in-string-after-transformations-ii)
+* [Tuple with same product](../Solutions/T/tuple-with-same-product)
 * [Uncommon words from two sentences](../Solutions/U/uncommon-words-from-two-sentences)
 * [Unique number of occurrences](../Solutions/U/unique-number-of-occurrences)
 
