@@ -1,6 +1,7 @@
 
 # <a id="hashmap">Hashmap</a>
 * [Array of doubled pairs](../Solutions/A/array-of-doubled-pairs)
+* [Assign elements to groups with constraints](../Solutions/A/assign-elements-to-groups-with-constraints)
 * [Binary subarrays with sum](../Solutions/B/binary-subarrays-with-sum)
 * [Brick wall](../Solutions/B/brick-wall)
 * [Check array formation through concatenation](../Solutions/C/check-array-formation-through-concatenation)

@@ -17,6 +17,7 @@
 * [Modify the matrix](../Solutions/M/modify-the-matrix)
 * [Regions cut by slashes](../Solutions/R/regions-cut-by-slashes)
 * [Right triangles](../Solutions/R/right-triangles)
+* [Sort matrix by diagonals](../Solutions/S/sort-matrix-by-diagonals)
 
 ## <a id="geometric-transformation">Geometric transformation</a>
 * [Determine whether matrix can be obtained by rotation](../Solutions/D/determine-whether-matrix-can-be-obtained-by-rotation)

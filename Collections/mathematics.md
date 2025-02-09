@@ -226,6 +226,9 @@
 * [Sum multiples](../Solutions/S/sum-multiples)
 * [The number of beautiful subsets](../Solutions/T/the-number-of-beautiful-subsets)
 
+### <a id="divisibility">Divisibility</a>
+* [Count substrings divisible by last digit](../Solutions/C/count-substrings-divisible-by-last-digit)
+
 ### <a id="dynamic-programming">Dynamic programming</a>
 * [2 keys keyboard](../Solutions/0-9/2-keys-keyboard)
 * [Count the number of square free subsets](../Solutions/C/count-the-number-of-square-free-subsets)
@@ -269,6 +272,7 @@
 
 ### <a id="prime-sieving">Prime sieving</a>
 * [Apply operations to maximize score](../Solutions/A/apply-operations-to-maximize-score)
+* [Assign elements to groups with constraints](../Solutions/A/assign-elements-to-groups-with-constraints)
 * [Closest prime numbers in range](../Solutions/C/closest-prime-numbers-in-range)
 * [Count connected components in lcm graph](../Solutions/C/count-connected-components-in-lcm-graph)
 * [Count primes](../Solutions/C/count-primes)

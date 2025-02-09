@@ -60,6 +60,7 @@
 * [Maximize happiness of selected children](../Solutions/M/maximize-happiness-of-selected-children)
 * [Maximize score of numbers in ranges](../Solutions/M/maximize-score-of-numbers-in-ranges)
 * [Maximize sum of weights after edge removals](../Solutions/M/maximize-sum-of-weights-after-edge-removals)
+* [Maximize the minimum game score](../Solutions/M/maximize-the-minimum-game-score)
 * [Maximize the minimum powered city](../Solutions/M/maximize-the-minimum-powered-city)
 * [Maximize the number of target nodes after connecting trees i](../Solutions/M/maximize-the-number-of-target-nodes-after-connecting-trees-i)
 * [Maximize the total height of unique towers](../Solutions/M/maximize-the-total-height-of-unique-towers)

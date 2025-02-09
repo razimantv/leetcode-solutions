@@ -15,6 +15,7 @@
 * [Count number of ways to place houses](../Solutions/C/count-number-of-ways-to-place-houses)
 * [Count palindromic subsequences](../Solutions/C/count-palindromic-subsequences)
 * [Count square submatrices with all ones](../Solutions/C/count-square-submatrices-with-all-ones)
+* [Count substrings divisible by last digit](../Solutions/C/count-substrings-divisible-by-last-digit)
 * [Count unique characters of all substrings of a given string](../Solutions/C/count-unique-characters-of-all-substrings-of-a-given-string)
 * [Count vowels permutation](../Solutions/C/count-vowels-permutation)
 * [Count ways to build good strings](../Solutions/C/count-ways-to-build-good-strings)

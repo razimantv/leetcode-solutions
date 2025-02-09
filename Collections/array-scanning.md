@@ -10,6 +10,7 @@
 * [Find valid pair of adjacent digits in string](../Solutions/F/find-valid-pair-of-adjacent-digits-in-string)
 * [Kth distinct string in an array](../Solutions/K/kth-distinct-string-in-an-array)
 * [Max chunks to make sorted](../Solutions/M/max-chunks-to-make-sorted)
+* [Maximize the minimum game score](../Solutions/M/maximize-the-minimum-game-score)
 * [Maximum enemy forts that can be captured](../Solutions/M/maximum-enemy-forts-that-can-be-captured)
 * [Maximum number of distinct elements after operations](../Solutions/M/maximum-number-of-distinct-elements-after-operations)
 * [Maximum subarray sum with length divisible by k](../Solutions/M/maximum-subarray-sum-with-length-divisible-by-k)
