@@ -100,6 +100,7 @@
 * [Number of good leaf nodes pairs](../Solutions/N/number-of-good-leaf-nodes-pairs)
 * [Number of ways to split array](../Solutions/N/number-of-ways-to-split-array)
 * [Palindrome rearrangement queries](../Solutions/P/palindrome-rearrangement-queries)
+* [Product of the last k numbers](../Solutions/P/product-of-the-last-k-numbers)
 * [Random pick with weight](../Solutions/R/random-pick-with-weight)
 * [Random point in non overlapping rectangles](../Solutions/R/random-point-in-non-overlapping-rectangles)
 * [Range sum of sorted subarray sums](../Solutions/R/range-sum-of-sorted-subarray-sums)
