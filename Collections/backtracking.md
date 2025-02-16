@@ -5,6 +5,7 @@
 * [Beautiful arrangement](../Solutions/B/beautiful-arrangement)
 * [Combination sum](../Solutions/C/combination-sum)
 * [Combination sum iii](../Solutions/C/combination-sum-iii)
+* [Construct the lexicographically largest valid sequence](../Solutions/C/construct-the-lexicographically-largest-valid-sequence)
 * [Expression add operators](../Solutions/E/expression-add-operators)
 * [Find the punishment number of an integer](../Solutions/F/find-the-punishment-number-of-an-integer)
 * [Generate parentheses](../Solutions/G/generate-parentheses)

@@ -8,6 +8,7 @@
 * [Check distances between same letters](../Solutions/C/check-distances-between-same-letters)
 * [Cinema seat allocation](../Solutions/C/cinema-seat-allocation)
 * [Clone graph](../Solutions/C/clone-graph)
+* [Construct the lexicographically largest valid sequence](../Solutions/C/construct-the-lexicographically-largest-valid-sequence)
 * [Contains duplicate ii](../Solutions/C/contains-duplicate-ii)
 * [Contiguous array](../Solutions/C/contiguous-array)
 * [Continuous subarray sum](../Solutions/C/continuous-subarray-sum)
