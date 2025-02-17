@@ -9,6 +9,7 @@
 * [Expression add operators](../Solutions/E/expression-add-operators)
 * [Find the punishment number of an integer](../Solutions/F/find-the-punishment-number-of-an-integer)
 * [Generate parentheses](../Solutions/G/generate-parentheses)
+* [Letter tile possibilities](../Solutions/L/letter-tile-possibilities)
 * [Lexicographical numbers](../Solutions/L/lexicographical-numbers)
 * [Maximum number of groups getting fresh donuts](../Solutions/M/maximum-number-of-groups-getting-fresh-donuts)
 * [Maximum score words formed by letters](../Solutions/M/maximum-score-words-formed-by-letters)

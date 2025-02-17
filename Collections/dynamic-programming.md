@@ -297,6 +297,7 @@
 * [Course schedule iv](../Solutions/C/course-schedule-iv)
 * [Different ways to add parentheses](../Solutions/D/different-ways-to-add-parentheses)
 * [Find the minimum cost array permutation](../Solutions/F/find-the-minimum-cost-array-permutation)
+* [Letter tile possibilities](../Solutions/L/letter-tile-possibilities)
 * [Maximum number of moves to kill all pawns](../Solutions/M/maximum-number-of-moves-to-kill-all-pawns)
 * [Maximum number of operations with the same score ii](../Solutions/M/maximum-number-of-operations-with-the-same-score-ii)
 * [Minimum cost to merge stones](../Solutions/M/minimum-cost-to-merge-stones)
