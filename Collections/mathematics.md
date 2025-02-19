@@ -48,6 +48,7 @@
 * [Sell diminishing valued colored balls](../Solutions/S/sell-diminishing-valued-colored-balls)
 * [Sorted gcd pair queries](../Solutions/S/sorted-gcd-pair-queries)
 * [Subsequences with a unique middle mode i](../Solutions/S/subsequences-with-a-unique-middle-mode-i)
+* [The k th lexicographical string of all happy strings of length n](../Solutions/T/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n)
 * [Tuple with same product](../Solutions/T/tuple-with-same-product)
 
 ## <a id="combinatorics">Combinatorics</a>
@@ -116,6 +117,7 @@
 * [Right triangles](../Solutions/R/right-triangles)
 * [Sum of digit differences of all pairs](../Solutions/S/sum-of-digit-differences-of-all-pairs)
 * [Sum of good subsequences](../Solutions/S/sum-of-good-subsequences)
+* [The k th lexicographical string of all happy strings of length n](../Solutions/T/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n)
 * [The number of beautiful subsets](../Solutions/T/the-number-of-beautiful-subsets)
 * [Tuple with same product](../Solutions/T/tuple-with-same-product)
 * [Ways to split array into good subarrays](../Solutions/W/ways-to-split-array-into-good-subarrays)
