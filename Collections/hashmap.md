@@ -40,6 +40,7 @@
 * [Evaluate the bracket pairs of a string](../Solutions/E/evaluate-the-bracket-pairs-of-a-string)
 * [Extra characters in a string](../Solutions/E/extra-characters-in-a-string)
 * [Find duplicate file in system](../Solutions/F/find-duplicate-file-in-system)
+* [Find elements in a contaminated binary tree](../Solutions/F/find-elements-in-a-contaminated-binary-tree)
 * [Find longest special substring that occurs thrice i](../Solutions/F/find-longest-special-substring-that-occurs-thrice-i)
 * [Find longest special substring that occurs thrice ii](../Solutions/F/find-longest-special-substring-that-occurs-thrice-ii)
 * [Find maximum number of string pairs](../Solutions/F/find-maximum-number-of-string-pairs)

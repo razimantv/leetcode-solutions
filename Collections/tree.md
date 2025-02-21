@@ -72,6 +72,7 @@
 * [Find a corresponding node of a binary tree in a clone of that tree](../Solutions/F/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree)
 * [Find bottom left tree value](../Solutions/F/find-bottom-left-tree-value)
 * [Find duplicate subtrees](../Solutions/F/find-duplicate-subtrees)
+* [Find elements in a contaminated binary tree](../Solutions/F/find-elements-in-a-contaminated-binary-tree)
 * [Find largest value in each tree row](../Solutions/F/find-largest-value-in-each-tree-row)
 * [Find mode in binary search tree](../Solutions/F/find-mode-in-binary-search-tree)
 * [Flatten binary tree to linked list](../Solutions/F/flatten-binary-tree-to-linked-list)
