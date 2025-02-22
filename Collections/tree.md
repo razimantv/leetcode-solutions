@@ -29,6 +29,7 @@
 * [Make costs of paths equal in a binary tree](../Solutions/M/make-costs-of-paths-equal-in-a-binary-tree)
 * [Maximum level sum of a binary tree](../Solutions/M/maximum-level-sum-of-a-binary-tree)
 * [Populating next right pointers in each node ii](../Solutions/P/populating-next-right-pointers-in-each-node-ii)
+* [Recover a tree from preorder traversal](../Solutions/R/recover-a-tree-from-preorder-traversal)
 
 ### <a id="recursion">Recursion</a>
 * [Add one row to tree](../Solutions/A/add-one-row-to-tree)

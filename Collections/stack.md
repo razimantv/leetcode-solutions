@@ -9,6 +9,7 @@
 * [Maximum employees to be invited to a meeting](../Solutions/M/maximum-employees-to-be-invited-to-a-meeting)
 * [Maximum score from removing substrings](../Solutions/M/maximum-score-from-removing-substrings)
 * [Min stack](../Solutions/M/min-stack)
+* [Recover a tree from preorder traversal](../Solutions/R/recover-a-tree-from-preorder-traversal)
 * [Removing stars from a string](../Solutions/R/removing-stars-from-a-string)
 
 ## <a id="depth-first-search">Depth first search</a>
