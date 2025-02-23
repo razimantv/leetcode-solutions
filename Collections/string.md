@@ -24,6 +24,7 @@
 * [Length of last word](../Solutions/L/length-of-last-word)
 * [Minimum cost to change the final value of expression](../Solutions/M/minimum-cost-to-change-the-final-value-of-expression)
 * [Number of different integers in a string](../Solutions/N/number-of-different-integers-in-a-string)
+* [Recover a tree from preorder traversal](../Solutions/R/recover-a-tree-from-preorder-traversal)
 * [Reverse words in a string iii](../Solutions/R/reverse-words-in-a-string-iii)
 * [Reward top k students](../Solutions/R/reward-top-k-students)
 * [Split message based on limit](../Solutions/S/split-message-based-on-limit)

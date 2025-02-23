@@ -39,3 +39,4 @@ class Solution:
 
 * [Tree](/Collections/tree.md#tree) > [Binary tree](/Collections/tree.md#binary-tree) > [Iteration](/Collections/tree.md#iteration)
 * [Stack](/Collections/stack.md#stack)
+* [String](/Collections/string.md#string) > [Parsing](/Collections/string.md#parsing)
