@@ -106,6 +106,7 @@
 * [Number of good paths](../Solutions/N/number-of-good-paths)
 * [Number of music playlists](../Solutions/N/number-of-music-playlists)
 * [Number of strings which can be rearranged to contain substring](../Solutions/N/number-of-strings-which-can-be-rearranged-to-contain-substring)
+* [Number of sub arrays with odd sum](../Solutions/N/number-of-sub-arrays-with-odd-sum)
 * [Number of subsequences that satisfy the given sum condition](../Solutions/N/number-of-subsequences-that-satisfy-the-given-sum-condition)
 * [Number of ways to divide a long corridor](../Solutions/N/number-of-ways-to-divide-a-long-corridor)
 * [Number of ways to reach a position after exactly k steps](../Solutions/N/number-of-ways-to-reach-a-position-after-exactly-k-steps)
@@ -306,6 +307,7 @@
 * [Maximum difference between even and odd frequency ii](../Solutions/M/maximum-difference-between-even-and-odd-frequency-ii)
 * [Minimum number of flips to make binary grid palindromic ii](../Solutions/M/minimum-number-of-flips-to-make-binary-grid-palindromic-ii)
 * [Minimum reverse operations](../Solutions/M/minimum-reverse-operations)
+* [Number of sub arrays with odd sum](../Solutions/N/number-of-sub-arrays-with-odd-sum)
 
 ## <a id="physics-observation">Physics observation</a>
 * [Last moment before all ants fall out of a plank](../Solutions/L/last-moment-before-all-ants-fall-out-of-a-plank)

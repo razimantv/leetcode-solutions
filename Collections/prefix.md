@@ -98,6 +98,7 @@
 * [Minimum value to get positive step by step sum](../Solutions/M/minimum-value-to-get-positive-step-by-step-sum)
 * [Movement of robots](../Solutions/M/movement-of-robots)
 * [Number of good leaf nodes pairs](../Solutions/N/number-of-good-leaf-nodes-pairs)
+* [Number of sub arrays with odd sum](../Solutions/N/number-of-sub-arrays-with-odd-sum)
 * [Number of ways to split array](../Solutions/N/number-of-ways-to-split-array)
 * [Palindrome rearrangement queries](../Solutions/P/palindrome-rearrangement-queries)
 * [Product of the last k numbers](../Solutions/P/product-of-the-last-k-numbers)
