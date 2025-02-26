@@ -70,6 +70,7 @@
 * [Make sum divisible by p](../Solutions/M/make-sum-divisible-by-p)
 * [Max sum of rectangle no larger than k](../Solutions/M/max-sum-of-rectangle-no-larger-than-k)
 * [Maximal rectangle](../Solutions/M/maximal-rectangle)
+* [Maximum absolute sum of any subarray](../Solutions/M/maximum-absolute-sum-of-any-subarray)
 * [Maximum difference between even and odd frequency ii](../Solutions/M/maximum-difference-between-even-and-odd-frequency-ii)
 * [Maximum frequency after subarray operation](../Solutions/M/maximum-frequency-after-subarray-operation)
 * [Maximum good subarray sum](../Solutions/M/maximum-good-subarray-sum)
