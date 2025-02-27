@@ -70,6 +70,7 @@
 * [Jewels and stones](../Solutions/J/jewels-and-stones)
 * [K diff pairs in an array](../Solutions/K/k-diff-pairs-in-an-array)
 * [Largest positive integer that exists with its negative](../Solutions/L/largest-positive-integer-that-exists-with-its-negative)
+* [Length of longest fibonacci subsequence](../Solutions/L/length-of-longest-fibonacci-subsequence)
 * [Length of longest subarray with at most k frequency](../Solutions/L/length-of-longest-subarray-with-at-most-k-frequency)
 * [Lexicographically minimum string after removing stars](../Solutions/L/lexicographically-minimum-string-after-removing-stars)
 * [Longest arithmetic subsequence of given difference](../Solutions/L/longest-arithmetic-subsequence-of-given-difference)

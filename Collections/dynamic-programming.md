@@ -297,6 +297,7 @@
 * [Course schedule iv](../Solutions/C/course-schedule-iv)
 * [Different ways to add parentheses](../Solutions/D/different-ways-to-add-parentheses)
 * [Find the minimum cost array permutation](../Solutions/F/find-the-minimum-cost-array-permutation)
+* [Length of longest fibonacci subsequence](../Solutions/L/length-of-longest-fibonacci-subsequence)
 * [Letter tile possibilities](../Solutions/L/letter-tile-possibilities)
 * [Maximum number of moves to kill all pawns](../Solutions/M/maximum-number-of-moves-to-kill-all-pawns)
 * [Maximum number of operations with the same score ii](../Solutions/M/maximum-number-of-operations-with-the-same-score-ii)
