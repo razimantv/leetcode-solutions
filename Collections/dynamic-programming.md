@@ -276,6 +276,7 @@
 * [Max dot product of two subsequences](../Solutions/M/max-dot-product-of-two-subsequences)
 * [Maximum length of repeated subarray](../Solutions/M/maximum-length-of-repeated-subarray)
 * [Minimum ascii delete sum for two strings](../Solutions/M/minimum-ascii-delete-sum-for-two-strings)
+* [Shortest common supersequence](../Solutions/S/shortest-common-supersequence)
 
 ## <a id="longest-increasing-subsequence">Longest increasing subsequence</a>
 * [Find the longest valid obstacle course at each position](../Solutions/F/find-the-longest-valid-obstacle-course-at-each-position)
@@ -310,6 +311,7 @@
 * [Partition to k equal sum subsets](../Solutions/P/partition-to-k-equal-sum-subsets)
 * [Predict the winner](../Solutions/P/predict-the-winner)
 * [Select cells in grid with maximum score](../Solutions/S/select-cells-in-grid-with-maximum-score)
+* [Shortest common supersequence](../Solutions/S/shortest-common-supersequence)
 
 ## <a id="monotonic-stack-deque">Monotonic stack/deque</a>
 * [Find maximum non decreasing array length](../Solutions/F/find-maximum-non-decreasing-array-length)
@@ -329,6 +331,7 @@
 * [Longest unequal adjacent groups subsequence ii](../Solutions/L/longest-unequal-adjacent-groups-subsequence-ii)
 * [Maximum sum of 3 non overlapping subarrays](../Solutions/M/maximum-sum-of-3-non-overlapping-subarrays)
 * [Minimum cost good caption](../Solutions/M/minimum-cost-good-caption)
+* [Shortest common supersequence](../Solutions/S/shortest-common-supersequence)
 
 ## <a id="segment-tree">Segment tree</a>
 * [Count increasing quadruplets](../Solutions/C/count-increasing-quadruplets)
