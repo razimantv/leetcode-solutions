@@ -23,6 +23,7 @@
 * [Minimum right shifts to sort the array](../Solutions/M/minimum-right-shifts-to-sort-the-array)
 * [Monotonic array](../Solutions/M/monotonic-array)
 * [Number of laser beams in a bank](../Solutions/N/number-of-laser-beams-in-a-bank)
+* [Partition array according to given pivot](../Solutions/P/partition-array-according-to-given-pivot)
 * [Reach end of array with max score](../Solutions/R/reach-end-of-array-with-max-score)
 * [Remove colored pieces if both neighbors are the same color](../Solutions/R/remove-colored-pieces-if-both-neighbors-are-the-same-color)
 * [Separate black and white balls](../Solutions/S/separate-black-and-white-balls)
