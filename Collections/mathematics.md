@@ -108,6 +108,7 @@
 * [Number of strings which can be rearranged to contain substring](../Solutions/N/number-of-strings-which-can-be-rearranged-to-contain-substring)
 * [Number of sub arrays with odd sum](../Solutions/N/number-of-sub-arrays-with-odd-sum)
 * [Number of subsequences that satisfy the given sum condition](../Solutions/N/number-of-subsequences-that-satisfy-the-given-sum-condition)
+* [Number of substrings containing all three characters](../Solutions/N/number-of-substrings-containing-all-three-characters)
 * [Number of ways to divide a long corridor](../Solutions/N/number-of-ways-to-divide-a-long-corridor)
 * [Number of ways to reach a position after exactly k steps](../Solutions/N/number-of-ways-to-reach-a-position-after-exactly-k-steps)
 * [Number of ways to rearrange sticks with k sticks visible](../Solutions/N/number-of-ways-to-rearrange-sticks-with-k-sticks-visible)
