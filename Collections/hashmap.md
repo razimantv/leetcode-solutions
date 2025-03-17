@@ -176,6 +176,7 @@
 * [Count substrings that can be rearranged to contain a string ii](../Solutions/C/count-substrings-that-can-be-rearranged-to-contain-a-string-ii)
 * [Count substrings with k frequency characters i](../Solutions/C/count-substrings-with-k-frequency-characters-i)
 * [Divide array in sets of k consecutive numbers](../Solutions/D/divide-array-in-sets-of-k-consecutive-numbers)
+* [Divide array into equal pairs](../Solutions/D/divide-array-into-equal-pairs)
 * [Find common characters](../Solutions/F/find-common-characters)
 * [Find the count of good integers](../Solutions/F/find-the-count-of-good-integers)
 * [Find the maximum number of elements in subset](../Solutions/F/find-the-maximum-number-of-elements-in-subset)
