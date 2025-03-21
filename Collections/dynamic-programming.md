@@ -297,6 +297,7 @@
 * [Count number of balanced permutations](../Solutions/C/count-number-of-balanced-permutations)
 * [Course schedule iv](../Solutions/C/course-schedule-iv)
 * [Different ways to add parentheses](../Solutions/D/different-ways-to-add-parentheses)
+* [Find all possible recipes from given supplies](../Solutions/F/find-all-possible-recipes-from-given-supplies)
 * [Find the minimum cost array permutation](../Solutions/F/find-the-minimum-cost-array-permutation)
 * [Length of longest fibonacci subsequence](../Solutions/L/length-of-longest-fibonacci-subsequence)
 * [Letter tile possibilities](../Solutions/L/letter-tile-possibilities)

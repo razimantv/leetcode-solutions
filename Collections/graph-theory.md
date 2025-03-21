@@ -76,6 +76,7 @@
 * [Detect cycles in 2d grid](../Solutions/D/detect-cycles-in-2d-grid)
 * [Difference between maximum and minimum price sum](../Solutions/D/difference-between-maximum-and-minimum-price-sum)
 * [Employee importance](../Solutions/E/employee-importance)
+* [Find all possible recipes from given supplies](../Solutions/F/find-all-possible-recipes-from-given-supplies)
 * [Find if path exists in graph](../Solutions/F/find-if-path-exists-in-graph)
 * [Find number of coins to place in tree nodes](../Solutions/F/find-number-of-coins-to-place-in-tree-nodes)
 * [Find subtree sizes after changes](../Solutions/F/find-subtree-sizes-after-changes)
