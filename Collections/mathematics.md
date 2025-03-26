@@ -172,6 +172,7 @@
 ## <a id="median">Median</a>
 * [Apply operations to maximize frequency score](../Solutions/A/apply-operations-to-maximize-frequency-score)
 * [Minimum cost to make array equalindromic](../Solutions/M/minimum-cost-to-make-array-equalindromic)
+* [Minimum operations to make a uni value grid](../Solutions/M/minimum-operations-to-make-a-uni-value-grid)
 * [Minimum operations to make median of array equal to k](../Solutions/M/minimum-operations-to-make-median-of-array-equal-to-k)
 
 ## <a id="number-theory">Number theory</a>
@@ -215,6 +216,7 @@
 * [Minimum deletions to make array divisible](../Solutions/M/minimum-deletions-to-make-array-divisible)
 * [Minimum number of groups to create a valid assignment](../Solutions/M/minimum-number-of-groups-to-create-a-valid-assignment)
 * [Minimum number of operations to make all array elements equal to 1](../Solutions/M/minimum-number-of-operations-to-make-all-array-elements-equal-to-1)
+* [Minimum operations to make a uni value grid](../Solutions/M/minimum-operations-to-make-a-uni-value-grid)
 * [Minimum rounds to complete all tasks](../Solutions/M/minimum-rounds-to-complete-all-tasks)
 * [Mirror reflection](../Solutions/M/mirror-reflection)
 * [Most frequent prime](../Solutions/M/most-frequent-prime)
