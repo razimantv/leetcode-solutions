@@ -48,6 +48,7 @@
 * [Count subarrays with score less than k](../Solutions/C/count-subarrays-with-score-less-than-k)
 * [Count substrings that satisfy k constraint ii](../Solutions/C/count-substrings-that-satisfy-k-constraint-ii)
 * [Count tested devices after test operations](../Solutions/C/count-tested-devices-after-test-operations)
+* [Count the hidden sequences](../Solutions/C/count-the-hidden-sequences)
 * [Count the number of inversions](../Solutions/C/count-the-number-of-inversions)
 * [Count vowel strings in ranges](../Solutions/C/count-vowel-strings-in-ranges)
 * [Defuse the bomb](../Solutions/D/defuse-the-bomb)
