@@ -164,6 +164,7 @@
 * [Construct string with repeat limit](../Solutions/C/construct-string-with-repeat-limit)
 * [Count almost equal pairs ii](../Solutions/C/count-almost-equal-pairs-ii)
 * [Count elements with maximum frequency](../Solutions/C/count-elements-with-maximum-frequency)
+* [Count largest group](../Solutions/C/count-largest-group)
 * [Count number of balanced permutations](../Solutions/C/count-number-of-balanced-permutations)
 * [Count of substrings containing every vowel and k consonants i](../Solutions/C/count-of-substrings-containing-every-vowel-and-k-consonants-i)
 * [Count of substrings containing every vowel and k consonants ii](../Solutions/C/count-of-substrings-containing-every-vowel-and-k-consonants-ii)
