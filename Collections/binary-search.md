@@ -111,5 +111,6 @@
 
 ## <a id="python-sortedlist">Python SortedList</a>
 * [Alternating groups iii](../Solutions/A/alternating-groups-iii)
+* [Maximum number of tasks you can assign](../Solutions/M/maximum-number-of-tasks-you-can-assign)
 * [Maximum total reward using operations i](../Solutions/M/maximum-total-reward-using-operations-i)
 * [Maximum total reward using operations ii](../Solutions/M/maximum-total-reward-using-operations-ii)
