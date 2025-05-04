@@ -210,6 +210,7 @@
 * [Minimum operations to make character frequencies equal](../Solutions/M/minimum-operations-to-make-character-frequencies-equal)
 * [Minimum operations to write the letter y on a grid](../Solutions/M/minimum-operations-to-write-the-letter-y-on-a-grid)
 * [Minimum substring partition of equal character frequency](../Solutions/M/minimum-substring-partition-of-equal-character-frequency)
+* [Number of equivalent domino pairs](../Solutions/N/number-of-equivalent-domino-pairs)
 * [Number of students unable to eat lunch](../Solutions/N/number-of-students-unable-to-eat-lunch)
 * [Number of sub arrays with odd sum](../Solutions/N/number-of-sub-arrays-with-odd-sum)
 * [Number of valid words for each puzzle](../Solutions/N/number-of-valid-words-for-each-puzzle)
