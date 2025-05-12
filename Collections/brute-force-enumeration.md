@@ -1,5 +1,6 @@
 
 # <a id="brute-force-enumeration">Brute force enumeration</a>
+* [Finding 3 digit even numbers](../Solutions/F/finding-3-digit-even-numbers)
 * [Minimum time to break locks i](../Solutions/M/minimum-time-to-break-locks-i)
 
 ## <a id="combinatorial">Combinatorial</a>
