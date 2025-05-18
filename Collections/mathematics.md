@@ -115,6 +115,7 @@
 * [Number of ways to reach a position after exactly k steps](../Solutions/N/number-of-ways-to-reach-a-position-after-exactly-k-steps)
 * [Number of ways to rearrange sticks with k sticks visible](../Solutions/N/number-of-ways-to-rearrange-sticks-with-k-sticks-visible)
 * [Number of ways to reorder array to get same bst](../Solutions/N/number-of-ways-to-reorder-array-to-get-same-bst)
+* [Painting a grid with three different colors](../Solutions/P/painting-a-grid-with-three-different-colors)
 * [Permutation sequence](../Solutions/P/permutation-sequence)
 * [Power of heroes](../Solutions/P/power-of-heroes)
 * [Probability of a two boxes having the same number of distinct balls](../Solutions/P/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls)

@@ -33,3 +33,4 @@
 * [Letter tile possibilities](../Solutions/L/letter-tile-possibilities)
 * [Minimum number of flips to convert binary matrix to zero matrix](../Solutions/M/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix)
 * [Numbers with same consecutive differences](../Solutions/N/numbers-with-same-consecutive-differences)
+* [Painting a grid with three different colors](../Solutions/P/painting-a-grid-with-three-different-colors)
