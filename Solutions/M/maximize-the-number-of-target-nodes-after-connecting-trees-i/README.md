@@ -33,6 +33,7 @@ class Solution:
         cnt1 = distances(n1, adj1, k)
         cnt2max = max(distances(n2, adj2, k - 1))
         return [x + cnt2max for x in cnt1]
+# https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/
 ```
 ## Tags
 

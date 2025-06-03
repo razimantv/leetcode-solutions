@@ -89,6 +89,7 @@
 * [Maximize amount after two days of conversions](../Solutions/M/maximize-amount-after-two-days-of-conversions)
 * [Maximize sum of weights after edge removals](../Solutions/M/maximize-sum-of-weights-after-edge-removals)
 * [Maximize the number of target nodes after connecting trees i](../Solutions/M/maximize-the-number-of-target-nodes-after-connecting-trees-i)
+* [Maximum candies you can get from boxes](../Solutions/M/maximum-candies-you-can-get-from-boxes)
 * [Maximum employees to be invited to a meeting](../Solutions/M/maximum-employees-to-be-invited-to-a-meeting)
 * [Maximum number of k divisible components](../Solutions/M/maximum-number-of-k-divisible-components)
 * [Maximum points after collecting coins from all nodes](../Solutions/M/maximum-points-after-collecting-coins-from-all-nodes)
