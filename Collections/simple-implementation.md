@@ -58,6 +58,7 @@
 * [Distribute candies](../Solutions/D/distribute-candies)
 * [Distribute candies to people](../Solutions/D/distribute-candies-to-people)
 * [Distribute elements into two arrays i](../Solutions/D/distribute-elements-into-two-arrays-i)
+* [Divide a string into groups of size k](../Solutions/D/divide-a-string-into-groups-of-size-k)
 * [Divisible and non divisible sums difference](../Solutions/D/divisible-and-non-divisible-sums-difference)
 * [Duplicate zeros](../Solutions/D/duplicate-zeros)
 * [Excel sheet column number](../Solutions/E/excel-sheet-column-number)
