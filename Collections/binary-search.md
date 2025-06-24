@@ -11,6 +11,7 @@
 * [Dungeon game](../Solutions/D/dungeon-game)
 * [Earliest second to mark indices i](../Solutions/E/earliest-second-to-mark-indices-i)
 * [Earliest second to mark indices ii](../Solutions/E/earliest-second-to-mark-indices-ii)
+* [Find all k distant indices in an array](../Solutions/F/find-all-k-distant-indices-in-an-array)
 * [Find building where alice and bob can meet](../Solutions/F/find-building-where-alice-and-bob-can-meet)
 * [Find first and last position of element in sorted array](../Solutions/F/find-first-and-last-position-of-element-in-sorted-array)
 * [Find in mountain array](../Solutions/F/find-in-mountain-array)

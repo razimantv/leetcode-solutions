@@ -6,6 +6,7 @@
 * [Counting bits](../Solutions/C/counting-bits)
 * [Element appearing more than 25 in sorted array](../Solutions/E/element-appearing-more-than-25-in-sorted-array)
 * [Extra characters in a string](../Solutions/E/extra-characters-in-a-string)
+* [Find all k distant indices in an array](../Solutions/F/find-all-k-distant-indices-in-an-array)
 * [Find all numbers disappeared in an array](../Solutions/F/find-all-numbers-disappeared-in-an-array)
 * [Find the duplicate number](../Solutions/F/find-the-duplicate-number)
 * [Flatten nested list iterator](../Solutions/F/flatten-nested-list-iterator)
