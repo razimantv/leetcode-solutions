@@ -32,6 +32,7 @@
 * [Invalid transactions](../Solutions/I/invalid-transactions)
 * [K radius subarray averages](../Solutions/K/k-radius-subarray-averages)
 * [K th smallest prime fraction](../Solutions/K/k-th-smallest-prime-fraction)
+* [Kth smallest product of two sorted arrays](../Solutions/K/kth-smallest-product-of-two-sorted-arrays)
 * [Length of longest subarray with at most k frequency](../Solutions/L/length-of-longest-subarray-with-at-most-k-frequency)
 * [Longest continuous subarray with absolute diff less than or equal to limit](../Solutions/L/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit)
 * [Longest duplicate substring](../Solutions/L/longest-duplicate-substring)

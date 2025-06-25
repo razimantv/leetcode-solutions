@@ -37,6 +37,7 @@
 * [Kth smallest amount with single denomination combination](../Solutions/K/kth-smallest-amount-with-single-denomination-combination)
 * [Kth smallest element in a sorted matrix](../Solutions/K/kth-smallest-element-in-a-sorted-matrix)
 * [Kth smallest number in multiplication table](../Solutions/K/kth-smallest-number-in-multiplication-table)
+* [Kth smallest product of two sorted arrays](../Solutions/K/kth-smallest-product-of-two-sorted-arrays)
 * [Length of the longest increasing path](../Solutions/L/length-of-the-longest-increasing-path)
 * [Longest palindromic substring](../Solutions/L/longest-palindromic-substring)
 * [Longest subsequence with limited sum](../Solutions/L/longest-subsequence-with-limited-sum)
