@@ -86,6 +86,7 @@
 * [Find the lexicographically smallest valid sequence](../Solutions/F/find-the-lexicographically-smallest-valid-sequence)
 * [Is subsequence](../Solutions/I/is-subsequence)
 * [Longest common subsequence](../Solutions/L/longest-common-subsequence)
+* [Longest subsequence repeated k times](../Solutions/L/longest-subsequence-repeated-k-times)
 * [Longest uncommon subsequence ii](../Solutions/L/longest-uncommon-subsequence-ii)
 * [Longest word in dictionary through deleting](../Solutions/L/longest-word-in-dictionary-through-deleting)
 * [Make string a subsequence using cyclic increments](../Solutions/M/make-string-a-subsequence-using-cyclic-increments)

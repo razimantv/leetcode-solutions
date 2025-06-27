@@ -191,6 +191,7 @@
 * [Kth distinct string in an array](../Solutions/K/kth-distinct-string-in-an-array)
 * [Largest combination with bitwise and greater than zero](../Solutions/L/largest-combination-with-bitwise-and-greater-than-zero)
 * [Least number of unique integers after k removals](../Solutions/L/least-number-of-unique-integers-after-k-removals)
+* [Longest subsequence repeated k times](../Solutions/L/longest-subsequence-repeated-k-times)
 * [Maximum difference between even and odd frequency i](../Solutions/M/maximum-difference-between-even-and-odd-frequency-i)
 * [Maximum frequency after subarray operation](../Solutions/M/maximum-frequency-after-subarray-operation)
 * [Maximum length substring with two occurrences](../Solutions/M/maximum-length-substring-with-two-occurrences)
