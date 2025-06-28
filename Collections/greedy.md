@@ -26,6 +26,7 @@
 * [Final array state after k multiplication operations ii](../Solutions/F/final-array-state-after-k-multiplication-operations-ii)
 * [Find minimum diameter after merging two trees](../Solutions/F/find-minimum-diameter-after-merging-two-trees)
 * [Find polygon with the largest perimeter](../Solutions/F/find-polygon-with-the-largest-perimeter)
+* [Find subsequence of length k with the largest sum](../Solutions/F/find-subsequence-of-length-k-with-the-largest-sum)
 * [Find the largest palindrome divisible by k](../Solutions/F/find-the-largest-palindrome-divisible-by-k)
 * [Find the lexicographically largest string from the box i](../Solutions/F/find-the-lexicographically-largest-string-from-the-box-i)
 * [Find the lexicographically smallest valid sequence](../Solutions/F/find-the-lexicographically-smallest-valid-sequence)
