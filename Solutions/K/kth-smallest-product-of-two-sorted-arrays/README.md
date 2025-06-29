@@ -2,6 +2,55 @@
 
 [Problem link](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/)
 
+## Observations
+
+- The problem asks for the k-th smallest product of pairs of numbers, one from each of two sorted arrays.
+- The arrays can contain positive, negative, and zero values, which complicates the ordering of products.
+- A brute-force approach of generating all `m * n` products and sorting them would be too slow (`O(mn log(mn))`).
+- The range of possible products is large, from `-10^10` to `10^10`. This suggests that we can binary search on the *value* of the product.
+
+## Algorithm
+
+The core idea is to binary search for the k-th smallest product. For a given value `mid`, we need an efficient way to count how many products `nums1[i] * nums2[j]` are less than or equal to `mid`.
+
+1.  **Partitioning by Sign**:
+    -   The signs of the numbers are critical. The product of two numbers is positive if both have the same sign, and negative if they have different signs.
+    -   The `signs` helper function partitions each input array into three groups: negative numbers (`N`), positive numbers (`P`), and zeros. The negative numbers are reversed to be in increasing order of their absolute values.
+
+2.  **Counting Products (`count` function)**:
+    -   This function counts how many products of elements from two arrays (`ar1`, `ar2`) are less than or equal to a `limit`.
+    -   It uses a two-pointer approach. For each element `x` in `ar1`, it finds how many elements `y` in `ar2` satisfy `x * y <= limit`. Since both arrays are sorted by value (or absolute value), this can be done in linear time for all `x`.
+
+3.  **Categorizing Products**:
+    -   The algorithm first calculates the total number of negative, zero, and positive products.
+    -   `negs = n1 * p2 + p1 * n2` (negative * positive)
+    -   `zeros = z1 * m2 + z2 * m1 - z1 * z2` (zero * anything)
+    -   `pos = n1 * n2 + p1 * p2` (negative * negative or positive * positive)
+
+4.  **Binary Search (`work` function)**:
+    -   The `work` function performs a binary search to find the k-th smallest *positive* product. It's used for both the negative and positive cases, with a trick for the negative case.
+    -   It searches for a value `mid` in the range `[0, 10^10]`.
+    -   In each step, it counts how many products are less than or equal to `mid` and adjusts the search range (`start`, `end`) accordingly.
+
+5.  **Main Logic**:
+    -   **Case 1: k-th product is negative.**
+        -   If `k` is less than or equal to the total count of negative products (`negs`), the answer is a negative number.
+        -   To find the k-th smallest negative number, we can find the `(negs - k + 1)`-th *largest* negative number. This is equivalent to finding the `(negs - k + 1)`-th smallest *absolute value* among the negative products.
+        -   We use the `work` function on the absolute values of the numbers that produce negative products (`N1` with `P2`, `P1` with `N2`) and then negate the result.
+    -   **Case 2: k-th product is zero.**
+        -   If `k` falls within the range of zero products, the answer is `0`.
+    -   **Case 3: k-th product is positive.**
+        -   If `k` is greater than the count of negative and zero products, the answer is a positive number.
+        -   We adjust `k` by subtracting the counts of negative and zero products.
+        -   We use the `work` function on the numbers that produce positive products (`N1` with `N2`, `P1` with `P2`) to find the k-th smallest positive product.
+
+## Complexity
+
+-   **Time Complexity**: `O((m + n) * log(C))`, where `m` and `n` are the lengths of the arrays and `C` is the range of possible product values (around `2 * 10^10`).
+    -   The `signs` function takes `O(m + n)`.
+    -   The `count` function inside the binary search takes `O(m + n)`.
+    -   The binary search performs `log(C)` iterations.
+
 ## Solutions
 
 
