@@ -22,6 +22,7 @@
 * [Meeting rooms iii](../Solutions/M/meeting-rooms-iii)
 * [Merge k sorted lists](../Solutions/M/merge-k-sorted-lists)
 * [Minimize deviation in array](../Solutions/M/minimize-deviation-in-array)
+* [Minimum difference in sums after removal of elements](../Solutions/M/minimum-difference-in-sums-after-removal-of-elements)
 * [Minimum interval to include each query](../Solutions/M/minimum-interval-to-include-each-query)
 * [Minimum operations to exceed threshold value ii](../Solutions/M/minimum-operations-to-exceed-threshold-value-ii)
 * [Minimum operations to form subsequence with target sum](../Solutions/M/minimum-operations-to-form-subsequence-with-target-sum)

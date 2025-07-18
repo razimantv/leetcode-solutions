@@ -109,6 +109,7 @@
 * [Minimum average difference](../Solutions/M/minimum-average-difference)
 * [Minimum cost to make all characters equal](../Solutions/M/minimum-cost-to-make-all-characters-equal)
 * [Minimum cost to make array equal](../Solutions/M/minimum-cost-to-make-array-equal)
+* [Minimum difference in sums after removal of elements](../Solutions/M/minimum-difference-in-sums-after-removal-of-elements)
 * [Minimum index of a valid split](../Solutions/M/minimum-index-of-a-valid-split)
 * [Minimum number of flips to make the binary string alternating](../Solutions/M/minimum-number-of-flips-to-make-the-binary-string-alternating)
 * [Minimum number of operations to move all balls to each box](../Solutions/M/minimum-number-of-operations-to-move-all-balls-to-each-box)
