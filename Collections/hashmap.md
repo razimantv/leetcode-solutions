@@ -176,6 +176,7 @@
 * [Count substrings that can be rearranged to contain a string i](../Solutions/C/count-substrings-that-can-be-rearranged-to-contain-a-string-i)
 * [Count substrings that can be rearranged to contain a string ii](../Solutions/C/count-substrings-that-can-be-rearranged-to-contain-a-string-ii)
 * [Count substrings with k frequency characters i](../Solutions/C/count-substrings-with-k-frequency-characters-i)
+* [Delete duplicate folders in system](../Solutions/D/delete-duplicate-folders-in-system)
 * [Divide array in sets of k consecutive numbers](../Solutions/D/divide-array-in-sets-of-k-consecutive-numbers)
 * [Divide array into equal pairs](../Solutions/D/divide-array-into-equal-pairs)
 * [Find common characters](../Solutions/F/find-common-characters)

@@ -72,6 +72,7 @@
 * [Count valid paths in a tree](../Solutions/C/count-valid-paths-in-a-tree)
 * [Create components with same value](../Solutions/C/create-components-with-same-value)
 * [Critical connections in a network](../Solutions/C/critical-connections-in-a-network)
+* [Delete duplicate folders in system](../Solutions/D/delete-duplicate-folders-in-system)
 * [Delete nodes and return forest](../Solutions/D/delete-nodes-and-return-forest)
 * [Detect cycles in 2d grid](../Solutions/D/detect-cycles-in-2d-grid)
 * [Difference between maximum and minimum price sum](../Solutions/D/difference-between-maximum-and-minimum-price-sum)

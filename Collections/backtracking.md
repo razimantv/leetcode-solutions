@@ -23,6 +23,7 @@
 ## <a id="push-and-pop-for-efficient-state-update">Push and pop for efficient state update</a>
 * [Combination sum ii](../Solutions/C/combination-sum-ii)
 * [Combinations](../Solutions/C/combinations)
+* [Delete duplicate folders in system](../Solutions/D/delete-duplicate-folders-in-system)
 * [Find subtree sizes after changes](../Solutions/F/find-subtree-sizes-after-changes)
 * [Path sum ii](../Solutions/P/path-sum-ii)
 * [Path sum iii](../Solutions/P/path-sum-iii)
