@@ -94,6 +94,7 @@
 * [Maximum swap](../Solutions/M/maximum-swap)
 * [Maximum tastiness of candy basket](../Solutions/M/maximum-tastiness-of-candy-basket)
 * [Maximum total importance of roads](../Solutions/M/maximum-total-importance-of-roads)
+* [Maximum unique subarray sum after deletion](../Solutions/M/maximum-unique-subarray-sum-after-deletion)
 * [Maximum units on a truck](../Solutions/M/maximum-units-on-a-truck)
 * [Maximum value after insertion](../Solutions/M/maximum-value-after-insertion)
 * [Maximum value sum by placing three rooks i](../Solutions/M/maximum-value-sum-by-placing-three-rooks-i)
