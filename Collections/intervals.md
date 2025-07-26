@@ -25,6 +25,7 @@
 * [Check if grid can be cut into sections](../Solutions/C/check-if-grid-can-be-cut-into-sections)
 * [Count days without meetings](../Solutions/C/count-days-without-meetings)
 * [Divide intervals into minimum number of groups](../Solutions/D/divide-intervals-into-minimum-number-of-groups)
+* [Maximize subarrays after removing one conflicting pair](../Solutions/M/maximize-subarrays-after-removing-one-conflicting-pair)
 * [Maximum frequency of an element after performing operations i](../Solutions/M/maximum-frequency-of-an-element-after-performing-operations-i)
 * [Maximum frequency of an element after performing operations ii](../Solutions/M/maximum-frequency-of-an-element-after-performing-operations-ii)
 * [Minimum interval to include each query](../Solutions/M/minimum-interval-to-include-each-query)
