@@ -4,6 +4,7 @@
 * [Apply operations on array to maximize sum of squares](../Solutions/A/apply-operations-on-array-to-maximize-sum-of-squares)
 * [Binary watch](../Solutions/B/binary-watch)
 * [Bitwise and of numbers range](../Solutions/B/bitwise-and-of-numbers-range)
+* [Bitwise ors of subarrays](../Solutions/B/bitwise-ors-of-subarrays)
 * [Check if a string contains all binary codes of size k](../Solutions/C/check-if-a-string-contains-all-binary-codes-of-size-k)
 * [Check if bitwise or has trailing zeros](../Solutions/C/check-if-bitwise-or-has-trailing-zeros)
 * [Cinema seat allocation](../Solutions/C/cinema-seat-allocation)
