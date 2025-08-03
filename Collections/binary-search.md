@@ -47,6 +47,7 @@
 * [Maximize the minimum powered city](../Solutions/M/maximize-the-minimum-powered-city)
 * [Maximum candies allocated to k children](../Solutions/M/maximum-candies-allocated-to-k-children)
 * [Maximum distance between a pair of values](../Solutions/M/maximum-distance-between-a-pair-of-values)
+* [Maximum fruits harvested after at most k steps](../Solutions/M/maximum-fruits-harvested-after-at-most-k-steps)
 * [Maximum number of alloys](../Solutions/M/maximum-number-of-alloys)
 * [Maximum number of removable characters](../Solutions/M/maximum-number-of-removable-characters)
 * [Maximum number of robots within budget](../Solutions/M/maximum-number-of-robots-within-budget)
