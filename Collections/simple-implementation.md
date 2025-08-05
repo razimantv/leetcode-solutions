@@ -91,6 +91,7 @@
 * [Find words containing character](../Solutions/F/find-words-containing-character)
 * [Fizz buzz](../Solutions/F/fizz-buzz)
 * [Flipping an image](../Solutions/F/flipping-an-image)
+* [Fruits into baskets ii](../Solutions/F/fruits-into-baskets-ii)
 * [Game of life](../Solutions/G/game-of-life)
 * [Get biggest three rhombus sums in a grid](../Solutions/G/get-biggest-three-rhombus-sums-in-a-grid)
 * [Get maximum in generated array](../Solutions/G/get-maximum-in-generated-array)
