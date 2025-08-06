@@ -10,6 +10,7 @@
 * [Delivering boxes from storage to ports](../Solutions/D/delivering-boxes-from-storage-to-ports)
 * [Distribute elements into two arrays ii](../Solutions/D/distribute-elements-into-two-arrays-ii)
 * [Fancy sequence](../Solutions/F/fancy-sequence)
+* [Fruits into baskets iii](../Solutions/F/fruits-into-baskets-iii)
 * [Jump game vii](../Solutions/J/jump-game-vii)
 * [Longest increasing subsequence ii](../Solutions/L/longest-increasing-subsequence-ii)
 * [Make array empty](../Solutions/M/make-array-empty)
