@@ -1,5 +1,6 @@
 
 # <a id="hashmap">Hashmap</a>
+* [24 game](../Solutions/0-9/24-game)
 * [Array of doubled pairs](../Solutions/A/array-of-doubled-pairs)
 * [Assign elements to groups with constraints](../Solutions/A/assign-elements-to-groups-with-constraints)
 * [Binary subarrays with sum](../Solutions/B/binary-subarrays-with-sum)

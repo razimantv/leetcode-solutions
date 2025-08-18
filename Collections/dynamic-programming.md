@@ -293,6 +293,7 @@
 
 ## <a id="memoised-recursion">Memoised recursion</a>
 * [2 keys keyboard](../Solutions/0-9/2-keys-keyboard)
+* [24 game](../Solutions/0-9/24-game)
 * [All ancestors of a node in a directed acyclic graph](../Solutions/A/all-ancestors-of-a-node-in-a-directed-acyclic-graph)
 * [Build array where you can find the maximum exactly k comparisons](../Solutions/B/build-array-where-you-can-find-the-maximum-exactly-k-comparisons)
 * [Combination sum iv](../Solutions/C/combination-sum-iv)

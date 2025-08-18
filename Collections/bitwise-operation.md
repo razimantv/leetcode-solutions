@@ -114,6 +114,7 @@
 * [Xor queries of a subarray](../Solutions/X/xor-queries-of-a-subarray)
 
 ## <a id="subset-enumeration">Subset enumeration</a>
+* [24 game](../Solutions/0-9/24-game)
 * [Count number of maximum bitwise or subsets](../Solutions/C/count-number-of-maximum-bitwise-or-subsets)
 * [Frequencies of shortest supersequences](../Solutions/F/frequencies-of-shortest-supersequences)
 * [Minimum increments for target multiples in an array](../Solutions/M/minimum-increments-for-target-multiples-in-an-array)

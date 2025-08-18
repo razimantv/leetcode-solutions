@@ -1,5 +1,6 @@
 
 # <a id="brute-force-enumeration">Brute force enumeration</a>
+* [24 game](../Solutions/0-9/24-game)
 * [Finding 3 digit even numbers](../Solutions/F/finding-3-digit-even-numbers)
 * [Minimum time to break locks i](../Solutions/M/minimum-time-to-break-locks-i)
 
