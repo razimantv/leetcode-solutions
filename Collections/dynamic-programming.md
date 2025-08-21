@@ -90,6 +90,7 @@
 * [Coin change](../Solutions/C/coin-change)
 * [Coin change 2](../Solutions/C/coin-change-2)
 * [Count beautiful splits in an array](../Solutions/C/count-beautiful-splits-in-an-array)
+* [Count submatrices with all ones](../Solutions/C/count-submatrices-with-all-ones)
 * [Count the number of inversions](../Solutions/C/count-the-number-of-inversions)
 * [Count the number of winning sequences](../Solutions/C/count-the-number-of-winning-sequences)
 * [Decremental string concatenation](../Solutions/D/decremental-string-concatenation)

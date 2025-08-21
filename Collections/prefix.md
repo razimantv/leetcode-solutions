@@ -46,6 +46,7 @@
 * [Count subarrays where max element appears at least k times](../Solutions/C/count-subarrays-where-max-element-appears-at-least-k-times)
 * [Count subarrays with median k](../Solutions/C/count-subarrays-with-median-k)
 * [Count subarrays with score less than k](../Solutions/C/count-subarrays-with-score-less-than-k)
+* [Count submatrices with all ones](../Solutions/C/count-submatrices-with-all-ones)
 * [Count substrings that satisfy k constraint ii](../Solutions/C/count-substrings-that-satisfy-k-constraint-ii)
 * [Count tested devices after test operations](../Solutions/C/count-tested-devices-after-test-operations)
 * [Count the hidden sequences](../Solutions/C/count-the-hidden-sequences)
