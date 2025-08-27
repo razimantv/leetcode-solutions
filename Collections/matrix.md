@@ -32,6 +32,7 @@
 * [Find minimum time to reach last room ii](../Solutions/F/find-minimum-time-to-reach-last-room-ii)
 * [Find the maximum number of fruits collected](../Solutions/F/find-the-maximum-number-of-fruits-collected)
 * [Last day where you can still cross](../Solutions/L/last-day-where-you-can-still-cross)
+* [Length of longest v shaped diagonal segment](../Solutions/L/length-of-longest-v-shaped-diagonal-segment)
 * [Longest increasing path in a matrix](../Solutions/L/longest-increasing-path-in-a-matrix)
 * [Maximum amount of money robot can earn](../Solutions/M/maximum-amount-of-money-robot-can-earn)
 * [Maximum number of moves in a grid](../Solutions/M/maximum-number-of-moves-in-a-grid)

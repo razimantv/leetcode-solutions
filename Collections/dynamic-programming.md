@@ -304,6 +304,7 @@
 * [Find all possible recipes from given supplies](../Solutions/F/find-all-possible-recipes-from-given-supplies)
 * [Find the minimum cost array permutation](../Solutions/F/find-the-minimum-cost-array-permutation)
 * [Length of longest fibonacci subsequence](../Solutions/L/length-of-longest-fibonacci-subsequence)
+* [Length of longest v shaped diagonal segment](../Solutions/L/length-of-longest-v-shaped-diagonal-segment)
 * [Letter tile possibilities](../Solutions/L/letter-tile-possibilities)
 * [Maximum number of moves to kill all pawns](../Solutions/M/maximum-number-of-moves-to-kill-all-pawns)
 * [Maximum number of operations with the same score ii](../Solutions/M/maximum-number-of-operations-with-the-same-score-ii)
