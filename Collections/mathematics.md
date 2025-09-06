@@ -307,6 +307,7 @@
 
 ## <a id="observation">Observation</a>
 * [Make array elements equal to zero](../Solutions/M/make-array-elements-equal-to-zero)
+* [Minimum operations to make array elements zero](../Solutions/M/minimum-operations-to-make-array-elements-zero)
 
 ## <a id="parity">Parity</a>
 * [Count partitions with even sum difference](../Solutions/C/count-partitions-with-even-sum-difference)
