@@ -35,6 +35,7 @@
 * [Count total number of colored cells](../Solutions/C/count-total-number-of-colored-cells)
 * [Distribute candies among children i](../Solutions/D/distribute-candies-among-children-i)
 * [Distribute candies among children ii](../Solutions/D/distribute-candies-among-children-ii)
+* [Find n unique integers sum up to zero](../Solutions/F/find-n-unique-integers-sum-up-to-zero)
 * [Find number of ways to reach the k th stair](../Solutions/F/find-number-of-ways-to-reach-the-k-th-stair)
 * [Find products of elements of big array](../Solutions/F/find-products-of-elements-of-big-array)
 * [Find the count of good integers](../Solutions/F/find-the-count-of-good-integers)
