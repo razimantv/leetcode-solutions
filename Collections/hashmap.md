@@ -210,6 +210,7 @@
 * [Minimum levels to gain more points](../Solutions/M/minimum-levels-to-gain-more-points)
 * [Minimum number of operations to make word k periodic](../Solutions/M/minimum-number-of-operations-to-make-word-k-periodic)
 * [Minimum number of operations to satisfy conditions](../Solutions/M/minimum-number-of-operations-to-satisfy-conditions)
+* [Minimum number of people to teach](../Solutions/M/minimum-number-of-people-to-teach)
 * [Minimum number of pushes to type word i](../Solutions/M/minimum-number-of-pushes-to-type-word-i)
 * [Minimum number of pushes to type word ii](../Solutions/M/minimum-number-of-pushes-to-type-word-ii)
 * [Minimum operations to make character frequencies equal](../Solutions/M/minimum-operations-to-make-character-frequencies-equal)

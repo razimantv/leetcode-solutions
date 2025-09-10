@@ -9,6 +9,7 @@
 
 ## <a id="bipartite-graph">Bipartite graph</a>
 * [Divide nodes into the maximum number of groups](../Solutions/D/divide-nodes-into-the-maximum-number-of-groups)
+* [Minimum number of people to teach](../Solutions/M/minimum-number-of-people-to-teach)
 
 ## <a id="breadth-first-search">Breadth first search</a>
 * [01 matrix](../Solutions/0-9/01-matrix)
@@ -57,6 +58,7 @@
 * [Find champion ii](../Solutions/F/find-champion-ii)
 * [Find the town judge](../Solutions/F/find-the-town-judge)
 * [Maximum total importance of roads](../Solutions/M/maximum-total-importance-of-roads)
+* [Minimum number of people to teach](../Solutions/M/minimum-number-of-people-to-teach)
 * [Minimum number of vertices to reach all nodes](../Solutions/M/minimum-number-of-vertices-to-reach-all-nodes)
 * [Restore the array from adjacent pairs](../Solutions/R/restore-the-array-from-adjacent-pairs)
 * [Valid arrangement of pairs](../Solutions/V/valid-arrangement-of-pairs)
