@@ -182,6 +182,7 @@
 * [Divide array into equal pairs](../Solutions/D/divide-array-into-equal-pairs)
 * [Find common characters](../Solutions/F/find-common-characters)
 * [Find lucky integer in an array](../Solutions/F/find-lucky-integer-in-an-array)
+* [Find most frequent vowel and consonant](../Solutions/F/find-most-frequent-vowel-and-consonant)
 * [Find subsequence of length k with the largest sum](../Solutions/F/find-subsequence-of-length-k-with-the-largest-sum)
 * [Find the count of good integers](../Solutions/F/find-the-count-of-good-integers)
 * [Find the maximum number of elements in subset](../Solutions/F/find-the-maximum-number-of-elements-in-subset)
