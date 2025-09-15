@@ -91,6 +91,7 @@
 * [Maximum good subarray sum](../Solutions/M/maximum-good-subarray-sum)
 * [Maximum number of integers to choose from a range i](../Solutions/M/maximum-number-of-integers-to-choose-from-a-range-i)
 * [Maximum number of pairs in array](../Solutions/M/maximum-number-of-pairs-in-array)
+* [Maximum number of words you can type](../Solutions/M/maximum-number-of-words-you-can-type)
 * [Maximum points inside the square](../Solutions/M/maximum-points-inside-the-square)
 * [Maximum population year](../Solutions/M/maximum-population-year)
 * [Maximum square area by removing fences from a field](../Solutions/M/maximum-square-area-by-removing-fences-from-a-field)
