@@ -11,6 +11,7 @@
 * [Min stack](../Solutions/M/min-stack)
 * [Recover a tree from preorder traversal](../Solutions/R/recover-a-tree-from-preorder-traversal)
 * [Removing stars from a string](../Solutions/R/removing-stars-from-a-string)
+* [Replace non coprime numbers in array](../Solutions/R/replace-non-coprime-numbers-in-array)
 
 ## <a id="depth-first-search">Depth first search</a>
 * [Binary tree inorder traversal](../Solutions/B/binary-tree-inorder-traversal)

@@ -257,6 +257,7 @@
 * [Count special subsequences](../Solutions/C/count-special-subsequences)
 * [Maximum subarray with equal products](../Solutions/M/maximum-subarray-with-equal-products)
 * [Minimum increments for target multiples in an array](../Solutions/M/minimum-increments-for-target-multiples-in-an-array)
+* [Replace non coprime numbers in array](../Solutions/R/replace-non-coprime-numbers-in-array)
 
 ### <a id="inclusion-exclusion">Inclusion-exclusion</a>
 * [Kth smallest amount with single denomination combination](../Solutions/K/kth-smallest-amount-with-single-denomination-combination)
