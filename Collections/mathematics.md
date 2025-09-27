@@ -156,6 +156,7 @@
 * [Check if it is a straight line](../Solutions/C/check-if-it-is-a-straight-line)
 * [Check if the rectangle corner is reachable](../Solutions/C/check-if-the-rectangle-corner-is-reachable)
 * [Determine if a cell is reachable at a given time](../Solutions/D/determine-if-a-cell-is-reachable-at-a-given-time)
+* [Largest triangle area](../Solutions/L/largest-triangle-area)
 * [Max points on a line](../Solutions/M/max-points-on-a-line)
 * [Maximum area of longest diagonal rectangle](../Solutions/M/maximum-area-of-longest-diagonal-rectangle)
 * [Minimize manhattan distances](../Solutions/M/minimize-manhattan-distances)
