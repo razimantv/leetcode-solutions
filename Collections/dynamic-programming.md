@@ -310,6 +310,7 @@
 * [Maximum number of operations with the same score ii](../Solutions/M/maximum-number-of-operations-with-the-same-score-ii)
 * [Minimum cost to merge stones](../Solutions/M/minimum-cost-to-merge-stones)
 * [Minimum number of days to eat n oranges](../Solutions/M/minimum-number-of-days-to-eat-n-oranges)
+* [Minimum score triangulation of polygon](../Solutions/M/minimum-score-triangulation-of-polygon)
 * [Number of dice rolls with target sum](../Solutions/N/number-of-dice-rolls-with-target-sum)
 * [Out of boundary paths](../Solutions/O/out-of-boundary-paths)
 * [Palindrome partitioning](../Solutions/P/palindrome-partitioning)
