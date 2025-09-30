@@ -89,6 +89,7 @@
 * [Find the width of columns of a grid](../Solutions/F/find-the-width-of-columns-of-a-grid)
 * [Find the winner of an array game](../Solutions/F/find-the-winner-of-an-array-game)
 * [Find the winner of the circular game](../Solutions/F/find-the-winner-of-the-circular-game)
+* [Find triangular sum of an array](../Solutions/F/find-triangular-sum-of-an-array)
 * [Find winner on a tic tac toe game](../Solutions/F/find-winner-on-a-tic-tac-toe-game)
 * [Find words containing character](../Solutions/F/find-words-containing-character)
 * [Fizz buzz](../Solutions/F/fizz-buzz)
