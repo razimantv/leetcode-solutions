@@ -43,6 +43,7 @@
 * [Minimum difficulty of a job schedule](../Solutions/M/minimum-difficulty-of-a-job-schedule)
 * [Next greater element ii](../Solutions/N/next-greater-element-ii)
 * [Online stock span](../Solutions/O/online-stock-span)
+* [Remove k digits](../Solutions/R/remove-k-digits)
 
 ## <a id="numerical-operations">Numerical operations</a>
 * [Baseball game](../Solutions/B/baseball-game)
