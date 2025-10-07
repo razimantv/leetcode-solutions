@@ -7,6 +7,7 @@
 * [Apply operations to make all array elements equal to zero](../Solutions/A/apply-operations-to-make-all-array-elements-equal-to-zero)
 * [Apply operations to maximize score](../Solutions/A/apply-operations-to-maximize-score)
 * [Assign cookies](../Solutions/A/assign-cookies)
+* [Avoid flood in the city](../Solutions/A/avoid-flood-in-the-city)
 * [Bag of tokens](../Solutions/B/bag-of-tokens)
 * [Best time to buy and sell stock ii](../Solutions/B/best-time-to-buy-and-sell-stock-ii)
 * [Boats to save people](../Solutions/B/boats-to-save-people)

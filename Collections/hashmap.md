@@ -3,6 +3,7 @@
 * [24 game](../Solutions/0-9/24-game)
 * [Array of doubled pairs](../Solutions/A/array-of-doubled-pairs)
 * [Assign elements to groups with constraints](../Solutions/A/assign-elements-to-groups-with-constraints)
+* [Avoid flood in the city](../Solutions/A/avoid-flood-in-the-city)
 * [Binary subarrays with sum](../Solutions/B/binary-subarrays-with-sum)
 * [Brick wall](../Solutions/B/brick-wall)
 * [Check array formation through concatenation](../Solutions/C/check-array-formation-through-concatenation)
