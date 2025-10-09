@@ -8,6 +8,7 @@
 * [Dota2 senate](../Solutions/D/dota2-senate)
 * [Find the first player to win k games in a row](../Solutions/F/find-the-first-player-to-win-k-games-in-a-row)
 * [Find the maximum length of valid subsequence i](../Solutions/F/find-the-maximum-length-of-valid-subsequence-i)
+* [Find the minimum amount of time to brew potions](../Solutions/F/find-the-minimum-amount-of-time-to-brew-potions)
 * [Find valid pair of adjacent digits in string](../Solutions/F/find-valid-pair-of-adjacent-digits-in-string)
 * [Kth distinct string in an array](../Solutions/K/kth-distinct-string-in-an-array)
 * [Max chunks to make sorted](../Solutions/M/max-chunks-to-make-sorted)
