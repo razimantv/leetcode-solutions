@@ -23,6 +23,7 @@
 * [Find kth bit in nth binary string](../Solutions/F/find-kth-bit-in-nth-binary-string)
 * [Find products of elements of big array](../Solutions/F/find-products-of-elements-of-big-array)
 * [Find subarray with bitwise and closest to k](../Solutions/F/find-subarray-with-bitwise-and-closest-to-k)
+* [Find sum of array product of magical sequences](../Solutions/F/find-sum-of-array-product-of-magical-sequences)
 * [Find the k or of an array](../Solutions/F/find-the-k-or-of-an-array)
 * [Find the maximum sequence value of array](../Solutions/F/find-the-maximum-sequence-value-of-array)
 * [Find xor sum of all pairs bitwise and](../Solutions/F/find-xor-sum-of-all-pairs-bitwise-and)

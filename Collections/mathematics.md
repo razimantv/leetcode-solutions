@@ -93,6 +93,7 @@
 * [Domino and tromino tiling](../Solutions/D/domino-and-tromino-tiling)
 * [Find number of ways to reach the k th stair](../Solutions/F/find-number-of-ways-to-reach-the-k-th-stair)
 * [Find products of elements of big array](../Solutions/F/find-products-of-elements-of-big-array)
+* [Find sum of array product of magical sequences](../Solutions/F/find-sum-of-array-product-of-magical-sequences)
 * [Find the count of good integers](../Solutions/F/find-the-count-of-good-integers)
 * [Find the number of possible ways for an event](../Solutions/F/find-the-number-of-possible-ways-for-an-event)
 * [Find the sum of the power of all subsequences](../Solutions/F/find-the-sum-of-the-power-of-all-subsequences)

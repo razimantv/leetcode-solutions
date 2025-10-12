@@ -302,6 +302,7 @@
 * [Course schedule iv](../Solutions/C/course-schedule-iv)
 * [Different ways to add parentheses](../Solutions/D/different-ways-to-add-parentheses)
 * [Find all possible recipes from given supplies](../Solutions/F/find-all-possible-recipes-from-given-supplies)
+* [Find sum of array product of magical sequences](../Solutions/F/find-sum-of-array-product-of-magical-sequences)
 * [Find the minimum cost array permutation](../Solutions/F/find-the-minimum-cost-array-permutation)
 * [Length of longest fibonacci subsequence](../Solutions/L/length-of-longest-fibonacci-subsequence)
 * [Length of longest v shaped diagonal segment](../Solutions/L/length-of-longest-v-shaped-diagonal-segment)
