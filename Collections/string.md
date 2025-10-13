@@ -3,6 +3,7 @@
 * [Find the lexicographically largest string from the box i](../Solutions/F/find-the-lexicographically-largest-string-from-the-box-i)
 
 ## <a id="anagrams">Anagrams</a>
+* [Find resultant array after removing anagrams](../Solutions/F/find-resultant-array-after-removing-anagrams)
 * [Group anagrams](../Solutions/G/group-anagrams)
 
 ## <a id="parsing">Parsing</a>
