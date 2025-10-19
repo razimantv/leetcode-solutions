@@ -257,6 +257,7 @@
 ### <a id="gcd-lcm">GCD/LCM</a>
 * [Count connected components in lcm graph](../Solutions/C/count-connected-components-in-lcm-graph)
 * [Count special subsequences](../Solutions/C/count-special-subsequences)
+* [Lexicographically smallest string after applying operations](../Solutions/L/lexicographically-smallest-string-after-applying-operations)
 * [Maximum subarray with equal products](../Solutions/M/maximum-subarray-with-equal-products)
 * [Minimum increments for target multiples in an array](../Solutions/M/minimum-increments-for-target-multiples-in-an-array)
 * [Replace non coprime numbers in array](../Solutions/R/replace-non-coprime-numbers-in-array)
