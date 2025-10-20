@@ -65,6 +65,7 @@
 * [Excel sheet column number](../Solutions/E/excel-sheet-column-number)
 * [Existence of a substring in a string and its reverse](../Solutions/E/existence-of-a-substring-in-a-string-and-its-reverse)
 * [Faulty keyboard](../Solutions/F/faulty-keyboard)
+* [Final value of variable after performing operations](../Solutions/F/final-value-of-variable-after-performing-operations)
 * [Find closest person](../Solutions/F/find-closest-person)
 * [Find common elements between two arrays](../Solutions/F/find-common-elements-between-two-arrays)
 * [Find first palindromic string in the array](../Solutions/F/find-first-palindromic-string-in-the-array)
