@@ -21,6 +21,7 @@
 * [Check if a string contains all binary codes of size k](../Solutions/C/check-if-a-string-contains-all-binary-codes-of-size-k)
 * [Check if a string is an acronym of words](../Solutions/C/check-if-a-string-is-an-acronym-of-words)
 * [Check if all the integers in a range are covered](../Solutions/C/check-if-all-the-integers-in-a-range-are-covered)
+* [Check if digits are equal in string after operations i](../Solutions/C/check-if-digits-are-equal-in-string-after-operations-i)
 * [Check if grid satisfies conditions](../Solutions/C/check-if-grid-satisfies-conditions)
 * [Check if matrix is x matrix](../Solutions/C/check-if-matrix-is-x-matrix)
 * [Check if number is a sum of powers of three](../Solutions/C/check-if-number-is-a-sum-of-powers-of-three)
