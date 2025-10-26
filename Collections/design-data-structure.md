@@ -37,6 +37,7 @@
 * [Online majority element in subarray](../Solutions/O/online-majority-element-in-subarray)
 * [Peeking iterator](../Solutions/P/peeking-iterator)
 * [Random pick with weight](../Solutions/R/random-pick-with-weight)
+* [Simple bank system](../Solutions/S/simple-bank-system)
 
 ## <a id="interconversion">Interconversion</a>
 * [Implement queue using stacks](../Solutions/I/implement-queue-using-stacks)
