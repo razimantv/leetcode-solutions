@@ -16,6 +16,7 @@
 * [Minimum cost walk in weighted graph](../Solutions/M/minimum-cost-walk-in-weighted-graph)
 * [Number of good paths](../Solutions/N/number-of-good-paths)
 * [Number of islands](../Solutions/N/number-of-islands)
+* [Power grid maintenance](../Solutions/P/power-grid-maintenance)
 * [Rank transform of a matrix](../Solutions/R/rank-transform-of-a-matrix)
 * [Redundant connection](../Solutions/R/redundant-connection)
 * [Regions cut by slashes](../Solutions/R/regions-cut-by-slashes)
