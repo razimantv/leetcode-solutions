@@ -256,6 +256,7 @@
 
 ### <a id="gcd-lcm">GCD/LCM</a>
 * [Count connected components in lcm graph](../Solutions/C/count-connected-components-in-lcm-graph)
+* [Count operations to obtain zero](../Solutions/C/count-operations-to-obtain-zero)
 * [Count special subsequences](../Solutions/C/count-special-subsequences)
 * [Lexicographically smallest string after applying operations](../Solutions/L/lexicographically-smallest-string-after-applying-operations)
 * [Maximum subarray with equal products](../Solutions/M/maximum-subarray-with-equal-products)
