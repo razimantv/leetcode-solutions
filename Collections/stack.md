@@ -41,6 +41,7 @@
 * [Maximum sum queries](../Solutions/M/maximum-sum-queries)
 * [Maximum width ramp](../Solutions/M/maximum-width-ramp)
 * [Minimum difficulty of a job schedule](../Solutions/M/minimum-difficulty-of-a-job-schedule)
+* [Minimum operations to convert all elements to zero](../Solutions/M/minimum-operations-to-convert-all-elements-to-zero)
 * [Next greater element ii](../Solutions/N/next-greater-element-ii)
 * [Online stock span](../Solutions/O/online-stock-span)
 * [Remove k digits](../Solutions/R/remove-k-digits)
