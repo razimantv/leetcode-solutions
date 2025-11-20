@@ -68,6 +68,7 @@
 * [Non overlapping intervals](../Solutions/N/non-overlapping-intervals)
 * [Relative sort array](../Solutions/R/relative-sort-array)
 * [Reward top k students](../Solutions/R/reward-top-k-students)
+* [Set intersection size at least two](../Solutions/S/set-intersection-size-at-least-two)
 * [Sort integers by the number of 1 bits](../Solutions/S/sort-integers-by-the-number-of-1-bits)
 * [Sort the jumbled numbers](../Solutions/S/sort-the-jumbled-numbers)
 * [Sort the people](../Solutions/S/sort-the-people)
