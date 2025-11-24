@@ -2,6 +2,7 @@
 # <a id="array-scanning">Array scanning</a>
 * [1 bit and 2 bit characters](../Solutions/0-9/1-bit-and-2-bit-characters)
 * [Apply operations to make string empty](../Solutions/A/apply-operations-to-make-string-empty)
+* [Binary prefix divisible by 5](../Solutions/B/binary-prefix-divisible-by-5)
 * [Button with longest push time](../Solutions/B/button-with-longest-push-time)
 * [Count hills and valleys in an array](../Solutions/C/count-hills-and-valleys-in-an-array)
 * [Count the number of special characters ii](../Solutions/C/count-the-number-of-special-characters-ii)

@@ -210,6 +210,7 @@
 * [Find the student that will replace the chalk](../Solutions/F/find-the-student-that-will-replace-the-chalk)
 * [Fraction addition and subtraction](../Solutions/F/fraction-addition-and-subtraction)
 * [Greatest common divisor of strings](../Solutions/G/greatest-common-divisor-of-strings)
+* [Greatest sum divisible by three](../Solutions/G/greatest-sum-divisible-by-three)
 * [Integer break](../Solutions/I/integer-break)
 * [Make k subarray sums equal](../Solutions/M/make-k-subarray-sums-equal)
 * [Make sum divisible by p](../Solutions/M/make-sum-divisible-by-p)

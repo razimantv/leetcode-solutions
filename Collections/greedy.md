@@ -40,6 +40,7 @@
 * [Furthest building you can reach](../Solutions/F/furthest-building-you-can-reach)
 * [Furthest point from origin](../Solutions/F/furthest-point-from-origin)
 * [Gas station](../Solutions/G/gas-station)
+* [Greatest sum divisible by three](../Solutions/G/greatest-sum-divisible-by-three)
 * [Hand of straights](../Solutions/H/hand-of-straights)
 * [Happy students](../Solutions/H/happy-students)
 * [Is subsequence](../Solutions/I/is-subsequence)
