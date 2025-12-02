@@ -71,6 +71,7 @@
 * [Count number of bad pairs](../Solutions/C/count-number-of-bad-pairs)
 * [Count number of balanced permutations](../Solutions/C/count-number-of-balanced-permutations)
 * [Count number of homogenous substrings](../Solutions/C/count-number-of-homogenous-substrings)
+* [Count number of trapezoids i](../Solutions/C/count-number-of-trapezoids-i)
 * [Count number of ways to place houses](../Solutions/C/count-number-of-ways-to-place-houses)
 * [Count pairs of nodes](../Solutions/C/count-pairs-of-nodes)
 * [Count pairs of similar strings](../Solutions/C/count-pairs-of-similar-strings)

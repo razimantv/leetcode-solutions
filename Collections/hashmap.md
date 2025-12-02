@@ -170,6 +170,7 @@
 * [Count elements with maximum frequency](../Solutions/C/count-elements-with-maximum-frequency)
 * [Count largest group](../Solutions/C/count-largest-group)
 * [Count number of balanced permutations](../Solutions/C/count-number-of-balanced-permutations)
+* [Count number of trapezoids i](../Solutions/C/count-number-of-trapezoids-i)
 * [Count of substrings containing every vowel and k consonants i](../Solutions/C/count-of-substrings-containing-every-vowel-and-k-consonants-i)
 * [Count of substrings containing every vowel and k consonants ii](../Solutions/C/count-of-substrings-containing-every-vowel-and-k-consonants-ii)
 * [Count pairs that form a complete day i](../Solutions/C/count-pairs-that-form-a-complete-day-i)
