@@ -72,6 +72,7 @@
 * [Count number of balanced permutations](../Solutions/C/count-number-of-balanced-permutations)
 * [Count number of homogenous substrings](../Solutions/C/count-number-of-homogenous-substrings)
 * [Count number of trapezoids i](../Solutions/C/count-number-of-trapezoids-i)
+* [Count number of trapezoids ii](../Solutions/C/count-number-of-trapezoids-ii)
 * [Count number of ways to place houses](../Solutions/C/count-number-of-ways-to-place-houses)
 * [Count pairs of nodes](../Solutions/C/count-pairs-of-nodes)
 * [Count pairs of similar strings](../Solutions/C/count-pairs-of-similar-strings)
@@ -158,6 +159,7 @@
 ## <a id="geometry">Geometry</a>
 * [Check if it is a straight line](../Solutions/C/check-if-it-is-a-straight-line)
 * [Check if the rectangle corner is reachable](../Solutions/C/check-if-the-rectangle-corner-is-reachable)
+* [Count number of trapezoids ii](../Solutions/C/count-number-of-trapezoids-ii)
 * [Determine if a cell is reachable at a given time](../Solutions/D/determine-if-a-cell-is-reachable-at-a-given-time)
 * [Largest triangle area](../Solutions/L/largest-triangle-area)
 * [Max points on a line](../Solutions/M/max-points-on-a-line)
@@ -260,6 +262,7 @@
 
 ### <a id="gcd-lcm">GCD/LCM</a>
 * [Count connected components in lcm graph](../Solutions/C/count-connected-components-in-lcm-graph)
+* [Count number of trapezoids ii](../Solutions/C/count-number-of-trapezoids-ii)
 * [Count operations to obtain zero](../Solutions/C/count-operations-to-obtain-zero)
 * [Count special subsequences](../Solutions/C/count-special-subsequences)
 * [Lexicographically smallest string after applying operations](../Solutions/L/lexicographically-smallest-string-after-applying-operations)
