@@ -43,6 +43,7 @@
 * [Count non decreasing subarrays after k operations](../Solutions/C/count-non-decreasing-subarrays-after-k-operations)
 * [Count number of nice subarrays](../Solutions/C/count-number-of-nice-subarrays)
 * [Count of interesting subarrays](../Solutions/C/count-of-interesting-subarrays)
+* [Count partitions with max min difference at most k](../Solutions/C/count-partitions-with-max-min-difference-at-most-k)
 * [Count subarrays where max element appears at least k times](../Solutions/C/count-subarrays-where-max-element-appears-at-least-k-times)
 * [Count subarrays with median k](../Solutions/C/count-subarrays-with-median-k)
 * [Count subarrays with score less than k](../Solutions/C/count-subarrays-with-score-less-than-k)

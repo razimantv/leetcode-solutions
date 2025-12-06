@@ -5,6 +5,7 @@
 * [Capacity to ship packages within d days](../Solutions/C/capacity-to-ship-packages-within-d-days)
 * [Construct binary search tree from preorder traversal](../Solutions/C/construct-binary-search-tree-from-preorder-traversal)
 * [Count non decreasing subarrays after k operations](../Solutions/C/count-non-decreasing-subarrays-after-k-operations)
+* [Count partitions with max min difference at most k](../Solutions/C/count-partitions-with-max-min-difference-at-most-k)
 * [Count subarrays with score less than k](../Solutions/C/count-subarrays-with-score-less-than-k)
 * [Data stream as disjoint intervals](../Solutions/D/data-stream-as-disjoint-intervals)
 * [Design movie rental system](../Solutions/D/design-movie-rental-system)

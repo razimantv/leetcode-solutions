@@ -29,6 +29,7 @@
 * [Apply operations to maximize score](../Solutions/A/apply-operations-to-maximize-score)
 * [Beautiful towers ii](../Solutions/B/beautiful-towers-ii)
 * [Count non decreasing subarrays after k operations](../Solutions/C/count-non-decreasing-subarrays-after-k-operations)
+* [Count partitions with max min difference at most k](../Solutions/C/count-partitions-with-max-min-difference-at-most-k)
 * [Count submatrices with all ones](../Solutions/C/count-submatrices-with-all-ones)
 * [Daily temperatures](../Solutions/D/daily-temperatures)
 * [Final prices with a special discount in a shop](../Solutions/F/final-prices-with-a-special-discount-in-a-shop)
