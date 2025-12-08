@@ -201,6 +201,7 @@
 * [Count pairs of connectable servers in a weighted tree network](../Solutions/C/count-pairs-of-connectable-servers-in-a-weighted-tree-network)
 * [Count pairs that form a complete day i](../Solutions/C/count-pairs-that-form-a-complete-day-i)
 * [Count pairs that form a complete day ii](../Solutions/C/count-pairs-that-form-a-complete-day-ii)
+* [Count square sum triples](../Solutions/C/count-square-sum-triples)
 * [Destroy sequential targets](../Solutions/D/destroy-sequential-targets)
 * [Excel sheet column title](../Solutions/E/excel-sheet-column-title)
 * [Factorial trailing zeroes](../Solutions/F/factorial-trailing-zeroes)
