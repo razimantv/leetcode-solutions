@@ -178,6 +178,7 @@
 * [Count pairs that form a complete day ii](../Solutions/C/count-pairs-that-form-a-complete-day-ii)
 * [Count servers that communicate](../Solutions/C/count-servers-that-communicate)
 * [Count special subsequences](../Solutions/C/count-special-subsequences)
+* [Count special triplets](../Solutions/C/count-special-triplets)
 * [Count square sum triples](../Solutions/C/count-square-sum-triples)
 * [Count substrings starting and ending with given character](../Solutions/C/count-substrings-starting-and-ending-with-given-character)
 * [Count substrings that can be rearranged to contain a string i](../Solutions/C/count-substrings-that-can-be-rearranged-to-contain-a-string-i)
