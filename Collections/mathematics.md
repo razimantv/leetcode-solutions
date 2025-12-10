@@ -82,6 +82,7 @@
 * [Count special integers](../Solutions/C/count-special-integers)
 * [Count substrings starting and ending with given character](../Solutions/C/count-substrings-starting-and-ending-with-given-character)
 * [Count the number of arrays with k matching adjacent elements](../Solutions/C/count-the-number-of-arrays-with-k-matching-adjacent-elements)
+* [Count the number of computer unlocking permutations](../Solutions/C/count-the-number-of-computer-unlocking-permutations)
 * [Count the number of fair pairs](../Solutions/C/count-the-number-of-fair-pairs)
 * [Count the number of good partitions](../Solutions/C/count-the-number-of-good-partitions)
 * [Count the number of houses at a certain distance i](../Solutions/C/count-the-number-of-houses-at-a-certain-distance-i)
