@@ -20,6 +20,7 @@
 * [Count beautiful substrings i](../Solutions/C/count-beautiful-substrings-i)
 * [Count beautiful substrings ii](../Solutions/C/count-beautiful-substrings-ii)
 * [Count complete subarrays in an array](../Solutions/C/count-complete-subarrays-in-an-array)
+* [Count covered buildings](../Solutions/C/count-covered-buildings)
 * [Count number of bad pairs](../Solutions/C/count-number-of-bad-pairs)
 * [Count number of distinct integers after reverse operations](../Solutions/C/count-number-of-distinct-integers-after-reverse-operations)
 * [Count number of nice subarrays](../Solutions/C/count-number-of-nice-subarrays)
