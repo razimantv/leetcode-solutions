@@ -77,6 +77,7 @@
 * [Minimum cost to make all characters equal](../Solutions/M/minimum-cost-to-make-all-characters-equal)
 * [Minimum number of days to make m bouquets](../Solutions/M/minimum-number-of-days-to-make-m-bouquets)
 * [Minimum time to make rope colorful](../Solutions/M/minimum-time-to-make-rope-colorful)
+* [Number of smooth descent periods of a stock](../Solutions/N/number-of-smooth-descent-periods-of-a-stock)
 * [Number of zero filled subarrays](../Solutions/N/number-of-zero-filled-subarrays)
 * [Reduce array size to the half](../Solutions/R/reduce-array-size-to-the-half)
 * [Smallest substring with identical characters i](../Solutions/S/smallest-substring-with-identical-characters-i)
