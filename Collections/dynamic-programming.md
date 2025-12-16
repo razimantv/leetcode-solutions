@@ -228,6 +228,7 @@
 * [Knight dialer](../Solutions/K/knight-dialer)
 * [Knight probability in chessboard](../Solutions/K/knight-probability-in-chessboard)
 * [Maximum number of non overlapping palindrome substrings](../Solutions/M/maximum-number-of-non-overlapping-palindrome-substrings)
+* [Maximum profit from trading stocks with discounts](../Solutions/M/maximum-profit-from-trading-stocks-with-discounts)
 * [Minimum additions to make valid string](../Solutions/M/minimum-additions-to-make-valid-string)
 * [Number of strings which can be rearranged to contain substring](../Solutions/N/number-of-strings-which-can-be-rearranged-to-contain-substring)
 * [Number of ways to paint n 3 grid](../Solutions/N/number-of-ways-to-paint-n-3-grid)

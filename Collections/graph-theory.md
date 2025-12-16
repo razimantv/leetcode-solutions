@@ -242,6 +242,7 @@
 
 ### <a id="dynamic-programming">Dynamic Programming</a>
 * [Largest color value in a directed graph](../Solutions/L/largest-color-value-in-a-directed-graph)
+* [Maximum profit from trading stocks with discounts](../Solutions/M/maximum-profit-from-trading-stocks-with-discounts)
 * [Parallel courses iii](../Solutions/P/parallel-courses-iii)
 
 ## <a id="travelling-salesman-problem">Travelling salesman problem</a>
