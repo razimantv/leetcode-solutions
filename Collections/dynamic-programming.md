@@ -85,6 +85,7 @@
 * [Ways to express an integer as sum of powers](../Solutions/W/ways-to-express-an-integer-as-sum-of-powers)
 
 ## <a id="array-reuse">Array reuse</a>
+* [Best time to buy and sell stock v](../Solutions/B/best-time-to-buy-and-sell-stock-v)
 * [Champagne tower](../Solutions/C/champagne-tower)
 * [Cherry pickup ii](../Solutions/C/cherry-pickup-ii)
 * [Coin change](../Solutions/C/coin-change)
@@ -171,6 +172,7 @@
 
 ## <a id="auxiliary-array">Auxiliary array</a>
 * [Best time to buy and sell stock iv](../Solutions/B/best-time-to-buy-and-sell-stock-iv)
+* [Best time to buy and sell stock v](../Solutions/B/best-time-to-buy-and-sell-stock-v)
 * [Best time to buy and sell stock with transaction fee](../Solutions/B/best-time-to-buy-and-sell-stock-with-transaction-fee)
 * [Count of integers](../Solutions/C/count-of-integers)
 * [Maximum score from grid operations](../Solutions/M/maximum-score-from-grid-operations)

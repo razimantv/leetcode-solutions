@@ -29,5 +29,6 @@ class Solution:
                     dp[par][u][i] = notake[i]
                     if i >= cur:
                         dp[par][u][i] = max(
-                            dp[par][u][i], take[i - cur] + future[u] - cur)
+                            dp[par][u][i], take[i - cur] + future[u] - cur
+                        )
         return max(dp[0][0])
