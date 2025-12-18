@@ -3,6 +3,7 @@
 * [3sum](../Solutions/0-9/3sum)
 * [3sum closest](../Solutions/0-9/3sum-closest)
 * [Apply operations to maximize frequency score](../Solutions/A/apply-operations-to-maximize-frequency-score)
+* [Best time to buy and sell stock using strategy](../Solutions/B/best-time-to-buy-and-sell-stock-using-strategy)
 * [Binary trees with factors](../Solutions/B/binary-trees-with-factors)
 * [Constrained subsequence sum](../Solutions/C/constrained-subsequence-sum)
 * [Contains duplicate ii](../Solutions/C/contains-duplicate-ii)
