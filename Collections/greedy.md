@@ -15,6 +15,7 @@
 * [Check if a parentheses string can be valid](../Solutions/C/check-if-a-parentheses-string-can-be-valid)
 * [Construct string with repeat limit](../Solutions/C/construct-string-with-repeat-limit)
 * [Course schedule iii](../Solutions/C/course-schedule-iii)
+* [Delete columns to make sorted ii](../Solutions/D/delete-columns-to-make-sorted-ii)
 * [Determine the minimum sum of a k avoiding array](../Solutions/D/determine-the-minimum-sum-of-a-k-avoiding-array)
 * [Divide array in sets of k consecutive numbers](../Solutions/D/divide-array-in-sets-of-k-consecutive-numbers)
 * [Divide array into arrays with max difference](../Solutions/D/divide-array-into-arrays-with-max-difference)
