@@ -96,6 +96,7 @@
 * [Count the number of inversions](../Solutions/C/count-the-number-of-inversions)
 * [Count the number of winning sequences](../Solutions/C/count-the-number-of-winning-sequences)
 * [Decremental string concatenation](../Solutions/D/decremental-string-concatenation)
+* [Delete columns to make sorted iii](../Solutions/D/delete-columns-to-make-sorted-iii)
 * [Delete operation for two strings](../Solutions/D/delete-operation-for-two-strings)
 * [Distinct subsequences](../Solutions/D/distinct-subsequences)
 * [Find maximum removals from source string](../Solutions/F/find-maximum-removals-from-source-string)
