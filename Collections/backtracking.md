@@ -16,6 +16,7 @@
 * [N queens](../Solutions/N/n-queens)
 * [Number of valid clock times](../Solutions/N/number-of-valid-clock-times)
 * [Partition to k equal sum subsets](../Solutions/P/partition-to-k-equal-sum-subsets)
+* [Pyramid transition matrix](../Solutions/P/pyramid-transition-matrix)
 
 ## <a id="minimum-option-optimisation">Minimum option optimisation</a>
 * [Sudoku solver](../Solutions/S/sudoku-solver)
