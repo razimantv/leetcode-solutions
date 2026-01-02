@@ -6,3 +6,4 @@
 * [Find the difference](../Solutions/F/find-the-difference)
 * [First missing positive](../Solutions/F/first-missing-positive)
 * [Missing number](../Solutions/M/missing-number)
+* [N repeated element in size 2n array](../Solutions/N/n-repeated-element-in-size-2n-array)
