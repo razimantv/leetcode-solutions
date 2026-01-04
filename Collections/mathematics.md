@@ -258,6 +258,7 @@
 ### <a id="factor-listing-in-sqrt-n-">Factor listing in sqrt(N)</a>
 * [2 keys keyboard](../Solutions/0-9/2-keys-keyboard)
 * [Create components with same value](../Solutions/C/create-components-with-same-value)
+* [Four divisors](../Solutions/F/four-divisors)
 * [Largest divisible subset](../Solutions/L/largest-divisible-subset)
 * [Minimum length of anagram concatenation](../Solutions/M/minimum-length-of-anagram-concatenation)
 * [Smallest value after replacing with sum of prime factors](../Solutions/S/smallest-value-after-replacing-with-sum-of-prime-factors)
