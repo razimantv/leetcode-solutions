@@ -79,6 +79,7 @@
 * [Prime subtraction operation](../Solutions/P/prime-subtraction-operation)
 * [Range sum of sorted subarray sums](../Solutions/R/range-sum-of-sorted-subarray-sums)
 * [Sell diminishing valued colored balls](../Solutions/S/sell-diminishing-valued-colored-balls)
+* [Separate squares i](../Solutions/S/separate-squares-i)
 * [Smallest divisible digit product ii](../Solutions/S/smallest-divisible-digit-product-ii)
 * [Smallest substring with identical characters i](../Solutions/S/smallest-substring-with-identical-characters-i)
 * [Smallest substring with identical characters ii](../Solutions/S/smallest-substring-with-identical-characters-ii)
