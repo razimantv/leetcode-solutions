@@ -33,6 +33,7 @@
 * [My calendar iii](../Solutions/M/my-calendar-iii)
 * [Number of flowers in full bloom](../Solutions/N/number-of-flowers-in-full-bloom)
 * [Rectangle area ii](../Solutions/R/rectangle-area-ii)
+* [Separate squares ii](../Solutions/S/separate-squares-ii)
 * [The number of the smallest unoccupied chair](../Solutions/T/the-number-of-the-smallest-unoccupied-chair)
 
 ## <a id="non-overlapping-decomposition">Non-overlapping decomposition</a>
