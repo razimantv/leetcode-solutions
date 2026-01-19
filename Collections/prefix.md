@@ -129,6 +129,7 @@
 * [Disconnect path in a binary matrix by at most one flip](../Solutions/D/disconnect-path-in-a-binary-matrix-by-at-most-one-flip)
 * [Increment submatrices by one](../Solutions/I/increment-submatrices-by-one)
 * [Maximal square](../Solutions/M/maximal-square)
+* [Maximum side length of a square with sum less than or equal to threshold](../Solutions/M/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold)
 * [Number of submatrices that sum to target](../Solutions/N/number-of-submatrices-that-sum-to-target)
 * [Number of ways of cutting a pizza](../Solutions/N/number-of-ways-of-cutting-a-pizza)
 * [Range sum query 2d immutable](../Solutions/R/range-sum-query-2d-immutable)

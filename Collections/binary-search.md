@@ -111,6 +111,7 @@
 ## <a id="prefix-sum">Prefix sum</a>
 * [Delivering boxes from storage to ports](../Solutions/D/delivering-boxes-from-storage-to-ports)
 * [Max sum of rectangle no larger than k](../Solutions/M/max-sum-of-rectangle-no-larger-than-k)
+* [Maximum side length of a square with sum less than or equal to threshold](../Solutions/M/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold)
 * [Random pick with weight](../Solutions/R/random-pick-with-weight)
 * [Random point in non overlapping rectangles](../Solutions/R/random-point-in-non-overlapping-rectangles)
 
