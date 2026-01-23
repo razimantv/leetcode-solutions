@@ -105,3 +105,4 @@
 * [Find x sum of all k long subarrays i](../Solutions/F/find-x-sum-of-all-k-long-subarrays-i)
 * [Find x sum of all k long subarrays ii](../Solutions/F/find-x-sum-of-all-k-long-subarrays-ii)
 * [K th nearest obstacle queries](../Solutions/K/k-th-nearest-obstacle-queries)
+* [Minimum pair removal to sort array ii](../Solutions/M/minimum-pair-removal-to-sort-array-ii)

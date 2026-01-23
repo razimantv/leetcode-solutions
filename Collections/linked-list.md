@@ -31,6 +31,9 @@
 * [Middle of the linked list](../Solutions/M/middle-of-the-linked-list)
 * [Remove nth node from end of list](../Solutions/R/remove-nth-node-from-end-of-list)
 
+## <a id="knuths-algorithm-x">Knuths Algorithm X</a>
+* [Minimum pair removal to sort array ii](../Solutions/M/minimum-pair-removal-to-sort-array-ii)
+
 ## <a id="recursion">Recursion</a>
 * [Delete nodes from linked list present in array](../Solutions/D/delete-nodes-from-linked-list-present-in-array)
 * [Double a number represented as a linked list](../Solutions/D/double-a-number-represented-as-a-linked-list)
