@@ -53,6 +53,7 @@
 * [Maximum strong pair xor ii](../Solutions/M/maximum-strong-pair-xor-ii)
 * [Maximum sum of almost unique subarray](../Solutions/M/maximum-sum-of-almost-unique-subarray)
 * [Maximum sum of distinct subarrays with length k](../Solutions/M/maximum-sum-of-distinct-subarrays-with-length-k)
+* [Minimum difference between highest and lowest of k scores](../Solutions/M/minimum-difference-between-highest-and-lowest-of-k-scores)
 * [Minimum moves to pick k ones](../Solutions/M/minimum-moves-to-pick-k-ones)
 * [Minimum number of operations to make array continuous](../Solutions/M/minimum-number-of-operations-to-make-array-continuous)
 * [Minimum operations to reduce x to zero](../Solutions/M/minimum-operations-to-reduce-x-to-zero)
