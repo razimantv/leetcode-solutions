@@ -77,6 +77,7 @@
 * [Find minimum time to reach last room ii](../Solutions/F/find-minimum-time-to-reach-last-room-ii)
 * [Find x sum of all k long subarrays i](../Solutions/F/find-x-sum-of-all-k-long-subarrays-i)
 * [Find x sum of all k long subarrays ii](../Solutions/F/find-x-sum-of-all-k-long-subarrays-ii)
+* [Minimum cost path with edge reversals](../Solutions/M/minimum-cost-path-with-edge-reversals)
 
 ## <a id="key-update-using-insert-and-remove-on-c---set">Key update using insert and remove on C++ set</a>
 * [Count zero request servers](../Solutions/C/count-zero-request-servers)
@@ -105,4 +106,5 @@
 * [Find x sum of all k long subarrays i](../Solutions/F/find-x-sum-of-all-k-long-subarrays-i)
 * [Find x sum of all k long subarrays ii](../Solutions/F/find-x-sum-of-all-k-long-subarrays-ii)
 * [K th nearest obstacle queries](../Solutions/K/k-th-nearest-obstacle-queries)
+* [Minimum cost path with edge reversals](../Solutions/M/minimum-cost-path-with-edge-reversals)
 * [Minimum pair removal to sort array ii](../Solutions/M/minimum-pair-removal-to-sort-array-ii)

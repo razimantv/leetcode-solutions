@@ -156,6 +156,7 @@
 * [Find minimum time to reach last room i](../Solutions/F/find-minimum-time-to-reach-last-room-i)
 * [Find minimum time to reach last room ii](../Solutions/F/find-minimum-time-to-reach-last-room-ii)
 * [Minimum cost of a path with special roads](../Solutions/M/minimum-cost-of-a-path-with-special-roads)
+* [Minimum cost path with edge reversals](../Solutions/M/minimum-cost-path-with-edge-reversals)
 * [Minimum time to visit a cell in a grid](../Solutions/M/minimum-time-to-visit-a-cell-in-a-grid)
 * [Minimum time to visit disappearing nodes](../Solutions/M/minimum-time-to-visit-disappearing-nodes)
 * [Modify graph edge weights](../Solutions/M/modify-graph-edge-weights)
