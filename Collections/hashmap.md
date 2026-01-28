@@ -265,6 +265,7 @@
 * [Max pair sum in an array](../Solutions/M/max-pair-sum-in-an-array)
 * [Maximum area rectangle with point constraints i](../Solutions/M/maximum-area-rectangle-with-point-constraints-i)
 * [Maximum area rectangle with point constraints ii](../Solutions/M/maximum-area-rectangle-with-point-constraints-ii)
+* [Minimum cost path with teleportations](../Solutions/M/minimum-cost-path-with-teleportations)
 * [Minimum seconds to equalize a circular array](../Solutions/M/minimum-seconds-to-equalize-a-circular-array)
 * [Number of good paths](../Solutions/N/number-of-good-paths)
 * [Remove letter to equalize frequency](../Solutions/R/remove-letter-to-equalize-frequency)
