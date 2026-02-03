@@ -84,6 +84,7 @@
 * [Smallest substring with identical characters ii](../Solutions/S/smallest-substring-with-identical-characters-ii)
 * [String compression iii](../Solutions/S/string-compression-iii)
 * [The number of weak characters in the game](../Solutions/T/the-number-of-weak-characters-in-the-game)
+* [Trionic array i](../Solutions/T/trionic-array-i)
 
 ## <a id="cyclic-array">Cyclic array</a>
 * [Alternating groups i](../Solutions/A/alternating-groups-i)
