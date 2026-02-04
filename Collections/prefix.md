@@ -120,6 +120,7 @@
 * [Subarray sums divisible by k](../Solutions/S/subarray-sums-divisible-by-k)
 * [Substring with largest variance](../Solutions/S/substring-with-largest-variance)
 * [Sum of absolute differences in a sorted array](../Solutions/S/sum-of-absolute-differences-in-a-sorted-array)
+* [Trionic array ii](../Solutions/T/trionic-array-ii)
 
 ### <a id="2d">2D</a>
 * [Construct product matrix](../Solutions/C/construct-product-matrix)

@@ -82,6 +82,7 @@
 * [Stone game iii](../Solutions/S/stone-game-iii)
 * [Strange printer](../Solutions/S/strange-printer)
 * [The number of beautiful subsets](../Solutions/T/the-number-of-beautiful-subsets)
+* [Trionic array ii](../Solutions/T/trionic-array-ii)
 * [Ways to express an integer as sum of powers](../Solutions/W/ways-to-express-an-integer-as-sum-of-powers)
 
 ## <a id="array-reuse">Array reuse</a>

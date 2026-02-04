@@ -85,6 +85,7 @@
 * [String compression iii](../Solutions/S/string-compression-iii)
 * [The number of weak characters in the game](../Solutions/T/the-number-of-weak-characters-in-the-game)
 * [Trionic array i](../Solutions/T/trionic-array-i)
+* [Trionic array ii](../Solutions/T/trionic-array-ii)
 
 ## <a id="cyclic-array">Cyclic array</a>
 * [Alternating groups i](../Solutions/A/alternating-groups-i)

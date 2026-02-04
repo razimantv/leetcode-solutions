@@ -25,6 +25,7 @@
 * [Number of pairs satisfying inequality](../Solutions/N/number-of-pairs-satisfying-inequality)
 * [Peaks in array](../Solutions/P/peaks-in-array)
 * [Range sum query mutable](../Solutions/R/range-sum-query-mutable)
+* [Trionic array ii](../Solutions/T/trionic-array-ii)
 
 ## <a id="lazy-propagation">Lazy propagation</a>
 * [Block placement queries](../Solutions/B/block-placement-queries)
