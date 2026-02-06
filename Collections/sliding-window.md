@@ -59,6 +59,7 @@
 * [Minimum operations to reduce x to zero](../Solutions/M/minimum-operations-to-reduce-x-to-zero)
 * [Minimum recolors to get k consecutive black blocks](../Solutions/M/minimum-recolors-to-get-k-consecutive-black-blocks)
 * [Minimum rectangles to cover points](../Solutions/M/minimum-rectangles-to-cover-points)
+* [Minimum removals to balance array](../Solutions/M/minimum-removals-to-balance-array)
 * [Minimum size subarray sum](../Solutions/M/minimum-size-subarray-sum)
 * [Minimum window substring](../Solutions/M/minimum-window-substring)
 * [Permutation in string](../Solutions/P/permutation-in-string)
