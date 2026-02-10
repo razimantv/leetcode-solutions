@@ -167,6 +167,8 @@
 * [Execution of all suffix instructions staying in a grid](../Solutions/E/execution-of-all-suffix-instructions-staying-in-a-grid)
 * [Find mirror score of a string](../Solutions/F/find-mirror-score-of-a-string)
 * [Largest substring between two equal characters](../Solutions/L/largest-substring-between-two-equal-characters)
+* [Longest balanced subarray i](../Solutions/L/longest-balanced-subarray-i)
+* [Longest balanced subarray ii](../Solutions/L/longest-balanced-subarray-ii)
 * [Make sum divisible by p](../Solutions/M/make-sum-divisible-by-p)
 * [Maximize subarray sum after removing all occurrences of one element](../Solutions/M/maximize-subarray-sum-after-removing-all-occurrences-of-one-element)
 * [Maximize the number of partitions after operations](../Solutions/M/maximize-the-number-of-partitions-after-operations)

@@ -122,3 +122,7 @@
 * [Maximum number of tasks you can assign](../Solutions/M/maximum-number-of-tasks-you-can-assign)
 * [Maximum total reward using operations i](../Solutions/M/maximum-total-reward-using-operations-i)
 * [Maximum total reward using operations ii](../Solutions/M/maximum-total-reward-using-operations-ii)
+
+## <a id="segment-tree">Segment tree</a>
+* [Longest balanced subarray i](../Solutions/L/longest-balanced-subarray-i)
+* [Longest balanced subarray ii](../Solutions/L/longest-balanced-subarray-ii)
