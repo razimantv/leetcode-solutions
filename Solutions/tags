@@ -20,6 +20,7 @@ Binary search>C++ set
 Binary search>Exponential-binary search
 Binary search>Prefix sum
 Binary search>Python SortedList
+Binary search>Segment tree
 Bitwise operation
 Bitwise operation>Build result bit-by-bit
 Bitwise operation>Self-inverse property of xor
@@ -203,6 +204,7 @@ Quick Select
 Range updates using prefix sum
 Search by iterative bound improvement
 Segment tree
+Segment tree>Binary search
 Segment tree>Lazy propagation
 Simple implementation
 Sliding window
