@@ -169,6 +169,7 @@
 * [Largest substring between two equal characters](../Solutions/L/largest-substring-between-two-equal-characters)
 * [Longest balanced subarray i](../Solutions/L/longest-balanced-subarray-i)
 * [Longest balanced subarray ii](../Solutions/L/longest-balanced-subarray-ii)
+* [Longest balanced substring ii](../Solutions/L/longest-balanced-substring-ii)
 * [Make sum divisible by p](../Solutions/M/make-sum-divisible-by-p)
 * [Maximize subarray sum after removing all occurrences of one element](../Solutions/M/maximize-subarray-sum-after-removing-all-occurrences-of-one-element)
 * [Maximize the number of partitions after operations](../Solutions/M/maximize-the-number-of-partitions-after-operations)

@@ -68,6 +68,7 @@
 * [Gas station](../Solutions/G/gas-station)
 * [Grid game](../Solutions/G/grid-game)
 * [Left and right sum differences](../Solutions/L/left-and-right-sum-differences)
+* [Longest balanced substring ii](../Solutions/L/longest-balanced-substring-ii)
 * [Longest special path](../Solutions/L/longest-special-path)
 * [Longest subsequence with limited sum](../Solutions/L/longest-subsequence-with-limited-sum)
 * [Longest valid parentheses](../Solutions/L/longest-valid-parentheses)

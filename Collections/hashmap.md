@@ -78,6 +78,7 @@
 * [Length of longest subarray with at most k frequency](../Solutions/L/length-of-longest-subarray-with-at-most-k-frequency)
 * [Lexicographically minimum string after removing stars](../Solutions/L/lexicographically-minimum-string-after-removing-stars)
 * [Longest arithmetic subsequence of given difference](../Solutions/L/longest-arithmetic-subsequence-of-given-difference)
+* [Longest balanced substring ii](../Solutions/L/longest-balanced-substring-ii)
 * [Longest consecutive sequence](../Solutions/L/longest-consecutive-sequence)
 * [Longest nice subarray](../Solutions/L/longest-nice-subarray)
 * [Longest palindrome by concatenating two letter words](../Solutions/L/longest-palindrome-by-concatenating-two-letter-words)
