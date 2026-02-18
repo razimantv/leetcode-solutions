@@ -2,6 +2,7 @@
 # <a id="bitwise-operation">Bitwise operation</a>
 * [Apply bitwise operations to make strings equal](../Solutions/A/apply-bitwise-operations-to-make-strings-equal)
 * [Apply operations on array to maximize sum of squares](../Solutions/A/apply-operations-on-array-to-maximize-sum-of-squares)
+* [Binary number with alternating bits](../Solutions/B/binary-number-with-alternating-bits)
 * [Binary watch](../Solutions/B/binary-watch)
 * [Bitwise and of numbers range](../Solutions/B/bitwise-and-of-numbers-range)
 * [Bitwise ors of subarrays](../Solutions/B/bitwise-ors-of-subarrays)
