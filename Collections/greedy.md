@@ -181,6 +181,7 @@
 * [Smallest missing non negative integer after operations](../Solutions/S/smallest-missing-non-negative-integer-after-operations)
 * [Smallest substring with identical characters i](../Solutions/S/smallest-substring-with-identical-characters-i)
 * [Smallest substring with identical characters ii](../Solutions/S/smallest-substring-with-identical-characters-ii)
+* [Special binary string](../Solutions/S/special-binary-string)
 * [Split array largest sum](../Solutions/S/split-array-largest-sum)
 * [Split with minimum sum](../Solutions/S/split-with-minimum-sum)
 * [Zero array transformation iii](../Solutions/Z/zero-array-transformation-iii)
