@@ -12,6 +12,7 @@
 * [Average value of even numbers that are divisible by three](../Solutions/A/average-value-of-even-numbers-that-are-divisible-by-three)
 * [Beautiful towers i](../Solutions/B/beautiful-towers-i)
 * [Best poker hand](../Solutions/B/best-poker-hand)
+* [Binary gap](../Solutions/B/binary-gap)
 * [Bulls and cows](../Solutions/B/bulls-and-cows)
 * [Calculate amount paid in taxes](../Solutions/C/calculate-amount-paid-in-taxes)
 * [Calculate delayed arrival time](../Solutions/C/calculate-delayed-arrival-time)
