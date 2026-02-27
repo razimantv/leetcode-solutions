@@ -329,6 +329,7 @@
 * [Count partitions with even sum difference](../Solutions/C/count-partitions-with-even-sum-difference)
 * [Maximum difference between even and odd frequency ii](../Solutions/M/maximum-difference-between-even-and-odd-frequency-ii)
 * [Minimum number of flips to make binary grid palindromic ii](../Solutions/M/minimum-number-of-flips-to-make-binary-grid-palindromic-ii)
+* [Minimum operations to equalize binary string](../Solutions/M/minimum-operations-to-equalize-binary-string)
 * [Minimum reverse operations](../Solutions/M/minimum-reverse-operations)
 * [Number of sub arrays with odd sum](../Solutions/N/number-of-sub-arrays-with-odd-sum)
 

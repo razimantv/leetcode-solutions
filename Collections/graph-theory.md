@@ -27,6 +27,7 @@
 * [Minimum moves to capture the queen](../Solutions/M/minimum-moves-to-capture-the-queen)
 * [Minimum number of visited cells in a grid](../Solutions/M/minimum-number-of-visited-cells-in-a-grid)
 * [Minimum operations to convert number](../Solutions/M/minimum-operations-to-convert-number)
+* [Minimum operations to equalize binary string](../Solutions/M/minimum-operations-to-equalize-binary-string)
 * [Minimum reverse operations](../Solutions/M/minimum-reverse-operations)
 * [Nearest exit from entrance in maze](../Solutions/N/nearest-exit-from-entrance-in-maze)
 * [Open the lock](../Solutions/O/open-the-lock)
