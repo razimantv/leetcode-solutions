@@ -151,6 +151,7 @@
 * [Minimum replacements to sort the array](../Solutions/M/minimum-replacements-to-sort-the-array)
 * [Minimum score by changing two elements](../Solutions/M/minimum-score-by-changing-two-elements)
 * [Minimum sum of squared difference](../Solutions/M/minimum-sum-of-squared-difference)
+* [Minimum swaps to arrange a binary grid](../Solutions/M/minimum-swaps-to-arrange-a-binary-grid)
 * [Minimum time to complete all tasks](../Solutions/M/minimum-time-to-complete-all-tasks)
 * [Minimum time to make array sum at most x](../Solutions/M/minimum-time-to-make-array-sum-at-most-x)
 * [Minimum total cost to make arrays unequal](../Solutions/M/minimum-total-cost-to-make-arrays-unequal)

@@ -14,6 +14,7 @@
 * [Maximum strictly increasing cells in a matrix](../Solutions/M/maximum-strictly-increasing-cells-in-a-matrix)
 * [Minimum number of flips to make binary grid palindromic i](../Solutions/M/minimum-number-of-flips-to-make-binary-grid-palindromic-i)
 * [Minimum number of flips to make binary grid palindromic ii](../Solutions/M/minimum-number-of-flips-to-make-binary-grid-palindromic-ii)
+* [Minimum swaps to arrange a binary grid](../Solutions/M/minimum-swaps-to-arrange-a-binary-grid)
 * [Modify the matrix](../Solutions/M/modify-the-matrix)
 * [Regions cut by slashes](../Solutions/R/regions-cut-by-slashes)
 * [Right triangles](../Solutions/R/right-triangles)
