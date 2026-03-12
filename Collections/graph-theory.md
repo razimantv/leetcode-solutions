@@ -191,6 +191,9 @@
 ## <a id="iterative-leaf-removal">Iterative leaf removal</a>
 * [Collect coins in a tree](../Solutions/C/collect-coins-in-a-tree)
 
+## <a id="kruskal-s-algorithm">Kruskal's algorithm</a>
+* [Maximize spanning tree stability with upgrades](../Solutions/M/maximize-spanning-tree-stability-with-upgrades)
+
 ## <a id="lewel-wise-processing">Lewel-wise processing</a>
 * [Maximum strictly increasing cells in a matrix](../Solutions/M/maximum-strictly-increasing-cells-in-a-matrix)
 
@@ -200,6 +203,7 @@
 
 ## <a id="minimum-spanning-tree">Minimum spanning tree</a>
 * [Find critical and pseudo critical edges in minimum spanning tree](../Solutions/F/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree)
+* [Maximize spanning tree stability with upgrades](../Solutions/M/maximize-spanning-tree-stability-with-upgrades)
 * [Min cost to connect all points](../Solutions/M/min-cost-to-connect-all-points)
 
 ## <a id="multi-source-search">Multi source search</a>

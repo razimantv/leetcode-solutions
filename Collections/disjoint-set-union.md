@@ -11,6 +11,7 @@
 * [Largest component size by common factor](../Solutions/L/largest-component-size-by-common-factor)
 * [Last day where you can still cross](../Solutions/L/last-day-where-you-can-still-cross)
 * [Lexicographically smallest equivalent string](../Solutions/L/lexicographically-smallest-equivalent-string)
+* [Maximize spanning tree stability with upgrades](../Solutions/M/maximize-spanning-tree-stability-with-upgrades)
 * [Maximum segment sum after removals](../Solutions/M/maximum-segment-sum-after-removals)
 * [Min cost to connect all points](../Solutions/M/min-cost-to-connect-all-points)
 * [Minimum cost walk in weighted graph](../Solutions/M/minimum-cost-walk-in-weighted-graph)

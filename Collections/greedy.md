@@ -65,6 +65,7 @@
 * [Maximize greatness of an array](../Solutions/M/maximize-greatness-of-an-array)
 * [Maximize happiness of selected children](../Solutions/M/maximize-happiness-of-selected-children)
 * [Maximize score of numbers in ranges](../Solutions/M/maximize-score-of-numbers-in-ranges)
+* [Maximize spanning tree stability with upgrades](../Solutions/M/maximize-spanning-tree-stability-with-upgrades)
 * [Maximize sum of weights after edge removals](../Solutions/M/maximize-sum-of-weights-after-edge-removals)
 * [Maximize the minimum game score](../Solutions/M/maximize-the-minimum-game-score)
 * [Maximize the minimum powered city](../Solutions/M/maximize-the-minimum-powered-city)
