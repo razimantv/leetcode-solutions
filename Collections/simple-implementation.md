@@ -147,6 +147,7 @@
 * [Merge strings alternately](../Solutions/M/merge-strings-alternately)
 * [Merge triplets to form target triplet](../Solutions/M/merge-triplets-to-form-target-triplet)
 * [Min max game](../Solutions/M/min-max-game)
+* [Minimum absolute difference in sliding submatrix](../Solutions/M/minimum-absolute-difference-in-sliding-submatrix)
 * [Minimum amount of time to fill cups](../Solutions/M/minimum-amount-of-time-to-fill-cups)
 * [Minimum average of smallest and largest elements](../Solutions/M/minimum-average-of-smallest-and-largest-elements)
 * [Minimum changes to make alternating binary string](../Solutions/M/minimum-changes-to-make-alternating-binary-string)
