@@ -23,6 +23,7 @@
 ## <a id="geometric-transformation">Geometric transformation</a>
 * [Determine whether matrix can be obtained by rotation](../Solutions/D/determine-whether-matrix-can-be-obtained-by-rotation)
 * [Equal row and column pairs](../Solutions/E/equal-row-and-column-pairs)
+* [Flip square submatrix vertically](../Solutions/F/flip-square-submatrix-vertically)
 * [Image overlap](../Solutions/I/image-overlap)
 
 ## <a id="path">Path</a>
