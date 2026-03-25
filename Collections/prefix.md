@@ -55,6 +55,7 @@
 * [Count vowel strings in ranges](../Solutions/C/count-vowel-strings-in-ranges)
 * [Defuse the bomb](../Solutions/D/defuse-the-bomb)
 * [Delivering boxes from storage to ports](../Solutions/D/delivering-boxes-from-storage-to-ports)
+* [Equal sum grid partition i](../Solutions/E/equal-sum-grid-partition-i)
 * [Execution of all suffix instructions staying in a grid](../Solutions/E/execution-of-all-suffix-instructions-staying-in-a-grid)
 * [Find maximum non decreasing array length](../Solutions/F/find-maximum-non-decreasing-array-length)
 * [Find the count of monotonic pairs i](../Solutions/F/find-the-count-of-monotonic-pairs-i)
