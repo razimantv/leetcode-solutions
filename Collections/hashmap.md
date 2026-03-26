@@ -190,6 +190,7 @@
 * [Delete duplicate folders in system](../Solutions/D/delete-duplicate-folders-in-system)
 * [Divide array in sets of k consecutive numbers](../Solutions/D/divide-array-in-sets-of-k-consecutive-numbers)
 * [Divide array into equal pairs](../Solutions/D/divide-array-into-equal-pairs)
+* [Equal sum grid partition ii](../Solutions/E/equal-sum-grid-partition-ii)
 * [Find common characters](../Solutions/F/find-common-characters)
 * [Find lucky integer in an array](../Solutions/F/find-lucky-integer-in-an-array)
 * [Find most frequent vowel and consonant](../Solutions/F/find-most-frequent-vowel-and-consonant)

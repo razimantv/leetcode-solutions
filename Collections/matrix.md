@@ -56,6 +56,7 @@
 * [Number of submatrices that sum to target](../Solutions/N/number-of-submatrices-that-sum-to-target)
 
 ## <a id="subdivision">Subdivision</a>
+* [Equal sum grid partition ii](../Solutions/E/equal-sum-grid-partition-ii)
 * [Find the minimum area to cover all ones ii](../Solutions/F/find-the-minimum-area-to-cover-all-ones-ii)
 
 ## <a id="traversal">Traversal</a>
