@@ -136,6 +136,7 @@
 * [Maximum score from performing multiplication operations](../Solutions/M/maximum-score-from-performing-multiplication-operations)
 * [Maximum strength of k disjoint subarrays](../Solutions/M/maximum-strength-of-k-disjoint-subarrays)
 * [Maximum value of k coins from piles](../Solutions/M/maximum-value-of-k-coins-from-piles)
+* [Maximum walls destroyed by robots](../Solutions/M/maximum-walls-destroyed-by-robots)
 * [Minimum additions to make valid string](../Solutions/M/minimum-additions-to-make-valid-string)
 * [Minimum array sum](../Solutions/M/minimum-array-sum)
 * [Minimum cost path with teleportations](../Solutions/M/minimum-cost-path-with-teleportations)
