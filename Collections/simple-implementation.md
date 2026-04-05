@@ -189,6 +189,7 @@
 * [Remove palindromic subsequences](../Solutions/R/remove-palindromic-subsequences)
 * [Remove trailing zeros from a string](../Solutions/R/remove-trailing-zeros-from-a-string)
 * [Reverse prefix of word](../Solutions/R/reverse-prefix-of-word)
+* [Robot return to origin](../Solutions/R/robot-return-to-origin)
 * [Row with maximum ones](../Solutions/R/row-with-maximum-ones)
 * [Score of a string](../Solutions/S/score-of-a-string)
 * [Separate the digits in an array](../Solutions/S/separate-the-digits-in-an-array)
