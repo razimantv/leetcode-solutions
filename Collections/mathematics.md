@@ -245,6 +245,7 @@
 * [Subarray sums divisible by k](../Solutions/S/subarray-sums-divisible-by-k)
 * [Sum multiples](../Solutions/S/sum-multiples)
 * [The number of beautiful subsets](../Solutions/T/the-number-of-beautiful-subsets)
+* [Walking robot simulation ii](../Solutions/W/walking-robot-simulation-ii)
 
 ### <a id="divisibility">Divisibility</a>
 * [Count substrings divisible by last digit](../Solutions/C/count-substrings-divisible-by-last-digit)
