@@ -216,4 +216,5 @@
 * [Ugly number](../Solutions/U/ugly-number)
 * [Valid word](../Solutions/V/valid-word)
 * [Water bottles ii](../Solutions/W/water-bottles-ii)
+* [Xor after range multiplication queries i](../Solutions/X/xor-after-range-multiplication-queries-i)
 * [Zigzag conversion](../Solutions/Z/zigzag-conversion)
