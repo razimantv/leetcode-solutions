@@ -295,6 +295,7 @@
 * [Minimum number of operations to make string sorted](../Solutions/M/minimum-number-of-operations-to-make-string-sorted)
 * [Number of subsequences that satisfy the given sum condition](../Solutions/N/number-of-subsequences-that-satisfy-the-given-sum-condition)
 * [String transformation](../Solutions/S/string-transformation)
+* [Xor after range multiplication queries ii](../Solutions/X/xor-after-range-multiplication-queries-ii)
 
 ### <a id="prime-sieving">Prime sieving</a>
 * [Apply operations to maximize score](../Solutions/A/apply-operations-to-maximize-score)
@@ -352,6 +353,7 @@
 ## <a id="reduce-problem-dimension-with-proofs">Reduce problem dimension with proofs</a>
 * [Find a good subset of the matrix](../Solutions/F/find-a-good-subset-of-the-matrix)
 * [Soup servings](../Solutions/S/soup-servings)
+* [Xor after range multiplication queries ii](../Solutions/X/xor-after-range-multiplication-queries-ii)
 
 ## <a id="set-theory">Set theory</a>
 * [Find unique binary string](../Solutions/F/find-unique-binary-string)

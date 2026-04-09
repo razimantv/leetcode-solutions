@@ -30,6 +30,9 @@
 ## <a id="of-prefix">Of Prefix</a>
 * [Range sum of sorted subarray sums](../Solutions/R/range-sum-of-sorted-subarray-sums)
 
+## <a id="product">Product</a>
+* [Xor after range multiplication queries ii](../Solutions/X/xor-after-range-multiplication-queries-ii)
+
 ## <a id="sum">Sum</a>
 * [Apply operations to maximize frequency score](../Solutions/A/apply-operations-to-maximize-frequency-score)
 * [Binary subarrays with sum](../Solutions/B/binary-subarrays-with-sum)
