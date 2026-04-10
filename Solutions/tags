@@ -184,6 +184,7 @@ Prefix>Bitwise operation
 Prefix>Extremum
 Prefix>Extremum>2D
 Prefix>Of Prefix
+Prefix>Product
 Prefix>Sum
 Prefix>Sum>2D
 Prefix>Sum>For range updates

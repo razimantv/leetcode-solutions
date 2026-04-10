@@ -173,6 +173,7 @@
 * [Make sum divisible by p](../Solutions/M/make-sum-divisible-by-p)
 * [Maximize subarray sum after removing all occurrences of one element](../Solutions/M/maximize-subarray-sum-after-removing-all-occurrences-of-one-element)
 * [Maximize the number of partitions after operations](../Solutions/M/maximize-the-number-of-partitions-after-operations)
+* [Minimum distance between three equal elements i](../Solutions/M/minimum-distance-between-three-equal-elements-i)
 * [Number of subarrays with bounded maximum](../Solutions/N/number-of-subarrays-with-bounded-maximum)
 * [Number of substrings containing all three characters](../Solutions/N/number-of-substrings-containing-all-three-characters)
 * [Number of ways to divide a long corridor](../Solutions/N/number-of-ways-to-divide-a-long-corridor)
