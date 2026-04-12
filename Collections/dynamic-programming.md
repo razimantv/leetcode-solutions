@@ -140,6 +140,7 @@
 * [Minimum additions to make valid string](../Solutions/M/minimum-additions-to-make-valid-string)
 * [Minimum array sum](../Solutions/M/minimum-array-sum)
 * [Minimum cost path with teleportations](../Solutions/M/minimum-cost-path-with-teleportations)
+* [Minimum distance to type a word using two fingers](../Solutions/M/minimum-distance-to-type-a-word-using-two-fingers)
 * [Minimum division operations to make array non decreasing](../Solutions/M/minimum-division-operations-to-make-array-non-decreasing)
 * [Minimum falling path sum](../Solutions/M/minimum-falling-path-sum)
 * [Minimum falling path sum ii](../Solutions/M/minimum-falling-path-sum-ii)
