@@ -3,6 +3,7 @@
 * [Binary search](../Solutions/B/binary-search)
 * [Block placement queries](../Solutions/B/block-placement-queries)
 * [Capacity to ship packages within d days](../Solutions/C/capacity-to-ship-packages-within-d-days)
+* [Closest equal element queries](../Solutions/C/closest-equal-element-queries)
 * [Construct binary search tree from preorder traversal](../Solutions/C/construct-binary-search-tree-from-preorder-traversal)
 * [Count non decreasing subarrays after k operations](../Solutions/C/count-non-decreasing-subarrays-after-k-operations)
 * [Count partitions with max min difference at most k](../Solutions/C/count-partitions-with-max-min-difference-at-most-k)

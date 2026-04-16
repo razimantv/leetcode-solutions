@@ -260,6 +260,7 @@
 * [Most frequent ids](../Solutions/M/most-frequent-ids)
 
 ## <a id="group-items">Group items</a>
+* [Closest equal element queries](../Solutions/C/closest-equal-element-queries)
 * [Count almost equal pairs ii](../Solutions/C/count-almost-equal-pairs-ii)
 * [Count beautiful splits in an array](../Solutions/C/count-beautiful-splits-in-an-array)
 * [Find the longest equal subarray](../Solutions/F/find-the-longest-equal-subarray)

@@ -92,6 +92,7 @@
 * [Alternating groups ii](../Solutions/A/alternating-groups-ii)
 * [Alternating groups iii](../Solutions/A/alternating-groups-iii)
 * [Check if array is sorted and rotated](../Solutions/C/check-if-array-is-sorted-and-rotated)
+* [Closest equal element queries](../Solutions/C/closest-equal-element-queries)
 * [Defuse the bomb](../Solutions/D/defuse-the-bomb)
 * [Minimum swaps to group all 1s together ii](../Solutions/M/minimum-swaps-to-group-all-1s-together-ii)
 * [Minimum time difference](../Solutions/M/minimum-time-difference)
