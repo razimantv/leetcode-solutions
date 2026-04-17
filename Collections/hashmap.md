@@ -102,6 +102,7 @@
 * [Maximum sum of distinct subarrays with length k](../Solutions/M/maximum-sum-of-distinct-subarrays-with-length-k)
 * [Merge similar items](../Solutions/M/merge-similar-items)
 * [Minimize string length](../Solutions/M/minimize-string-length)
+* [Minimum absolute distance between mirror pairs](../Solutions/M/minimum-absolute-distance-between-mirror-pairs)
 * [Minimum amount of time to collect garbage](../Solutions/M/minimum-amount-of-time-to-collect-garbage)
 * [Minimum array length after pair removals](../Solutions/M/minimum-array-length-after-pair-removals)
 * [Minimum cost to convert string ii](../Solutions/M/minimum-cost-to-convert-string-ii)

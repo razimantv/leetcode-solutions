@@ -174,6 +174,7 @@
 * [Make sum divisible by p](../Solutions/M/make-sum-divisible-by-p)
 * [Maximize subarray sum after removing all occurrences of one element](../Solutions/M/maximize-subarray-sum-after-removing-all-occurrences-of-one-element)
 * [Maximize the number of partitions after operations](../Solutions/M/maximize-the-number-of-partitions-after-operations)
+* [Minimum absolute distance between mirror pairs](../Solutions/M/minimum-absolute-distance-between-mirror-pairs)
 * [Minimum distance between three equal elements i](../Solutions/M/minimum-distance-between-three-equal-elements-i)
 * [Minimum distance between three equal elements ii](../Solutions/M/minimum-distance-between-three-equal-elements-ii)
 * [Number of subarrays with bounded maximum](../Solutions/N/number-of-subarrays-with-bounded-maximum)
