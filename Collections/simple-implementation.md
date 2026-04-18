@@ -160,6 +160,7 @@
 * [Minimum operations to exceed threshold value i](../Solutions/M/minimum-operations-to-exceed-threshold-value-i)
 * [Minimum pair removal to sort array i](../Solutions/M/minimum-pair-removal-to-sort-array-i)
 * [Minimum time visiting all points](../Solutions/M/minimum-time-visiting-all-points)
+* [Mirror distance of an integer](../Solutions/M/mirror-distance-of-an-integer)
 * [Modify the matrix](../Solutions/M/modify-the-matrix)
 * [Most frequent even element](../Solutions/M/most-frequent-even-element)
 * [Next greater element i](../Solutions/N/next-greater-element-i)
