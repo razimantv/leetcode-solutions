@@ -135,6 +135,7 @@
 * [Subsequence with the minimum score](../Solutions/S/subsequence-with-the-minimum-score)
 * [Sum of distances](../Solutions/S/sum-of-distances)
 * [Take k of each character from left and right](../Solutions/T/take-k-of-each-character-from-left-and-right)
+* [Two furthest houses with different colors](../Solutions/T/two-furthest-houses-with-different-colors)
 * [Unique length 3 palindromic subsequences](../Solutions/U/unique-length-3-palindromic-subsequences)
 
 ### <a id="element-exclusion">Element exclusion</a>

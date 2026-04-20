@@ -187,4 +187,5 @@
 * [Special binary string](../Solutions/S/special-binary-string)
 * [Split array largest sum](../Solutions/S/split-array-largest-sum)
 * [Split with minimum sum](../Solutions/S/split-with-minimum-sum)
+* [Two furthest houses with different colors](../Solutions/T/two-furthest-houses-with-different-colors)
 * [Zero array transformation iii](../Solutions/Z/zero-array-transformation-iii)
