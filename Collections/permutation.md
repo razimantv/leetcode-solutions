@@ -5,6 +5,7 @@
 
 ## <a id="cycle">Cycle</a>
 * [Array nesting](../Solutions/A/array-nesting)
+* [Minimize hamming distance after swap operations](../Solutions/M/minimize-hamming-distance-after-swap-operations)
 * [Minimum number of operations to reinitialize a permutation](../Solutions/M/minimum-number-of-operations-to-reinitialize-a-permutation)
 * [Minimum number of operations to sort a binary tree by level](../Solutions/M/minimum-number-of-operations-to-sort-a-binary-tree-by-level)
 

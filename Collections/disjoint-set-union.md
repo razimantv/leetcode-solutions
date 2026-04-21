@@ -14,6 +14,7 @@
 * [Maximize spanning tree stability with upgrades](../Solutions/M/maximize-spanning-tree-stability-with-upgrades)
 * [Maximum segment sum after removals](../Solutions/M/maximum-segment-sum-after-removals)
 * [Min cost to connect all points](../Solutions/M/min-cost-to-connect-all-points)
+* [Minimize hamming distance after swap operations](../Solutions/M/minimize-hamming-distance-after-swap-operations)
 * [Minimum cost walk in weighted graph](../Solutions/M/minimum-cost-walk-in-weighted-graph)
 * [Number of good paths](../Solutions/N/number-of-good-paths)
 * [Number of islands](../Solutions/N/number-of-islands)
