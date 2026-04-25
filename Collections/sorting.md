@@ -56,6 +56,7 @@
 * [Largest number](../Solutions/L/largest-number)
 * [Longest string chain](../Solutions/L/longest-string-chain)
 * [Longest subsequence repeated k times](../Solutions/L/longest-subsequence-repeated-k-times)
+* [Maximize the distance between points on a square](../Solutions/M/maximize-the-distance-between-points-on-a-square)
 * [Maximize the profit as the salesman](../Solutions/M/maximize-the-profit-as-the-salesman)
 * [Maximum length of pair chain](../Solutions/M/maximum-length-of-pair-chain)
 * [Maximum number of points from grid queries](../Solutions/M/maximum-number-of-points-from-grid-queries)

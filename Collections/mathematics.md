@@ -164,6 +164,7 @@
 * [Determine if a cell is reachable at a given time](../Solutions/D/determine-if-a-cell-is-reachable-at-a-given-time)
 * [Largest triangle area](../Solutions/L/largest-triangle-area)
 * [Max points on a line](../Solutions/M/max-points-on-a-line)
+* [Maximize the distance between points on a square](../Solutions/M/maximize-the-distance-between-points-on-a-square)
 * [Maximum area of longest diagonal rectangle](../Solutions/M/maximum-area-of-longest-diagonal-rectangle)
 * [Minimize manhattan distances](../Solutions/M/minimize-manhattan-distances)
 * [Minimum cuts to divide a circle](../Solutions/M/minimum-cuts-to-divide-a-circle)

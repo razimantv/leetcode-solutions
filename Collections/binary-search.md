@@ -46,6 +46,7 @@
 * [Magnetic force between two balls](../Solutions/M/magnetic-force-between-two-balls)
 * [Maximize score of numbers in ranges](../Solutions/M/maximize-score-of-numbers-in-ranges)
 * [Maximize spanning tree stability with upgrades](../Solutions/M/maximize-spanning-tree-stability-with-upgrades)
+* [Maximize the distance between points on a square](../Solutions/M/maximize-the-distance-between-points-on-a-square)
 * [Maximize the minimum game score](../Solutions/M/maximize-the-minimum-game-score)
 * [Maximize the minimum powered city](../Solutions/M/maximize-the-minimum-powered-city)
 * [Maximum candies allocated to k children](../Solutions/M/maximum-candies-allocated-to-k-children)
