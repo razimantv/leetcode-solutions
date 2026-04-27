@@ -27,6 +27,7 @@
 * [Image overlap](../Solutions/I/image-overlap)
 
 ## <a id="path">Path</a>
+* [Check if there is a valid path in a grid](../Solutions/C/check-if-there-is-a-valid-path-in-a-grid)
 * [Count paths with the given xor value](../Solutions/C/count-paths-with-the-given-xor-value)
 * [Disconnect path in a binary matrix by at most one flip](../Solutions/D/disconnect-path-in-a-binary-matrix-by-at-most-one-flip)
 * [Dungeon game](../Solutions/D/dungeon-game)
