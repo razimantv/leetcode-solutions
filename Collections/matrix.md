@@ -39,6 +39,7 @@
 * [Longest increasing path in a matrix](../Solutions/L/longest-increasing-path-in-a-matrix)
 * [Maximum amount of money robot can earn](../Solutions/M/maximum-amount-of-money-robot-can-earn)
 * [Maximum number of moves in a grid](../Solutions/M/maximum-number-of-moves-in-a-grid)
+* [Maximum path score in a grid](../Solutions/M/maximum-path-score-in-a-grid)
 * [Minimum falling path sum](../Solutions/M/minimum-falling-path-sum)
 * [Minimum falling path sum ii](../Solutions/M/minimum-falling-path-sum-ii)
 * [Minimum path sum](../Solutions/M/minimum-path-sum)

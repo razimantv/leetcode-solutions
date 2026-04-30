@@ -130,6 +130,7 @@
 * [Maximum length of repeated subarray](../Solutions/M/maximum-length-of-repeated-subarray)
 * [Maximum multiplication score](../Solutions/M/maximum-multiplication-score)
 * [Maximum number of points with cost](../Solutions/M/maximum-number-of-points-with-cost)
+* [Maximum path score in a grid](../Solutions/M/maximum-path-score-in-a-grid)
 * [Maximum points tourist can earn](../Solutions/M/maximum-points-tourist-can-earn)
 * [Maximum profit from trading stocks with discounts](../Solutions/M/maximum-profit-from-trading-stocks-with-discounts)
 * [Maximum score from grid operations](../Solutions/M/maximum-score-from-grid-operations)
