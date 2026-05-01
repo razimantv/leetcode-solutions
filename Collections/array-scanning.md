@@ -96,6 +96,7 @@
 * [Defuse the bomb](../Solutions/D/defuse-the-bomb)
 * [Minimum swaps to group all 1s together ii](../Solutions/M/minimum-swaps-to-group-all-1s-together-ii)
 * [Minimum time difference](../Solutions/M/minimum-time-difference)
+* [Rotate function](../Solutions/R/rotate-function)
 * [Transformed array](../Solutions/T/transformed-array)
 
 ## <a id="from-both-ends-of-array">From both ends of array</a>
