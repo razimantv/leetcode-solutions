@@ -315,6 +315,7 @@
 * [Maximum element sum of a complete subset of indices](../Solutions/M/maximum-element-sum-of-a-complete-subset-of-indices)
 * [Minimum changes to make k semi palindromes](../Solutions/M/minimum-changes-to-make-k-semi-palindromes)
 * [Minimum division operations to make array non decreasing](../Solutions/M/minimum-division-operations-to-make-array-non-decreasing)
+* [Minimum jumps to reach end via prime teleportation](../Solutions/M/minimum-jumps-to-reach-end-via-prime-teleportation)
 * [Number of different subsequences gcds](../Solutions/N/number-of-different-subsequences-gcds)
 * [Prime pairs with target sum](../Solutions/P/prime-pairs-with-target-sum)
 * [Prime subtraction operation](../Solutions/P/prime-subtraction-operation)
