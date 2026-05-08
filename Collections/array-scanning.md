@@ -113,6 +113,7 @@
 * [Find the distinct difference array](../Solutions/F/find-the-distinct-difference-array)
 * [Find the lexicographically smallest valid sequence](../Solutions/F/find-the-lexicographically-smallest-valid-sequence)
 * [Find the maximum sequence value of array](../Solutions/F/find-the-maximum-sequence-value-of-array)
+* [Jump game ix](../Solutions/J/jump-game-ix)
 * [Largest plus sign](../Solutions/L/largest-plus-sign)
 * [Left and right sum differences](../Solutions/L/left-and-right-sum-differences)
 * [Maximize distance to closest person](../Solutions/M/maximize-distance-to-closest-person)

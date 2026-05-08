@@ -19,6 +19,7 @@
 * [Find the score of all prefixes of an array](../Solutions/F/find-the-score-of-all-prefixes-of-an-array)
 * [Global and local inversions](../Solutions/G/global-and-local-inversions)
 * [Increasing triplet subsequence](../Solutions/I/increasing-triplet-subsequence)
+* [Jump game ix](../Solutions/J/jump-game-ix)
 * [Partition array into disjoint intervals](../Solutions/P/partition-array-into-disjoint-intervals)
 * [Reschedule meetings for maximum free time ii](../Solutions/R/reschedule-meetings-for-maximum-free-time-ii)
 * [Time taken to mark all nodes](../Solutions/T/time-taken-to-mark-all-nodes)
