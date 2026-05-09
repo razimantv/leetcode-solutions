@@ -21,10 +21,14 @@
 * [Sort matrix by diagonals](../Solutions/S/sort-matrix-by-diagonals)
 
 ## <a id="geometric-transformation">Geometric transformation</a>
+* [Cyclically rotating a grid](../Solutions/C/cyclically-rotating-a-grid)
 * [Determine whether matrix can be obtained by rotation](../Solutions/D/determine-whether-matrix-can-be-obtained-by-rotation)
 * [Equal row and column pairs](../Solutions/E/equal-row-and-column-pairs)
 * [Flip square submatrix vertically](../Solutions/F/flip-square-submatrix-vertically)
 * [Image overlap](../Solutions/I/image-overlap)
+
+## <a id="numpy">Numpy</a>
+* [Cyclically rotating a grid](../Solutions/C/cyclically-rotating-a-grid)
 
 ## <a id="path">Path</a>
 * [Check if there is a valid path in a grid](../Solutions/C/check-if-there-is-a-valid-path-in-a-grid)
