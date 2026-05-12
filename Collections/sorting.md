@@ -63,6 +63,7 @@
 * [Maximum profit in job scheduling](../Solutions/M/maximum-profit-in-job-scheduling)
 * [Maximum units on a truck](../Solutions/M/maximum-units-on-a-truck)
 * [Merge k sorted lists](../Solutions/M/merge-k-sorted-lists)
+* [Minimum initial energy to finish tasks](../Solutions/M/minimum-initial-energy-to-finish-tasks)
 * [Minimum number of arrows to burst balloons](../Solutions/M/minimum-number-of-arrows-to-burst-balloons)
 * [Minimum number of taps to open to water a garden](../Solutions/M/minimum-number-of-taps-to-open-to-water-a-garden)
 * [Minimum sum of squared difference](../Solutions/M/minimum-sum-of-squared-difference)
