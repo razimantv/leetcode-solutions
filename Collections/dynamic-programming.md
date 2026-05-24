@@ -317,6 +317,7 @@
 * [Find all possible recipes from given supplies](../Solutions/F/find-all-possible-recipes-from-given-supplies)
 * [Find sum of array product of magical sequences](../Solutions/F/find-sum-of-array-product-of-magical-sequences)
 * [Find the minimum cost array permutation](../Solutions/F/find-the-minimum-cost-array-permutation)
+* [Jump game v](../Solutions/J/jump-game-v)
 * [Length of longest fibonacci subsequence](../Solutions/L/length-of-longest-fibonacci-subsequence)
 * [Length of longest v shaped diagonal segment](../Solutions/L/length-of-longest-v-shaped-diagonal-segment)
 * [Letter tile possibilities](../Solutions/L/letter-tile-possibilities)
