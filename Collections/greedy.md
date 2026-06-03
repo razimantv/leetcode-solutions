@@ -22,6 +22,7 @@
 * [Divide array into arrays with max difference](../Solutions/D/divide-array-into-arrays-with-max-difference)
 * [Dota2 senate](../Solutions/D/dota2-senate)
 * [Earliest finish time for land and water rides i](../Solutions/E/earliest-finish-time-for-land-and-water-rides-i)
+* [Earliest finish time for land and water rides ii](../Solutions/E/earliest-finish-time-for-land-and-water-rides-ii)
 * [Earliest possible day of full bloom](../Solutions/E/earliest-possible-day-of-full-bloom)
 * [Earliest second to mark indices i](../Solutions/E/earliest-second-to-mark-indices-i)
 * [Earliest second to mark indices ii](../Solutions/E/earliest-second-to-mark-indices-ii)
