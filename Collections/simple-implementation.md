@@ -215,6 +215,7 @@
 * [Time needed to buy tickets](../Solutions/T/time-needed-to-buy-tickets)
 * [Toeplitz matrix](../Solutions/T/toeplitz-matrix)
 * [Total distance traveled](../Solutions/T/total-distance-traveled)
+* [Total waviness of numbers in range i](../Solutions/T/total-waviness-of-numbers-in-range-i)
 * [Ugly number](../Solutions/U/ugly-number)
 * [Valid word](../Solutions/V/valid-word)
 * [Water bottles ii](../Solutions/W/water-bottles-ii)
