@@ -130,6 +130,7 @@
 * [Sum of good subsequences](../Solutions/S/sum-of-good-subsequences)
 * [The k th lexicographical string of all happy strings of length n](../Solutions/T/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n)
 * [The number of beautiful subsets](../Solutions/T/the-number-of-beautiful-subsets)
+* [Total waviness of numbers in range ii](../Solutions/T/total-waviness-of-numbers-in-range-ii)
 * [Tuple with same product](../Solutions/T/tuple-with-same-product)
 * [Ways to split array into good subarrays](../Solutions/W/ways-to-split-array-into-good-subarrays)
 

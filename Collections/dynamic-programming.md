@@ -228,6 +228,7 @@
 * [Number of digit one](../Solutions/N/number-of-digit-one)
 * [Numbers at most n given digit set](../Solutions/N/numbers-at-most-n-given-digit-set)
 * [Smallest divisible digit product ii](../Solutions/S/smallest-divisible-digit-product-ii)
+* [Total waviness of numbers in range ii](../Solutions/T/total-waviness-of-numbers-in-range-ii)
 
 ## <a id="element-with-special-meaning">Element with special meaning</a>
 * [Make array strictly increasing](../Solutions/M/make-array-strictly-increasing)
@@ -335,6 +336,7 @@
 * [Predict the winner](../Solutions/P/predict-the-winner)
 * [Select cells in grid with maximum score](../Solutions/S/select-cells-in-grid-with-maximum-score)
 * [Shortest common supersequence](../Solutions/S/shortest-common-supersequence)
+* [Total waviness of numbers in range ii](../Solutions/T/total-waviness-of-numbers-in-range-ii)
 
 ## <a id="monotonic-stack-deque">Monotonic stack/deque</a>
 * [Find maximum non decreasing array length](../Solutions/F/find-maximum-non-decreasing-array-length)
