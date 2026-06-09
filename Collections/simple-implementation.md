@@ -143,6 +143,7 @@
 * [Maximum score after splitting a string](../Solutions/M/maximum-score-after-splitting-a-string)
 * [Maximum star sum of a graph](../Solutions/M/maximum-star-sum-of-a-graph)
 * [Maximum sum of an hourglass](../Solutions/M/maximum-sum-of-an-hourglass)
+* [Maximum total subarray value i](../Solutions/M/maximum-total-subarray-value-i)
 * [Maximum value of a string in an array](../Solutions/M/maximum-value-of-a-string-in-an-array)
 * [Merge strings alternately](../Solutions/M/merge-strings-alternately)
 * [Merge triplets to form target triplet](../Solutions/M/merge-triplets-to-form-target-triplet)
