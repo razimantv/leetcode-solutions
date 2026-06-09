@@ -57,6 +57,7 @@
 * [Maximum number of robots within budget](../Solutions/M/maximum-number-of-robots-within-budget)
 * [Maximum running time of n computers](../Solutions/M/maximum-running-time-of-n-computers)
 * [Maximum tastiness of candy basket](../Solutions/M/maximum-tastiness-of-candy-basket)
+* [Maximum total subarray value ii](../Solutions/M/maximum-total-subarray-value-ii)
 * [Maximum value at a given index in a bounded array](../Solutions/M/maximum-value-at-a-given-index-in-a-bounded-array)
 * [Maximum walls destroyed by robots](../Solutions/M/maximum-walls-destroyed-by-robots)
 * [Maximum width ramp](../Solutions/M/maximum-width-ramp)

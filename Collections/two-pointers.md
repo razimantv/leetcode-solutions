@@ -9,6 +9,7 @@
 * [Find the longest semi repetitive substring](../Solutions/F/find-the-longest-semi-repetitive-substring)
 * [Make lexicographically smallest array by swapping elements](../Solutions/M/make-lexicographically-smallest-array-by-swapping-elements)
 * [Maximize greatness of an array](../Solutions/M/maximize-greatness-of-an-array)
+* [Maximum total subarray value ii](../Solutions/M/maximum-total-subarray-value-ii)
 * [Merge two 2d arrays by summing values](../Solutions/M/merge-two-2d-arrays-by-summing-values)
 * [Minimum common value](../Solutions/M/minimum-common-value)
 * [Minimum length of string after deleting similar ends](../Solutions/M/minimum-length-of-string-after-deleting-similar-ends)
