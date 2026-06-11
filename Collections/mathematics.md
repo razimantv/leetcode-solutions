@@ -117,6 +117,7 @@
 * [Number of subsequences that satisfy the given sum condition](../Solutions/N/number-of-subsequences-that-satisfy-the-given-sum-condition)
 * [Number of substrings containing all three characters](../Solutions/N/number-of-substrings-containing-all-three-characters)
 * [Number of substrings with only 1s](../Solutions/N/number-of-substrings-with-only-1s)
+* [Number of ways to assign edge weights i](../Solutions/N/number-of-ways-to-assign-edge-weights-i)
 * [Number of ways to divide a long corridor](../Solutions/N/number-of-ways-to-divide-a-long-corridor)
 * [Number of ways to reach a position after exactly k steps](../Solutions/N/number-of-ways-to-reach-a-position-after-exactly-k-steps)
 * [Number of ways to rearrange sticks with k sticks visible](../Solutions/N/number-of-ways-to-rearrange-sticks-with-k-sticks-visible)
