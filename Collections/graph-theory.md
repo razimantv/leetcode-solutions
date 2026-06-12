@@ -113,6 +113,7 @@
 * [Number of increasing paths in a grid](../Solutions/N/number-of-increasing-paths-in-a-grid)
 * [Number of nodes in the sub tree with the same label](../Solutions/N/number-of-nodes-in-the-sub-tree-with-the-same-label)
 * [Number of ways to assign edge weights i](../Solutions/N/number-of-ways-to-assign-edge-weights-i)
+* [Number of ways to assign edge weights ii](../Solutions/N/number-of-ways-to-assign-edge-weights-ii)
 * [Reachable nodes with restrictions](../Solutions/R/reachable-nodes-with-restrictions)
 * [Remove methods from project](../Solutions/R/remove-methods-from-project)
 * [Reorder routes to make all paths lead to the city zero](../Solutions/R/reorder-routes-to-make-all-paths-lead-to-the-city-zero)
@@ -202,6 +203,7 @@
 
 ## <a id="lowest-common-ancestor">Lowest common ancestor</a>
 * [Minimum edge weight equilibrium queries in a tree](../Solutions/M/minimum-edge-weight-equilibrium-queries-in-a-tree)
+* [Number of ways to assign edge weights ii](../Solutions/N/number-of-ways-to-assign-edge-weights-ii)
 * [Step by step directions from a binary tree node to another](../Solutions/S/step-by-step-directions-from-a-binary-tree-node-to-another)
 
 ## <a id="minimum-spanning-tree">Minimum spanning tree</a>
