@@ -145,3 +145,4 @@ public:
 * [Binary lifting](/Collections/binary-lifting.md#binary-lifting)
 * [Graph theory](/Collections/graph-theory.md#graph-theory) > [Depth first search](/Collections/graph-theory.md#depth-first-search)
 * [Graph theory](/Collections/graph-theory.md#graph-theory) > [Lowest common ancestor](/Collections/graph-theory.md#lowest-common-ancestor)
+* [Tutorials](/Collections/tutorials.md#tutorials)

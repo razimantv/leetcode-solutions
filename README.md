@@ -3,6 +3,9 @@ My topic-wise collection of LeetCode problems and solutions
 
 ## Collected problems by topic
 Click on the topic collections to access subtopics, problems, and solutions
+
+* **[Solutions with tutorials](/Collections/tutorials.md)**
+
 ### Algorithms
 #### Common
 * [Array scanning](/Collections/array-scanning.md)

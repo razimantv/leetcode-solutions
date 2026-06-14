@@ -71,3 +71,4 @@ class Solution:
 ## Tags
 
 * [Palindrome](/Collections/palindrome.md#palindrome)
+* [Tutorials](/Collections/tutorials.md#tutorials)

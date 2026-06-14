@@ -60,3 +60,4 @@ class Solution:
 
 * [Hashmap](/Collections/hashmap.md#hashmap) > [Counter](/Collections/hashmap.md#counter)
 * [Greedy](/Collections/greedy.md#greedy)
+* [Tutorials](/Collections/tutorials.md#tutorials)

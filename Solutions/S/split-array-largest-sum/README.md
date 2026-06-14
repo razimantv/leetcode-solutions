@@ -96,3 +96,4 @@ class Solution {
 
 * [Binary search](/Collections/binary-search.md#binary-search)
 * [Greedy](/Collections/greedy.md#greedy)
+* [Tutorials](/Collections/tutorials.md#tutorials)

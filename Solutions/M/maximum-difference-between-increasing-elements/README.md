@@ -49,3 +49,4 @@ class Solution:
 ## Tags
 
 * [Array scanning](/Collections/array-scanning.md#array-scanning)
+* [Tutorials](/Collections/tutorials.md#tutorials)

@@ -74,3 +74,4 @@ class Solution:
 * [String](/Collections/string.md#string) > [Subsequence](/Collections/string.md#subsequence)
 * [Hashmap](/Collections/hashmap.md#hashmap) > [Counter](/Collections/hashmap.md#counter)
 * [Sorting](/Collections/sorting.md#sorting) > [Custom](/Collections/sorting.md#custom)
+* [Tutorials](/Collections/tutorials.md#tutorials)
