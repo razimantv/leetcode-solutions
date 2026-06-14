@@ -2,6 +2,56 @@
 
 [Problem link](https://leetcode.com/problems/maximum-total-subarray-value-ii/)
 
+We need to find the sum of the values of the $k$ subarrays that have the largest values (that is, difference between its maximum and minimum elements): $\text{val}(S) = \max(S) - \min(S)$.
+Since the number of subarrays is $O(N^2)$, we cannot iterate through all of them. We need a more efficient approach combining **Binary Search on the Answer**, **Monotonic Stacks**, and **Two Pointers**.
+
+## Key Observations
+
+1.  **Monotonicity of Subarray Value**: For a fixed ending position $i$, as we move the starting position $j$ further to the left (from $i$ down to $0$), the subarray $[j, i]$ grows. As a subarray grows, its maximum can only increase (or stay the same) and its minimum can only decrease (or stay the same). Therefore, the value $V(j, i) = \max - \min$ is **non-decreasing** as $j$ decreases.
+2.  **Binary Search on the Threshold**: To find the sum of the top $k$ values, we can binary search for a threshold $X$ such that there are at least $k$ subarrays with a value $\ge X$.
+3.  **Separating Max/Min**: The sum of values $(\max - \min)$ over a set of subarrays can be computed as $(\sum \max) - (\sum \min)$. As the sums for max and min get separated, we can use monotonic stacks to solve the problem.
+
+## Algorithm
+
+We search for the largest value `diff` such that the number of subarrays with $\max - \min \ge \text{diff}$ is at least $k$.
+
+- **Range**: `[0, max(nums) - min(nums)]`.
+- **Predicate**: A helper function `work(diff)` that returns the count of subarrays with value $\ge \text{diff}$. We will also find the sum of their values efficiently in this function.
+
+For each index $i$ (treating it as the end of a subarray), we want to find how many starting indices $j \in [0, i]$ satisfy $V(j, i) \ge \text{diff}$. We will use monotonic stacks to solve this.
+
+### Monotonic Stacks and Prefix Sums
+We maintain two monotonic stacks:
+
+- `monoinc`: Indices of elements in increasing order (to track minimums).
+- `monodec`: Indices of elements in decreasing order (to track maxima).
+
+We also maintain `incsum` and `decsum` to store the sum of minimums and maxima of all subarrays ending at $i$. When a new element $x$ is processed:
+
+- If $x$ is smaller than previous elements, it "takes over" their ranges as the new minimum. 
+- The sum of minimums for all $j \in [0, i]$ ending at $i$ is updated: `new_sum = old_sum + (i - last_index) * x`.
+
+`monodec` and `decsum` are updated similarly for maxima.
+
+### Two Pointers for the Threshold
+Because $V(j, i)$ is monotonic with respect to $j$, there exists a boundary `last` such that for all $j \le \text{last}$, $V(j, i) \ge \text{diff}$. 
+
+- As $i$ increases, `last` also moves to the right.
+- We use two pointers (`p1` and `p2`) to traverse the monotonic stacks to find the first index where the difference between the max (from `monodec`) and min (from `monoinc`) is at least `diff`.
+
+The position of `last` determines the number of valid starting indices if the endpoint is $i$, and we can use the prefix sums to compute the total sum of $(\max - \min)$ for these subarrays. Adding up the contributions for all $i$ gives us the total count and sum of subarrays with value $\ge \text{diff}$.
+
+Since multiple subarrays might have the same value as our threshold `start`, the binary search might find `cnt > k`. 
+We need to be careful to remove the "excess" subarrays from the final sum.
+
+## Complexity Analysis
+
+-   **Time Complexity**: 
+    -   The `work` function runs in $O(N)$ time. Each element is pushed and popped from the monotonic stacks at most once. The pointers `p1`, `p2`, and `last` only move forward.
+    -   The binary search takes $O(\log(\max(nums)))$ steps.
+    -   **Total**: $O(N \log (\text{MaxDiff}))$, where $N$ is the length of the array.
+-   **Space Complexity**: $O(N)$ to store the monotonic stacks and prefix sum arrays.
+
 ## Solutions
 
 
