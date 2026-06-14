@@ -195,7 +195,7 @@
 * [Find common characters](../Solutions/F/find-common-characters)
 * [Find lucky integer in an array](../Solutions/F/find-lucky-integer-in-an-array)
 * [Find most frequent vowel and consonant](../Solutions/F/find-most-frequent-vowel-and-consonant)
-* [Find subsequence of length k with the largest sum](../Solutions/F/find-subsequence-of-length-k-with-the-largest-sum)
+* [Find subsequence of length k with the largest sum](../Solutions/F/find-subsequence-of-length-k-with-the-largest-sum) ⭐ 
 * [Find the count of good integers](../Solutions/F/find-the-count-of-good-integers)
 * [Find the maximum number of elements in subset](../Solutions/F/find-the-maximum-number-of-elements-in-subset)
 * [Find the number of good pairs i](../Solutions/F/find-the-number-of-good-pairs-i)
@@ -209,7 +209,7 @@
 * [Largest combination with bitwise and greater than zero](../Solutions/L/largest-combination-with-bitwise-and-greater-than-zero)
 * [Least number of unique integers after k removals](../Solutions/L/least-number-of-unique-integers-after-k-removals)
 * [Longest balanced substring i](../Solutions/L/longest-balanced-substring-i)
-* [Longest subsequence repeated k times](../Solutions/L/longest-subsequence-repeated-k-times)
+* [Longest subsequence repeated k times](../Solutions/L/longest-subsequence-repeated-k-times) ⭐ 
 * [Maximum difference between even and odd frequency i](../Solutions/M/maximum-difference-between-even-and-odd-frequency-i)
 * [Maximum frequency after subarray operation](../Solutions/M/maximum-frequency-after-subarray-operation)
 * [Maximum length substring with two occurrences](../Solutions/M/maximum-length-substring-with-two-occurrences)

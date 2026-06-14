@@ -31,7 +31,7 @@
 * [Final array state after k multiplication operations ii](../Solutions/F/final-array-state-after-k-multiplication-operations-ii)
 * [Find minimum diameter after merging two trees](../Solutions/F/find-minimum-diameter-after-merging-two-trees)
 * [Find polygon with the largest perimeter](../Solutions/F/find-polygon-with-the-largest-perimeter)
-* [Find subsequence of length k with the largest sum](../Solutions/F/find-subsequence-of-length-k-with-the-largest-sum)
+* [Find subsequence of length k with the largest sum](../Solutions/F/find-subsequence-of-length-k-with-the-largest-sum) ⭐ 
 * [Find the largest palindrome divisible by k](../Solutions/F/find-the-largest-palindrome-divisible-by-k)
 * [Find the lexicographically largest string from the box i](../Solutions/F/find-the-lexicographically-largest-string-from-the-box-i)
 * [Find the lexicographically smallest valid sequence](../Solutions/F/find-the-lexicographically-smallest-valid-sequence)
@@ -190,7 +190,7 @@
 * [Smallest substring with identical characters i](../Solutions/S/smallest-substring-with-identical-characters-i)
 * [Smallest substring with identical characters ii](../Solutions/S/smallest-substring-with-identical-characters-ii)
 * [Special binary string](../Solutions/S/special-binary-string)
-* [Split array largest sum](../Solutions/S/split-array-largest-sum)
+* [Split array largest sum](../Solutions/S/split-array-largest-sum) ⭐ 
 * [Split with minimum sum](../Solutions/S/split-with-minimum-sum)
 * [Two furthest houses with different colors](../Solutions/T/two-furthest-houses-with-different-colors)
 * [Zero array transformation iii](../Solutions/Z/zero-array-transformation-iii)

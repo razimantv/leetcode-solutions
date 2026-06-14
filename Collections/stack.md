@@ -40,7 +40,7 @@
 * [Maximum score of a good subarray](../Solutions/M/maximum-score-of-a-good-subarray)
 * [Maximum subarray min product](../Solutions/M/maximum-subarray-min-product)
 * [Maximum sum queries](../Solutions/M/maximum-sum-queries)
-* [Maximum total subarray value ii](../Solutions/M/maximum-total-subarray-value-ii)
+* [Maximum total subarray value ii](../Solutions/M/maximum-total-subarray-value-ii) ⭐ 
 * [Maximum width ramp](../Solutions/M/maximum-width-ramp)
 * [Minimum difficulty of a job schedule](../Solutions/M/minimum-difficulty-of-a-job-schedule)
 * [Minimum operations to convert all elements to zero](../Solutions/M/minimum-operations-to-convert-all-elements-to-zero)

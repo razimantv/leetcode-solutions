@@ -39,7 +39,7 @@
 * [Kth smallest amount with single denomination combination](../Solutions/K/kth-smallest-amount-with-single-denomination-combination)
 * [Kth smallest element in a sorted matrix](../Solutions/K/kth-smallest-element-in-a-sorted-matrix)
 * [Kth smallest number in multiplication table](../Solutions/K/kth-smallest-number-in-multiplication-table)
-* [Kth smallest product of two sorted arrays](../Solutions/K/kth-smallest-product-of-two-sorted-arrays)
+* [Kth smallest product of two sorted arrays](../Solutions/K/kth-smallest-product-of-two-sorted-arrays) ⭐ 
 * [Length of the longest increasing path](../Solutions/L/length-of-the-longest-increasing-path)
 * [Longest palindromic substring](../Solutions/L/longest-palindromic-substring)
 * [Longest subsequence with limited sum](../Solutions/L/longest-subsequence-with-limited-sum)
@@ -57,7 +57,7 @@
 * [Maximum number of robots within budget](../Solutions/M/maximum-number-of-robots-within-budget)
 * [Maximum running time of n computers](../Solutions/M/maximum-running-time-of-n-computers)
 * [Maximum tastiness of candy basket](../Solutions/M/maximum-tastiness-of-candy-basket)
-* [Maximum total subarray value ii](../Solutions/M/maximum-total-subarray-value-ii)
+* [Maximum total subarray value ii](../Solutions/M/maximum-total-subarray-value-ii) ⭐ 
 * [Maximum value at a given index in a bounded array](../Solutions/M/maximum-value-at-a-given-index-in-a-bounded-array)
 * [Maximum walls destroyed by robots](../Solutions/M/maximum-walls-destroyed-by-robots)
 * [Maximum width ramp](../Solutions/M/maximum-width-ramp)
@@ -89,7 +89,7 @@
 * [Smallest substring with identical characters i](../Solutions/S/smallest-substring-with-identical-characters-i)
 * [Smallest substring with identical characters ii](../Solutions/S/smallest-substring-with-identical-characters-ii)
 * [Sorted gcd pair queries](../Solutions/S/sorted-gcd-pair-queries)
-* [Split array largest sum](../Solutions/S/split-array-largest-sum)
+* [Split array largest sum](../Solutions/S/split-array-largest-sum) ⭐ 
 * [Two best non overlapping events](../Solutions/T/two-best-non-overlapping-events)
 * [Zero array transformation ii](../Solutions/Z/zero-array-transformation-ii)
 

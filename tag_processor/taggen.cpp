@@ -14,6 +14,7 @@ using Problem = std::pair<std::string, std::string>;
 using TaggedProblemCollection = std::map<Tag, std::set<Problem>>;
 using TaggedHierarchicalCollection =
     std::map<std::string, TaggedProblemCollection>;
+using ProblemSet = std::set<Problem>;
 
 Tag get_tag_hierarchy(std::string tag_str) {
   /**
@@ -81,7 +82,9 @@ auto get_code_files(const Dir& problem) {
 
 void process_problem(
     const Dir& problem,
-    TaggedHierarchicalCollection& tagged_hierarchical_collection) {
+    TaggedHierarchicalCollection& tagged_hierarchical_collection,
+    ProblemSet& tutorial_problems
+    ) {
   /**
    * Processes a problem directory and updates the tag map.
    * @param problem: The problem directory.
@@ -117,6 +120,8 @@ void process_problem(
     readme << "\n## Tags\n\n";
     for (std::string tag_str; getline(tags_file, tag_str);) {
       if (tag_str.empty()) continue;
+      if (tag_str == "Tutorials")
+        tutorial_problems.insert({problemname, problempath});
       auto tag = get_tag_hierarchy(tag_str);
       tagged_hierarchical_collection[tag[0]][tag].insert(
           {problemname, problempath});
@@ -126,7 +131,8 @@ void process_problem(
 }
 
 void create_readme(std::string filename,
-                   TaggedProblemCollection& problem_collection) {
+                   TaggedProblemCollection& problem_collection,
+                   ProblemSet& tutorial_problems) {
   /**
    * Creates a README file for a tag.
    * @param filename: The filename of the README file.
@@ -148,32 +154,39 @@ void create_readme(std::string filename,
       ++level;
     }
 
-    for (auto& [name, path] : problem_list)
-      readme << "* [" << name << "](../" << path << ")\n";
+    for (auto& [name, path] : problem_list) {
+      readme << "* [" << name << "](../" << path << ")";
+      if (tutorial_problems.count({name, path}))
+        readme << " ⭐ ";
+      readme << "\n";
+    }
     prev_tag = tag;
   }
 }
 
-void print_tag_list(TaggedHierarchicalCollection& tag_map) {
+void print_tag_list(TaggedHierarchicalCollection &tag_map,
+                    ProblemSet &tutorial_problems) {
   /**
    * Prints the tag list in markdown format.
    * @param tag_map: The tag map.
    */
   for (auto& [parent_tag, tag_collection] : tag_map) {
     auto tag_readme = readme_filename(parent_tag);
-    create_readme(tag_readme, tag_collection);
+    create_readme(tag_readme, tag_collection, tutorial_problems);
   }
 }
 
 int main() {
   fs::current_path("..");
   TaggedHierarchicalCollection tag_map;
+  ProblemSet tutorial_problems;
   for (const auto& collection : fs::directory_iterator{"Solutions"}) {
     if (!is_directory(collection)) continue;
     for (const auto& problem : fs::directory_iterator{collection})
-      if (is_directory(problem)) process_problem(problem, tag_map);
+      if (is_directory(problem))
+        process_problem(problem, tag_map, tutorial_problems);
   }
 
-  print_tag_list(tag_map);
+  print_tag_list(tag_map, tutorial_problems);
   return 0;
 }
