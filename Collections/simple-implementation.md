@@ -183,6 +183,7 @@
 * [Power of three](../Solutions/P/power-of-three)
 * [Powerful integers](../Solutions/P/powerful-integers)
 * [Prime number of set bits in binary representation](../Solutions/P/prime-number-of-set-bits-in-binary-representation)
+* [Process string with special operations i](../Solutions/P/process-string-with-special-operations-i)
 * [Push dominoes](../Solutions/P/push-dominoes)
 * [Queries on number of points inside a circle](../Solutions/Q/queries-on-number-of-points-inside-a-circle)
 * [Range addition ii](../Solutions/R/range-addition-ii)
