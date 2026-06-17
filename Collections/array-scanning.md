@@ -222,6 +222,7 @@
 * [Minimum replacements to sort the array](../Solutions/M/minimum-replacements-to-sort-the-array)
 * [Number of steps to reduce a number in binary representation to one](../Solutions/N/number-of-steps-to-reduce-a-number-in-binary-representation-to-one)
 * [Plus one](../Solutions/P/plus-one)
+* [Process string with special operations ii](../Solutions/P/process-string-with-special-operations-ii)
 * [Smallest subarrays with maximum bitwise or](../Solutions/S/smallest-subarrays-with-maximum-bitwise-or)
 * [Solving questions with brainpower](../Solutions/S/solving-questions-with-brainpower)
 * [Taking maximum energy from the mystic dungeon](../Solutions/T/taking-maximum-energy-from-the-mystic-dungeon)
