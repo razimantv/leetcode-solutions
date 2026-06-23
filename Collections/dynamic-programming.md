@@ -163,6 +163,7 @@
 * [Number of ways to earn points](../Solutions/N/number-of-ways-to-earn-points)
 * [Number of ways to form a target string given a dictionary](../Solutions/N/number-of-ways-to-form-a-target-string-given-a-dictionary)
 * [Number of ways to stay in the same place after some steps](../Solutions/N/number-of-ways-to-stay-in-the-same-place-after-some-steps)
+* [Number of zigzag arrays i](../Solutions/N/number-of-zigzag-arrays-i)
 * [Paint house iv](../Solutions/P/paint-house-iv)
 * [Painting a grid with three different colors](../Solutions/P/painting-a-grid-with-three-different-colors)
 * [Painting the walls](../Solutions/P/painting-the-walls)
@@ -193,6 +194,7 @@
 * [Find the count of monotonic pairs i](../Solutions/F/find-the-count-of-monotonic-pairs-i)
 * [Find the count of monotonic pairs ii](../Solutions/F/find-the-count-of-monotonic-pairs-ii)
 * [Find the original typed string ii](../Solutions/F/find-the-original-typed-string-ii)
+* [Number of zigzag arrays i](../Solutions/N/number-of-zigzag-arrays-i)
 
 ## <a id="binary-lifting">Binary lifting</a>
 * [Maximize value of function in a ball passing game](../Solutions/M/maximize-value-of-function-in-a-ball-passing-game)

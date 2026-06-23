@@ -122,6 +122,7 @@
 * [Number of ways to reach a position after exactly k steps](../Solutions/N/number-of-ways-to-reach-a-position-after-exactly-k-steps)
 * [Number of ways to rearrange sticks with k sticks visible](../Solutions/N/number-of-ways-to-rearrange-sticks-with-k-sticks-visible)
 * [Number of ways to reorder array to get same bst](../Solutions/N/number-of-ways-to-reorder-array-to-get-same-bst)
+* [Number of zigzag arrays i](../Solutions/N/number-of-zigzag-arrays-i)
 * [Painting a grid with three different colors](../Solutions/P/painting-a-grid-with-three-different-colors)
 * [Permutation sequence](../Solutions/P/permutation-sequence)
 * [Power of heroes](../Solutions/P/power-of-heroes)
