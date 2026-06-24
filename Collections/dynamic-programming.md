@@ -305,6 +305,7 @@
 * [Number of longest increasing subsequence](../Solutions/N/number-of-longest-increasing-subsequence)
 
 ## <a id="matrix-exponentiation">Matrix exponentiation</a>
+* [Number of zigzag arrays ii](../Solutions/N/number-of-zigzag-arrays-ii)
 * [String transformation](../Solutions/S/string-transformation)
 * [Total characters in string after transformations ii](../Solutions/T/total-characters-in-string-after-transformations-ii)
 
