@@ -6,6 +6,8 @@
 * [Count of range sum](../Solutions/C/count-of-range-sum)
 * [Count of smaller numbers after self](../Solutions/C/count-of-smaller-numbers-after-self)
 * [Count pairs with xor in a range](../Solutions/C/count-pairs-with-xor-in-a-range)
+* [Count subarrays with majority element i](../Solutions/C/count-subarrays-with-majority-element-i)
+* [Count subarrays with majority element ii](../Solutions/C/count-subarrays-with-majority-element-ii)
 * [Create sorted array through instructions](../Solutions/C/create-sorted-array-through-instructions)
 * [Delivering boxes from storage to ports](../Solutions/D/delivering-boxes-from-storage-to-ports)
 * [Distribute elements into two arrays ii](../Solutions/D/distribute-elements-into-two-arrays-ii)

@@ -49,6 +49,8 @@
 * [Count of interesting subarrays](../Solutions/C/count-of-interesting-subarrays)
 * [Count partitions with max min difference at most k](../Solutions/C/count-partitions-with-max-min-difference-at-most-k)
 * [Count subarrays where max element appears at least k times](../Solutions/C/count-subarrays-where-max-element-appears-at-least-k-times)
+* [Count subarrays with majority element i](../Solutions/C/count-subarrays-with-majority-element-i)
+* [Count subarrays with majority element ii](../Solutions/C/count-subarrays-with-majority-element-ii)
 * [Count subarrays with median k](../Solutions/C/count-subarrays-with-median-k)
 * [Count subarrays with score less than k](../Solutions/C/count-subarrays-with-score-less-than-k)
 * [Count submatrices with all ones](../Solutions/C/count-submatrices-with-all-ones)
