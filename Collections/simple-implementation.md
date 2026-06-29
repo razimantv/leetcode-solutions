@@ -172,6 +172,7 @@
 * [Number of employees who met the target](../Solutions/N/number-of-employees-who-met-the-target)
 * [Number of senior citizens](../Solutions/N/number-of-senior-citizens)
 * [Number of steps to reduce a number to zero](../Solutions/N/number-of-steps-to-reduce-a-number-to-zero)
+* [Number of strings that appear as substrings in word](../Solutions/N/number-of-strings-that-appear-as-substrings-in-word)
 * [Number of unequal triplets in array](../Solutions/N/number-of-unequal-triplets-in-array)
 * [Odd string difference](../Solutions/O/odd-string-difference)
 * [Palindrome number](../Solutions/P/palindrome-number)
