@@ -78,6 +78,7 @@
 * [Minimum speed to arrive on time](../Solutions/M/minimum-speed-to-arrive-on-time)
 * [Minimum time to complete trips](../Solutions/M/minimum-time-to-complete-trips)
 * [Minimum time to repair cars](../Solutions/M/minimum-time-to-repair-cars)
+* [Network recovery pathways](../Solutions/N/network-recovery-pathways)
 * [Nth magical number](../Solutions/N/nth-magical-number)
 * [Partition array such that maximum difference is k](../Solutions/P/partition-array-such-that-maximum-difference-is-k)
 * [Peak index in a mountain array](../Solutions/P/peak-index-in-a-mountain-array)

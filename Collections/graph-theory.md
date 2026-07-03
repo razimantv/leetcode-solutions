@@ -180,6 +180,7 @@
 * [Course schedule iv](../Solutions/C/course-schedule-iv)
 * [Find champion i](../Solutions/F/find-champion-i)
 * [Find champion ii](../Solutions/F/find-champion-ii)
+* [Network recovery pathways](../Solutions/N/network-recovery-pathways)
 * [Shortest distance after road addition queries i](../Solutions/S/shortest-distance-after-road-addition-queries-i)
 * [Shortest distance after road addition queries ii](../Solutions/S/shortest-distance-after-road-addition-queries-ii)
 
