@@ -112,6 +112,7 @@
 * [Number of equivalent domino pairs](../Solutions/N/number-of-equivalent-domino-pairs)
 * [Number of good paths](../Solutions/N/number-of-good-paths)
 * [Number of music playlists](../Solutions/N/number-of-music-playlists)
+* [Number of paths with max score](../Solutions/N/number-of-paths-with-max-score)
 * [Number of strings which can be rearranged to contain substring](../Solutions/N/number-of-strings-which-can-be-rearranged-to-contain-substring)
 * [Number of sub arrays with odd sum](../Solutions/N/number-of-sub-arrays-with-odd-sum)
 * [Number of subsequences that satisfy the given sum condition](../Solutions/N/number-of-subsequences-that-satisfy-the-given-sum-condition)

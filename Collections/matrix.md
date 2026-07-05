@@ -48,6 +48,7 @@
 * [Minimum falling path sum ii](../Solutions/M/minimum-falling-path-sum-ii)
 * [Minimum path sum](../Solutions/M/minimum-path-sum)
 * [Most frequent prime](../Solutions/M/most-frequent-prime)
+* [Number of paths with max score](../Solutions/N/number-of-paths-with-max-score)
 * [Path with maximum gold](../Solutions/P/path-with-maximum-gold)
 * [Paths in matrix whose sum is divisible by k](../Solutions/P/paths-in-matrix-whose-sum-is-divisible-by-k)
 * [Where will the ball fall](../Solutions/W/where-will-the-ball-fall)

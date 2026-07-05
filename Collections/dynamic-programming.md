@@ -333,6 +333,7 @@
 * [Minimum score triangulation of polygon](../Solutions/M/minimum-score-triangulation-of-polygon)
 * [Network recovery pathways](../Solutions/N/network-recovery-pathways)
 * [Number of dice rolls with target sum](../Solutions/N/number-of-dice-rolls-with-target-sum)
+* [Number of paths with max score](../Solutions/N/number-of-paths-with-max-score)
 * [Out of boundary paths](../Solutions/O/out-of-boundary-paths)
 * [Palindrome partitioning](../Solutions/P/palindrome-partitioning)
 * [Partition string into minimum beautiful substrings](../Solutions/P/partition-string-into-minimum-beautiful-substrings)
