@@ -34,6 +34,7 @@
 * [Check if two string arrays are equivalent](../Solutions/C/check-if-two-string-arrays-are-equivalent)
 * [Check if word equals summation of two words](../Solutions/C/check-if-word-equals-summation-of-two-words)
 * [Check knight tour configuration](../Solutions/C/check-knight-tour-configuration)
+* [Concatenate non zero digits and multiply by sum i](../Solutions/C/concatenate-non-zero-digits-and-multiply-by-sum-i)
 * [Convert 1d array into 2d array](../Solutions/C/convert-1d-array-into-2d-array)
 * [Convert date to binary](../Solutions/C/convert-date-to-binary)
 * [Convert integer to the sum of two no zero integers](../Solutions/C/convert-integer-to-the-sum-of-two-no-zero-integers)
