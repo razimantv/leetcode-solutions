@@ -38,6 +38,7 @@
 * [Apply operations to maximize frequency score](../Solutions/A/apply-operations-to-maximize-frequency-score)
 * [Binary subarrays with sum](../Solutions/B/binary-subarrays-with-sum)
 * [Check if grid can be cut into sections](../Solutions/C/check-if-grid-can-be-cut-into-sections)
+* [Concatenate non zero digits and multiply by sum ii](../Solutions/C/concatenate-non-zero-digits-and-multiply-by-sum-ii)
 * [Contiguous array](../Solutions/C/contiguous-array)
 * [Continuous subarray sum](../Solutions/C/continuous-subarray-sum)
 * [Count beautiful substrings i](../Solutions/C/count-beautiful-substrings-i)
