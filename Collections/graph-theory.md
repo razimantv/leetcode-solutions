@@ -244,6 +244,10 @@
 * [Node with highest edge score](../Solutions/N/node-with-highest-edge-score)
 * [Where will the ball fall](../Solutions/W/where-will-the-ball-fall)
 
+## <a id="special-graphs">Special graphs</a>
+* [Path existence queries in a graph i](../Solutions/P/path-existence-queries-in-a-graph-i)
+* [Path existence queries in a graph ii](../Solutions/P/path-existence-queries-in-a-graph-ii)
+
 ## <a id="topological-sort">Topological sort</a>
 * [Build a matrix with conditions](../Solutions/B/build-a-matrix-with-conditions)
 * [Course schedule](../Solutions/C/course-schedule)

@@ -125,6 +125,8 @@
 * [Mark elements on array by performing queries](../Solutions/M/mark-elements-on-array-by-performing-queries)
 * [Maximum score of non overlapping intervals](../Solutions/M/maximum-score-of-non-overlapping-intervals)
 * [Most beautiful item for each query](../Solutions/M/most-beautiful-item-for-each-query)
+* [Path existence queries in a graph i](../Solutions/P/path-existence-queries-in-a-graph-i)
+* [Path existence queries in a graph ii](../Solutions/P/path-existence-queries-in-a-graph-ii)
 * [Relative ranks](../Solutions/R/relative-ranks)
 * [Sum of subarray minimums](../Solutions/S/sum-of-subarray-minimums)
 
