@@ -211,6 +211,7 @@
 * [Stone removal game](../Solutions/S/stone-removal-game)
 * [Substring matching pattern](../Solutions/S/substring-matching-pattern)
 * [Sum of digits of string after convert](../Solutions/S/sum-of-digits-of-string-after-convert)
+* [Sum of gcd of formed pairs](../Solutions/S/sum-of-gcd-of-formed-pairs)
 * [Sum of number and its reverse](../Solutions/S/sum-of-number-and-its-reverse)
 * [Sum of squares of special elements](../Solutions/S/sum-of-squares-of-special-elements)
 * [Sum of variable length subarrays](../Solutions/S/sum-of-variable-length-subarrays)
