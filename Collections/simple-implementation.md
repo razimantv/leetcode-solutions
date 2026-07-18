@@ -74,6 +74,7 @@
 * [Find closest person](../Solutions/F/find-closest-person)
 * [Find common elements between two arrays](../Solutions/F/find-common-elements-between-two-arrays)
 * [Find first palindromic string in the array](../Solutions/F/find-first-palindromic-string-in-the-array)
+* [Find greatest common divisor of array](../Solutions/F/find-greatest-common-divisor-of-array)
 * [Find if digit game can be won](../Solutions/F/find-if-digit-game-can-be-won)
 * [Find indices of stable mountains](../Solutions/F/find-indices-of-stable-mountains)
 * [Find nearest point that has the same x or y coordinate](../Solutions/F/find-nearest-point-that-has-the-same-x-or-y-coordinate)
