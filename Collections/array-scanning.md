@@ -71,6 +71,7 @@
 * [Longest turbulent subarray](../Solutions/L/longest-turbulent-subarray)
 * [Max consecutive ones](../Solutions/M/max-consecutive-ones)
 * [Maximal rectangle](../Solutions/M/maximal-rectangle)
+* [Maximize active section with trade i](../Solutions/M/maximize-active-section-with-trade-i)
 * [Maximize area of square hole in grid](../Solutions/M/maximize-area-of-square-hole-in-grid)
 * [Maximum ascending subarray sum](../Solutions/M/maximum-ascending-subarray-sum)
 * [Maximum product subarray](../Solutions/M/maximum-product-subarray)
