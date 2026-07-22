@@ -16,6 +16,7 @@
 * [Jump game vii](../Solutions/J/jump-game-vii)
 * [Longest increasing subsequence ii](../Solutions/L/longest-increasing-subsequence-ii)
 * [Make array empty](../Solutions/M/make-array-empty)
+* [Maximize active section with trade ii](../Solutions/M/maximize-active-section-with-trade-ii)
 * [Maximize subarray sum after removing all occurrences of one element](../Solutions/M/maximize-subarray-sum-after-removing-all-occurrences-of-one-element)
 * [Maximum area rectangle with point constraints ii](../Solutions/M/maximum-area-rectangle-with-point-constraints-ii)
 * [Maximum sum of subsequence with non adjacent elements](../Solutions/M/maximum-sum-of-subsequence-with-non-adjacent-elements)
