@@ -67,6 +67,7 @@
 * [Number of possible sets of closing branches](../Solutions/N/number-of-possible-sets-of-closing-branches)
 * [Number of subarrays with and value of k](../Solutions/N/number-of-subarrays-with-and-value-of-k)
 * [Number of unique xor triplets i](../Solutions/N/number-of-unique-xor-triplets-i)
+* [Number of unique xor triplets ii](../Solutions/N/number-of-unique-xor-triplets-ii)
 * [Number of valid words for each puzzle](../Solutions/N/number-of-valid-words-for-each-puzzle)
 * [Power of four](../Solutions/P/power-of-four)
 * [Power of two](../Solutions/P/power-of-two)
