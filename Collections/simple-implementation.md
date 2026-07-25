@@ -142,6 +142,7 @@
 * [Maximum number of balloons](../Solutions/M/maximum-number-of-balloons)
 * [Maximum number of operations with the same score i](../Solutions/M/maximum-number-of-operations-with-the-same-score-i)
 * [Maximum number of pairs in array](../Solutions/M/maximum-number-of-pairs-in-array)
+* [Maximum product of two digits](../Solutions/M/maximum-product-of-two-digits)
 * [Maximum score after splitting a string](../Solutions/M/maximum-score-after-splitting-a-string)
 * [Maximum star sum of a graph](../Solutions/M/maximum-star-sum-of-a-graph)
 * [Maximum sum of an hourglass](../Solutions/M/maximum-sum-of-an-hourglass)
