@@ -97,6 +97,7 @@
 * [Maximum performance of a team](../Solutions/M/maximum-performance-of-a-team)
 * [Maximum points after enemy battles](../Solutions/M/maximum-points-after-enemy-battles)
 * [Maximum product difference between two pairs](../Solutions/M/maximum-product-difference-between-two-pairs)
+* [Maximum product of three numbers](../Solutions/M/maximum-product-of-three-numbers)
 * [Maximum product of two elements in an array](../Solutions/M/maximum-product-of-two-elements-in-an-array)
 * [Maximum score from removing substrings](../Solutions/M/maximum-score-from-removing-substrings)
 * [Maximum spending after buying items](../Solutions/M/maximum-spending-after-buying-items)
