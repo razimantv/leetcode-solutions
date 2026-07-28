@@ -238,6 +238,7 @@
 * [Number of valid words for each puzzle](../Solutions/N/number-of-valid-words-for-each-puzzle)
 * [Rearrange k substrings to form target string](../Solutions/R/rearrange-k-substrings-to-form-target-string)
 * [Replace question marks in string to minimize its value](../Solutions/R/replace-question-marks-in-string-to-minimize-its-value)
+* [Smallest palindromic rearrangement i](../Solutions/S/smallest-palindromic-rearrangement-i)
 * [Split the array](../Solutions/S/split-the-array)
 * [Subarrays with k different integers](../Solutions/S/subarrays-with-k-different-integers)
 * [Subsequences with a unique middle mode i](../Solutions/S/subsequences-with-a-unique-middle-mode-i)
