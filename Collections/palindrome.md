@@ -30,6 +30,7 @@
 * [Palindromic substrings](../Solutions/P/palindromic-substrings)
 * [Remove palindromic subsequences](../Solutions/R/remove-palindromic-subsequences)
 * [Smallest palindromic rearrangement i](../Solutions/S/smallest-palindromic-rearrangement-i)
+* [Smallest palindromic rearrangement ii](../Solutions/S/smallest-palindromic-rearrangement-ii)
 * [Sum of k mirror numbers](../Solutions/S/sum-of-k-mirror-numbers) ⭐ 
 * [Unique length 3 palindromic subsequences](../Solutions/U/unique-length-3-palindromic-subsequences)
 

@@ -131,6 +131,7 @@
 * [Power of heroes](../Solutions/P/power-of-heroes)
 * [Probability of a two boxes having the same number of distinct balls](../Solutions/P/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls)
 * [Right triangles](../Solutions/R/right-triangles)
+* [Smallest palindromic rearrangement ii](../Solutions/S/smallest-palindromic-rearrangement-ii)
 * [Sum of digit differences of all pairs](../Solutions/S/sum-of-digit-differences-of-all-pairs)
 * [Sum of good subsequences](../Solutions/S/sum-of-good-subsequences)
 * [The k th lexicographical string of all happy strings of length n](../Solutions/T/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n)

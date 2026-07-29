@@ -31,3 +31,6 @@
 * [Make lexicographically smallest array by swapping elements](../Solutions/M/make-lexicographically-smallest-array-by-swapping-elements)
 * [Orderly queue](../Solutions/O/orderly-queue)
 * [Semi ordered permutation](../Solutions/S/semi-ordered-permutation)
+
+## <a id="nth">nth</a>
+* [Smallest palindromic rearrangement ii](../Solutions/S/smallest-palindromic-rearrangement-ii)

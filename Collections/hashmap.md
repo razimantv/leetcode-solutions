@@ -239,6 +239,7 @@
 * [Rearrange k substrings to form target string](../Solutions/R/rearrange-k-substrings-to-form-target-string)
 * [Replace question marks in string to minimize its value](../Solutions/R/replace-question-marks-in-string-to-minimize-its-value)
 * [Smallest palindromic rearrangement i](../Solutions/S/smallest-palindromic-rearrangement-i)
+* [Smallest palindromic rearrangement ii](../Solutions/S/smallest-palindromic-rearrangement-ii)
 * [Split the array](../Solutions/S/split-the-array)
 * [Subarrays with k different integers](../Solutions/S/subarrays-with-k-different-integers)
 * [Subsequences with a unique middle mode i](../Solutions/S/subsequences-with-a-unique-middle-mode-i)
