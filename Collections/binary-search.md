@@ -126,6 +126,7 @@
 * [Alternating groups iii](../Solutions/A/alternating-groups-iii)
 * [Avoid flood in the city](../Solutions/A/avoid-flood-in-the-city)
 * [Implement router](../Solutions/I/implement-router)
+* [Longest substring of one repeating character](../Solutions/L/longest-substring-of-one-repeating-character)
 * [Maximum number of tasks you can assign](../Solutions/M/maximum-number-of-tasks-you-can-assign)
 * [Maximum total reward using operations i](../Solutions/M/maximum-total-reward-using-operations-i)
 * [Maximum total reward using operations ii](../Solutions/M/maximum-total-reward-using-operations-ii)

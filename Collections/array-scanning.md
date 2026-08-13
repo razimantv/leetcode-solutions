@@ -69,6 +69,7 @@
 * [Longest non decreasing subarray from two arrays](../Solutions/L/longest-non-decreasing-subarray-from-two-arrays)
 * [Longest subarray with maximum bitwise and](../Solutions/L/longest-subarray-with-maximum-bitwise-and)
 * [Longest substring of all vowels in order](../Solutions/L/longest-substring-of-all-vowels-in-order)
+* [Longest substring of one repeating character](../Solutions/L/longest-substring-of-one-repeating-character)
 * [Longest turbulent subarray](../Solutions/L/longest-turbulent-subarray)
 * [Max consecutive ones](../Solutions/M/max-consecutive-ones)
 * [Maximal rectangle](../Solutions/M/maximal-rectangle)
