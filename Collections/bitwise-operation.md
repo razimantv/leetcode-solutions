@@ -33,6 +33,7 @@
 * [Hamming distance](../Solutions/H/hamming-distance)
 * [K th symbol in grammar](../Solutions/K/k-th-symbol-in-grammar)
 * [Largest combination with bitwise and greater than zero](../Solutions/L/largest-combination-with-bitwise-and-greater-than-zero)
+* [Longest subsequence with non zero bitwise xor](../Solutions/L/longest-subsequence-with-non-zero-bitwise-xor)
 * [Longest uncommon subsequence ii](../Solutions/L/longest-uncommon-subsequence-ii)
 * [Maximum candies you can get from boxes](../Solutions/M/maximum-candies-you-can-get-from-boxes)
 * [Maximum length of a concatenated string with unique characters](../Solutions/M/maximum-length-of-a-concatenated-string-with-unique-characters)
