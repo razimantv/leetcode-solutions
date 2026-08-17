@@ -128,6 +128,7 @@
 * [Shift distance between two strings](../Solutions/S/shift-distance-between-two-strings)
 * [Sorted gcd pair queries](../Solutions/S/sorted-gcd-pair-queries)
 * [Special binary string](../Solutions/S/special-binary-string)
+* [Stone game v](../Solutions/S/stone-game-v)
 * [Subarray sums divisible by k](../Solutions/S/subarray-sums-divisible-by-k)
 * [Substring with largest variance](../Solutions/S/substring-with-largest-variance)
 * [Sum of absolute differences in a sorted array](../Solutions/S/sum-of-absolute-differences-in-a-sorted-array)

@@ -341,6 +341,7 @@
 * [Predict the winner](../Solutions/P/predict-the-winner)
 * [Select cells in grid with maximum score](../Solutions/S/select-cells-in-grid-with-maximum-score)
 * [Shortest common supersequence](../Solutions/S/shortest-common-supersequence)
+* [Stone game v](../Solutions/S/stone-game-v)
 * [Total waviness of numbers in range ii](../Solutions/T/total-waviness-of-numbers-in-range-ii)
 
 ## <a id="monotonic-stack-deque">Monotonic stack/deque</a>
