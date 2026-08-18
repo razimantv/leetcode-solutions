@@ -198,6 +198,7 @@
 * [Find most frequent vowel and consonant](../Solutions/F/find-most-frequent-vowel-and-consonant)
 * [Find subsequence of length k with the largest sum](../Solutions/F/find-subsequence-of-length-k-with-the-largest-sum) ⭐ 
 * [Find the count of good integers](../Solutions/F/find-the-count-of-good-integers)
+* [Find the largest almost missing integer](../Solutions/F/find-the-largest-almost-missing-integer)
 * [Find the maximum number of elements in subset](../Solutions/F/find-the-maximum-number-of-elements-in-subset)
 * [Find the number of good pairs i](../Solutions/F/find-the-number-of-good-pairs-i)
 * [Find the number of good pairs ii](../Solutions/F/find-the-number-of-good-pairs-ii)
