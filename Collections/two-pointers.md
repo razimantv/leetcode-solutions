@@ -18,3 +18,4 @@
 * [Number of subsequences that satisfy the given sum condition](../Solutions/N/number-of-subsequences-that-satisfy-the-given-sum-condition)
 * [Rearrange array elements by sign](../Solutions/R/rearrange-array-elements-by-sign)
 * [Reverse vowels of a string](../Solutions/R/reverse-vowels-of-a-string)
+* [Stone game v](../Solutions/S/stone-game-v)

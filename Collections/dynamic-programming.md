@@ -188,6 +188,7 @@
 * [Minimum one bit operations to make integers zero](../Solutions/M/minimum-one-bit-operations-to-make-integers-zero)
 * [Number of beautiful partitions](../Solutions/N/number-of-beautiful-partitions)
 * [Number of people aware of a secret](../Solutions/N/number-of-people-aware-of-a-secret)
+* [Stone game v](../Solutions/S/stone-game-v)
 * [Sum of good subsequences](../Solutions/S/sum-of-good-subsequences)
 
 ### <a id="prefix-sum">Prefix sum</a>
