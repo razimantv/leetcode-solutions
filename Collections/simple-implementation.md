@@ -19,6 +19,7 @@
 * [Can place flowers](../Solutions/C/can-place-flowers)
 * [Categorize box according to criteria](../Solutions/C/categorize-box-according-to-criteria)
 * [Check distances between same letters](../Solutions/C/check-distances-between-same-letters)
+* [Check divisibility by digit sum and product](../Solutions/C/check-divisibility-by-digit-sum-and-product)
 * [Check if a string contains all binary codes of size k](../Solutions/C/check-if-a-string-contains-all-binary-codes-of-size-k)
 * [Check if a string is an acronym of words](../Solutions/C/check-if-a-string-is-an-acronym-of-words)
 * [Check if all the integers in a range are covered](../Solutions/C/check-if-all-the-integers-in-a-range-are-covered)
