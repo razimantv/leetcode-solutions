@@ -5,4 +5,5 @@
 * [Predict the winner](../Solutions/P/predict-the-winner)
 * [Stone game iii](../Solutions/S/stone-game-iii)
 * [Stone game ix](../Solutions/S/stone-game-ix)
+* [Sum game](../Solutions/S/sum-game)
 * [Vowels game in a string](../Solutions/V/vowels-game-in-a-string)
