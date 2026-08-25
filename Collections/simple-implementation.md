@@ -207,6 +207,7 @@
 * [Shuffle the array](../Solutions/S/shuffle-the-array)
 * [Smallest divisible digit product i](../Solutions/S/smallest-divisible-digit-product-i)
 * [Smallest even multiple](../Solutions/S/smallest-even-multiple)
+* [Smallest missing multiple of k](../Solutions/S/smallest-missing-multiple-of-k)
 * [Snake in matrix](../Solutions/S/snake-in-matrix)
 * [Sort vowels in a string](../Solutions/S/sort-vowels-in-a-string)
 * [Special array i](../Solutions/S/special-array-i)
