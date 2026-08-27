@@ -20,6 +20,7 @@
 * [Minimum adjacent swaps to reach the kth smallest number](../Solutions/M/minimum-adjacent-swaps-to-reach-the-kth-smallest-number)
 
 ## <a id="next-previous">Next/Previous</a>
+* [Lexicographically smallest permutation greater than target](../Solutions/L/lexicographically-smallest-permutation-greater-than-target)
 * [Minimum adjacent swaps to reach the kth smallest number](../Solutions/M/minimum-adjacent-swaps-to-reach-the-kth-smallest-number)
 * [Minimum number of operations to make string sorted](../Solutions/M/minimum-number-of-operations-to-make-string-sorted)
 * [Next greater element iii](../Solutions/N/next-greater-element-iii)
