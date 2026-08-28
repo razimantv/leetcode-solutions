@@ -55,6 +55,7 @@
 * [Length of the longest increasing path](../Solutions/L/length-of-the-longest-increasing-path)
 * [Lexicographically minimum string after removing stars](../Solutions/L/lexicographically-minimum-string-after-removing-stars)
 * [Lexicographically smallest generated string](../Solutions/L/lexicographically-smallest-generated-string)
+* [Lexicographically smallest palindromic permutation greater than target](../Solutions/L/lexicographically-smallest-palindromic-permutation-greater-than-target)
 * [Lexicographically smallest string after applying operations](../Solutions/L/lexicographically-smallest-string-after-applying-operations)
 * [Lexicographically smallest string after operations with constraint](../Solutions/L/lexicographically-smallest-string-after-operations-with-constraint)
 * [Lexicographically smallest string after substring operation](../Solutions/L/lexicographically-smallest-string-after-substring-operation)

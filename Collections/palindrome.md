@@ -11,6 +11,7 @@
 * [Largest palindromic number](../Solutions/L/largest-palindromic-number)
 * [Lexicographically smallest beautiful string](../Solutions/L/lexicographically-smallest-beautiful-string)
 * [Lexicographically smallest palindrome](../Solutions/L/lexicographically-smallest-palindrome)
+* [Lexicographically smallest palindromic permutation greater than target](../Solutions/L/lexicographically-smallest-palindromic-permutation-greater-than-target)
 * [Longest palindrome](../Solutions/L/longest-palindrome)
 * [Longest palindrome by concatenating two letter words](../Solutions/L/longest-palindrome-by-concatenating-two-letter-words)
 * [Maximum number of non overlapping palindrome substrings](../Solutions/M/maximum-number-of-non-overlapping-palindrome-substrings)
