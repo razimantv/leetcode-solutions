@@ -25,6 +25,7 @@
 * [Maximum number of moves to kill all pawns](../Solutions/M/maximum-number-of-moves-to-kill-all-pawns)
 * [Minimum genetic mutation](../Solutions/M/minimum-genetic-mutation)
 * [Minimum moves to capture the queen](../Solutions/M/minimum-moves-to-capture-the-queen)
+* [Minimum moves to clean the classroom](../Solutions/M/minimum-moves-to-clean-the-classroom)
 * [Minimum number of visited cells in a grid](../Solutions/M/minimum-number-of-visited-cells-in-a-grid)
 * [Minimum operations to convert number](../Solutions/M/minimum-operations-to-convert-number)
 * [Minimum operations to equalize binary string](../Solutions/M/minimum-operations-to-equalize-binary-string)
