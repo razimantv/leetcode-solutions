@@ -339,6 +339,7 @@
 
 ## <a id="parity">Parity</a>
 * [Construct uniform parity array i](../Solutions/C/construct-uniform-parity-array-i)
+* [Construct uniform parity array ii](../Solutions/C/construct-uniform-parity-array-ii)
 * [Count partitions with even sum difference](../Solutions/C/count-partitions-with-even-sum-difference)
 * [Maximum difference between even and odd frequency ii](../Solutions/M/maximum-difference-between-even-and-odd-frequency-ii)
 * [Minimum number of flips to make binary grid palindromic ii](../Solutions/M/minimum-number-of-flips-to-make-binary-grid-palindromic-ii)

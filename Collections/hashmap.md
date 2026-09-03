@@ -171,6 +171,7 @@
 * [Combination sum ii](../Solutions/C/combination-sum-ii)
 * [Construct k palindrome strings](../Solutions/C/construct-k-palindrome-strings)
 * [Construct string with repeat limit](../Solutions/C/construct-string-with-repeat-limit)
+* [Construct uniform parity array ii](../Solutions/C/construct-uniform-parity-array-ii)
 * [Count almost equal pairs ii](../Solutions/C/count-almost-equal-pairs-ii)
 * [Count elements with maximum frequency](../Solutions/C/count-elements-with-maximum-frequency)
 * [Count largest group](../Solutions/C/count-largest-group)
