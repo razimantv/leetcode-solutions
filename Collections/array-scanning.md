@@ -138,6 +138,8 @@
 * [Product of array except self](../Solutions/P/product-of-array-except-self)
 * [Reschedule meetings for maximum free time ii](../Solutions/R/reschedule-meetings-for-maximum-free-time-ii)
 * [Shortest subarray to be removed to make array sorted](../Solutions/S/shortest-subarray-to-be-removed-to-make-array-sorted)
+* [Smallest stable index i](../Solutions/S/smallest-stable-index-i)
+* [Smallest stable index ii](../Solutions/S/smallest-stable-index-ii)
 * [Subsequence with the minimum score](../Solutions/S/subsequence-with-the-minimum-score)
 * [Sum of distances](../Solutions/S/sum-of-distances)
 * [Take k of each character from left and right](../Solutions/T/take-k-of-each-character-from-left-and-right)

@@ -1,5 +1,6 @@
 
 # <a id="untagged">Untagged</a>
+* [3.14](../Solutions/.mypy_cache/3.14)
 * [Broken calculator](../Solutions/B/broken-calculator)
 * [Buddy strings](../Solutions/B/buddy-strings)
 * [Counting elements](../Solutions/C/counting-elements)
