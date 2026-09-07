@@ -22,6 +22,7 @@
 * [Decode ways](../Solutions/D/decode-ways)
 * [Decode ways ii](../Solutions/D/decode-ways-ii)
 * [Delete and earn](../Solutions/D/delete-and-earn)
+* [Distinct subsequences ii](../Solutions/D/distinct-subsequences-ii)
 * [Domino and tromino tiling](../Solutions/D/domino-and-tromino-tiling)
 * [Edit distance](../Solutions/E/edit-distance)
 * [Extra characters in a string](../Solutions/E/extra-characters-in-a-string)
