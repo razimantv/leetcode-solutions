@@ -42,6 +42,7 @@
 * [Convert the temperature](../Solutions/C/convert-the-temperature)
 * [Count and say](../Solutions/C/count-and-say)
 * [Count asterisks](../Solutions/C/count-asterisks)
+* [Count commas in range](../Solutions/C/count-commas-in-range)
 * [Count good triplets](../Solutions/C/count-good-triplets)
 * [Count number of distinct integers after reverse operations](../Solutions/C/count-number-of-distinct-integers-after-reverse-operations)
 * [Count odd numbers in an interval range](../Solutions/C/count-odd-numbers-in-an-interval-range)
