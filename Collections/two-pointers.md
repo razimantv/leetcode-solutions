@@ -1,6 +1,7 @@
 
 # <a id="two-pointers">Two pointers</a>
 * [Assign cookies](../Solutions/A/assign-cookies)
+* [Count commas in range ii](../Solutions/C/count-commas-in-range-ii)
 * [Find all people with secret](../Solutions/F/find-all-people-with-secret)
 * [Find indices with index and value difference i](../Solutions/F/find-indices-with-index-and-value-difference-i)
 * [Find indices with index and value difference ii](../Solutions/F/find-indices-with-index-and-value-difference-ii)
