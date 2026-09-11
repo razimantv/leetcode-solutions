@@ -228,6 +228,7 @@
 * [Total distance traveled](../Solutions/T/total-distance-traveled)
 * [Total waviness of numbers in range i](../Solutions/T/total-waviness-of-numbers-in-range-i)
 * [Ugly number](../Solutions/U/ugly-number)
+* [Unique 3 digit even numbers](../Solutions/U/unique-3-digit-even-numbers)
 * [Valid word](../Solutions/V/valid-word)
 * [Water bottles ii](../Solutions/W/water-bottles-ii)
 * [Weighted word mapping](../Solutions/W/weighted-word-mapping)
