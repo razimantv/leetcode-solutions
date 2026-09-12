@@ -67,6 +67,7 @@
 * [First unique character in a string](../Solutions/F/first-unique-character-in-a-string)
 * [Greatest english letter in upper and lower case](../Solutions/G/greatest-english-letter-in-upper-and-lower-case)
 * [Group anagrams](../Solutions/G/group-anagrams)
+* [High five](../Solutions/H/high-five)
 * [Implement router](../Solutions/I/implement-router)
 * [Intersection of two arrays](../Solutions/I/intersection-of-two-arrays)
 * [Intersection of two arrays ii](../Solutions/I/intersection-of-two-arrays-ii)
