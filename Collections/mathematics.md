@@ -176,6 +176,7 @@
 * [Minimize manhattan distances](../Solutions/M/minimize-manhattan-distances)
 * [Minimum cuts to divide a circle](../Solutions/M/minimum-cuts-to-divide-a-circle)
 * [Rectangle area](../Solutions/R/rectangle-area)
+* [Rectangle overlap](../Solutions/R/rectangle-overlap)
 * [Type of triangle ii](../Solutions/T/type-of-triangle-ii)
 
 ### <a id="convex-hull">Convex hull</a>
