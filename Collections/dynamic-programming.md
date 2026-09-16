@@ -196,6 +196,7 @@
 * [Find the count of monotonic pairs i](../Solutions/F/find-the-count-of-monotonic-pairs-i)
 * [Find the count of monotonic pairs ii](../Solutions/F/find-the-count-of-monotonic-pairs-ii)
 * [Find the original typed string ii](../Solutions/F/find-the-original-typed-string-ii)
+* [Number of sets of k non overlapping line segments](../Solutions/N/number-of-sets-of-k-non-overlapping-line-segments)
 * [Number of zigzag arrays i](../Solutions/N/number-of-zigzag-arrays-i)
 
 ## <a id="binary-lifting">Binary lifting</a>
