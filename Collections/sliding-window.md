@@ -24,6 +24,7 @@
 * [Find subarray with bitwise and closest to k](../Solutions/F/find-subarray-with-bitwise-and-closest-to-k)
 * [Find the longest equal subarray](../Solutions/F/find-the-longest-equal-subarray)
 * [Find the median of the uniqueness array](../Solutions/F/find-the-median-of-the-uniqueness-array)
+* [Find two non overlapping sub arrays each with target sum](../Solutions/F/find-two-non-overlapping-sub-arrays-each-with-target-sum)
 * [Find x sum of all k long subarrays i](../Solutions/F/find-x-sum-of-all-k-long-subarrays-i)
 * [Find x sum of all k long subarrays ii](../Solutions/F/find-x-sum-of-all-k-long-subarrays-ii)
 * [Frequency of the most frequent element](../Solutions/F/frequency-of-the-most-frequent-element)
