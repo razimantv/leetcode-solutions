@@ -167,6 +167,7 @@
 ## <a id="geometry">Geometry</a>
 * [Check if it is a straight line](../Solutions/C/check-if-it-is-a-straight-line)
 * [Check if the rectangle corner is reachable](../Solutions/C/check-if-the-rectangle-corner-is-reachable)
+* [Circle and rectangle overlapping](../Solutions/C/circle-and-rectangle-overlapping)
 * [Count number of trapezoids ii](../Solutions/C/count-number-of-trapezoids-ii)
 * [Determine if a cell is reachable at a given time](../Solutions/D/determine-if-a-cell-is-reachable-at-a-given-time)
 * [Largest triangle area](../Solutions/L/largest-triangle-area)
