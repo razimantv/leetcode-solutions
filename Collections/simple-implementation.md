@@ -198,6 +198,7 @@
 * [Remove palindromic subsequences](../Solutions/R/remove-palindromic-subsequences)
 * [Remove trailing zeros from a string](../Solutions/R/remove-trailing-zeros-from-a-string)
 * [Removing minimum and maximum from array](../Solutions/R/removing-minimum-and-maximum-from-array)
+* [Reverse degree of a string](../Solutions/R/reverse-degree-of-a-string)
 * [Reverse prefix of word](../Solutions/R/reverse-prefix-of-word)
 * [Robot return to origin](../Solutions/R/robot-return-to-origin)
 * [Rotated digits](../Solutions/R/rotated-digits)
