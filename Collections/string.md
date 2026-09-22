@@ -22,6 +22,7 @@
 * [Fraction addition and subtraction](../Solutions/F/fraction-addition-and-subtraction)
 * [Goat latin](../Solutions/G/goat-latin)
 * [Invalid transactions](../Solutions/I/invalid-transactions)
+* [Ip to cidr](../Solutions/I/ip-to-cidr)
 * [Length of last word](../Solutions/L/length-of-last-word)
 * [Minimum cost to change the final value of expression](../Solutions/M/minimum-cost-to-change-the-final-value-of-expression)
 * [Number of different integers in a string](../Solutions/N/number-of-different-integers-in-a-string)

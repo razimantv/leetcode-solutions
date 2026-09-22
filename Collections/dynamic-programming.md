@@ -114,6 +114,7 @@
 * [Find the original typed string ii](../Solutions/F/find-the-original-typed-string-ii)
 * [Find the sum of subsequence powers](../Solutions/F/find-the-sum-of-subsequence-powers)
 * [Find the sum of the power of all subsequences](../Solutions/F/find-the-sum-of-the-power-of-all-subsequences)
+* [Find x value of array i](../Solutions/F/find-x-value-of-array-i)
 * [Freedom trail](../Solutions/F/freedom-trail)
 * [Interleaving string](../Solutions/I/interleaving-string)
 * [K inverse pairs array](../Solutions/K/k-inverse-pairs-array)

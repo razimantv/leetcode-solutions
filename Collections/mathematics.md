@@ -223,6 +223,7 @@
 * [Find the maximum length of valid subsequence ii](../Solutions/F/find-the-maximum-length-of-valid-subsequence-ii)
 * [Find the number of subsequences with equal gcd](../Solutions/F/find-the-number-of-subsequences-with-equal-gcd)
 * [Find the student that will replace the chalk](../Solutions/F/find-the-student-that-will-replace-the-chalk)
+* [Find x value of array i](../Solutions/F/find-x-value-of-array-i)
 * [Fraction addition and subtraction](../Solutions/F/fraction-addition-and-subtraction)
 * [Gcd of odd and even sums](../Solutions/G/gcd-of-odd-and-even-sums)
 * [Greatest common divisor of strings](../Solutions/G/greatest-common-divisor-of-strings)
