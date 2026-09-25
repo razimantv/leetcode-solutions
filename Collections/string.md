@@ -34,6 +34,7 @@
 * [Utf 8 validation](../Solutions/U/utf-8-validation)
 
 ### <a id="recursive">Recursive</a>
+* [Brace expansion ii](../Solutions/B/brace-expansion-ii)
 * [Decode string](../Solutions/D/decode-string)
 * [Number of atoms](../Solutions/N/number-of-atoms)
 * [Parsing a boolean expression](../Solutions/P/parsing-a-boolean-expression)
