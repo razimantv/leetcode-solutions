@@ -28,6 +28,7 @@
 * [Image overlap](../Solutions/I/image-overlap)
 
 ## <a id="numpy">Numpy</a>
+* [Check if there is a valid parentheses string path](../Solutions/C/check-if-there-is-a-valid-parentheses-string-path)
 * [Cyclically rotating a grid](../Solutions/C/cyclically-rotating-a-grid)
 
 ## <a id="path">Path</a>
