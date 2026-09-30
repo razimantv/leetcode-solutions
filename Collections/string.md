@@ -32,6 +32,7 @@
 * [Split message based on limit](../Solutions/S/split-message-based-on-limit)
 * [Split strings by separator](../Solutions/S/split-strings-by-separator)
 * [Utf 8 validation](../Solutions/U/utf-8-validation)
+* [Web crawler](../Solutions/W/web-crawler)
 
 ### <a id="recursive">Recursive</a>
 * [Brace expansion ii](../Solutions/B/brace-expansion-ii)

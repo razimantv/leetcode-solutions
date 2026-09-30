@@ -122,6 +122,7 @@
 * [Time needed to inform all employees](../Solutions/T/time-needed-to-inform-all-employees)
 * [Time taken to mark all nodes](../Solutions/T/time-taken-to-mark-all-nodes)
 * [Validate binary tree nodes](../Solutions/V/validate-binary-tree-nodes)
+* [Web crawler](../Solutions/W/web-crawler)
 
 ### <a id="colouring">Colouring</a>
 * [Is graph bipartite](../Solutions/I/is-graph-bipartite)
