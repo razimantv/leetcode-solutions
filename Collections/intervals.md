@@ -49,6 +49,7 @@
 * [Interval list intersections](../Solutions/I/interval-list-intersections)
 * [Maximum frequency of an element after performing operations i](../Solutions/M/maximum-frequency-of-an-element-after-performing-operations-i)
 * [Maximum frequency of an element after performing operations ii](../Solutions/M/maximum-frequency-of-an-element-after-performing-operations-ii)
+* [Maximum number of non overlapping substrings](../Solutions/M/maximum-number-of-non-overlapping-substrings)
 * [Minimum time to complete all tasks](../Solutions/M/minimum-time-to-complete-all-tasks)
 * [My calendar ii](../Solutions/M/my-calendar-ii)
 * [My calendar iii](../Solutions/M/my-calendar-iii)

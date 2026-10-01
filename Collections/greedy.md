@@ -92,6 +92,7 @@
 * [Maximum number of groups entering a competition](../Solutions/M/maximum-number-of-groups-entering-a-competition)
 * [Maximum number of groups with increasing length](../Solutions/M/maximum-number-of-groups-with-increasing-length)
 * [Maximum number of integers to choose from a range i](../Solutions/M/maximum-number-of-integers-to-choose-from-a-range-i)
+* [Maximum number of non overlapping substrings](../Solutions/M/maximum-number-of-non-overlapping-substrings)
 * [Maximum number of tasks you can assign](../Solutions/M/maximum-number-of-tasks-you-can-assign)
 * [Maximum odd binary number](../Solutions/M/maximum-odd-binary-number)
 * [Maximum palindromes after operations](../Solutions/M/maximum-palindromes-after-operations)

@@ -23,6 +23,7 @@
 * [Map of highest peak](../Solutions/M/map-of-highest-peak)
 * [Maximum level sum of a binary tree](../Solutions/M/maximum-level-sum-of-a-binary-tree)
 * [Maximum number of moves to kill all pawns](../Solutions/M/maximum-number-of-moves-to-kill-all-pawns)
+* [Maximum number of non overlapping substrings](../Solutions/M/maximum-number-of-non-overlapping-substrings)
 * [Minimum genetic mutation](../Solutions/M/minimum-genetic-mutation)
 * [Minimum moves to capture the queen](../Solutions/M/minimum-moves-to-capture-the-queen)
 * [Minimum moves to clean the classroom](../Solutions/M/minimum-moves-to-clean-the-classroom)
