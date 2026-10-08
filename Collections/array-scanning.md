@@ -36,6 +36,7 @@
 * [Partition array according to given pivot](../Solutions/P/partition-array-according-to-given-pivot)
 * [Reach end of array with max score](../Solutions/R/reach-end-of-array-with-max-score)
 * [Remove colored pieces if both neighbors are the same color](../Solutions/R/remove-colored-pieces-if-both-neighbors-are-the-same-color)
+* [Remove outermost parentheses](../Solutions/R/remove-outermost-parentheses)
 * [Separate black and white balls](../Solutions/S/separate-black-and-white-balls)
 * [Smallest missing integer greater than sequential prefix sum](../Solutions/S/smallest-missing-integer-greater-than-sequential-prefix-sum)
 * [Sum of absolute differences in a sorted array](../Solutions/S/sum-of-absolute-differences-in-a-sorted-array)
