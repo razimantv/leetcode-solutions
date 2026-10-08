@@ -42,6 +42,7 @@
 * [Design graph with shortest path calculator](../Solutions/D/design-graph-with-shortest-path-calculator)
 * [Digit operations to make two integers equal](../Solutions/D/digit-operations-to-make-two-integers-equal)
 * [Minimum cost of a path with special roads](../Solutions/M/minimum-cost-of-a-path-with-special-roads)
+* [Minimum cost to reach city with discounts](../Solutions/M/minimum-cost-to-reach-city-with-discounts)
 * [Minimum time to visit a cell in a grid](../Solutions/M/minimum-time-to-visit-a-cell-in-a-grid)
 * [Modify graph edge weights](../Solutions/M/modify-graph-edge-weights)
 * [Network delay time](../Solutions/N/network-delay-time)
@@ -107,4 +108,5 @@
 * [Find x sum of all k long subarrays ii](../Solutions/F/find-x-sum-of-all-k-long-subarrays-ii)
 * [K th nearest obstacle queries](../Solutions/K/k-th-nearest-obstacle-queries)
 * [Minimum cost path with edge reversals](../Solutions/M/minimum-cost-path-with-edge-reversals)
+* [Minimum cost to reach city with discounts](../Solutions/M/minimum-cost-to-reach-city-with-discounts)
 * [Minimum pair removal to sort array ii](../Solutions/M/minimum-pair-removal-to-sort-array-ii)
