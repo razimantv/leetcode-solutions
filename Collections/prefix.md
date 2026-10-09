@@ -163,6 +163,7 @@
 ### <a id="valid-brackets">Valid brackets</a>
 * [Maximum nesting depth of the parentheses](../Solutions/M/maximum-nesting-depth-of-the-parentheses)
 * [Minimum add to make parentheses valid](../Solutions/M/minimum-add-to-make-parentheses-valid)
+* [Minimum insertions to balance a parentheses string](../Solutions/M/minimum-insertions-to-balance-a-parentheses-string)
 * [Minimum number of swaps to make the string balanced](../Solutions/M/minimum-number-of-swaps-to-make-the-string-balanced)
 * [Minimum remove to make valid parentheses](../Solutions/M/minimum-remove-to-make-valid-parentheses)
 * [Remove invalid parentheses](../Solutions/R/remove-invalid-parentheses)

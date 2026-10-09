@@ -132,6 +132,7 @@
 * [Minimum equal sum of two arrays after replacing zeros](../Solutions/M/minimum-equal-sum-of-two-arrays-after-replacing-zeros)
 * [Minimum increment to make array unique](../Solutions/M/minimum-increment-to-make-array-unique)
 * [Minimum initial energy to finish tasks](../Solutions/M/minimum-initial-energy-to-finish-tasks)
+* [Minimum insertions to balance a parentheses string](../Solutions/M/minimum-insertions-to-balance-a-parentheses-string)
 * [Minimum levels to gain more points](../Solutions/M/minimum-levels-to-gain-more-points)
 * [Minimum money required before transactions](../Solutions/M/minimum-money-required-before-transactions)
 * [Minimum number of arrows to burst balloons](../Solutions/M/minimum-number-of-arrows-to-burst-balloons)
