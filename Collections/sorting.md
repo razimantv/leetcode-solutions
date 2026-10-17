@@ -67,6 +67,7 @@
 * [Minimum number of arrows to burst balloons](../Solutions/M/minimum-number-of-arrows-to-burst-balloons)
 * [Minimum number of taps to open to water a garden](../Solutions/M/minimum-number-of-taps-to-open-to-water-a-garden)
 * [Minimum sum of squared difference](../Solutions/M/minimum-sum-of-squared-difference)
+* [Minimum swaps to sort by digit sum](../Solutions/M/minimum-swaps-to-sort-by-digit-sum)
 * [Next greater element iv](../Solutions/N/next-greater-element-iv)
 * [Non overlapping intervals](../Solutions/N/non-overlapping-intervals)
 * [Relative sort array](../Solutions/R/relative-sort-array)

@@ -8,6 +8,7 @@
 * [Minimize hamming distance after swap operations](../Solutions/M/minimize-hamming-distance-after-swap-operations)
 * [Minimum number of operations to reinitialize a permutation](../Solutions/M/minimum-number-of-operations-to-reinitialize-a-permutation)
 * [Minimum number of operations to sort a binary tree by level](../Solutions/M/minimum-number-of-operations-to-sort-a-binary-tree-by-level)
+* [Minimum swaps to sort by digit sum](../Solutions/M/minimum-swaps-to-sort-by-digit-sum)
 
 ## <a id="inverse">Inverse</a>
 * [Build a matrix with conditions](../Solutions/B/build-a-matrix-with-conditions)
