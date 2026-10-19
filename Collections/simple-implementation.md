@@ -83,6 +83,7 @@
 * [Find numbers with even number of digits](../Solutions/F/find-numbers-with-even-number-of-digits)
 * [Find occurrences of an element in an array](../Solutions/F/find-occurrences-of-an-element-in-an-array)
 * [Find subarrays with equal sum](../Solutions/F/find-subarrays-with-equal-sum)
+* [Find target indices after sorting array](../Solutions/F/find-target-indices-after-sorting-array)
 * [Find the array concatenation value](../Solutions/F/find-the-array-concatenation-value)
 * [Find the distance value between two arrays](../Solutions/F/find-the-distance-value-between-two-arrays)
 * [Find the encrypted string](../Solutions/F/find-the-encrypted-string)
