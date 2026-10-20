@@ -275,6 +275,7 @@
 * [Largest divisible subset](../Solutions/L/largest-divisible-subset)
 * [Minimum length of anagram concatenation](../Solutions/M/minimum-length-of-anagram-concatenation)
 * [Smallest value after replacing with sum of prime factors](../Solutions/S/smallest-value-after-replacing-with-sum-of-prime-factors)
+* [Sum of sortable integers](../Solutions/S/sum-of-sortable-integers)
 
 ### <a id="gcd-lcm">GCD/LCM</a>
 * [Count connected components in lcm graph](../Solutions/C/count-connected-components-in-lcm-graph)

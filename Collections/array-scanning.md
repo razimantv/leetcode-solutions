@@ -40,6 +40,7 @@
 * [Separate black and white balls](../Solutions/S/separate-black-and-white-balls)
 * [Smallest missing integer greater than sequential prefix sum](../Solutions/S/smallest-missing-integer-greater-than-sequential-prefix-sum)
 * [Sum of absolute differences in a sorted array](../Solutions/S/sum-of-absolute-differences-in-a-sorted-array)
+* [Sum of sortable integers](../Solutions/S/sum-of-sortable-integers)
 * [The employee that worked on the longest task](../Solutions/T/the-employee-that-worked-on-the-longest-task)
 
 ## <a id="contiguous-region">Contiguous region</a>
