@@ -30,6 +30,7 @@
 * [Minimum deletions to make string balanced](../Solutions/M/minimum-deletions-to-make-string-balanced)
 * [Minimum number of swaps to make the string balanced](../Solutions/M/minimum-number-of-swaps-to-make-the-string-balanced)
 * [Minimum operations to maximize last elements in arrays](../Solutions/M/minimum-operations-to-maximize-last-elements-in-arrays)
+* [Minimum operations to sort a permutation](../Solutions/M/minimum-operations-to-sort-a-permutation)
 * [Minimum right shifts to sort the array](../Solutions/M/minimum-right-shifts-to-sort-the-array)
 * [Monotonic array](../Solutions/M/monotonic-array)
 * [Number of laser beams in a bank](../Solutions/N/number-of-laser-beams-in-a-bank)
