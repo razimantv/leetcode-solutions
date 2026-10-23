@@ -32,6 +32,7 @@
 ## <a id="swaps">Swaps</a>
 * [Check if strings can be made equal with operations ii](../Solutions/C/check-if-strings-can-be-made-equal-with-operations-ii)
 * [Make lexicographically smallest array by swapping elements](../Solutions/M/make-lexicographically-smallest-array-by-swapping-elements)
+* [Maximum k to sort a permutation](../Solutions/M/maximum-k-to-sort-a-permutation)
 * [Orderly queue](../Solutions/O/orderly-queue)
 * [Semi ordered permutation](../Solutions/S/semi-ordered-permutation)
 

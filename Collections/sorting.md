@@ -17,6 +17,7 @@
 * [Maximize area of square hole in grid](../Solutions/M/maximize-area-of-square-hole-in-grid)
 * [Maximum area of a piece of cake after horizontal and vertical cuts](../Solutions/M/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts)
 * [Maximum gap](../Solutions/M/maximum-gap)
+* [Maximum k to sort a permutation](../Solutions/M/maximum-k-to-sort-a-permutation)
 * [Maximum star sum of a graph](../Solutions/M/maximum-star-sum-of-a-graph)
 * [Minimum absolute difference](../Solutions/M/minimum-absolute-difference)
 * [Minimum number of operations to make array continuous](../Solutions/M/minimum-number-of-operations-to-make-array-continuous)
