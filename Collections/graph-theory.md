@@ -131,6 +131,7 @@
 * [Possible bipartition](../Solutions/P/possible-bipartition)
 
 ### <a id="component-decomposition">Component decomposition</a>
+* [Count islands with total value divisible by k](../Solutions/C/count-islands-with-total-value-divisible-by-k)
 * [Count the number of complete components](../Solutions/C/count-the-number-of-complete-components)
 * [Count unreachable pairs of nodes in an undirected graph](../Solutions/C/count-unreachable-pairs-of-nodes-in-an-undirected-graph)
 * [Divide nodes into the maximum number of groups](../Solutions/D/divide-nodes-into-the-maximum-number-of-groups)
@@ -141,6 +142,7 @@
 * [Number of provinces](../Solutions/N/number-of-provinces)
 
 ### <a id="flood-fill">Flood fill</a>
+* [Count islands with total value divisible by k](../Solutions/C/count-islands-with-total-value-divisible-by-k)
 * [Count sub islands](../Solutions/C/count-sub-islands)
 * [Flood fill](../Solutions/F/flood-fill)
 * [Making a large island](../Solutions/M/making-a-large-island)
