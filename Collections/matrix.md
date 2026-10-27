@@ -34,6 +34,7 @@
 ## <a id="path">Path</a>
 * [Check if there is a valid path in a grid](../Solutions/C/check-if-there-is-a-valid-path-in-a-grid)
 * [Count paths with the given xor value](../Solutions/C/count-paths-with-the-given-xor-value)
+* [Create grid with exactly one path](../Solutions/C/create-grid-with-exactly-one-path)
 * [Disconnect path in a binary matrix by at most one flip](../Solutions/D/disconnect-path-in-a-binary-matrix-by-at-most-one-flip)
 * [Dungeon game](../Solutions/D/dungeon-game)
 * [Find minimum time to reach last room i](../Solutions/F/find-minimum-time-to-reach-last-room-i)
