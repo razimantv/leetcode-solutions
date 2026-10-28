@@ -116,6 +116,7 @@
 * [Minimum pair removal to sort array ii](../Solutions/M/minimum-pair-removal-to-sort-array-ii)
 * [Minimum rounds to complete all tasks](../Solutions/M/minimum-rounds-to-complete-all-tasks)
 * [Minimum total cost to make arrays unequal](../Solutions/M/minimum-total-cost-to-make-arrays-unequal)
+* [Minimum xor path in a grid](../Solutions/M/minimum-xor-path-in-a-grid)
 * [Most frequent even element](../Solutions/M/most-frequent-even-element)
 * [Most popular video creator](../Solutions/M/most-popular-video-creator)
 * [Number of atoms](../Solutions/N/number-of-atoms)

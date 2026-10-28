@@ -49,6 +49,7 @@
 * [Minimum falling path sum](../Solutions/M/minimum-falling-path-sum)
 * [Minimum falling path sum ii](../Solutions/M/minimum-falling-path-sum-ii)
 * [Minimum path sum](../Solutions/M/minimum-path-sum)
+* [Minimum xor path in a grid](../Solutions/M/minimum-xor-path-in-a-grid)
 * [Most frequent prime](../Solutions/M/most-frequent-prime)
 * [Number of paths with max score](../Solutions/N/number-of-paths-with-max-score)
 * [Path with maximum gold](../Solutions/P/path-with-maximum-gold)

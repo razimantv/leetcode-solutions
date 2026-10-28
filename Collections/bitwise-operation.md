@@ -57,6 +57,7 @@
 * [Minimum operations to make the integer zero](../Solutions/M/minimum-operations-to-make-the-integer-zero)
 * [Minimum operations to reduce an integer to 0](../Solutions/M/minimum-operations-to-reduce-an-integer-to-0)
 * [Minimum sum of values by dividing array](../Solutions/M/minimum-sum-of-values-by-dividing-array)
+* [Minimum xor path in a grid](../Solutions/M/minimum-xor-path-in-a-grid)
 * [Minimum xor sum of two arrays](../Solutions/M/minimum-xor-sum-of-two-arrays)
 * [Missing number](../Solutions/M/missing-number)
 * [Non decreasing subsequences](../Solutions/N/non-decreasing-subsequences)
