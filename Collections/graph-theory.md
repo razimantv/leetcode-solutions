@@ -156,6 +156,9 @@
 ### <a id="iterative">Iterative</a>
 * [Find eventual safe states](../Solutions/F/find-eventual-safe-states)
 
+### <a id="numbering">Numbering</a>
+* [Palindromic path queries in a tree](../Solutions/P/palindromic-path-queries-in-a-tree)
+
 ### <a id="tree-diameter">Tree diameter</a>
 * [Find minimum diameter after merging two trees](../Solutions/F/find-minimum-diameter-after-merging-two-trees)
 * [Minimum height trees](../Solutions/M/minimum-height-trees)
@@ -211,6 +214,7 @@
 ## <a id="lowest-common-ancestor">Lowest common ancestor</a>
 * [Minimum edge weight equilibrium queries in a tree](../Solutions/M/minimum-edge-weight-equilibrium-queries-in-a-tree)
 * [Number of ways to assign edge weights ii](../Solutions/N/number-of-ways-to-assign-edge-weights-ii) ⭐ 
+* [Palindromic path queries in a tree](../Solutions/P/palindromic-path-queries-in-a-tree)
 * [Step by step directions from a binary tree node to another](../Solutions/S/step-by-step-directions-from-a-binary-tree-node-to-another)
 
 ## <a id="minimum-spanning-tree">Minimum spanning tree</a>

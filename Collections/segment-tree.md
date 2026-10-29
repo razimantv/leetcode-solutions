@@ -28,6 +28,7 @@
 * [Minimum sum of values by dividing array](../Solutions/M/minimum-sum-of-values-by-dividing-array)
 * [Next greater element iv](../Solutions/N/next-greater-element-iv)
 * [Number of pairs satisfying inequality](../Solutions/N/number-of-pairs-satisfying-inequality)
+* [Palindromic path queries in a tree](../Solutions/P/palindromic-path-queries-in-a-tree)
 * [Peaks in array](../Solutions/P/peaks-in-array)
 * [Range sum query mutable](../Solutions/R/range-sum-query-mutable)
 * [Trionic array ii](../Solutions/T/trionic-array-ii)

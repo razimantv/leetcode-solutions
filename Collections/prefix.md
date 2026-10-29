@@ -7,6 +7,7 @@
 * [Maximum or](../Solutions/M/maximum-or)
 * [Minimum number of k consecutive bit flips](../Solutions/M/minimum-number-of-k-consecutive-bit-flips)
 * [Number of wonderful substrings](../Solutions/N/number-of-wonderful-substrings)
+* [Palindromic path queries in a tree](../Solutions/P/palindromic-path-queries-in-a-tree)
 * [Unique length 3 palindromic subsequences](../Solutions/U/unique-length-3-palindromic-subsequences)
 * [Xor queries of a subarray](../Solutions/X/xor-queries-of-a-subarray)
 

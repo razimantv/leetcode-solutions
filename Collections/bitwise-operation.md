@@ -115,6 +115,7 @@
 * [Minimum number of operations to make array xor equal to k](../Solutions/M/minimum-number-of-operations-to-make-array-xor-equal-to-k)
 * [Neighboring bitwise xor](../Solutions/N/neighboring-bitwise-xor)
 * [Number of wonderful substrings](../Solutions/N/number-of-wonderful-substrings)
+* [Palindromic path queries in a tree](../Solutions/P/palindromic-path-queries-in-a-tree)
 * [Pseudo palindromic paths in a binary tree](../Solutions/P/pseudo-palindromic-paths-in-a-binary-tree)
 * [Substring xor queries](../Solutions/S/substring-xor-queries)
 * [Xor operation in an array](../Solutions/X/xor-operation-in-an-array)
