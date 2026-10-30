@@ -179,6 +179,7 @@
 * [Path with maximum probability](../Solutions/P/path-with-maximum-probability)
 * [Path with minimum effort](../Solutions/P/path-with-minimum-effort)
 * [Reachable nodes in subdivided graph](../Solutions/R/reachable-nodes-in-subdivided-graph)
+* [Shortest path with at most k consecutive identical characters](../Solutions/S/shortest-path-with-at-most-k-consecutive-identical-characters)
 
 ### <a id="forward-and-backward">Forward and backward</a>
 * [Find edges in shortest paths](../Solutions/F/find-edges-in-shortest-paths)

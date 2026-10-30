@@ -79,6 +79,7 @@
 * [Find x sum of all k long subarrays i](../Solutions/F/find-x-sum-of-all-k-long-subarrays-i)
 * [Find x sum of all k long subarrays ii](../Solutions/F/find-x-sum-of-all-k-long-subarrays-ii)
 * [Minimum cost path with edge reversals](../Solutions/M/minimum-cost-path-with-edge-reversals)
+* [Shortest path with at most k consecutive identical characters](../Solutions/S/shortest-path-with-at-most-k-consecutive-identical-characters)
 
 ## <a id="key-update-using-insert-and-remove-on-c---set">Key update using insert and remove on C++ set</a>
 * [Count zero request servers](../Solutions/C/count-zero-request-servers)
@@ -110,3 +111,4 @@
 * [Minimum cost path with edge reversals](../Solutions/M/minimum-cost-path-with-edge-reversals)
 * [Minimum cost to reach city with discounts](../Solutions/M/minimum-cost-to-reach-city-with-discounts)
 * [Minimum pair removal to sort array ii](../Solutions/M/minimum-pair-removal-to-sort-array-ii)
+* [Shortest path with at most k consecutive identical characters](../Solutions/S/shortest-path-with-at-most-k-consecutive-identical-characters)
