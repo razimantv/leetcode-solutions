@@ -350,6 +350,7 @@
 * [Shortest common supersequence](../Solutions/S/shortest-common-supersequence)
 * [Stone game v](../Solutions/S/stone-game-v)
 * [Total waviness of numbers in range ii](../Solutions/T/total-waviness-of-numbers-in-range-ii)
+* [Twisted mirror path count](../Solutions/T/twisted-mirror-path-count)
 
 ## <a id="monotonic-stack-deque">Monotonic stack/deque</a>
 * [Find maximum non decreasing array length](../Solutions/F/find-maximum-non-decreasing-array-length)

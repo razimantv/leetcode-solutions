@@ -138,6 +138,7 @@
 * [The number of beautiful subsets](../Solutions/T/the-number-of-beautiful-subsets)
 * [Total waviness of numbers in range ii](../Solutions/T/total-waviness-of-numbers-in-range-ii)
 * [Tuple with same product](../Solutions/T/tuple-with-same-product)
+* [Twisted mirror path count](../Solutions/T/twisted-mirror-path-count)
 * [Ways to split array into good subarrays](../Solutions/W/ways-to-split-array-into-good-subarrays)
 
 ### <a id="inclusion-exclusion">Inclusion-exclusion</a>

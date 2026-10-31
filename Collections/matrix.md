@@ -54,6 +54,7 @@
 * [Number of paths with max score](../Solutions/N/number-of-paths-with-max-score)
 * [Path with maximum gold](../Solutions/P/path-with-maximum-gold)
 * [Paths in matrix whose sum is divisible by k](../Solutions/P/paths-in-matrix-whose-sum-is-divisible-by-k)
+* [Twisted mirror path count](../Solutions/T/twisted-mirror-path-count)
 * [Where will the ball fall](../Solutions/W/where-will-the-ball-fall)
 
 ## <a id="prefix">Prefix</a>
