@@ -20,6 +20,7 @@
 * [Maximum k to sort a permutation](../Solutions/M/maximum-k-to-sort-a-permutation)
 * [Maximum star sum of a graph](../Solutions/M/maximum-star-sum-of-a-graph)
 * [Minimum absolute difference](../Solutions/M/minimum-absolute-difference)
+* [Minimum moves to equal array elements](../Solutions/M/minimum-moves-to-equal-array-elements)
 * [Minimum number of operations to make array continuous](../Solutions/M/minimum-number-of-operations-to-make-array-continuous)
 * [Minimum number of operations to make arrays similar](../Solutions/M/minimum-number-of-operations-to-make-arrays-similar)
 * [Minimum operations to make a uni value grid](../Solutions/M/minimum-operations-to-make-a-uni-value-grid)
