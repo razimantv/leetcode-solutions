@@ -71,6 +71,7 @@
 * [Find x sum of all k long subarrays i](../Solutions/F/find-x-sum-of-all-k-long-subarrays-i)
 * [Find x sum of all k long subarrays ii](../Solutions/F/find-x-sum-of-all-k-long-subarrays-ii)
 * [Finding mk average](../Solutions/F/finding-mk-average)
+* [Minimum operations to make elements within k subarrays equal](../Solutions/M/minimum-operations-to-make-elements-within-k-subarrays-equal)
 
 ## <a id="key-update-using-insert-and-remove">Key update using insert and remove</a>
 * [Digit operations to make two integers equal](../Solutions/D/digit-operations-to-make-two-integers-equal)
@@ -110,5 +111,6 @@
 * [K th nearest obstacle queries](../Solutions/K/k-th-nearest-obstacle-queries)
 * [Minimum cost path with edge reversals](../Solutions/M/minimum-cost-path-with-edge-reversals)
 * [Minimum cost to reach city with discounts](../Solutions/M/minimum-cost-to-reach-city-with-discounts)
+* [Minimum operations to make elements within k subarrays equal](../Solutions/M/minimum-operations-to-make-elements-within-k-subarrays-equal)
 * [Minimum pair removal to sort array ii](../Solutions/M/minimum-pair-removal-to-sort-array-ii)
 * [Shortest path with at most k consecutive identical characters](../Solutions/S/shortest-path-with-at-most-k-consecutive-identical-characters)

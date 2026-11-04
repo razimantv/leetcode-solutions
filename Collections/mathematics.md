@@ -195,6 +195,7 @@
 * [Apply operations to maximize frequency score](../Solutions/A/apply-operations-to-maximize-frequency-score)
 * [Minimum cost to make array equalindromic](../Solutions/M/minimum-cost-to-make-array-equalindromic)
 * [Minimum operations to make a uni value grid](../Solutions/M/minimum-operations-to-make-a-uni-value-grid)
+* [Minimum operations to make elements within k subarrays equal](../Solutions/M/minimum-operations-to-make-elements-within-k-subarrays-equal)
 * [Minimum operations to make median of array equal to k](../Solutions/M/minimum-operations-to-make-median-of-array-equal-to-k)
 
 ## <a id="number-theory">Number theory</a>

@@ -154,6 +154,7 @@
 * [Minimum number of coins for fruits](../Solutions/M/minimum-number-of-coins-for-fruits)
 * [Minimum number of operations to satisfy conditions](../Solutions/M/minimum-number-of-operations-to-satisfy-conditions)
 * [Minimum number of refueling stops](../Solutions/M/minimum-number-of-refueling-stops)
+* [Minimum operations to make elements within k subarrays equal](../Solutions/M/minimum-operations-to-make-elements-within-k-subarrays-equal)
 * [Minimum path cost in a grid](../Solutions/M/minimum-path-cost-in-a-grid)
 * [Minimum path sum](../Solutions/M/minimum-path-sum)
 * [Minimum skips to arrive at meeting on time](../Solutions/M/minimum-skips-to-arrive-at-meeting-on-time)
