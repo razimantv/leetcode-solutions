@@ -3,13 +3,13 @@
 class Solution {
  public:
   vector<int> assignTasks(vector<int>& servers, vector<int>& tasks) {
-    set<pair<int, int>> free, eventT, eventS;
+    set<pair<long long, int>> free, eventT, eventS;
     for (int i = 0, n = servers.size(); i < n; ++i)
       free.insert({servers[i], i});
     for (int i = 0, n = tasks.size(); i < n; ++i) eventT.insert({i, i});
 
     vector<int> ret(tasks.size());
-    int T = 0;
+    long long T = 0;
     while (!eventT.empty()) {
       T = max(T, eventT.begin()->first);
       if (!eventS.empty() and eventS.begin()->first <= T) {
