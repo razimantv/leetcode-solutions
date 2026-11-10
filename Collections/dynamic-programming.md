@@ -322,6 +322,7 @@
 * [24 game](../Solutions/0-9/24-game)
 * [All ancestors of a node in a directed acyclic graph](../Solutions/A/all-ancestors-of-a-node-in-a-directed-acyclic-graph)
 * [Build array where you can find the maximum exactly k comparisons](../Solutions/B/build-array-where-you-can-find-the-maximum-exactly-k-comparisons)
+* [Climbing stairs ii](../Solutions/C/climbing-stairs-ii)
 * [Combination sum iv](../Solutions/C/combination-sum-iv)
 * [Count number of balanced permutations](../Solutions/C/count-number-of-balanced-permutations)
 * [Course schedule iv](../Solutions/C/course-schedule-iv)
