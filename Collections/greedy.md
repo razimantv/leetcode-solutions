@@ -124,6 +124,7 @@
 * [Minimum cost for cutting cake i](../Solutions/M/minimum-cost-for-cutting-cake-i)
 * [Minimum cost for cutting cake ii](../Solutions/M/minimum-cost-for-cutting-cake-ii)
 * [Minimum cost of buying candies with discount](../Solutions/M/minimum-cost-of-buying-candies-with-discount)
+* [Minimum cost to acquire required items](../Solutions/M/minimum-cost-to-acquire-required-items)
 * [Minimum cost to equalize array](../Solutions/M/minimum-cost-to-equalize-array)
 * [Minimum cost to make array equal](../Solutions/M/minimum-cost-to-make-array-equal)
 * [Minimum cost to make arrays identical](../Solutions/M/minimum-cost-to-make-arrays-identical)
